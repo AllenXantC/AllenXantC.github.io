@@ -151,6 +151,73 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://example.com/2023/05/02/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="XantC">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XantC的博客">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2023/05/02/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/" class="post-title-link" itemprop="url">计算人物移动距离</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2023-05-02 10:01:48 / 修改时间：10:12:05" itemprop="dateCreated datePublished" datetime="2023-05-02T10:01:48+08:00">2023-05-02</time>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p><b> <p align = "right"> XantC </p> </b></p>
+<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
+<p>先定义一个累积经过距离的变量。</p>
+<figure class="highlight cs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
+
+<p>然后是移动函数。</p>
+<figure class="highlight cs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
     <link itemprop="mainEntityOfPage" href="https://example.com/2023/04/30/%E5%BE%85%E5%AE%9A/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -244,10 +311,16 @@
                 <i class="far fa-calendar"></i>
               </span>
               <span class="post-meta-item-text">发表于</span>
-              
 
-              <time title="创建时间：2023-04-30 20:51:36 / 修改时间：21:38:30" itemprop="dateCreated datePublished" datetime="2023-04-30T20:51:36+08:00">2023-04-30</time>
+              <time title="创建时间：2023-04-30 20:51:36" itemprop="dateCreated datePublished" datetime="2023-04-30T20:51:36+08:00">2023-04-30</time>
             </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2023-05-02 10:12:21" itemprop="dateModified" datetime="2023-05-02T10:12:21+08:00">2023-05-02</time>
+              </span>
 
           
 
@@ -260,7 +333,7 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <h2 id="《孤独的人是可耻的》听后感"><a href="#《孤独的人是可耻的》听后感" class="headerlink" title=" 《孤独的人是可耻的》听后感"></a><center> <strong>《孤独的人是可耻的》听后感</strong></h2><p><b> <p align = "right"> XantC </p> </b></p>
+          <p><b> <p align = "right"> XantC </p> </b></p>
 <h3 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a><strong>基本信息</strong></h3><p>发行于1994年，张楚第二张个人专辑。</p>
 <h3 id="曲目表"><a href="#曲目表" class="headerlink" title="曲目表"></a><strong>曲目表</strong></h3><ol>
 <li>《上苍保佑吃完了饭的人民》</li>
@@ -274,7 +347,7 @@
 <li>《厕所和床》</li>
 <li>《光明大道》</li>
 </ol>
-<h3 id="人道主义关怀"><a href="#人道主义关怀" class="headerlink" title="人道主义关怀"></a><strong>人道主义关怀</strong></h3><p>《孤独的人是可耻的》是我个人最喜欢的中国摇滚乐专辑之一。语言诗意，饱含隐喻和新意的文字搭配；张楚情感真挚，旋律飘忽不定，高音信手拈来。这些都促成了张楚独特的民谣摇滚。</p>
+<h3 id="人道主义关怀"><a href="#人道主义关怀" class="headerlink" title="人道主义关怀"></a><strong>人道主义关怀</strong></h3><p>《孤独的人是可耻的》是我最喜欢的中国摇滚乐专辑之一。语言诗意，饱含隐喻和新意的文字搭配；张楚情感真挚，旋律飘忽不定，高音信手拈来。这些都促成了张楚独特的民谣摇滚。</p>
 <p>这张专辑讲的是平凡人的无力与奋斗。（展开讲：分有农村和城市，本质一样。最温暖的两首放在了一头一尾。）</p>
 <h4 id="“吸读”的妙手"><a href="#“吸读”的妙手" class="headerlink" title="“吸读”的妙手"></a><strong>“吸读”的妙手</strong></h4><p>标题让人看不出写的啥&#x2F;跟主旨相反。新奇的句子。</p>
 
@@ -327,7 +400,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2023-04-30 21:37:05" itemprop="dateModified" datetime="2023-04-30T21:37:05+08:00">2023-04-30</time>
+                <time title="修改时间：2023-05-02 10:12:22" itemprop="dateModified" datetime="2023-05-02T10:12:22+08:00">2023-05-02</time>
               </span>
 
           
@@ -341,7 +414,7 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <h2 id="《黑梦》听后感"><a href="#《黑梦》听后感" class="headerlink" title=" 《黑梦》听后感"></a><center> <strong>《黑梦》听后感</strong></h2><p><b> <p align = "right"> XantC </p> </b></p>
+          <p><b> <p align = "right"> XantC </p> </b></p>
 <h3 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a><strong>基本信息</strong></h3><p>发行于1994年，窦唯第一张个人专辑，中国摇滚乐第一张另类专辑。</p>
 <h3 id="曲目表"><a href="#曲目表" class="headerlink" title="曲目表"></a><strong>曲目表</strong></h3><ol>
 <li>《明天更漫长》</li>
@@ -633,14 +706,14 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">5</span>
+          <span class="site-state-item-count">6</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-count">5</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
