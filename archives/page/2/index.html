@@ -369,7 +369,7 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
     new Valine({
       el         : '#valine-comments',
       verify     : false,
-      notify     : false,
+      notify     : true,
       appId      : 'Q6mAPRCbpHpdmt9U504yK7np-MdYXbMMI',
       appKey     : '9D7MlTGvWb3a1HrwyTF5ZNDS',
       placeholder: "你所热爱的 就是你的生活",
@@ -380,7 +380,7 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
       lang       : 'zh-CN' || 'zh-cn',
       path       : location.pathname,
       recordIP   : false,
-      serverURLs : ''
+      serverURLs : 'https://q6maprcb.api.lncldglobal.com'
     });
   }, window.Valine);
 });
