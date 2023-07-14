@@ -203,6 +203,39 @@
       </tags>
   </entry>
   <entry>
+    <title>狂人</title>
+    <url>/2023/06/09/%E7%8B%82%E4%BA%BA/</url>
+    <content><![CDATA[<p><b> <p align = "right"> XantC </p> </b></p>
+<p><b> <big> <center></p>
+<p>我是个觉醒的狂人 但不是鲁迅写的那个</p>
+<p>因为我和很多其他的狂人在一起</p>
+<p>找到了志同道合的知音总是甜蜜的 所以这是个美好的集体</p>
+<hr>
+<p>我既然已经觉醒了 那就会每晚花时间思考东西</p>
+<p>比如像糖醋里脊 和那飘荡的红旗</p>
+<p>想着想着 想明白了个人和集体</p>
+<p>我赶紧找到了一个狂人兄弟分享感情</p>
+<hr>
+<p>我跟他讲 “个人和集体需要平衡”</p>
+<p>他皱了皱眉头 斜着看了我一眼</p>
+<p>“你扯的什么玩意 集体算个屁呀”</p>
+<p>“你是不是被风吹傻了”</p>
+<hr>
+<p>我想往下解释 却又被他制止</p>
+<p>我好像成了个狂人了</p>
+<p>他摇摇头站起身子 往酒吧里走</p>
+<p>我好像真的成了个狂人了</p>
+<hr>
+<p>我是个觉醒的狂人</p>
+<p>我是个觉醒的狂人</p>
+<p><b> <p align = "right"> 作于2023年6月</p> </b></p>
+<p></b> </big> </center></p>
+]]></content>
+      <tags>
+        <tag>文艺</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>牢骚</title>
     <url>/2023/06/15/%E7%89%A2%E9%AA%9A/</url>
     <content><![CDATA[<p><b> <p align = "right"> XantC </p> </b></p>
@@ -240,36 +273,20 @@
       </tags>
   </entry>
   <entry>
-    <title>狂人</title>
-    <url>/2023/06/09/%E7%8B%82%E4%BA%BA/</url>
+    <title>计算人物移动距离</title>
+    <url>/2023/05/02/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
     <content><![CDATA[<p><b> <p align = "right"> XantC </p> </b></p>
-<p><b> <big> <center></p>
-<p>我是个觉醒的狂人 但不是鲁迅写的那个</p>
-<p>因为我和很多其他的狂人在一起</p>
-<p>找到了志同道合的知音总是甜蜜的 所以这是个美好的集体</p>
-<hr>
-<p>我既然已经觉醒了 那就会每晚花时间思考东西</p>
-<p>比如像糖醋里脊 和那飘荡的红旗</p>
-<p>想着想着 想明白了个人和集体</p>
-<p>我赶紧找到了一个狂人兄弟分享感情</p>
-<hr>
-<p>我跟他讲 “个人和集体需要平衡”</p>
-<p>他皱了皱眉头 斜着看了我一眼</p>
-<p>“你扯的什么玩意 集体算个屁呀”</p>
-<p>“你是不是被风吹傻了”</p>
-<hr>
-<p>我想往下解释 却又被他制止</p>
-<p>我好像成了个狂人了</p>
-<p>他摇摇头站起身子 往酒吧里走</p>
-<p>我好像真的成了个狂人了</p>
-<hr>
-<p>我是个觉醒的狂人</p>
-<p>我是个觉醒的狂人</p>
-<p><b> <p align = "right"> 作于2023年6月</p> </b></p>
-<p></b> </big> </center></p>
+<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
+<p>先定义一个累积经过距离的变量。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
+
+<p>然后是移动函数。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
 ]]></content>
       <tags>
-        <tag>文艺</tag>
+        <tag>Unity2D</tag>
       </tags>
   </entry>
   <entry>
@@ -300,23 +317,6 @@
       <tags>
         <tag>听后感</tag>
         <tag>中国摇滚乐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>计算人物移动距离</title>
-    <url>/2023/05/02/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
-    <content><![CDATA[<p><b> <p align = "right"> XantC </p> </b></p>
-<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
-<p>先定义一个累积经过距离的变量。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
-
-<p>然后是移动函数。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
-]]></content>
-      <tags>
-        <tag>Unity2D</tag>
       </tags>
   </entry>
   <entry>
