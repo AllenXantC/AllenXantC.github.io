@@ -19,12 +19,12 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"allenxantc.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.17.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"style":null,"show_result":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"waline","storage":true,"lazyload":false,"nav":null,"activeClass":"waline"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="XantC   场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。 先定义一个累积经过距离的变量。 1private float chasingDist  然后是移动函数。 12345678910private void Move()&amp;#123;    Vector2 movement;    &#x2F;&#x2F; 这个movement表示人物将要移动的距离，相当于距离的变化量     &#x2F;">
+    <meta name="description" content="XantC   场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。 先定义一个累积经过距离的变量。 1private float chasingDist 然后是移动函数。 12345678910private void Move()&amp;#123;    Vector2 movement;    &#x2F;&#x2F; 这个movement表示人物将要移动的距离，相当于距离的变化量     &#x2F;&#x2F;">
 <meta property="og:type" content="article">
 <meta property="og:title" content="计算人物移动距离">
 <meta property="og:url" content="https://allenxantc.github.io/2023/05/02/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/index.html">
 <meta property="og:site_name" content="XantC的博客">
-<meta property="og:description" content="XantC   场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。 先定义一个累积经过距离的变量。 1private float chasingDist  然后是移动函数。 12345678910private void Move()&amp;#123;    Vector2 movement;    &#x2F;&#x2F; 这个movement表示人物将要移动的距离，相当于距离的变化量     &#x2F;">
+<meta property="og:description" content="XantC   场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。 先定义一个累积经过距离的变量。 1private float chasingDist 然后是移动函数。 12345678910private void Move()&amp;#123;    Vector2 movement;    &#x2F;&#x2F; 这个movement表示人物将要移动的距离，相当于距离的变化量     &#x2F;&#x2F;">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2023-05-02T02:01:48.000Z">
 <meta property="article:modified_time" content="2023-05-02T02:13:29.081Z">
@@ -53,7 +53,9 @@
   <noscript>
     <link rel="stylesheet" href="/css/noscript.css">
   </noscript>
-<style>.darkmode--activated{--body-bg-color:#282828;--content-bg-color:#333;--card-bg-color:#555;--text-color:#ccc;--blockquote-color:#bbb;--link-color:#ccc;--link-hover-color:#eee;--brand-color:#ddd;--brand-hover-color:#ddd;--table-row-odd-bg-color:#282828;--table-row-hover-bg-color:#363636;--menu-item-bg-color:#555;--btn-default-bg:#222;--btn-default-color:#ccc;--btn-default-border-color:#555;--btn-default-hover-bg:#666;--btn-default-hover-color:#ccc;--btn-default-hover-border-color:#666;--highlight-background:#282b2e;--highlight-foreground:#a9b7c6;--highlight-gutter-background:#34393d;--highlight-gutter-foreground:#9ca9b6}.darkmode--activated img{opacity:.75}.darkmode--activated img:hover{opacity:.9}.darkmode--activated code{color:#69dbdc;background:0 0}button.darkmode-toggle{z-index:9999}.darkmode-ignore,img{display:flex!important}.beian img{display:inline-block!important}</style></head>
+<!-- hexo injector head_end start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+<!-- hexo injector head_end end --><style>.darkmode--activated{--body-bg-color:#282828;--content-bg-color:#333;--card-bg-color:#555;--text-color:#ccc;--blockquote-color:#bbb;--link-color:#ccc;--link-hover-color:#eee;--brand-color:#ddd;--brand-hover-color:#ddd;--table-row-odd-bg-color:#282828;--table-row-hover-bg-color:#363636;--menu-item-bg-color:#555;--btn-default-bg:#222;--btn-default-color:#ccc;--btn-default-border-color:#555;--btn-default-hover-bg:#666;--btn-default-hover-color:#ccc;--btn-default-hover-border-color:#666;--highlight-background:#282b2e;--highlight-foreground:#a9b7c6;--highlight-gutter-background:#34393d;--highlight-gutter-foreground:#9ca9b6}.darkmode--activated img{opacity:.75}.darkmode--activated img:hover{opacity:.9}.darkmode--activated code{color:#69dbdc;background:0 0}button.darkmode-toggle{z-index:9999}.darkmode-ignore,img{display:flex!important}.beian img{display:inline-block!important}</style></head>
 
 <body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
   <div class="headband"></div>
@@ -152,13 +154,13 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">17</span>
+          <span class="site-state-item-count">19</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">7</span>
+        <span class="site-state-item-count">9</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -248,10 +250,8 @@
 <p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
 <p>先定义一个累积经过距离的变量。</p>
 <figure class="highlight cs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
-
 <p>然后是移动函数。</p>
 <figure class="highlight cs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
 <p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
 
     </div>
@@ -361,6 +361,12 @@
   
 
 
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","mhchem":false,"js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
 
 
 <script class="next-config" data-name="waline" type="application/json">{"lang":"zh-CN","enable":true,"serverURL":"waline-ten-flax.vercel.app","cssUrl":"https://unpkg.com/@waline/client@v2/dist/waline.css","commentCount":true,"pageview":false,"placeholder":"你所热爱的 就是你的生活","avatar":"mm","meta":["nick","mail"],"pageSize":10,"visitor":false,"comment_count":true,"requiredFields":["nick"],"libUrl":"//unpkg.com/@waline/client@v2/dist/waline.js","el":"#waline","comment":true,"path":"/2023/05/02/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/"}</script>
