@@ -19,29 +19,28 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"allenxantc.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.17.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"style":null,"show_result":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"waline","storage":true,"lazyload":false,"nav":null,"activeClass":"waline"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="XantC   我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run Like Hell”, ”Waiting For The Worms”等等。">
+    <meta name="description" content="XantC   一阶线性微分方程 一般形式 \[ \frac{\mathrm{d}y}{\mathrm{d}x}+Py&#x3D;Q \]">
 <meta property="og:type" content="article">
-<meta property="og:title" content="谈谈迷墙里平克的法西斯式行为">
-<meta property="og:url" content="https://allenxantc.github.io/2023/05/07/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/index.html">
+<meta property="og:title" content="解微分方程">
+<meta property="og:url" content="https://allenxantc.github.io/2023/08/18/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/index.html">
 <meta property="og:site_name" content="XantC的博客">
-<meta property="og:description" content="XantC   我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run Like Hell”, ”Waiting For The Worms”等等。">
+<meta property="og:description" content="XantC   一阶线性微分方程 一般形式 \[ \frac{\mathrm{d}y}{\mathrm{d}x}+Py&#x3D;Q \]">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2023-05-07T09:11:39.000Z">
-<meta property="article:modified_time" content="2023-08-16T13:09:55.401Z">
+<meta property="article:published_time" content="2023-08-18T09:24:39.000Z">
+<meta property="article:modified_time" content="2023-08-18T12:20:49.954Z">
 <meta property="article:author" content="XantC">
-<meta property="article:tag" content="杂谈">
-<meta property="article:tag" content="前卫摇滚">
+<meta property="article:tag" content="数学">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="https://allenxantc.github.io/2023/05/07/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/">
+<link rel="canonical" href="https://allenxantc.github.io/2023/08/18/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/2023/05/07/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/","path":"2023/05/07/迷墙里平克的法西斯式行为/","title":"谈谈迷墙里平克的法西斯式行为"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/2023/08/18/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/","path":"2023/08/18/解微分方程/","title":"解微分方程"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>谈谈迷墙里平克的法西斯式行为 | XantC的博客</title>
+<title>解微分方程 | XantC的博客</title>
   
 
 
@@ -128,7 +127,7 @@
   
   <aside class="sidebar">
 
-    <div class="sidebar-inner sidebar-overview-active">
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
           文章目录
@@ -141,6 +140,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E9%98%B6%E7%BA%BF%E6%80%A7%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B"><span class="nav-number">1.</span> <span class="nav-text">一阶线性微分方程</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E4%B8%80%E8%88%AC%E5%BD%A2%E5%BC%8F"><span class="nav-number">1.1.</span> <span class="nav-text">一般形式</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%B1%82%E8%A7%A3"><span class="nav-number">1.2.</span> <span class="nav-text">求解</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C%E9%98%B6%E7%BA%BF%E6%80%A7%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B"><span class="nav-number">2.</span> <span class="nav-text">二阶线性微分方程</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -189,7 +189,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/2023/05/07/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/">
+    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/2023/08/18/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -202,12 +202,12 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="谈谈迷墙里平克的法西斯式行为 | XantC的博客">
+      <meta itemprop="name" content="解微分方程 | XantC的博客">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          谈谈迷墙里平克的法西斯式行为
+          解微分方程
         </h1>
 
         <div class="post-meta-container">
@@ -217,15 +217,9 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
+      
 
-      <time title="创建时间：2023-05-07 17:11:39" itemprop="dateCreated datePublished" datetime="2023-05-07T17:11:39+08:00">2023-05-07</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2023-08-16 21:09:55" itemprop="dateModified" datetime="2023-08-16T21:09:55+08:00">2023-08-16</time>
+      <time title="创建时间：2023-08-18 17:24:39 / 修改时间：20:20:49" itemprop="dateCreated datePublished" datetime="2023-08-18T17:24:39+08:00">2023-08-18</time>
     </span>
 
   
@@ -237,8 +231,8 @@
     </span>
     <span class="post-meta-item-text">Waline：</span>
   
-    <a title="waline" href="/2023/05/07/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/#waline" itemprop="discussionUrl">
-      <span class="post-comments-count waline-comment-count" data-path="/2023/05/07/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/" itemprop="commentCount"></span>
+    <a title="waline" href="/2023/08/18/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/#waline" itemprop="discussionUrl">
+      <span class="post-comments-count waline-comment-count" data-path="/2023/08/18/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/" itemprop="commentCount"></span>
     </a>
   </span>
   
@@ -256,14 +250,44 @@
 XantC
 </p>
 <p></b></p>
-<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
-Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
-Like Hell”, ”Waiting For The Worms”等等。</p>
+<h3 id="一阶线性微分方程">一阶线性微分方程</h3>
+<h4 id="一般形式">一般形式</h4>
+<p><span class="math display">\[ \frac{\mathrm{d}y}{\mathrm{d}x}+Py=Q
+\]</span></p>
 <span id="more"></span>
-<p>Comfortably
-Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
-The
-Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
+<h4 id="求解">求解</h4>
+<ol type="1">
+<li>可分离变量的微分方程</li>
+</ol>
+<p><span class="math display">\[
+\frac{\mathrm{d}y}{\mathrm{d}x}=f(x)g(y) \]</span> <span
+class="math display">\[ \int\frac{1}{g(y)}\mathrm{d}y=\int
+f(x)\mathrm{d}x+C \]</span></p>
+<ol start="2" type="1">
+<li>通解</li>
+</ol>
+<p><span
+class="math display">\[凑\frac{\mathrm{d}}{\mathrm{d}x}(uv)=u\frac{\mathrm{d}v}{\mathrm{d}x}+v\frac{\mathrm{d}u}{\mathrm{d}x}\]</span></p>
+<p><span class="math display">\[ \frac{\mathrm{d}y}{\mathrm{d}x}+Py=Q
+\tag{1}\]</span></p>
+<p><span class="math display">\[
+f(x)\frac{\mathrm{d}y}{\mathrm{d}x}+f(x)Py=f(x)Q \]</span></p>
+<p><span class="math display">\[ \because
+(f(x)y)^{&#39;}=f(x)y^{&#39;}+f^{&#39;}(x)y \]</span></p>
+<p><span class="math display">\[ \therefore f^{&#39;}(x)=f(x)P
+\]</span></p>
+<p><span class="math display">\[ \therefore f(x)=e^{\int P\mathrm{d}x}
+\tag{2}\]</span></p>
+<p><span class="math display">\[ (2) \to (1) \colon e^{\int
+P\mathrm{d}x}\frac{\mathrm{d}y}{\mathrm{d}x}+e^{\int
+P\mathrm{d}x}Py=e^{\int P\mathrm{d}x}Q \]</span></p>
+<p><span class="math display">\[ (e^{\int
+P\mathrm{d}x}y)^{&#39;}=e^{\int P\mathrm{d}x}Q \]</span></p>
+<p><span class="math display">\[ \therefore e^{\int P\mathrm{d}x}y=\int
+e^{\int P\mathrm{d}x}Qdx \]</span></p>
+<h3 id="二阶线性微分方程">二阶线性微分方程</h3>
+<b>
+<p align = "right">
 
     </div>
 
@@ -281,7 +305,7 @@ Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，�
   </li>
   <li class="post-copyright-link">
       <strong>本文链接：</strong>
-      <a href="https://allenxantc.github.io/2023/05/07/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/" title="谈谈迷墙里平克的法西斯式行为">https://allenxantc.github.io/2023/05/07/迷墙里平克的法西斯式行为/</a>
+      <a href="https://allenxantc.github.io/2023/08/18/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/" title="解微分方程">https://allenxantc.github.io/2023/08/18/解微分方程/</a>
   </li>
   <li class="post-copyright-license">
       <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
@@ -290,21 +314,20 @@ Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，�
 </div>
 
           <div class="post-tags">
-              <a href="/tags/%E6%9D%82%E8%B0%88/" rel="tag"># 杂谈</a>
-              <a href="/tags/%E5%89%8D%E5%8D%AB%E6%91%87%E6%BB%9A/" rel="tag"># 前卫摇滚</a>
+              <a href="/tags/%E6%95%B0%E5%AD%A6/" rel="tag"># 数学</a>
           </div>
 
         
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/2023/05/02/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/" rel="prev" title="计算人物移动距离">
-                  <i class="fa fa-chevron-left"></i> 计算人物移动距离
+                <a href="/2023/08/18/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/" rel="prev" title="三角导数与积分公式">
+                  <i class="fa fa-chevron-left"></i> 三角导数与积分公式
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/2023/05/11/Saxophone-in-2050s/" rel="next" title="Saxophone in 2050s">
-                  Saxophone in 2050s <i class="fa fa-chevron-right"></i>
+                <a href="/2023/08/18/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/" rel="next" title="伽马函数">
+                  伽马函数 <i class="fa fa-chevron-right"></i>
                 </a>
             </div>
           </div>
@@ -377,11 +400,11 @@ Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，�
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","mhchem":true,"js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","mhchem":true,"js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
 <script src="/js/third-party/math/mathjax.js"></script>
 
 
-<script class="next-config" data-name="waline" type="application/json">{"lang":"zh-CN","enable":true,"serverURL":"waline-ten-flax.vercel.app","cssUrl":"https://unpkg.com/@waline/client@v2/dist/waline.css","commentCount":true,"pageview":false,"placeholder":"你所热爱的 就是你的生活","avatar":"mm","meta":["nick","mail"],"pageSize":10,"visitor":false,"comment_count":true,"requiredFields":["nick"],"libUrl":"//unpkg.com/@waline/client@v2/dist/waline.js","el":"#waline","comment":true,"path":"/2023/05/07/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/"}</script>
+<script class="next-config" data-name="waline" type="application/json">{"lang":"zh-CN","enable":true,"serverURL":"waline-ten-flax.vercel.app","cssUrl":"https://unpkg.com/@waline/client@v2/dist/waline.css","commentCount":true,"pageview":false,"placeholder":"你所热爱的 就是你的生活","avatar":"mm","meta":["nick","mail"],"pageSize":10,"visitor":false,"comment_count":true,"requiredFields":["nick"],"libUrl":"//unpkg.com/@waline/client@v2/dist/waline.js","el":"#waline","comment":true,"path":"/2023/08/18/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/"}</script>
 <link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css">
 <script>
 document.addEventListener('page:loaded', () => {
