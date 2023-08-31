@@ -58,9 +58,9 @@ machine.</p>
 <p>如果要出版之类的，署名要写两个人名字（提前去问下gxy）</p>
 </center>
 ]]></content>
-      <tags>
-        <tag>文艺</tag>
-      </tags>
+      <categories>
+        <category>文艺</category>
+      </categories>
   </entry>
   <entry>
     <title>2023.8.1</title>
@@ -82,53 +82,9 @@ XantC
 </b> </big>
 </center>
 ]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Moments</title>
-    <url>/Moments/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>It's all moments, moments.</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>Everything's going too fast,</p>
-<p>Fast like momentary frames in head.</p>
-<p>It's easy to forget what drink had by noon,</p>
-<p>Until tossing and turning at night.</p>
-<hr />
-<p>You don't know what you can do for your family,</p>
-<p>Or your bright desparate future.</p>
-<p>Cause Utopia's just in your hands.</p>
-<p>It flows too fast.</p>
-<hr />
-<p>Hey now tell me what's eternity, happiness or sadness?</p>
-<p>What's contemporary, my life or the human race?</p>
-<p>Oh it's all moments, moments.</p>
-<hr />
-<p>Ian once had something to say,</p>
-<p>So he set a tombstone for himself,</p>
-<p>And it can only be himself.</p>
-<p>His words.</p>
-<b>
-<p align="right">
-作于2023年8月
-</p>
-<p></b></p>
-<b> <big>
-<center>
-]]></content>
-      <tags>
-        <tag>文艺</tag>
-      </tags>
+      <categories>
+        <category>日记</category>
+      </categories>
   </entry>
   <entry>
     <title>Saxophone in 2050s</title>
@@ -206,9 +162,53 @@ nowhere.</p>
 </b> </big>
 </center>
 ]]></content>
-      <tags>
-        <tag>文艺</tag>
-      </tags>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Moments</title>
+    <url>/Moments/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>It's all moments, moments.</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>Everything's going too fast,</p>
+<p>Fast like momentary frames in head.</p>
+<p>It's easy to forget what drink had by noon,</p>
+<p>Until tossing and turning at night.</p>
+<hr />
+<p>You don't know what you can do for your family,</p>
+<p>Or your bright desparate future.</p>
+<p>Cause Utopia's just in your hands.</p>
+<p>It flows too fast.</p>
+<hr />
+<p>Hey now tell me what's eternity, happiness or sadness?</p>
+<p>What's contemporary, my life or the human race?</p>
+<p>Oh it's all moments, moments.</p>
+<hr />
+<p>Ian once had something to say,</p>
+<p>So he set a tombstone for himself,</p>
+<p>And it can only be himself.</p>
+<p>His words.</p>
+<b>
+<p align="right">
+作于2023年8月
+</p>
+<p></b></p>
+<b> <big>
+<center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
   </entry>
   <entry>
     <title>《黑梦》听后感</title>
@@ -250,10 +250,67 @@ XantC
 <p>反观主人公，在“暴政”下他理所当然地感受不到家的温暖，不愿去迁就，但也只敢胆战心惊地反抗。童年教育的影响延续了很久，他自己也变得只会迁就。在无尽的“被迫/接受”下，“无所谓”成了自己最高效的麻醉剂。</p>
 <h4 id="作于2023年4月">作于2023年4月</h4>
 ]]></content>
+      <categories>
+        <category>听后感</category>
+      </categories>
       <tags>
-        <tag>听后感</tag>
         <tag>中国摇滚乐</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>伽马函数</title>
+    <url>/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="公式">公式</h3>
+<p><span class="math display">\[ 令f(x)=x^n \colon \]</span></p>
+<p><span class="math display">\[ \int
+x^n\mathrm{e}^xdx=f(x)\mathrm{e}^x-f^{&#39;}(x)\mathrm{e}^x+f^{&#39;&#39;}(x)\mathrm{e}^x-...+(-1)^{n}f^{(n)}\mathrm{e}^x
+\]</span></p>
+<span id="more"></span>
+<h3 id="证明">证明</h3>
+<ol type="1">
+<li><p>分部积分法</p></li>
+<li><p>数学归纳法</p></li>
+</ol>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>双曲函数</title>
+    <url>/%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="定义">定义</h3>
+<p><span class="math display">\[ \sinh
+x=\frac{\mathrm{e}^x-\mathrm{e}^{-x}}{2} \]</span></p>
+<p><span class="math display">\[ \cosh
+x=\frac{\mathrm{e}^x+\mathrm{e}^{-x}}{2} \]</span></p>
+<span id="more"></span>
+<p><span class="math display">\[ \tanh
+x=\frac{\mathrm{e}^{2x}-1}{\mathrm{e}^{2x}+1} \]</span></p>
+<p><span class="math display">\[ \coth
+x=\frac{\mathrm{e}^{2x}+1}{\mathrm{e}^{2x}-1} \]</span></p>
+<p><span class="math display">\[
+\mathrm{sech}\:x=\frac{2}{\mathrm{e}^x+\mathrm{e}^{-x}} \]</span></p>
+<p><span class="math display">\[
+\mathrm{csch}\:x=\frac{2}{\mathrm{e}^x-\mathrm{e}^{-x}} \]</span></p>
+<h3 id="为什么叫双曲">为什么叫双曲？</h3>
+<p><span class="math display">\[ \cosh^2x-\sinh^2x=1 \]</span></p>
+<p><span class="math display">\[ \therefore (\cosh x, \sinh
+x)的轨迹是一条双曲线 \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
   </entry>
   <entry>
     <title>三角导数与积分公式</title>
@@ -287,71 +344,9 @@ x|+\mathrm{C} \]</span></p>
 <p><span class="math display">\[ \int \csc xdx=-ln|\csc x+\cot
 x|+\mathrm{C} \]</span></p>
 ]]></content>
-      <tags>
-        <tag>数学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>伽马函数</title>
-    <url>/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="公式">公式</h3>
-<p><span class="math display">\[ 令f(x)=x^n \colon \]</span></p>
-<p><span class="math display">\[ \int
-x^n\mathrm{e}^xdx=f(x)\mathrm{e}^x-f^{&#39;}(x)\mathrm{e}^x+f^{&#39;&#39;}(x)\mathrm{e}^x-...+(-1)^{n}f^{(n)}\mathrm{e}^x
-\]</span></p>
-<span id="more"></span>
-<h3 id="证明">证明</h3>
-<ol type="1">
-<li><p>分部积分法</p></li>
-<li><p>数学归纳法</p></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>数学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>初中回忆录</title>
-    <url>/%E5%88%9D%E4%B8%AD%E5%9B%9E%E5%BF%86%E5%BD%95/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="正文">正文</h3>
-<p>我把我的初中总结为学习“思考”的过程。</p>
-<span id="more"></span>
-<p>先说应试。</p>
-<p>从六年级第二学期开始，我的成绩由于线上学习而开始下滑。我当时不大在意，但直到七下期末考我的英语成绩退居班级第三，我才开始正视这件事。</p>
-<p>我六到七年级其实都是跟着“惯性”走的，没有目标，也没想过做这些手头上的事儿是为了啥。而七下的成绩却给了我当头一棒。班级第三，都在池嘉珵下面了，这哪行，一定要有所改变。于是在暑假我决定要努力干活，把成绩弄上去。我之后也确实干出了点成绩。</p>
-<p>尽管如此，我这也只是解决了“没目标”的事，至于其目的，我还没有答案。</p>
-<p>我接下来要说到我第一次和一个热烈的目的的相遇。我曾看过一部叫《辉夜》的漫画（原名太长，这里就写简称）。这其中的男主角叫做白银御行。他是个平民百姓，但通过特招，以末位的成绩进入了一所贵族学校。入学后，他在</p>
-<h3 id="p.s.">p.s.</h3>
-<p>这篇文章可以看成是对《那人》的批注。</p>
-<b>
-<p align="right">
-作于2023年6-7月
-</p>
-<p></b></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>双曲函数</title>
-    <url>/%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-]]></content>
-      <tags>
-        <tag>数学</tag>
-      </tags>
+      <categories>
+        <category>数学</category>
+      </categories>
   </entry>
   <entry>
     <title>复数与三角</title>
@@ -497,9 +492,47 @@ class="math inline">\(\sin^nθ\)</span>展开成关于θ的一次三角多项式
 \frac{1}{32}\sin4x-\frac{1}{4}\sin2x+\frac{3}{8}x+\mathrm{C}
 \]</span></p>
 ]]></content>
-      <tags>
-        <tag>数学</tag>
-      </tags>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>新鲜的风</title>
+    <url>/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>一股强风吹来</p>
+<p>带着新鲜的味道</p>
+<p>有些人一见那风</p>
+<p>就畏畏缩缩</p>
+<p>将本真塞紧在大衣里</p>
+<p>而无畏无惧、张开双臂的那一群</p>
+<p>逐渐改造、进化</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>完全换了一副容貌</p>
+<p>说着听不懂的语言</p>
+<p>传播新习得的真理</p>
+<p>一股风一种模样</p>
+<p>以物喜悲，变化无常</p>
+<p>聚众探讨，世间美好</p>
+<b>
+<p align="right">
+作于2023年2月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
   </entry>
   <entry>
     <title>小区</title>
@@ -549,47 +582,9 @@ XantC
 </b> </big>
 </center>
 ]]></content>
-      <tags>
-        <tag>文艺</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>新鲜的风</title>
-    <url>/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>一股强风吹来</p>
-<p>带着新鲜的味道</p>
-<p>有些人一见那风</p>
-<p>就畏畏缩缩</p>
-<p>将本真塞紧在大衣里</p>
-<p>而无畏无惧、张开双臂的那一群</p>
-<p>逐渐改造、进化</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>完全换了一副容貌</p>
-<p>说着听不懂的语言</p>
-<p>传播新习得的真理</p>
-<p>一股风一种模样</p>
-<p>以物喜悲，变化无常</p>
-<p>聚众探讨，世间美好</p>
-<b>
-<p align="right">
-作于2023年2月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <tags>
-        <tag>文艺</tag>
-      </tags>
+      <categories>
+        <category>文艺</category>
+      </categories>
   </entry>
   <entry>
     <title>极坐标系</title>
@@ -682,9 +677,9 @@ Case 2 无凹口
 class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
 </details>
 ]]></content>
-      <tags>
-        <tag>数学</tag>
-      </tags>
+      <categories>
+        <category>数学</category>
+      </categories>
   </entry>
   <entry>
     <title>泰勒展开</title>
@@ -784,9 +779,44 @@ class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}x}\)</span>的微分方程，
 class="math inline">\(x_0\)</span>的二阶导数、三阶导数等等都表示出来，进而得到<span
 class="math inline">\(y\)</span>的级数解</p>
 ]]></content>
-      <tags>
-        <tag>数学</tag>
-      </tags>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>炭</title>
+    <url>/%E7%82%AD/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>卖炭翁 伐薪烧炭南山中</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>卖炭翁的墓在哪 白乐天的魂在哪</p>
+<p>炭不可能知道</p>
+<hr />
+<p>就这样就行了</p>
+<p>了了了了了了</p>
+<hr />
+<p>炭在一块儿烧才旺</p>
+<p>但它的尸体都找不着</p>
+<p>除了挤在你旁边的那个</p>
+<b>
+<p align="right">
+作于2023年7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
   </entry>
   <entry>
     <title>爱人朋友</title>
@@ -815,9 +845,9 @@ XantC
 </b> </big>
 </center>
 ]]></content>
-      <tags>
-        <tag>文艺</tag>
-      </tags>
+      <categories>
+        <category>文艺</category>
+      </categories>
   </entry>
   <entry>
     <title>牢骚</title>
@@ -864,9 +894,9 @@ XantC
 </b> </big>
 </center>
 ]]></content>
-      <tags>
-        <tag>文艺</tag>
-      </tags>
+      <categories>
+        <category>文艺</category>
+      </categories>
   </entry>
   <entry>
     <title>狂人</title>
@@ -909,9 +939,9 @@ XantC
 </b> </big>
 </center>
 ]]></content>
-      <tags>
-        <tag>文艺</tag>
-      </tags>
+      <categories>
+        <category>文艺</category>
+      </categories>
   </entry>
   <entry>
     <title>解微分方程</title>
@@ -1150,9 +1180,9 @@ class="math inline">\(x=\mathrm{e}^u\)</span>代入即可</p>
 <li><a href="/泰勒展开/#解微分方程">泰勒展开</a></li>
 </ol>
 ]]></content>
-      <tags>
-        <tag>数学</tag>
-      </tags>
+      <categories>
+        <category>数学</category>
+      </categories>
   </entry>
   <entry>
     <title>读《呐喊》有感</title>
@@ -1181,9 +1211,9 @@ XantC
 <p></b></p>
 <p></b></p>
 ]]></content>
-      <tags>
-        <tag>读后感</tag>
-      </tags>
+      <categories>
+        <category>读后感</category>
+      </categories>
   </entry>
   <entry>
     <title>谈《孤独的人是可耻的》</title>
@@ -1220,8 +1250,10 @@ XantC
 <h3 id="总结">总结</h3>
 <p>所以说，张楚对我而言就像个亲切的同龄朋友，他脑子里的东西比我深刻的多，热情也比我强烈。听他的歌就是一场剖析现代生活的交流会。我和众多听众一起琢磨着其中的内涵，一起跟着他唱“前面是光明的大道”，多是一件美事啊。</p>
 ]]></content>
+      <categories>
+        <category>听后感</category>
+      </categories>
       <tags>
-        <tag>听后感</tag>
         <tag>中国摇滚乐</tag>
       </tags>
   </entry>
@@ -1241,9 +1273,71 @@ XantC
 <figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
 ]]></content>
+      <categories>
+        <category>Unity2D</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>谈谈迷墙里平克的法西斯式行为</title>
+    <url>/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
+Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
+Like Hell”, ”Waiting For The Worms”等等。</p>
+<span id="more"></span>
+<p>Comfortably
+Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
+The
+Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
       <tags>
-        <tag>Unity2D</tag>
+        <tag>前卫摇滚</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>那人（2）</title>
+    <url>/%E9%82%A3%E4%BA%BA%EF%BC%882%EF%BC%89/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>（嘶吼）</p>
+<p>我不是“那人”</p>
+<p>我是我自己</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>“教育机器”只是个开头</p>
+<p>网络上的很多还等着他探索</p>
+<p>踩一捧一 电子药剂</p>
+<p>这些他都倒背如流</p>
+<hr />
+<p>他坚决否定过去的自己</p>
+<p>就像否定孔孟一样容易</p>
+<hr />
+<p>这不还是没变么</p>
+<p>只是他头顶上的空调换了个牌子</p>
+<b>
+<p align="right">
+作于2023年7-8月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
   </entry>
   <entry>
     <title>那人</title>
@@ -1304,103 +1398,8 @@ XantC
 </b> </big>
 </center>
 ]]></content>
-      <tags>
-        <tag>文艺</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>谈谈迷墙里平克的法西斯式行为</title>
-    <url>/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
-Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
-Like Hell”, ”Waiting For The Worms”等等。</p>
-<span id="more"></span>
-<p>Comfortably
-Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
-The
-Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
-]]></content>
-      <tags>
-        <tag>杂谈</tag>
-        <tag>前卫摇滚</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>炭</title>
-    <url>/%E7%82%AD/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>卖炭翁 伐薪烧炭南山中</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>卖炭翁的墓在哪 白乐天的魂在哪</p>
-<p>炭不可能知道</p>
-<hr />
-<p>就这样就行了</p>
-<p>了了了了了了</p>
-<hr />
-<p>炭在一块儿烧才旺</p>
-<p>但它的尸体都找不着</p>
-<p>除了挤在你旁边的那个</p>
-<b>
-<p align="right">
-作于2023年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <tags>
-        <tag>文艺</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>那人（2）</title>
-    <url>/%E9%82%A3%E4%BA%BA%EF%BC%882%EF%BC%89/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>（嘶吼）</p>
-<p>我不是“那人”</p>
-<p>我是我自己</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>“教育机器”只是个开头</p>
-<p>网络上的很多还等着他探索</p>
-<p>踩一捧一 电子药剂</p>
-<p>这些他都倒背如流</p>
-<hr />
-<p>他坚决否定过去的自己</p>
-<p>就像否定孔孟一样容易</p>
-<hr />
-<p>这不还是没变么</p>
-<p>只是他头顶上的空调换了个牌子</p>
-<b>
-<p align="right">
-作于2023年7-8月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <tags>
-        <tag>文艺</tag>
-      </tags>
+      <categories>
+        <category>文艺</category>
+      </categories>
   </entry>
 </search>
