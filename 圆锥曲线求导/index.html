@@ -21,13 +21,13 @@
 
     <meta name="description" content="XantC   核心思路 \[ 参数方程 \]">
 <meta property="og:type" content="article">
-<meta property="og:title" content="双曲线求导">
+<meta property="og:title" content="圆锥曲线求导">
 <meta property="og:url" content="https://allenxantc.github.io/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%B1%82%E5%AF%BC/index.html">
 <meta property="og:site_name" content="XantC的博客">
 <meta property="og:description" content="XantC   核心思路 \[ 参数方程 \]">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2023-09-03T02:19:07.000Z">
-<meta property="article:modified_time" content="2023-09-03T02:46:55.657Z">
+<meta property="article:modified_time" content="2023-09-03T07:20:02.700Z">
 <meta property="article:author" content="XantC">
 <meta name="twitter:card" content="summary">
 
@@ -36,10 +36,10 @@
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%B1%82%E5%AF%BC/","path":"圆锥曲线求导/","title":"双曲线求导"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%B1%82%E5%AF%BC/","path":"圆锥曲线求导/","title":"圆锥曲线求导"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>双曲线求导 | XantC的博客</title>
+<title>圆锥曲线求导 | XantC的博客</title>
   
 
 
@@ -139,7 +139,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%A0%B8%E5%BF%83%E6%80%9D%E8%B7%AF"><span class="nav-number">1.</span> <span class="nav-text">核心思路</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%A4%AD%E5%9C%86"><span class="nav-number">2.</span> <span class="nav-text">椭圆</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B"><span class="nav-number">2.1.</span> <span class="nav-text">参数方程</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%88%87%E7%BA%BF%E6%B3%95%E7%BA%BF%E6%96%B9%E7%A8%8B"><span class="nav-number">2.2.</span> <span class="nav-text">切线法线方程</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8F%8C%E6%9B%B2%E7%BA%BF"><span class="nav-number">3.</span> <span class="nav-text">双曲线</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B-1"><span class="nav-number">3.1.</span> <span class="nav-text">参数方程</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%88%87%E7%BA%BF%E6%B3%95%E7%BA%BF%E6%96%B9%E7%A8%8B-1"><span class="nav-number">3.2.</span> <span class="nav-text">切线法线方程</span></a></li></ol></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%A0%B8%E5%BF%83%E6%80%9D%E8%B7%AF"><span class="nav-number">1.</span> <span class="nav-text">核心思路</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%A4%AD%E5%9C%86"><span class="nav-number">2.</span> <span class="nav-text">椭圆</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E7%AC%9B%E5%8D%A1%E5%B0%94%E6%96%B9%E7%A8%8B"><span class="nav-number">2.1.</span> <span class="nav-text">笛卡尔方程</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B"><span class="nav-number">2.2.</span> <span class="nav-text">参数方程</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%88%87%E7%BA%BF%E6%B3%95%E7%BA%BF%E6%96%B9%E7%A8%8B"><span class="nav-number">2.3.</span> <span class="nav-text">切线法线方程</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8F%8C%E6%9B%B2%E7%BA%BF"><span class="nav-number">3.</span> <span class="nav-text">双曲线</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%A0%87%E5%87%86%E5%8F%8C%E6%9B%B2%E7%BA%BF"><span class="nav-number">3.1.</span> <span class="nav-text">标准双曲线</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#%E7%AC%9B%E5%8D%A1%E5%B0%94%E6%96%B9%E7%A8%8B-1"><span class="nav-number">3.1.1.</span> <span class="nav-text">笛卡尔方程</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B-1"><span class="nav-number">3.1.2.</span> <span class="nav-text">参数方程</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E5%88%87%E7%BA%BF%E6%B3%95%E7%BA%BF%E6%96%B9%E7%A8%8B-1"><span class="nav-number">3.1.3.</span> <span class="nav-text">切线法线方程</span></a></li></ol></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E7%9F%A9%E5%BD%A2%E5%8F%8C%E6%9B%B2%E7%BA%BF"><span class="nav-number">3.2.</span> <span class="nav-text">矩形双曲线</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#%E7%AC%9B%E5%8D%A1%E5%B0%94%E6%96%B9%E7%A8%8B-2"><span class="nav-number">3.2.1.</span> <span class="nav-text">笛卡尔方程</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B-2"><span class="nav-number">3.2.2.</span> <span class="nav-text">参数方程</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E5%88%87%E7%BA%BF%E6%B3%95%E7%BA%BF%E6%96%B9%E7%A8%8B-2"><span class="nav-number">3.2.3.</span> <span class="nav-text">切线法线方程</span></a></li></ol></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%8A%9B%E7%89%A9%E7%BA%BF"><span class="nav-number">4.</span> <span class="nav-text">抛物线</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E7%AC%9B%E5%8D%A1%E5%B0%94%E6%96%B9%E7%A8%8B-3"><span class="nav-number">4.1.</span> <span class="nav-text">笛卡尔方程</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B-3"><span class="nav-number">4.2.</span> <span class="nav-text">参数方程</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%88%87%E7%BA%BF%E6%B3%95%E7%BA%BF%E6%96%B9%E7%A8%8B-3"><span class="nav-number">4.3.</span> <span class="nav-text">切线法线方程</span></a></li></ol></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -206,12 +206,12 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="双曲线求导 | XantC的博客">
+      <meta itemprop="name" content="圆锥曲线求导 | XantC的博客">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          双曲线求导
+          圆锥曲线求导
         </h1>
 
         <div class="post-meta-container">
@@ -223,7 +223,7 @@
       <span class="post-meta-item-text">发表于</span>
       
 
-      <time title="创建时间：2023-09-03 10:19:07 / 修改时间：10:46:55" itemprop="dateCreated datePublished" datetime="2023-09-03T10:19:07+08:00">2023-09-03</time>
+      <time title="创建时间：2023-09-03 10:19:07 / 修改时间：15:20:02" itemprop="dateCreated datePublished" datetime="2023-09-03T10:19:07+08:00">2023-09-03</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -267,6 +267,9 @@ XantC
 <p><span class="math display">\[ 参数方程 \]</span></p>
 <span id="more"></span>
 <h3 id="椭圆">椭圆</h3>
+<h4 id="笛卡尔方程">笛卡尔方程</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
+\]</span></p>
 <h4 id="参数方程">参数方程</h4>
 <p><span class="math display">\[ \begin{cases}
     x=a\cos\theta \\
@@ -279,7 +282,11 @@ XantC
 法线：by\cos\theta=ax\sin\theta+(b^2-a^2)\sin\theta\cos\theta
 \]</span></p>
 <h3 id="双曲线">双曲线</h3>
-<h4 id="参数方程-1">参数方程</h4>
+<h4 id="标准双曲线">标准双曲线</h4>
+<h5 id="笛卡尔方程-1">笛卡尔方程</h5>
+<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=1
+\]</span></p>
+<h5 id="参数方程-1">参数方程</h5>
 <p><span class="math display">\[
 \begin{aligned}
     &amp; \begin{cases}
@@ -293,7 +300,7 @@ XantC
 \end{cases}
 \end{aligned}
 \]</span></p>
-<h4 id="切线法线方程-1">切线法线方程</h4>
+<h5 id="切线法线方程-1">切线法线方程</h5>
 <p><span class="math display">\[\begin{align*}
     \text{在双曲参数下，}
     切线：&amp;ay\sinh\theta+ab=bx\cosh\theta \\
@@ -303,6 +310,28 @@ XantC
     切线：&amp;ay\tan\theta+ab=bx\sec\theta \\
     法线：&amp;by\sec\theta+ax\tan\theta=(a^2+b^2)\sec\theta\tan\theta
 \end{align*}\]</span></p>
+<h4 id="矩形双曲线">矩形双曲线</h4>
+<h5 id="笛卡尔方程-2">笛卡尔方程</h5>
+<p><span class="math display">\[ xy=c^2 \]</span></p>
+<h5 id="参数方程-2">参数方程</h5>
+<p><span class="math display">\[ \begin{cases}
+    x=ct \\
+    y=\frac{c}{t}
+\end{cases} \]</span></p>
+<h5 id="切线法线方程-2">切线法线方程</h5>
+<p><span class="math display">\[ 切线：x+t^2y=2ct \]</span></p>
+<p><span class="math display">\[ 法线：t^3x-ty=c(t^4-1) \]</span></p>
+<h3 id="抛物线">抛物线</h3>
+<h4 id="笛卡尔方程-3">笛卡尔方程</h4>
+<p><span class="math display">\[ y^2=4ax \]</span></p>
+<h4 id="参数方程-3">参数方程</h4>
+<p><span class="math display">\[ \begin{cases}
+    x=at^2 \\
+    y=2at
+\end{cases} \]</span></p>
+<h4 id="切线法线方程-3">切线法线方程</h4>
+<p><span class="math display">\[ 切线：ty=x+at^2 \]</span></p>
+<p><span class="math display">\[ 法线：y+tx=2at+at^3 \]</span></p>
 
     </div>
 
@@ -320,7 +349,7 @@ XantC
   </li>
   <li class="post-copyright-link">
       <strong>本文链接：</strong>
-      <a href="https://allenxantc.github.io/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%B1%82%E5%AF%BC/" title="双曲线求导">https://allenxantc.github.io/圆锥曲线求导/</a>
+      <a href="https://allenxantc.github.io/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%B1%82%E5%AF%BC/" title="圆锥曲线求导">https://allenxantc.github.io/圆锥曲线求导/</a>
   </li>
   <li class="post-copyright-license">
       <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
