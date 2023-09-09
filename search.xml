@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2023.8.1</title>
-    <url>/2023-8-1/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我今天才明白，《一块红布》是个永恒的东西。</p>
-<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
-<b>
-<p align="right">
-作于2023.8.1
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
     <title>21st Century Education Machine</title>
     <url>/21st-Century-Education-Machine/</url>
     <content><![CDATA[###
@@ -131,6 +107,30 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>2023.8.1</title>
+    <url>/2023-8-1/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>我今天才明白，《一块红布》是个永恒的东西。</p>
+<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
+<b>
+<p align="right">
+作于2023.8.1
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Saxophone in 2050s</title>
     <url>/Saxophone-in-2050s/</url>
     <content><![CDATA[<b>
@@ -211,6 +211,56 @@ nowhere.</p>
       </categories>
   </entry>
   <entry>
+    <title>三角导数与积分公式</title>
+    <url>/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="导数">导数</h3>
+<h4 id="三角">三角</h4>
+<p><span class="math display">\[ (\sin x)^{&#39;}=\cos x \]</span></p>
+<p><span class="math display">\[ (\cos x)^{&#39;}=-\sin x \]</span></p>
+<span id="more"></span>
+<p><span class="math display">\[ (\tan x)^{&#39;}=\sec^2x \]</span></p>
+<p><span class="math display">\[ (\cot x)^{&#39;}=-\csc^2x \]</span></p>
+<p><span class="math display">\[ (\sec x)^{&#39;}=\sec x\tan x
+\]</span></p>
+<p><span class="math display">\[ (\csc x)^{&#39;}=-\csc x\cot x
+\]</span></p>
+<h4 id="反三角">反三角</h4>
+<p><span class="math display">\[ (\arcsin
+x)^{&#39;}=\frac{1}{\sqrt{1-x^2}} \]</span></p>
+<p><span class="math display">\[ (\arccos
+x)^{&#39;}=-\frac{1}{\sqrt{1-x^2}} \]</span></p>
+<p><span class="math display">\[ (\arctan x)^{&#39;}=\frac{1}{1+x^2}
+\]</span></p>
+<h3 id="积分">积分</h3>
+<h4 id="三角-1">三角</h4>
+<p><span class="math display">\[ \int \sin xdx=-\cos x+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[ \int \cos xdx=\sin x+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[ \int \tan xdx=-ln|\cos
+x|+\mathrm{C}=ln|\sec x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \cot xdx=ln|\sin
+x|+\mathrm{C}=-ln|\csc x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \sec xdx=ln|\sec x+\tan
+x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \csc xdx=-ln|\csc x+\cot
+x|+\mathrm{C} \]</span></p>
+<h4 id="反三角-1">反三角</h4>
+<p><span class="math display">\[ \int \frac{1}{\sqrt{1-x^2}}dx=\arcsin
+x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \frac{1}{1+x^2}dx=\arctan
+x+\mathrm{C} \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
     <title>《黑梦》听后感</title>
     <url>/%E3%80%8A%E9%BB%91%E6%A2%A6%E3%80%8B%E5%90%AC%E5%90%8E%E6%84%9F/</url>
     <content><![CDATA[<b>
@@ -258,50 +308,134 @@ XantC
       </tags>
   </entry>
   <entry>
-    <title>三角导数与积分公式</title>
-    <url>/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/</url>
+    <title>完整的麦子</title>
+    <url>/%E5%AE%8C%E6%95%B4%E7%9A%84%E9%BA%A6%E5%AD%90/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<h3 id="导数">导数</h3>
-<h4 id="三角">三角</h4>
-<p><span class="math display">\[ (\sin x)^{&#39;}=\cos x \]</span></p>
-<p><span class="math display">\[ (\cos x)^{&#39;}=-\sin x \]</span></p>
+<b> <big>
+<center>
+<p>青春</p>
+<p>大家都说这很美好</p>
+<p>真思索起来</p>
+<p>却只有“朝气”、“题目”和“爱情”</p>
+<p>泡在时代的米糊里</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>我们只能够看着</p>
+<p>吃着精心设计的 模糊的小麦和米</p>
+<p>因为这米糊浓稠又柔软</p>
+<p>我们只能够让未来代替热情</p>
+<p>让自己的青春 成为这米糊里的一小勺</p>
+<hr />
+<p>这些糊状的麦子看着别无二致</p>
+<p>就像我们做的事 和我们的愿望</p>
+<p>独特完整的麦子 很难找到</p>
+<p>成长和变化 更找不到</p>
+<hr />
+<p>青春 它只能给你一个机会啊</p>
+<p>不能给你结果</p>
+<p>这机会也不在米糊里</p>
+<p>而是在外面</p>
+<hr />
+<p>快在糊里头用力钻个洞</p>
+<p>把你的心抛出去吧</p>
+<p>抛到校园外面 小区外面</p>
+<p>喝着可乐 看着日出</p>
+<hr />
+<p>快放松你的肠胃吧</p>
+<p>和大家一起到田里去 寻找那株完整的麦子</p>
+<p>朝着太阳生长 向着蚂蚁哭泣的真实的麦子</p>
+<hr />
+<p>这才叫青春啊</p>
+<b>
+<p align="right">
+作于2023年9月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>双曲函数</title>
+    <url>/%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="定义">定义</h3>
+<h4 id="几何定义">几何定义</h4>
+<p>双曲线<span
+class="math inline">\(x^2-y^2=1\)</span>右支上的点，到y轴距离为<span
+class="math inline">\(\cosh \theta\)</span>，到x轴距离为<span
+class="math inline">\(\sinh\theta\)</span>，两者正负号不做限定</p>
+<h4 id="代数定义">代数定义</h4>
+<p><span class="math display">\[ \sinh
+x=\frac{\mathrm{e}^x-\mathrm{e}^{-x}}{2} \]</span></p>
+<p><span class="math display">\[ \cosh
+x=\frac{\mathrm{e}^x+\mathrm{e}^{-x}}{2} \]</span></p>
 <span id="more"></span>
-<p><span class="math display">\[ (\tan x)^{&#39;}=\sec^2x \]</span></p>
-<p><span class="math display">\[ (\cot x)^{&#39;}=-\csc^2x \]</span></p>
-<p><span class="math display">\[ (\sec x)^{&#39;}=\sec x\tan x
+<p><span class="math display">\[ \tanh
+x=\frac{\mathrm{e}^{2x}-1}{\mathrm{e}^{2x}+1} \]</span></p>
+<p><span class="math display">\[ \coth
+x=\frac{\mathrm{e}^{2x}+1}{\mathrm{e}^{2x}-1} \]</span></p>
+<p><span class="math display">\[
+\mathrm{sech}\:x=\frac{2}{\mathrm{e}^x+\mathrm{e}^{-x}} \]</span></p>
+<p><span class="math display">\[
+\mathrm{csch}\:x=\frac{2}{\mathrm{e}^x-\mathrm{e}^{-x}} \]</span></p>
+<h4 id="两者关系">两者关系</h4>
+<p>由积分与<span class="math inline">\(x^2-y^2=1\)</span>的<span
+class="math inline">\(a=1\)</span>，可以得到双曲角<span
+class="math inline">\(\theta\)</span>为它与双曲线所夹面积的2倍，再通过一系列计算,就可以得到<span
+class="math inline">\(\sinh\theta\)</span>与<span
+class="math inline">\(\sinh\theta\)</span>的指数形式</p>
+<h3 id="基本定理">基本定理</h3>
+<p><span class="math display">\[ \cosh x=\cos\mathrm{i}x \]</span></p>
+<p><span class="math display">\[ \mathrm{i}\sinh x=\sin\mathrm{i}x
 \]</span></p>
-<p><span class="math display">\[ (\csc x)^{&#39;}=-\csc x\cot x
+<p><span class="math display">\[ \cosh^2x-\sinh^2x=1 \]</span></p>
+<h3 id="三角公式转换为双曲公式">三角公式转换为双曲公式</h3>
+<h4 id="osborns-rule">Osborn's Rule</h4>
+<p><span class="math display">\[ 只有\sin^2 x转到\sinh^2 x时要变号
 \]</span></p>
-<h4 id="反三角">反三角</h4>
-<p><span class="math display">\[ (\arcsin
-x)^{&#39;}=\frac{1}{\sqrt{1-x^2}} \]</span></p>
-<p><span class="math display">\[ (\arccos
-x)^{&#39;}=-\frac{1}{\sqrt{1-x^2}} \]</span></p>
-<p><span class="math display">\[ (\arctan x)^{&#39;}=\frac{1}{1+x^2}
+<h4 id="证明">证明</h4>
+<p><span class="math display">\[ 待定 \]</span></p>
+<h3 id="反双曲">反双曲</h3>
+<p><span class="math display">\[
+\mathrm{arsinh}\:x=\ln\,(x+\sqrt{x^2+1}) \]</span></p>
+<p><span class="math display">\[
+\mathrm{arcosh}\:x=\ln\,(x+\sqrt{x^2-1})\enspace(x\geq1) \]</span></p>
+<p><span class="math display">\[
+\mathrm{artanh}\:x=\frac{1}{2}\ln\,(\frac{1+x}{1-x})\enspace(\lvert
+x\rvert&lt;1) \]</span></p>
+<h3 id="求导">求导</h3>
+<p><span class="math display">\[ (\sinh x)^{&#39;}=\cosh x \]</span></p>
+<p><span class="math display">\[ (\cosh x)^{&#39;} =\sinh x\]</span></p>
+<p><span class="math display">\[ (\tanh x)^{&#39;}=\mathrm{sech}^2x
 \]</span></p>
+<p><span class="math display">\[ (\coth x)^{&#39;}=-\mathrm{csch}^2x
+\]</span></p>
+<p><span class="math display">\[
+(\mathrm{sech}\:x)^{&#39;}=-\mathrm{sech}\:x\tanh x \]</span></p>
+<p><span class="math display">\[
+(\mathrm{csch}\:x)^{&#39;}=-\mathrm{csch}\:x\coth x \]</span></p>
 <h3 id="积分">积分</h3>
-<h4 id="三角-1">三角</h4>
-<p><span class="math display">\[ \int \sin xdx=-\cos x+\mathrm{C}
+<p><span class="math display">\[ \int
+\frac{1}{\sqrt{1+x^2}}\mathrm{d}x=\mathrm{arsinh}\:x+\mathrm{C}
 \]</span></p>
-<p><span class="math display">\[ \int \cos xdx=\sin x+\mathrm{C}
+<p><span class="math display">\[ \int
+\frac{1}{\sqrt{x^2-1}}\mathrm{d}x=\mathrm{arcosh}\:x+\mathrm{C}
 \]</span></p>
-<p><span class="math display">\[ \int \tan xdx=-ln|\cos
-x|+\mathrm{C}=ln|\sec x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \cot xdx=ln|\sin
-x|+\mathrm{C}=-ln|\csc x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \sec xdx=ln|\sec x+\tan
-x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \csc xdx=-ln|\csc x+\cot
-x|+\mathrm{C} \]</span></p>
-<h4 id="反三角-1">反三角</h4>
-<p><span class="math display">\[ \int \frac{1}{\sqrt{1-x^2}}dx=\arcsin
-x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \frac{1}{1+x^2}dx=\arctan
-x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int
+\frac{1}{1-x^2}\mathrm{d}x=\mathrm{artanh}\:x+\mathrm{C} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -411,148 +545,6 @@ XantC
 ]]></content>
       <categories>
         <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>双曲函数</title>
-    <url>/%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="定义">定义</h3>
-<h4 id="几何定义">几何定义</h4>
-<p>双曲线<span
-class="math inline">\(x^2-y^2=1\)</span>右支上的点，到y轴距离为<span
-class="math inline">\(\cosh \theta\)</span>，到x轴距离为<span
-class="math inline">\(\sinh\theta\)</span>，两者正负号不做限定</p>
-<h4 id="代数定义">代数定义</h4>
-<p><span class="math display">\[ \sinh
-x=\frac{\mathrm{e}^x-\mathrm{e}^{-x}}{2} \]</span></p>
-<p><span class="math display">\[ \cosh
-x=\frac{\mathrm{e}^x+\mathrm{e}^{-x}}{2} \]</span></p>
-<span id="more"></span>
-<p><span class="math display">\[ \tanh
-x=\frac{\mathrm{e}^{2x}-1}{\mathrm{e}^{2x}+1} \]</span></p>
-<p><span class="math display">\[ \coth
-x=\frac{\mathrm{e}^{2x}+1}{\mathrm{e}^{2x}-1} \]</span></p>
-<p><span class="math display">\[
-\mathrm{sech}\:x=\frac{2}{\mathrm{e}^x+\mathrm{e}^{-x}} \]</span></p>
-<p><span class="math display">\[
-\mathrm{csch}\:x=\frac{2}{\mathrm{e}^x-\mathrm{e}^{-x}} \]</span></p>
-<h4 id="两者关系">两者关系</h4>
-<p>由积分与<span class="math inline">\(x^2-y^2=1\)</span>的<span
-class="math inline">\(a=1\)</span>，可以得到双曲角<span
-class="math inline">\(\theta\)</span>为它与双曲线所夹面积的2倍，再通过一系列计算,就可以得到<span
-class="math inline">\(\sinh\theta\)</span>与<span
-class="math inline">\(\sinh\theta\)</span>的指数形式</p>
-<h3 id="基本定理">基本定理</h3>
-<p><span class="math display">\[ \cosh x=\cos\mathrm{i}x \]</span></p>
-<p><span class="math display">\[ \mathrm{i}\sinh x=\sin\mathrm{i}x
-\]</span></p>
-<p><span class="math display">\[ \cosh^2x-\sinh^2x=1 \]</span></p>
-<h3 id="三角公式转换为双曲公式">三角公式转换为双曲公式</h3>
-<h4 id="osborns-rule">Osborn's Rule</h4>
-<p><span class="math display">\[ 只有\sin^2 x转到\sinh^2 x时要变号
-\]</span></p>
-<h4 id="证明">证明</h4>
-<p><span class="math display">\[ 待定 \]</span></p>
-<h3 id="反双曲">反双曲</h3>
-<p><span class="math display">\[
-\mathrm{arsinh}\:x=\ln\,(x+\sqrt{x^2+1}) \]</span></p>
-<p><span class="math display">\[
-\mathrm{arcosh}\:x=\ln\,(x+\sqrt{x^2-1})\enspace(x\geq1) \]</span></p>
-<p><span class="math display">\[
-\mathrm{artanh}\:x=\frac{1}{2}\ln\,(\frac{1+x}{1-x})\enspace(\lvert
-x\rvert&lt;1) \]</span></p>
-<h3 id="求导">求导</h3>
-<p><span class="math display">\[ (\sinh x)^{&#39;}=\cosh x \]</span></p>
-<p><span class="math display">\[ (\cosh x)^{&#39;} =\sinh x\]</span></p>
-<p><span class="math display">\[ (\tanh x)^{&#39;}=\mathrm{sech}^2x
-\]</span></p>
-<p><span class="math display">\[ (\coth x)^{&#39;}=-\mathrm{csch}^2x
-\]</span></p>
-<p><span class="math display">\[
-(\mathrm{sech}\:x)^{&#39;}=-\mathrm{sech}\:x\tanh x \]</span></p>
-<p><span class="math display">\[
-(\mathrm{csch}\:x)^{&#39;}=-\mathrm{csch}\:x\coth x \]</span></p>
-<h3 id="积分">积分</h3>
-<p><span class="math display">\[ \int
-\frac{1}{\sqrt{1+x^2}}\mathrm{d}x=\mathrm{arsinh}\:x+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[ \int
-\frac{1}{\sqrt{x^2-1}}\mathrm{d}x=\mathrm{arcosh}\:x+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[ \int
-\frac{1}{1-x^2}\mathrm{d}x=\mathrm{artanh}\:x+\mathrm{C} \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>小区</title>
-    <url>/%E5%B0%8F%E5%8C%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<p align="right">
-—— 喂猫，劈柴，周游世界
-</p>
-<p></b></p>
-<b>
-<center>
-<p>我的小区 大多时候很安静</p>
-<p>外面的挖掘机和情侣都不见踪影</p>
-<p>里面的人上上下下 但偶有声响</p>
-<p>平淡寂寞得跟我的生活一样</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我家对面住着个女孩 是个家里蹲</p>
-<p>最大的兴趣就是从早到晚地写诗</p>
-<p>她爸妈好像特别看不惯她不出门工作</p>
-<p>她好像也特别看不惯人们都要出门工作</p>
-<hr />
-<p>我每天不停从小区和外面之间往返</p>
-<p>不管是工作日还是假期都一直如此</p>
-<p>我说这没有办法 大地总是唯物的</p>
-<p>我便是她看不惯的其中一个</p>
-<hr />
-<p>污水和柴米油盐 越过越长</p>
-<p>麦子和明天 越读越不顺畅</p>
-<p>不管出门多少次 还是没真正出过小区</p>
-<p>就连对面的那只猫都会让我烦躁</p>
-<hr />
-<p>我大步流星地来到门口</p>
-<p>打算永远地离开这里</p>
-<p>一群小孩飞驰而过</p>
-<p>其中一个一把抓住我 回头一看</p>
-<p>原来是我在拽着我自己</p>
-<hr />
-<p>我的老朋友低头咕哝了些什么</p>
-<p>但丢弃唯心的瞬间也太可惜</p>
-<p>突然身后一个声音响起</p>
-<p>那个姑娘在外边 冲我招手</p>
-<hr />
-<p>我的小区 大多时候很安静</p>
-<p>外面的挖掘机和情侣都不见踪影</p>
-<p>里面的人上上下下 但偶有声响</p>
-<p>只有她发出的声音震耳欲聋</p>
-<b>
-<p align="right">
-作于2023年8-9月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -704,34 +696,60 @@ class="math inline">\(\sin^nθ\)</span>展开成关于θ的一次三角多项式
       </categories>
   </entry>
   <entry>
-    <title>新鲜的风</title>
-    <url>/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
+    <title>小区</title>
+    <url>/%E5%B0%8F%E5%8C%BA/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
 <b> <big>
+<p align="right">
+—— 喂猫，劈柴，周游世界
+</p>
+<p></b></p>
+<b>
 <center>
-<p>一股强风吹来</p>
-<p>带着新鲜的味道</p>
-<p>有些人一见那风</p>
-<p>就畏畏缩缩</p>
-<p>将本真塞紧在大衣里</p>
-<p>而无畏无惧、张开双臂的那一群</p>
-<p>逐渐改造、进化</p>
+<p>我的小区 大多时候很安静</p>
+<p>外面的挖掘机和情侣都不见踪影</p>
+<p>里面的人上上下下 但偶有声响</p>
+<p>平淡寂寞得跟我的生活一样</p>
 <p></big> <span id="more"></span></p>
 <hr />
 <p><big></p>
-<p>完全换了一副容貌</p>
-<p>说着听不懂的语言</p>
-<p>传播新习得的真理</p>
-<p>一股风一种模样</p>
-<p>以物喜悲，变化无常</p>
-<p>聚众探讨，世间美好</p>
+<p>我家对面住着个女孩 是个家里蹲</p>
+<p>最大的兴趣就是从早到晚地写诗</p>
+<p>她爸妈好像特别看不惯她不出门工作</p>
+<p>她好像也特别看不惯人们都要出门工作</p>
+<hr />
+<p>我每天不停从小区和外面之间往返</p>
+<p>不管是工作日还是假期都一直如此</p>
+<p>我说这没有办法 大地总是唯物的</p>
+<p>我便是她看不惯的其中一个</p>
+<hr />
+<p>污水和柴米油盐 越过越长</p>
+<p>麦子和明天 越读越不顺畅</p>
+<p>不管出门多少次 还是没真正出过小区</p>
+<p>就连对面的那只猫都会让我烦躁</p>
+<hr />
+<p>我大步流星地来到门口</p>
+<p>打算永远地离开这里</p>
+<p>一群小孩飞驰而过</p>
+<p>其中一个一把抓住我 回头一看</p>
+<p>原来是我在拽着我自己</p>
+<hr />
+<p>我的老朋友低头咕哝了些什么</p>
+<p>但丢弃唯心的瞬间也太可惜</p>
+<p>突然身后一个声音响起</p>
+<p>那个姑娘在外边 冲我招手</p>
+<hr />
+<p>我的小区 大多时候很安静</p>
+<p>外面的挖掘机和情侣都不见踪影</p>
+<p>里面的人上上下下 但偶有声响</p>
+<p>只有她发出的声音震耳欲聋</p>
 <b>
 <p align="right">
-作于2023年2月
+作于2023年8-9月
 </p>
 <p></b></p>
 </b> </big>
@@ -837,6 +855,44 @@ class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
       </categories>
   </entry>
   <entry>
+    <title>新鲜的风</title>
+    <url>/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>一股强风吹来</p>
+<p>带着新鲜的味道</p>
+<p>有些人一见那风</p>
+<p>就畏畏缩缩</p>
+<p>将本真塞紧在大衣里</p>
+<p>而无畏无惧、张开双臂的那一群</p>
+<p>逐渐改造、进化</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>完全换了一副容貌</p>
+<p>说着听不懂的语言</p>
+<p>传播新习得的真理</p>
+<p>一股风一种模样</p>
+<p>以物喜悲，变化无常</p>
+<p>聚众探讨，世间美好</p>
+<b>
+<p align="right">
+作于2023年2月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>泰勒展开</title>
     <url>/%E6%B3%B0%E5%8B%92%E5%B1%95%E5%BC%80/</url>
     <content><![CDATA[<b>
@@ -939,51 +995,6 @@ class="math inline">\(y\)</span>的级数解</p>
       </categories>
   </entry>
   <entry>
-    <title>炭</title>
-    <url>/%E7%82%AD/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b>
-<center>
-<p>卖炭翁 伐薪烧炭南山中</p>
-<p align="right">
-—— 白居易
-</p>
-<span id="more"></span>
-<hr />
-<p><big></p>
-<p>我去过一个村子</p>
-<p>里面有个专门卖炭的人 脸黑的很</p>
-<p>大家管他叫炭哥</p>
-<hr />
-<hr />
-<p>就这样就行了</p>
-<p>了了了了了了</p>
-<hr />
-<p>这就像炭从卖炭翁手里 被白衫儿抢走</p>
-<p>炭不可能知道</p>
-<p>卖炭翁的墓在哪 白乐天的魂在哪</p>
-<p>炭又怎么知道呢</p>
-<hr />
-<p>炭在一块儿烧才旺</p>
-<p>但它的尸体都找不着</p>
-<p>除了挤在你旁边的那个</p>
-<b>
-<p align="right">
-作于2023年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
     <title>牢骚</title>
     <url>/%E7%89%A2%E9%AA%9A/</url>
     <content><![CDATA[<b>
@@ -1064,6 +1075,51 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>炭</title>
+    <url>/%E7%82%AD/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b>
+<center>
+<p>卖炭翁 伐薪烧炭南山中</p>
+<p align="right">
+—— 白居易
+</p>
+<span id="more"></span>
+<hr />
+<p><big></p>
+<p>我去过一个村子</p>
+<p>里面有个专门卖炭的人 脸黑的很</p>
+<p>大家管他叫炭哥</p>
+<hr />
+<hr />
+<p>就这样就行了</p>
+<p>了了了了了了</p>
+<hr />
+<p>这就像炭从卖炭翁手里 被白衫儿抢走</p>
+<p>炭不可能知道</p>
+<p>卖炭翁的墓在哪 白乐天的魂在哪</p>
+<p>炭又怎么知道呢</p>
+<hr />
+<p>炭在一块儿烧才旺</p>
+<p>但它的尸体都找不着</p>
+<p>除了挤在你旁边的那个</p>
+<b>
+<p align="right">
+作于2023年7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>狂人</title>
     <url>/%E7%8B%82%E4%BA%BA/</url>
     <content><![CDATA[<b>
@@ -1106,26 +1162,6 @@ XantC
 ]]></content>
       <categories>
         <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>计算人物移动距离</title>
-    <url>/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
-<span id="more"></span>
-<p>先定义一个累积经过距离的变量。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
-<p>然后是移动函数。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
-]]></content>
-      <categories>
-        <category>Unity2D</category>
       </categories>
   </entry>
   <entry>
@@ -1370,6 +1406,37 @@ class="math inline">\(x=\mathrm{e}^u\)</span>代入即可</p>
       </categories>
   </entry>
   <entry>
+    <title>读《呐喊》有感</title>
+    <url>/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p><b></p>
+<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
+<p></b></p>
+<span id="more"></span>
+<p><b></p>
+<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
+<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
+<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
+<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
+<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
+<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
+<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
+<b>
+<p align="right">
+作于2023年8月
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>读后感</category>
+      </categories>
+  </entry>
+  <entry>
     <title>谈《孤独的人是可耻的》</title>
     <url>/%E8%B0%88%E3%80%8A%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84%E3%80%8B/</url>
     <content><![CDATA[<b>
@@ -1412,34 +1479,63 @@ XantC
       </tags>
   </entry>
   <entry>
-    <title>读《呐喊》有感</title>
-    <url>/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
+    <title>计算人物移动距离</title>
+    <url>/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<p><b></p>
-<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
-<p></b></p>
+<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
 <span id="more"></span>
-<p><b></p>
-<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
-<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
-<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
-<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
-<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
-<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
-<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
-<b>
-<p align="right">
-作于2023年8月
-</p>
-<p></b></p>
-<p></b></p>
+<p>先定义一个累积经过距离的变量。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
+<p>然后是移动函数。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
 ]]></content>
       <categories>
-        <category>读后感</category>
+        <category>Unity2D</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>那人（2）</title>
+    <url>/%E9%82%A3%E4%BA%BA%EF%BC%882%EF%BC%89/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>（嘶吼）</p>
+<p>我不是“那人”</p>
+<p>我是我自己</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>“教育机器”只是个开头</p>
+<p>网络上的很多还等着他探索</p>
+<p>踩一捧一 电子药剂</p>
+<p>这些他都倒背如流</p>
+<hr />
+<p>他坚决否定过去的自己</p>
+<p>就像否定孔孟一样容易</p>
+<p>他坚决追捧如今的自己</p>
+<p>就像十万个人血馒头 捧起了鲁迅</p>
+<hr />
+<p>这不还是没变么</p>
+<p>只是他头顶上的空调换了个牌子</p>
+<b>
+<p align="right">
+作于2023年7-8月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -1465,44 +1561,6 @@ Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，�
       <tags>
         <tag>前卫摇滚</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>那人（2）</title>
-    <url>/%E9%82%A3%E4%BA%BA%EF%BC%882%EF%BC%89/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>（嘶吼）</p>
-<p>我不是“那人”</p>
-<p>我是我自己</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>“教育机器”只是个开头</p>
-<p>网络上的很多还等着他探索</p>
-<p>踩一捧一 电子药剂</p>
-<p>这些他都倒背如流</p>
-<hr />
-<p>他坚决否定过去的自己</p>
-<p>就像否定孔孟一样容易</p>
-<hr />
-<p>这不还是没变么</p>
-<p>只是他头顶上的空调换了个牌子</p>
-<b>
-<p align="right">
-作于2023年7-8月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
   </entry>
   <entry>
     <title>那人</title>
