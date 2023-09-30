@@ -25,30 +25,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>2023.9.12</title>
-    <url>/2023-9-12/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>听了杭天给迪伦的致敬</p>
-<p>Tomorrow is a long time.</p>
-<b>
-<p align="right">
-作于2023.9.12
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
     <title>21st Century Education Machine</title>
     <url>/21st-Century-Education-Machine/</url>
     <content><![CDATA[<b>
@@ -100,6 +76,30 @@ machine.</p>
 ]]></content>
       <categories>
         <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.9.12</title>
+    <url>/2023-9-12/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>听了杭天给迪伦的致敬</p>
+<p>Tomorrow is a long time.</p>
+<b>
+<p align="right">
+作于2023.9.12
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>日记</category>
       </categories>
   </entry>
   <entry>
@@ -322,56 +322,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>三角导数与积分公式</title>
-    <url>/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="导数">导数</h3>
-<h4 id="三角">三角</h4>
-<p><span class="math display">\[ (\sin x)^{&#39;}=\cos x \]</span></p>
-<p><span class="math display">\[ (\cos x)^{&#39;}=-\sin x \]</span></p>
-<span id="more"></span>
-<p><span class="math display">\[ (\tan x)^{&#39;}=\sec^2x \]</span></p>
-<p><span class="math display">\[ (\cot x)^{&#39;}=-\csc^2x \]</span></p>
-<p><span class="math display">\[ (\sec x)^{&#39;}=\sec x\tan x
-\]</span></p>
-<p><span class="math display">\[ (\csc x)^{&#39;}=-\csc x\cot x
-\]</span></p>
-<h4 id="反三角">反三角</h4>
-<p><span class="math display">\[ (\arcsin
-x)^{&#39;}=\frac{1}{\sqrt{1-x^2}} \]</span></p>
-<p><span class="math display">\[ (\arccos
-x)^{&#39;}=-\frac{1}{\sqrt{1-x^2}} \]</span></p>
-<p><span class="math display">\[ (\arctan x)^{&#39;}=\frac{1}{1+x^2}
-\]</span></p>
-<h3 id="积分">积分</h3>
-<h4 id="三角-1">三角</h4>
-<p><span class="math display">\[ \int \sin x\mathrm{d}x=-\cos
-x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \cos x\mathrm{d}x=\sin
-x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \tan x\mathrm{d}x=-ln|\cos
-x|+\mathrm{C}=ln|\sec x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \cot x\mathrm{d}x=ln|\sin
-x|+\mathrm{C}=-ln|\csc x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \sec x\mathrm{d}x=ln|\sec x+\tan
-x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \csc x\mathrm{d}x=-ln|\csc x+\cot
-x|+\mathrm{C} \]</span></p>
-<h4 id="反三角-1">反三角</h4>
-<p><span class="math display">\[ \int
-\frac{1}{\sqrt{1-x^2}}\mathrm{d}x=\arcsin x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \frac{1}{1+x^2}\mathrm{d}x=\arctan
-x+\mathrm{C} \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
     <title>伽马函数</title>
     <url>/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
     <content><![CDATA[<b>
@@ -470,6 +420,122 @@ x\rvert&lt;1) \]</span></p>
 \]</span></p>
 <p><span class="math display">\[ \int
 \frac{1}{1-x^2}\mathrm{d}x=\mathrm{artanh}\:x+\mathrm{C} \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>唯物主义哲学</title>
+    <url>/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>伟人，每个时代都有</p>
+<p>除了自己所在的时代</p>
+<p>每个时代也都有敬仰的伟人</p>
+<p>但没有一个时代 真正敬仰伟人</p>
+<p>敬仰真正的人</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>天上没有鸟</p>
+<p>因为没人看</p>
+<p>剥削可以有</p>
+<p>因为改不了</p>
+<b>
+<p align="right">
+作于2023年9月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>圆锥曲线求导</title>
+    <url>/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%B1%82%E5%AF%BC/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="核心思路">核心思路</h3>
+<p><span class="math display">\[ 参数方程 \]</span></p>
+<span id="more"></span>
+<h3 id="椭圆">椭圆</h3>
+<h4 id="笛卡尔方程">笛卡尔方程</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
+\]</span></p>
+<h4 id="参数方程">参数方程</h4>
+<p><span class="math display">\[ \begin{cases}
+    x=a\cos\theta \\
+    y=b\sin\theta
+\end{cases} \]</span></p>
+<h4 id="切线法线方程">切线法线方程</h4>
+<p><span class="math display">\[ 切线：ay\sin\theta+bx\cos\theta=ab
+\]</span></p>
+<p><span class="math display">\[
+法线：by\cos\theta=ax\sin\theta+(b^2-a^2)\sin\theta\cos\theta
+\]</span></p>
+<h3 id="双曲线">双曲线</h3>
+<h4 id="标准双曲线">标准双曲线</h4>
+<h5 id="笛卡尔方程-1">笛卡尔方程</h5>
+<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=1
+\]</span></p>
+<h5 id="参数方程-1">参数方程</h5>
+<p><span class="math display">\[
+\begin{aligned}
+    &amp; \begin{cases}
+    x=a\cosh\theta \\
+    y=b\sinh\theta
+\end{cases} \quad
+\text{或} \quad
+\begin{cases}
+    x=a\sec\theta \\
+    y=b\tan\theta
+\end{cases}
+\end{aligned}
+\]</span></p>
+<h5 id="切线法线方程-1">切线法线方程</h5>
+<p><span class="math display">\[\begin{align*}
+    \text{在双曲参数下，}
+    切线：&amp;ay\sinh\theta+ab=bx\cosh\theta \\
+    法线：&amp;by\cosh\theta+ax\sinh\theta=(a^2+b^2)\sinh\theta\cosh\theta
+\\
+    \text{在三角参数下，}
+    切线：&amp;ay\tan\theta+ab=bx\sec\theta \\
+    法线：&amp;by\sec\theta+ax\tan\theta=(a^2+b^2)\sec\theta\tan\theta
+\end{align*}\]</span></p>
+<h4 id="矩形双曲线">矩形双曲线</h4>
+<h5 id="笛卡尔方程-2">笛卡尔方程</h5>
+<p><span class="math display">\[ xy=c^2 \]</span></p>
+<h5 id="参数方程-2">参数方程</h5>
+<p><span class="math display">\[ \begin{cases}
+    x=ct \\
+    y=\frac{c}{t}
+\end{cases} \]</span></p>
+<h5 id="切线法线方程-2">切线法线方程</h5>
+<p><span class="math display">\[ 切线：x+t^2y=2ct \]</span></p>
+<p><span class="math display">\[ 法线：t^3x-ty=c(t^4-1) \]</span></p>
+<h3 id="抛物线">抛物线</h3>
+<h4 id="笛卡尔方程-3">笛卡尔方程</h4>
+<p><span class="math display">\[ y^2=4ax \]</span></p>
+<h4 id="参数方程-3">参数方程</h4>
+<p><span class="math display">\[ \begin{cases}
+    x=at^2 \\
+    y=2at
+\end{cases} \]</span></p>
+<h4 id="切线法线方程-3">切线法线方程</h4>
+<p><span class="math display">\[ 切线：ty=x+at^2 \]</span></p>
+<p><span class="math display">\[ 法线：y+tx=2at+at^3 \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -624,90 +690,8 @@ class="math inline">\(\sin^nθ\)</span>展开成关于θ的一次三角多项式
       </categories>
   </entry>
   <entry>
-    <title>圆锥曲线求导</title>
-    <url>/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%B1%82%E5%AF%BC/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="核心思路">核心思路</h3>
-<p><span class="math display">\[ 参数方程 \]</span></p>
-<span id="more"></span>
-<h3 id="椭圆">椭圆</h3>
-<h4 id="笛卡尔方程">笛卡尔方程</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
-\]</span></p>
-<h4 id="参数方程">参数方程</h4>
-<p><span class="math display">\[ \begin{cases}
-    x=a\cos\theta \\
-    y=b\sin\theta
-\end{cases} \]</span></p>
-<h4 id="切线法线方程">切线法线方程</h4>
-<p><span class="math display">\[ 切线：ay\sin\theta+bx\cos\theta=ab
-\]</span></p>
-<p><span class="math display">\[
-法线：by\cos\theta=ax\sin\theta+(b^2-a^2)\sin\theta\cos\theta
-\]</span></p>
-<h3 id="双曲线">双曲线</h3>
-<h4 id="标准双曲线">标准双曲线</h4>
-<h5 id="笛卡尔方程-1">笛卡尔方程</h5>
-<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=1
-\]</span></p>
-<h5 id="参数方程-1">参数方程</h5>
-<p><span class="math display">\[
-\begin{aligned}
-    &amp; \begin{cases}
-    x=a\cosh\theta \\
-    y=b\sinh\theta
-\end{cases} \quad
-\text{或} \quad
-\begin{cases}
-    x=a\sec\theta \\
-    y=b\tan\theta
-\end{cases}
-\end{aligned}
-\]</span></p>
-<h5 id="切线法线方程-1">切线法线方程</h5>
-<p><span class="math display">\[\begin{align*}
-    \text{在双曲参数下，}
-    切线：&amp;ay\sinh\theta+ab=bx\cosh\theta \\
-    法线：&amp;by\cosh\theta+ax\sinh\theta=(a^2+b^2)\sinh\theta\cosh\theta
-\\
-    \text{在三角参数下，}
-    切线：&amp;ay\tan\theta+ab=bx\sec\theta \\
-    法线：&amp;by\sec\theta+ax\tan\theta=(a^2+b^2)\sec\theta\tan\theta
-\end{align*}\]</span></p>
-<h4 id="矩形双曲线">矩形双曲线</h4>
-<h5 id="笛卡尔方程-2">笛卡尔方程</h5>
-<p><span class="math display">\[ xy=c^2 \]</span></p>
-<h5 id="参数方程-2">参数方程</h5>
-<p><span class="math display">\[ \begin{cases}
-    x=ct \\
-    y=\frac{c}{t}
-\end{cases} \]</span></p>
-<h5 id="切线法线方程-2">切线法线方程</h5>
-<p><span class="math display">\[ 切线：x+t^2y=2ct \]</span></p>
-<p><span class="math display">\[ 法线：t^3x-ty=c(t^4-1) \]</span></p>
-<h3 id="抛物线">抛物线</h3>
-<h4 id="笛卡尔方程-3">笛卡尔方程</h4>
-<p><span class="math display">\[ y^2=4ax \]</span></p>
-<h4 id="参数方程-3">参数方程</h4>
-<p><span class="math display">\[ \begin{cases}
-    x=at^2 \\
-    y=2at
-\end{cases} \]</span></p>
-<h4 id="切线法线方程-3">切线法线方程</h4>
-<p><span class="math display">\[ 切线：ty=x+at^2 \]</span></p>
-<p><span class="math display">\[ 法线：y+tx=2at+at^3 \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>唯物主义哲学</title>
-    <url>/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/</url>
+    <title>完整的麦子</title>
+    <url>/%E5%AE%8C%E6%95%B4%E7%9A%84%E9%BA%A6%E5%AD%90/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -715,18 +699,42 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
-<p>伟人，每个时代都有</p>
-<p>除了自己所在的时代</p>
-<p>每个时代也都有敬仰的伟人</p>
-<p>但没有一个时代 真正敬仰伟人</p>
-<p>敬仰真正的人</p>
+<p>青春</p>
+<p>大家都说这很美好</p>
+<p>真思索起来</p>
+<p>却只有“朝气”、“题目”和“爱情”</p>
+<p>泡在时代的米糊里</p>
 <p></big> <span id="more"></span></p>
 <hr />
 <p><big></p>
-<p>天上没有鸟</p>
-<p>因为没人看</p>
-<p>剥削可以有</p>
-<p>因为改不了</p>
+<p>我们只能够看着</p>
+<p>吃着精心设计的 模糊的小麦和米</p>
+<p>因为这米糊浓稠又柔软</p>
+<p>或是让未来代替热情</p>
+<p>让自己的青春 成为这米糊里的一小勺</p>
+<hr />
+<p>这些糊状的麦子看着别无二致</p>
+<p>就像我们做的事 和我们的愿望</p>
+<p>独特完整的麦子 很难找到</p>
+<p>成长和变化 更找不到</p>
+<hr />
+<p>青春 它只能给你一个机会啊</p>
+<p>不能给你结果</p>
+<p>这机会也不在米糊里</p>
+<p>而是在外面</p>
+<hr />
+<p>快在糊里头钻个洞</p>
+<p>把你的心用力抛出去吧</p>
+<p>抛到校园外面 小区外面</p>
+<p>在大道上喝着可乐 看着日出</p>
+<hr />
+<p>快放松你的肠胃吧</p>
+<p>和大家一起到田里</p>
+<p>去寻找那株完整的麦子</p>
+<p>不关心农民</p>
+<p>对着太阳愤怒生长的麦子啊</p>
+<hr />
+<p>这才叫青春</p>
 <b>
 <p align="right">
 作于2023年9月
@@ -937,61 +945,166 @@ class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
       </categories>
   </entry>
   <entry>
-    <title>完整的麦子</title>
-    <url>/%E5%AE%8C%E6%95%B4%E7%9A%84%E9%BA%A6%E5%AD%90/</url>
+    <title>泰勒展开</title>
+    <url>/%E6%B3%B0%E5%8B%92%E5%B1%95%E5%BC%80/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<b> <big>
-<center>
-<p>青春</p>
-<p>大家都说这很美好</p>
-<p>真思索起来</p>
-<p>却只有“朝气”、“题目”和“爱情”</p>
-<p>泡在时代的米糊里</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我们只能够看着</p>
-<p>吃着精心设计的 模糊的小麦和米</p>
-<p>因为这米糊浓稠又柔软</p>
-<p>或是让未来代替热情</p>
-<p>让自己的青春 成为这米糊里的一小勺</p>
-<hr />
-<p>这些糊状的麦子看着别无二致</p>
-<p>就像我们做的事 和我们的愿望</p>
-<p>独特完整的麦子 很难找到</p>
-<p>成长和变化 更找不到</p>
-<hr />
-<p>青春 它只能给你一个机会啊</p>
-<p>不能给你结果</p>
-<p>这机会也不在米糊里</p>
-<p>而是在外面</p>
-<hr />
-<p>快在糊里头钻个洞</p>
-<p>把你的心用力抛出去吧</p>
-<p>抛到校园外面 小区外面</p>
-<p>在大道上喝着可乐 看着日出</p>
-<hr />
-<p>快放松你的肠胃吧</p>
-<p>和大家一起到田里</p>
-<p>去寻找那株完整的麦子</p>
-<p>不关心农民</p>
-<p>对着太阳愤怒生长的麦子啊</p>
-<hr />
-<p>这才叫青春</p>
-<b>
-<p align="right">
-作于2023年9月
-</p>
-<p></b></p>
-</b> </big>
-</center>
+<h3 id="公式">公式</h3>
+<p><span class="math inline">\(f(x)\)</span>在<span
+class="math inline">\(x=x_0\)</span>处展开：</p>
+<p><span
+class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n
+\tag{1}\]</span></p>
+<p><span
+class="math display">\[f(x+x_0)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}x^n
+\tag{2}\]</span></p>
+<p><span class="math inline">\(x_0=0\)</span>
+时的公式，被称作麦克劳林公式</p>
+<span id="more"></span>
+<h3 id="解释">解释</h3>
+<p>在<span
+class="math inline">\(x=x_0\)</span>处展开的意义：能用尽量少的项来表示某点的函数值，简便计算</p>
+<h3 id="收敛域">收敛域</h3>
+<p>我不会我不会啊啊啊啊啊啊啊</p>
+<h3 id="证明">证明</h3>
+<p>假设<span
+class="math inline">\(f(x)\)</span>可以表示成一个多项式函数：</p>
+<p><span class="math display">\[ f(x)=a_0+a_1x+a_2x^2+\dots+a_nx^n+\dots
+\]</span></p>
+<p><span class="math display">\[  \begin{align*}
+    则\colon\enspace
+f^{&#39;}(x)&amp;=a_1+2a_2x+3a_3x^2+\dots+na_nx^{n-1}+\dots \\
+    f^{&#39;&#39;}(x)&amp;=2a_2+6a_3x+12a_4x^2+\dots+n(n-1)a_nx^{n-2}+\dots
+\\
+    ......
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \therefore f(0)=a_0,\
+f^{&#39;}(0)=a_1,\ f^{&#39;&#39;}(0)=2a_2,\
+f^{&#39;&#39;&#39;}(0)=6a_3...\]</span></p>
+<p><span class="math display">\[ \therefore a_0=\frac{f(0)}{0!},\
+a_1=\frac{f^{&#39;}(0)}{1!},\ a_2=\frac{f^{&#39;&#39;}(0)}{2!},\
+a_3=\frac{f^{&#39;&#39;&#39;}(0)}{3!}... \]</span></p>
+<p><span class="math display">\[
+f(x)=\frac{f(0)}{0!}+\frac{f^{&#39;}(0)}{1!}x+\frac{f^{&#39;&#39;}(0)}{2!}x^2+\frac{f^{&#39;&#39;&#39;}(0)}{3!}x^3...
+\]</span></p>
+<p><span class="math display">\[ \therefore
+f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(0)}{n!}x^n \]</span></p>
+<p>以上是函数在<span
+class="math inline">\(x=0\)</span>处展开的情况，而在<span
+class="math inline">\(x=x_0\)</span>处展开就是：</p>
+<p><span
+class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n
+\]</span></p>
+<h3 id="应用">应用</h3>
+<h4 id="新的公式">新的公式</h4>
+<p><span class="math display">\[
+\mathrm{e}^x=1+x+\frac{x^2}{2!}+\frac{x^3}{3!}+\dots+\frac{x^n}{n!}+\dots\enspace(x\in\mathbb{R})
+\]</span></p>
+<p><span class="math display">\[
+\ln(x+1)=x-\frac{x^2}{2}+\frac{x^3}{3}+\dots+\frac{(-1)^{n-1}x^n}{n}+\dots\enspace(-1&lt;x\leq1)
+\]</span></p>
+<p><span class="math display">\[ \sin
+x=x-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+\dots+\frac{(-1)^nx^{2n+1}}{(2n+1)!}+\dots\enspace(x\in\mathbb{R})
+\]</span></p>
+<p><span class="math display">\[ \cos
+x=1-\frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}+\dots+\frac{(-1)^nx^{2n}}{(2n)!}+\dots\enspace(x\in\mathbb{R})
+\]</span></p>
+<p><span class="math display">\[
+(1+x)^m=1+mx+\frac{m(m-1)}{2!}x^2+\dots+\frac{m(m-1)(m-2)\dots(m-n+1)}{n!}x^n+\dots(-1&lt;x&lt;1)
+\]</span></p>
+<h4 id="能够用来简便计算">能够用来简便计算</h4>
+<p><span class="math display">\[\begin{align*}
+    \mathrm{e.g.} \enspace
+    \mathrm{e}&amp;=1+1+\frac{1}{2!}+\frac{1}{3!}+\dots+\frac{1}{n!}+\dots
+\\
+    \mathrm{sin\frac{\pi}{3}}&amp;=\frac{\pi}{3}-\frac{(\frac{\pi}{3})^3}{3!}+\frac{(\frac{\pi}{3})^5}{5!}+\dots+\frac{(-1)^n(\frac{\pi}{3})^{2n+1}}{(2n+1)!}+\dots
+\end{align*}\]</span></p>
+<h4 id="互相组合形成新公式">互相组合，形成新公式</h4>
+<p><span class="math display">\[ \begin{align*}
+    \mathrm{e.g.} \enspace
+    \mathrm{e}^{\sin x}&amp;\approx \mathrm{e}^{(x-\frac{x^3}{3!})}\\
+    &amp;\approx \mathrm{e}^x*\mathrm{e}^{-\frac{x^3}{3!}} \\
+    &amp;\approx
+(1+x+\frac{x^2}{2}+\frac{x^3}{6}+\frac{x^4}{24})*[1+(-\frac{x^3}{6})] \\
+    &amp;\approx 1+x+\frac{x^2}{2}-\frac{x^4}{8}
+\end{align*} \]</span></p>
+<h4 id="解微分方程">解微分方程</h4>
+<p>考虑泰勒展开的另一种表示方法：</p>
+<p><span
+class="math display">\[y=y_0+\frac{y^{&#39;}(x_0)}{1!}x+\frac{y^{&#39;&#39;}(x_0)}{2!}x^2+...\]</span></p>
+<p>可以发现，如果知道了初值<span
+class="math inline">\(x_0\)</span>和对应的<span
+class="math inline">\(y_0\)</span>，以及包含着<span
+class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}x}\)</span>的微分方程，就可以把接下来<span
+class="math inline">\(x_0\)</span>的二阶导数、三阶导数等等都表示出来，进而得到<span
+class="math inline">\(y\)</span>的级数解</p>
+<h4 id="newton-raphson-方法">Newton-Raphson 方法</h4>
+<p>这个方法可用于求方程的近似数值解</p>
+<p>取泰勒展开前两项：</p>
+<p><span class="math display">\[ f(x)=f(x_0)+f^{&#39;}(x_0)(x-x_0)
+\]</span></p>
+<p><span class="math display">\[ 当f(x)=0时\colon\enspace
+f(x_0)+f^{&#39;}(x_0)(x-x_0)=0 \]</span></p>
+<p><span class="math display">\[ \therefore
+x=x_0-\frac{f(x_0)}{f^{&#39;}(x_0)} \]</span></p>
+<p><span class="math display">\[
+即x_{n+1}=x_n-\frac{f(x_n)}{f^{&#39;}(x_n)} \]</span></p>
 ]]></content>
       <categories>
-        <category>文艺</category>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>三角导数与积分公式</title>
+    <url>/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="导数">导数</h3>
+<h4 id="三角">三角</h4>
+<p><span class="math display">\[ (\sin x)^{&#39;}=\cos x \]</span></p>
+<p><span class="math display">\[ (\cos x)^{&#39;}=-\sin x \]</span></p>
+<span id="more"></span>
+<p><span class="math display">\[ (\tan x)^{&#39;}=\sec^2x \]</span></p>
+<p><span class="math display">\[ (\cot x)^{&#39;}=-\csc^2x \]</span></p>
+<p><span class="math display">\[ (\sec x)^{&#39;}=\sec x\tan x
+\]</span></p>
+<p><span class="math display">\[ (\csc x)^{&#39;}=-\csc x\cot x
+\]</span></p>
+<h4 id="反三角">反三角</h4>
+<p><span class="math display">\[ (\arcsin
+x)^{&#39;}=\frac{1}{\sqrt{1-x^2}} \]</span></p>
+<p><span class="math display">\[ (\arccos
+x)^{&#39;}=-\frac{1}{\sqrt{1-x^2}} \]</span></p>
+<p><span class="math display">\[ (\arctan x)^{&#39;}=\frac{1}{1+x^2}
+\]</span></p>
+<h3 id="积分">积分</h3>
+<h4 id="三角-1">三角</h4>
+<p><span class="math display">\[ \int \sin x\mathrm{d}x=-\cos
+x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \cos x\mathrm{d}x=\sin
+x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \tan x\mathrm{d}x=-ln|\cos
+x|+\mathrm{C}=ln|\sec x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \cot x\mathrm{d}x=ln|\sin
+x|+\mathrm{C}=-ln|\csc x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \sec x\mathrm{d}x=ln|\sec x+\tan
+x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \csc x\mathrm{d}x=-ln|\csc x+\cot
+x|+\mathrm{C} \]</span></p>
+<h4 id="反三角-1">反三角</h4>
+<p><span class="math display">\[ \int
+\frac{1}{\sqrt{1-x^2}}\mathrm{d}x=\arcsin x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \frac{1}{1+x^2}\mathrm{d}x=\arctan
+x+\mathrm{C} \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
       </categories>
   </entry>
   <entry>
@@ -1057,51 +1170,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>狂人</title>
-    <url>/%E7%8B%82%E4%BA%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我是个觉醒的狂人 但不是鲁迅写的那个</p>
-<p>因为我和很多其他的狂人在一起</p>
-<p>找到了志同道合的知音总是甜蜜的 所以这是个美好的集体</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我既然觉醒了 那就会每晚花时间思考东西</p>
-<p>比如像红烧里脊 和那天上的红旗</p>
-<p>想着想着 想明白了个人和集体</p>
-<p>我赶紧找到一个狂人兄弟分享感情</p>
-<hr />
-<p>我说 “个人和集体值得平衡”</p>
-<p>眼神偷偷打量着他的反应</p>
-<p>但他眉头紧皱 斜着瞟了我一眼</p>
-<p>“你是不是被风吹傻了”</p>
-<hr />
-<p>我想往下解释 却又被他制止</p>
-<p>我好像成了个狂人了</p>
-<p>他摇摇头站起身子 在手机上打了些什么</p>
-<p>我好像真的成了个狂人了</p>
-<hr />
-<p>我是个觉醒的狂人</p>
-<p>我是个觉醒的狂人</p>
-<b>
-<p align="right">
-作于2023年6月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
     <title>牢骚</title>
     <url>/%E7%89%A2%E9%AA%9A/</url>
     <content><![CDATA[<b>
@@ -1151,6 +1219,67 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>爱人朋友</title>
+    <url>/%E7%88%B1%E4%BA%BA%E6%9C%8B%E5%8F%8B/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>我的朋友 爱人</p>
+<p>你在哪里</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>爱情慢慢变得神圣</p>
+<p>形式慢慢变得无用</p>
+<p>如果能再来 我会</p>
+<b>
+<p align="right">
+作于2023年7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>读《呐喊》有感</title>
+    <url>/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p><b></p>
+<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
+<p></b></p>
+<span id="more"></span>
+<p><b></p>
+<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
+<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
+<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
+<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
+<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
+<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
+<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
+<b>
+<p align="right">
+作于2023年8月
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>读后感</category>
+      </categories>
+  </entry>
+  <entry>
     <title>计算人物移动距离</title>
     <url>/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
     <content><![CDATA[<b>
@@ -1168,6 +1297,51 @@ XantC
 ]]></content>
       <categories>
         <category>Unity2D</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>狂人</title>
+    <url>/%E7%8B%82%E4%BA%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>我是个觉醒的狂人 但不是鲁迅写的那个</p>
+<p>因为我和很多其他的狂人在一起</p>
+<p>找到了志同道合的知音总是甜蜜的 所以这是个美好的集体</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>我既然觉醒了 那就会每晚花时间思考东西</p>
+<p>比如像红烧里脊 和那天上的红旗</p>
+<p>想着想着 想明白了个人和集体</p>
+<p>我赶紧找到一个狂人兄弟分享感情</p>
+<hr />
+<p>我说 “个人和集体值得平衡”</p>
+<p>眼神偷偷打量着他的反应</p>
+<p>但他眉头紧皱 斜着瞟了我一眼</p>
+<p>“你是不是被风吹傻了”</p>
+<hr />
+<p>我想往下解释 却又被他制止</p>
+<p>我好像成了个狂人了</p>
+<p>他摇摇头站起身子 在手机上打了些什么</p>
+<p>我好像真的成了个狂人了</p>
+<hr />
+<p>我是个觉醒的狂人</p>
+<p>我是个觉醒的狂人</p>
+<b>
+<p align="right">
+作于2023年6月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -1412,91 +1586,6 @@ class="math inline">\(x=\mathrm{e}^u\)</span>代入即可</p>
       </categories>
   </entry>
   <entry>
-    <title>爱人朋友</title>
-    <url>/%E7%88%B1%E4%BA%BA%E6%9C%8B%E5%8F%8B/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我的朋友 爱人</p>
-<p>你在哪里</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>爱情慢慢变得神圣</p>
-<p>形式慢慢变得无用</p>
-<p>如果能再来 我会</p>
-<b>
-<p align="right">
-作于2023年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>读《呐喊》有感</title>
-    <url>/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p><b></p>
-<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
-<p></b></p>
-<span id="more"></span>
-<p><b></p>
-<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
-<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
-<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
-<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
-<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
-<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
-<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
-<b>
-<p align="right">
-作于2023年8月
-</p>
-<p></b></p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>读后感</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>谈谈迷墙里平克的法西斯式行为</title>
-    <url>/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
-Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
-Like Hell”, ”Waiting For The Worms”等等。</p>
-<span id="more"></span>
-<p>Comfortably
-Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
-The
-Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>前卫摇滚</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>谈《孤独的人是可耻的》</title>
     <url>/%E8%B0%88%E3%80%8A%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84%E3%80%8B/</url>
     <content><![CDATA[<b>
@@ -1539,117 +1628,28 @@ XantC
       </tags>
   </entry>
   <entry>
-    <title>泰勒展开</title>
-    <url>/%E6%B3%B0%E5%8B%92%E5%B1%95%E5%BC%80/</url>
+    <title>谈谈迷墙里平克的法西斯式行为</title>
+    <url>/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<h3 id="公式">公式</h3>
-<p><span class="math inline">\(f(x)\)</span>在<span
-class="math inline">\(x=x_0\)</span>处展开：</p>
-<p><span
-class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n
-\tag{1}\]</span></p>
-<p><span
-class="math display">\[f(x+x_0)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}x^n
-\tag{2}\]</span></p>
-<p><span class="math inline">\(x_0=0\)</span>
-时的公式，被称作麦克劳林公式</p>
+<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
+Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
+Like Hell”, ”Waiting For The Worms”等等。</p>
 <span id="more"></span>
-<h3 id="解释">解释</h3>
-<p>在<span
-class="math inline">\(x=x_0\)</span>处展开的意义：能用尽量少的项来表示某点的函数值，简便计算</p>
-<h3 id="收敛域">收敛域</h3>
-<p>我不会我不会啊啊啊啊啊啊啊</p>
-<h3 id="证明">证明</h3>
-<p>假设<span
-class="math inline">\(f(x)\)</span>可以表示成一个多项式函数：</p>
-<p><span class="math display">\[ f(x)=a_0+a_1x+a_2x^2+\dots+a_nx^n+\dots
-\]</span></p>
-<p><span class="math display">\[  \begin{align*}
-    则\colon\enspace
-f^{&#39;}(x)&amp;=a_1+2a_2x+3a_3x^2+\dots+na_nx^{n-1}+\dots \\
-    f^{&#39;&#39;}(x)&amp;=2a_2+6a_3x+12a_4x^2+\dots+n(n-1)a_nx^{n-2}+\dots
-\\
-    ......
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \therefore f(0)=a_0,\
-f^{&#39;}(0)=a_1,\ f^{&#39;&#39;}(0)=2a_2,\
-f^{&#39;&#39;&#39;}(0)=6a_3...\]</span></p>
-<p><span class="math display">\[ \therefore a_0=\frac{f(0)}{0!},\
-a_1=\frac{f^{&#39;}(0)}{1!},\ a_2=\frac{f^{&#39;&#39;}(0)}{2!},\
-a_3=\frac{f^{&#39;&#39;&#39;}(0)}{3!}... \]</span></p>
-<p><span class="math display">\[
-f(x)=\frac{f(0)}{0!}+\frac{f^{&#39;}(0)}{1!}x+\frac{f^{&#39;&#39;}(0)}{2!}x^2+\frac{f^{&#39;&#39;&#39;}(0)}{3!}x^3...
-\]</span></p>
-<p><span class="math display">\[ \therefore
-f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(0)}{n!}x^n \]</span></p>
-<p>以上是函数在<span
-class="math inline">\(x=0\)</span>处展开的情况，而在<span
-class="math inline">\(x=x_0\)</span>处展开就是：</p>
-<p><span
-class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n
-\]</span></p>
-<h3 id="应用">应用</h3>
-<h4 id="新的公式">新的公式</h4>
-<p><span class="math display">\[
-\mathrm{e}^x=1+x+\frac{x^2}{2!}+\frac{x^3}{3!}+\dots+\frac{x^n}{n!}+\dots\enspace(x\in\mathbb{R})
-\]</span></p>
-<p><span class="math display">\[
-\ln(x+1)=x-\frac{x^2}{2}+\frac{x^3}{3}+\dots+\frac{(-1)^{n-1}x^n}{n}+\dots\enspace(-1&lt;x\leq1)
-\]</span></p>
-<p><span class="math display">\[ \sin
-x=x-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+\dots+\frac{(-1)^nx^{2n+1}}{(2n+1)!}+\dots\enspace(x\in\mathbb{R})
-\]</span></p>
-<p><span class="math display">\[ \cos
-x=1-\frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}+\dots+\frac{(-1)^nx^{2n}}{(2n)!}+\dots\enspace(x\in\mathbb{R})
-\]</span></p>
-<p><span class="math display">\[
-(1+x)^m=1+mx+\frac{m(m-1)}{2!}x^2+\dots+\frac{m(m-1)(m-2)\dots(m-n+1)}{n!}x^n+\dots(-1&lt;x&lt;1)
-\]</span></p>
-<h4 id="能够用来简便计算">能够用来简便计算</h4>
-<p><span class="math display">\[\begin{align*}
-    \mathrm{e.g.} \enspace
-    \mathrm{e}&amp;=1+1+\frac{1}{2!}+\frac{1}{3!}+\dots+\frac{1}{n!}+\dots
-\\
-    \mathrm{sin\frac{\pi}{3}}&amp;=\frac{\pi}{3}-\frac{(\frac{\pi}{3})^3}{3!}+\frac{(\frac{\pi}{3})^5}{5!}+\dots+\frac{(-1)^n(\frac{\pi}{3})^{2n+1}}{(2n+1)!}+\dots
-\end{align*}\]</span></p>
-<h4 id="互相组合形成新公式">互相组合，形成新公式</h4>
-<p><span class="math display">\[ \begin{align*}
-    \mathrm{e.g.} \enspace
-    \mathrm{e}^{\sin x}&amp;\approx \mathrm{e}^{(x-\frac{x^3}{3!})}\\
-    &amp;\approx \mathrm{e}^x*\mathrm{e}^{-\frac{x^3}{3!}} \\
-    &amp;\approx
-(1+x+\frac{x^2}{2}+\frac{x^3}{6}+\frac{x^4}{24})*[1+(-\frac{x^3}{6})] \\
-    &amp;\approx 1+x+\frac{x^2}{2}-\frac{x^4}{8}
-\end{align*} \]</span></p>
-<h4 id="解微分方程">解微分方程</h4>
-<p>考虑泰勒展开的另一种表示方法：</p>
-<p><span
-class="math display">\[y=y_0+\frac{y^{&#39;}(x_0)}{1!}x+\frac{y^{&#39;&#39;}(x_0)}{2!}x^2+...\]</span></p>
-<p>可以发现，如果知道了初值<span
-class="math inline">\(x_0\)</span>和对应的<span
-class="math inline">\(y_0\)</span>，以及包含着<span
-class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}x}\)</span>的微分方程，就可以把接下来<span
-class="math inline">\(x_0\)</span>的二阶导数、三阶导数等等都表示出来，进而得到<span
-class="math inline">\(y\)</span>的级数解</p>
-<h4 id="newton-raphson-方法">Newton-Raphson 方法</h4>
-<p>这个方法可用于求方程的近似数值解</p>
-<p>取泰勒展开前两项：</p>
-<p><span class="math display">\[ f(x)=f(x_0)+f^{&#39;}(x_0)(x-x_0)
-\]</span></p>
-<p><span class="math display">\[ 当f(x)=0时\colon\enspace
-f(x_0)+f^{&#39;}(x_0)(x-x_0)=0 \]</span></p>
-<p><span class="math display">\[ \therefore
-x=x_0-\frac{f(x_0)}{f^{&#39;}(x_0)} \]</span></p>
-<p><span class="math display">\[
-即x_{n+1}=x_n-\frac{f(x_n)}{f^{&#39;}(x_n)} \]</span></p>
+<p>Comfortably
+Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
+The
+Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
 ]]></content>
       <categories>
-        <category>数学</category>
+        <category>杂谈</category>
       </categories>
+      <tags>
+        <tag>前卫摇滚</tag>
+      </tags>
   </entry>
   <entry>
     <title>那人</title>
