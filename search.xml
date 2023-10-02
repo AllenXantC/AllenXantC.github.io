@@ -103,6 +103,61 @@ machine.</p>
       </categories>
   </entry>
   <entry>
+    <title>Moments</title>
+    <url>/Moments/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>Moments of happiness,</p>
+<p>Moments of dark.</p>
+<p>Moments of future,</p>
+<p>Everlasting remember.</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>Everything's going too fast,</p>
+<p>Fast like momentary frames in head.</p>
+<p>Utopia named Unconsciousness</p>
+<p>Is far too easy to get,</p>
+<p>While too hard to escape.</p>
+<hr />
+<p>Doubted in creating engravements,</p>
+<p>Leaving anything good in here.</p>
+<p>As for most common cases,</p>
+<p>Future unseen is already here.</p>
+<hr />
+<p>Desperate, anger, touching, fantasy,</p>
+<p>All washed away in the ease of a sleep.</p>
+<p>Then forget about the do-ers,</p>
+<p>Just enjoy your little plans and schemes,</p>
+<p>In the moment of all human race.</p>
+<hr />
+<p>Now tell me, what's eternity, happiness or sadness?</p>
+<p>What's contemporary, my life or the human race?</p>
+<p>Ah it's all moments, moments.</p>
+<hr />
+<p>Several decades ago,</p>
+<p>Kerouac killed signs, Curtis killed reality,</p>
+<p>Both killed by time.</p>
+<p>But they carved something on their tombstones,</p>
+<p>Which made time no longer fright.</p>
+<hr />
+<p>Raise your words and acts.</p>
+<p align="right">
+作于2023年8-9月
+</p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Saxophone in 2050s</title>
     <url>/Saxophone-in-2050s/</url>
     <content><![CDATA[<b>
@@ -180,99 +235,6 @@ nowhere.</p>
 ]]></content>
       <categories>
         <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Moments</title>
-    <url>/Moments/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>Moments of happiness,</p>
-<p>Moments of dark.</p>
-<p>Moments of future,</p>
-<p>Everlasting remember.</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>Everything's going too fast,</p>
-<p>Fast like momentary frames in head.</p>
-<p>Utopia named Unconsciousness</p>
-<p>Is far too easy to get,</p>
-<p>While too hard to escape.</p>
-<hr />
-<p>Doubted in creating engravements,</p>
-<p>Leaving anything good in here.</p>
-<p>As for most common cases,</p>
-<p>Future unseen is already here.</p>
-<hr />
-<p>Desperate, anger, touching, fantasy,</p>
-<p>All washed away in the ease of a sleep.</p>
-<p>Then forget about the do-ers,</p>
-<p>Just enjoy your little plans and schemes,</p>
-<p>In the moment of all human race.</p>
-<hr />
-<p>Now tell me, what's eternity, happiness or sadness?</p>
-<p>What's contemporary, my life or the human race?</p>
-<p>Ah it's all moments, moments.</p>
-<hr />
-<p>Several decades ago,</p>
-<p>Kerouac killed signs, Curtis killed reality,</p>
-<p>Both killed by time.</p>
-<p>But they carved something on their tombstones,</p>
-<p>Which made time no longer fright.</p>
-<hr />
-<p>Raise your words and acts.</p>
-<p align="right">
-作于2023年8-9月
-</p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>一些积分</title>
-    <url>/%E4%B8%80%E4%BA%9B%E7%A7%AF%E5%88%86/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="目录">目录</h3>
-<p><a
-href="#分母为二次式或根号下二次式">分母为二次式或根号下二次式</a></p>
-<span id="more"></span>
-<h3 id="分母为二次式或根号下二次式">分母为二次式或根号下二次式</h3>
-<h4 id="思路">思路</h4>
-<p><span class="math display">\[ 把x代入为某个三角或双曲函数
-\]</span></p>
-<h4 id="二次式">二次式</h4>
-<p><span class="math display">\[
-\int\frac{1}{x^2+a^2}\mathrm{d}x=\frac{1}{a}\arctan(\frac{x}{a})+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{x^2-a^2}\mathrm{d}x=\frac{1}{2a}\ln|\frac{x+a}{x-a}|+\mathrm{C}
-\]</span></p>
-<h4 id="根号下二次式">根号下二次式</h4>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{a^2-x^2}}\mathrm{d}x=\arcsin(\frac{x}{a})+\mathrm{C}
-\enspace(|x|&lt;a) \]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{a^2+x^2}}\mathrm{d}x=\mathrm{arsinh}(\frac{x}{a})+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{x^2-a^2}}\mathrm{d}x=\mathrm{arcosh}(\frac{x}{a})+\mathrm{C}\enspace(x&gt;a)
-\]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
       </categories>
   </entry>
   <entry>
@@ -373,6 +335,44 @@ x+\mathrm{C} \]</span></p>
       </categories>
   </entry>
   <entry>
+    <title>一些积分</title>
+    <url>/%E4%B8%80%E4%BA%9B%E7%A7%AF%E5%88%86/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="目录">目录</h3>
+<p><a
+href="#分母为二次式或根号下二次式">分母为二次式或根号下二次式</a></p>
+<span id="more"></span>
+<h3 id="分母为二次式或根号下二次式">分母为二次式或根号下二次式</h3>
+<h4 id="思路">思路</h4>
+<p><span class="math display">\[ 把x代入为某个三角或双曲函数
+\]</span></p>
+<h4 id="二次式">二次式</h4>
+<p><span class="math display">\[
+\int\frac{1}{x^2+a^2}\mathrm{d}x=\frac{1}{a}\arctan(\frac{x}{a})+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{x^2-a^2}\mathrm{d}x=\frac{1}{2a}\ln|\frac{x+a}{x-a}|+\mathrm{C}
+\]</span></p>
+<h4 id="根号下二次式">根号下二次式</h4>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{a^2-x^2}}\mathrm{d}x=\arcsin(\frac{x}{a})+\mathrm{C}
+\enspace(|x|&lt;a) \]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{a^2+x^2}}\mathrm{d}x=\mathrm{arsinh}(\frac{x}{a})+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{x^2-a^2}}\mathrm{d}x=\mathrm{arcosh}(\frac{x}{a})+\mathrm{C}\enspace(x&gt;a)
+\]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
     <title>伽马函数</title>
     <url>/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
     <content><![CDATA[<b>
@@ -428,86 +428,6 @@ XantC
 ]]></content>
       <categories>
         <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>双曲函数</title>
-    <url>/%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="定义">定义</h3>
-<h4 id="几何定义">几何定义</h4>
-<p>双曲线<span
-class="math inline">\(x^2-y^2=1\)</span>右支上的点，到y轴距离为<span
-class="math inline">\(\cosh \theta\)</span>，到x轴距离为<span
-class="math inline">\(\sinh\theta\)</span>，两者正负号不做限定</p>
-<h4 id="代数定义">代数定义</h4>
-<p><span class="math display">\[ \sinh
-x=\frac{\mathrm{e}^x-\mathrm{e}^{-x}}{2} \]</span></p>
-<p><span class="math display">\[ \cosh
-x=\frac{\mathrm{e}^x+\mathrm{e}^{-x}}{2} \]</span></p>
-<span id="more"></span>
-<p><span class="math display">\[ \tanh
-x=\frac{\mathrm{e}^{2x}-1}{\mathrm{e}^{2x}+1} \]</span></p>
-<p><span class="math display">\[ \coth
-x=\frac{\mathrm{e}^{2x}+1}{\mathrm{e}^{2x}-1} \]</span></p>
-<p><span class="math display">\[
-\mathrm{sech}\:x=\frac{2}{\mathrm{e}^x+\mathrm{e}^{-x}} \]</span></p>
-<p><span class="math display">\[
-\mathrm{csch}\:x=\frac{2}{\mathrm{e}^x-\mathrm{e}^{-x}} \]</span></p>
-<h4 id="两者关系">两者关系</h4>
-<p>由积分与<span class="math inline">\(x^2-y^2=1\)</span>的<span
-class="math inline">\(a=1\)</span>，可以得到双曲角<span
-class="math inline">\(\theta\)</span>为它与双曲线所夹面积的2倍，再通过一系列计算,就可以得到<span
-class="math inline">\(\sinh\theta\)</span>与<span
-class="math inline">\(\sinh\theta\)</span>的指数形式</p>
-<h3 id="基本定理">基本定理</h3>
-<p><span class="math display">\[ \cosh x=\cos\mathrm{i}x \]</span></p>
-<p><span class="math display">\[ \mathrm{i}\sinh x=\sin\mathrm{i}x
-\]</span></p>
-<p><span class="math display">\[ \cosh^2x-\sinh^2x=1 \]</span></p>
-<h3 id="三角公式转换为双曲公式">三角公式转换为双曲公式</h3>
-<h4 id="osborns-rule">Osborn's Rule</h4>
-<p><span class="math display">\[ 只有\sin^2 x转到\sinh^2 x时要变号
-\]</span></p>
-<h4 id="证明">证明</h4>
-<p><span class="math display">\[ 待定 \]</span></p>
-<h3 id="反双曲">反双曲</h3>
-<p><span class="math display">\[
-\mathrm{arsinh}\:x=\ln\,(x+\sqrt{x^2+1}) \]</span></p>
-<p><span class="math display">\[
-\mathrm{arcosh}\:x=\ln\,(x+\sqrt{x^2-1})\enspace(x\geq1) \]</span></p>
-<p><span class="math display">\[
-\mathrm{artanh}\:x=\frac{1}{2}\ln\,(\frac{1+x}{1-x})\enspace(\lvert
-x\rvert&lt;1) \]</span></p>
-<h3 id="求导">求导</h3>
-<p><span class="math display">\[ (\sinh x)^{&#39;}=\cosh x \]</span></p>
-<p><span class="math display">\[ (\cosh x)^{&#39;} =\sinh x\]</span></p>
-<p><span class="math display">\[ (\tanh x)^{&#39;}=\mathrm{sech}^2x
-\]</span></p>
-<p><span class="math display">\[ (\coth x)^{&#39;}=-\mathrm{csch}^2x
-\]</span></p>
-<p><span class="math display">\[
-(\mathrm{sech}\:x)^{&#39;}=-\mathrm{sech}\:x\tanh x \]</span></p>
-<p><span class="math display">\[
-(\mathrm{csch}\:x)^{&#39;}=-\mathrm{csch}\:x\coth x \]</span></p>
-<h3 id="积分">积分</h3>
-<p><span class="math display">\[ \int
-\mathrm{sech}\:x=2\arctan\:(e^x)+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int
-\frac{1}{\sqrt{1+x^2}}\mathrm{d}x=\mathrm{arsinh}\:x+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[ \int
-\frac{1}{\sqrt{x^2-1}}\mathrm{d}x=\mathrm{arcosh}\:x+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[ \int
-\frac{1}{1-x^2}\mathrm{d}x=\mathrm{artanh}\:x+\mathrm{C} \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
       </categories>
   </entry>
   <entry>
@@ -587,6 +507,86 @@ XantC
 <h4 id="切线法线方程-3">切线法线方程</h4>
 <p><span class="math display">\[ 切线：ty=x+at^2 \]</span></p>
 <p><span class="math display">\[ 法线：y+tx=2at+at^3 \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>双曲函数</title>
+    <url>/%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="定义">定义</h3>
+<h4 id="几何定义">几何定义</h4>
+<p>双曲线<span
+class="math inline">\(x^2-y^2=1\)</span>右支上的点，到y轴距离为<span
+class="math inline">\(\cosh \theta\)</span>，到x轴距离为<span
+class="math inline">\(\sinh\theta\)</span>，两者正负号不做限定</p>
+<h4 id="代数定义">代数定义</h4>
+<p><span class="math display">\[ \sinh
+x=\frac{\mathrm{e}^x-\mathrm{e}^{-x}}{2} \]</span></p>
+<p><span class="math display">\[ \cosh
+x=\frac{\mathrm{e}^x+\mathrm{e}^{-x}}{2} \]</span></p>
+<span id="more"></span>
+<p><span class="math display">\[ \tanh
+x=\frac{\mathrm{e}^{2x}-1}{\mathrm{e}^{2x}+1} \]</span></p>
+<p><span class="math display">\[ \coth
+x=\frac{\mathrm{e}^{2x}+1}{\mathrm{e}^{2x}-1} \]</span></p>
+<p><span class="math display">\[
+\mathrm{sech}\:x=\frac{2}{\mathrm{e}^x+\mathrm{e}^{-x}} \]</span></p>
+<p><span class="math display">\[
+\mathrm{csch}\:x=\frac{2}{\mathrm{e}^x-\mathrm{e}^{-x}} \]</span></p>
+<h4 id="两者关系">两者关系</h4>
+<p>由积分与<span class="math inline">\(x^2-y^2=1\)</span>的<span
+class="math inline">\(a=1\)</span>，可以得到双曲角<span
+class="math inline">\(\theta\)</span>为它与双曲线所夹面积的2倍，再通过一系列计算,就可以得到<span
+class="math inline">\(\sinh\theta\)</span>与<span
+class="math inline">\(\sinh\theta\)</span>的指数形式</p>
+<h3 id="基本定理">基本定理</h3>
+<p><span class="math display">\[ \cosh x=\cos\mathrm{i}x \]</span></p>
+<p><span class="math display">\[ \mathrm{i}\sinh x=\sin\mathrm{i}x
+\]</span></p>
+<p><span class="math display">\[ \cosh^2x-\sinh^2x=1 \]</span></p>
+<h3 id="三角公式转换为双曲公式">三角公式转换为双曲公式</h3>
+<h4 id="osborns-rule">Osborn's Rule</h4>
+<p><span class="math display">\[ 只有\sin^2 x转到\sinh^2 x时要变号
+\]</span></p>
+<h4 id="证明">证明</h4>
+<p><span class="math display">\[ 待定 \]</span></p>
+<h3 id="反双曲">反双曲</h3>
+<p><span class="math display">\[
+\mathrm{arsinh}\:x=\ln\,(x+\sqrt{x^2+1}) \]</span></p>
+<p><span class="math display">\[
+\mathrm{arcosh}\:x=\ln\,(x+\sqrt{x^2-1})\enspace(x\geq1) \]</span></p>
+<p><span class="math display">\[
+\mathrm{artanh}\:x=\frac{1}{2}\ln\,(\frac{1+x}{1-x})\enspace(\lvert
+x\rvert&lt;1) \]</span></p>
+<h3 id="求导">求导</h3>
+<p><span class="math display">\[ (\sinh x)^{&#39;}=\cosh x \]</span></p>
+<p><span class="math display">\[ (\cosh x)^{&#39;} =\sinh x\]</span></p>
+<p><span class="math display">\[ (\tanh x)^{&#39;}=\mathrm{sech}^2x
+\]</span></p>
+<p><span class="math display">\[ (\coth x)^{&#39;}=-\mathrm{csch}^2x
+\]</span></p>
+<p><span class="math display">\[
+(\mathrm{sech}\:x)^{&#39;}=-\mathrm{sech}\:x\tanh x \]</span></p>
+<p><span class="math display">\[
+(\mathrm{csch}\:x)^{&#39;}=-\mathrm{csch}\:x\coth x \]</span></p>
+<h3 id="积分">积分</h3>
+<p><span class="math display">\[ \int
+\mathrm{sech}\:x=2\arctan\:(e^x)+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int
+\frac{1}{\sqrt{1+x^2}}\mathrm{d}x=\mathrm{arsinh}\:x+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[ \int
+\frac{1}{\sqrt{x^2-1}}\mathrm{d}x=\mathrm{arcosh}\:x+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[ \int
+\frac{1}{1-x^2}\mathrm{d}x=\mathrm{artanh}\:x+\mathrm{C} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -799,6 +799,44 @@ class="math inline">\(\sin^nθ\)</span>展开成关于θ的一次三角多项式
       </categories>
   </entry>
   <entry>
+    <title>新鲜的风</title>
+    <url>/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>一股强风吹来</p>
+<p>带着新鲜的味道</p>
+<p>有些人一见那风</p>
+<p>就畏畏缩缩</p>
+<p>将本真塞紧在大衣里</p>
+<p>而无畏无惧、张开双臂的那一群</p>
+<p>逐渐改造、进化</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>完全换了一副容貌</p>
+<p>说着听不懂的语言</p>
+<p>传播新习得的真理</p>
+<p>一股风一种模样</p>
+<p>以物喜悲，变化无常</p>
+<p>聚众探讨，世间美好</p>
+<b>
+<p align="right">
+作于2023年2月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>小区</title>
     <url>/%E5%B0%8F%E5%8C%BA/</url>
     <content><![CDATA[<b>
@@ -863,34 +901,153 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>新鲜的风</title>
-    <url>/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
+    <title>极坐标系</title>
+    <url>/%E6%9E%81%E5%9D%90%E6%A0%87%E7%B3%BB/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="微分">微分</h3>
+<p><span class="math display">\[
+\begin{align*}
+    &amp;x=r\cos \theta \\
+    &amp;y=r\sin \theta \\
+    &amp;\frac{\mathrm{d}y}{\mathrm{d}x}=\frac{\frac{\mathrm{d}y}{\mathrm{d}\theta}}{\frac{\mathrm{d}x}{\mathrm{d}\theta}}
+\\
+\end{align*}\]</span></p>
+<span id="more"></span>
+<p><span class="math display">\[
+平行于极轴\colon{\frac{\mathrm{d}y}{\mathrm{d}\theta}}=0 \]</span></p>
+<p><span class="math display">\[
+垂直于极轴\colon{\frac{\mathrm{d}x}{\mathrm{d}\theta}}=0 \]</span></p>
+<h3 id="积分">积分</h3>
+<p><span class="math display">\[
+\mathrm{S}=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
+\]</span></p>
+<h4 id="证明">证明</h4>
+<p><span class="math display">\[ \begin{align*}
+    \mathrm{S}&amp;=\sum_{i=0}^{+\infty}\frac{1}{2}r^2\mathrm{d}\theta_{i}
+\\
+    &amp;=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
+\end{align*} \]</span></p>
+<h3 id="作图">作图</h3>
+<p><span class="math display">\[ 对于r=a(p+q\cos\theta)\enspace(p\geq q)
+\colon \]</span></p>
+<p>当<span class="math inline">\(p=q \colon\)</span> <img
+src="/pic/极坐标系/p=q时图像.png" alt="img" /></p>
+<p>当<span class="math inline">\(q&lt;p&lt;2q \colon\)</span> <img
+src="/pic/极坐标系/p在q和2q间时图像.png" alt="img" /></p>
+<p>当<span class="math inline">\(p\geq 2q \colon\)</span> <img
+src="/pic/极坐标系/p大于等于2q图像.png" alt="img" /></p>
+<h4 id="证明-1">证明</h4>
+<p>证明图像有没有凹口，相当于证它切线垂直于极轴的点的个数大于2</p>
+<p>证明：</p>
+<p><span class="math display">\[
+x=r\cos\theta=a\cos\theta(p+q\cos\theta) \]</span></p>
+<p><span class="math display">\[ x=ap\cos\theta+aq\cos^2\theta
+\]</span></p>
+<p><span
+class="math display">\[\frac{\mathrm{d}x}{\mathrm{d}\theta}=-ap\sin\theta-2aq\sin\theta\cos\theta=0\]</span></p>
+<p><span class="math display">\[
+\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q} \]</span></p>
+<details>
+<summary>
+Case 1 有凹口
+</summary>
+<p><span class="math display">\[ \mathrm{Case}\ 1.1\colon\enspace p=q
+\]</span></p>
+<p><span class="math display">\[ \therefore -\frac{p}{2q}=-\frac{1}{2}
+\]</span></p>
+<p><span class="math display">\[ \therefore
+\theta=0,\pi,\pm\frac{2}{3}\pi \]</span></p>
+<p>其中<span class="math inline">\(\theta=\pi\)</span>时，<span
+class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}\theta}\)</span>和<span
+class="math inline">\(\frac{\mathrm{d}x}{\mathrm{d}\theta}\)</span>都为零，再观察图像，发现切线其实是平行于极轴的，所以<span
+class="math inline">\(\theta=0,\pm\frac{2}{3}\pi\)</span>,有凹口</p>
+<p><span class="math display">\[ ~ \]</span></p>
+<p><span class="math display">\[ \mathrm{Case}\ 1.2\colon\enspace
+q&lt;p&lt;2q \]</span></p>
+<p><span class="math display">\[ \therefore -1&lt;-\frac{p}{2q}&lt;1
+\]</span></p>
+<p><span class="math display">\[ \therefore
+\theta=0,\pi,\arccos(-\frac{p}{2q}),(2\pi-\arccos(-\frac{p}{2q}))
+\]</span></p>
+<p><span
+class="math inline">\(\theta\)</span>有四个解，所以图像有凹口</p>
+</details>
+<details>
+<summary>
+Case 2 无凹口
+</summary>
+<p><span class="math display">\[ \mathrm{Case}\ 2\colon\enspace p\geq2q
+\]</span></p>
+<p><span class="math display">\[ \therefore -\frac{p}{2q}\leq-1
+\]</span></p>
+<p><span class="math display">\[
+\because\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q}\]</span></p>
+<p><span class="math display">\[ \therefore \theta=0,\pi \]</span></p>
+<p><span
+class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
+</details>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>炭</title>
+    <url>/%E7%82%AD/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
 <b> <big>
-<center>
-<p>一股强风吹来</p>
-<p>带着新鲜的味道</p>
-<p>有些人一见那风</p>
-<p>就畏畏缩缩</p>
-<p>将本真塞紧在大衣里</p>
-<p>而无畏无惧、张开双臂的那一群</p>
-<p>逐渐改造、进化</p>
-<p></big> <span id="more"></span></p>
+<p align="right">
+—— 卖炭翁 伐薪烧炭南山中
+</p>
+<p></b> </big></p>
+<span id="more"></span>
 <hr />
-<p><big></p>
-<p>完全换了一副容貌</p>
-<p>说着听不懂的语言</p>
-<p>传播新习得的真理</p>
-<p>一股风一种模样</p>
-<p>以物喜悲，变化无常</p>
-<p>聚众探讨，世间美好</p>
+<b> <big>
+<center>
+<p><em>I. 就这样吧</em></p>
+<p>炭</p>
+<p>是一个村子的名字</p>
+<hr />
+<hr />
+<p>就这样就行了</p>
+<p>了了了了了了</p>
+<hr />
+<p>这就像炭从卖炭翁手里 被白衫儿抢走</p>
+<p>炭不可能知道</p>
+<p>卖炭翁的墓在哪 白乐天的魂在哪</p>
+<p>炭又怎么知道呢</p>
+<p>呢呢呢呢呢呢</p>
+<hr />
+<p><em>II. 搞明白了？</em></p>
+<hr />
+<p>Just like the coffee had by noon won't be recalled,</p>
+<p>Until tossing and turning at night.</p>
+<hr />
+<p><em>III. 知行合一</em></p>
+<p>你的想法和行为 离得太远了</p>
+<p>你的想法和愉悦 离得太近了</p>
+<p>你 叫得太大声了</p>
+<p>完美地掩饰</p>
+<p>你的无能</p>
+<hr />
+<p>炭在一块儿烧才旺</p>
+<p>但它的尸体都找不着</p>
+<p>除了挤在你旁边的那群</p>
+<p>炭啊</p>
+<hr />
+<p>捎上他们</p>
+<p>一起回老家去吧</p>
 <b>
 <p align="right">
-作于2023年2月
+作于2023年7月
 </p>
 <p></b></p>
 </b> </big>
@@ -972,98 +1129,6 @@ y\frac{\mathrm{d}s}{\mathrm{d}x} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>炭</title>
-    <url>/%E7%82%AD/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<p align="right">
-—— 卖炭翁 伐薪烧炭南山中
-</p>
-<p></b> </big></p>
-<span id="more"></span>
-<hr />
-<b> <big>
-<center>
-<p><em>I. 就这样吧</em></p>
-<p>炭</p>
-<p>是一个村子的名字</p>
-<hr />
-<hr />
-<p>就这样就行了</p>
-<p>了了了了了了</p>
-<hr />
-<p>这就像炭从卖炭翁手里 被白衫儿抢走</p>
-<p>炭不可能知道</p>
-<p>卖炭翁的墓在哪 白乐天的魂在哪</p>
-<p>炭又怎么知道呢</p>
-<p>呢呢呢呢呢呢</p>
-<hr />
-<p><em>II. 搞明白了？</em></p>
-<hr />
-<p>Just like the coffee had by noon won't be recalled,</p>
-<p>Until tossing and turning at night.</p>
-<hr />
-<p><em>III. 知行合一</em></p>
-<p>你的想法和行为 离得太远了</p>
-<p>你的想法和愉悦 离得太近了</p>
-<p>你 叫得太大声了</p>
-<p>完美地掩饰</p>
-<p>你的无能</p>
-<hr />
-<p>炭在一块儿烧才旺</p>
-<p>但它的尸体都找不着</p>
-<p>除了挤在你旁边的那群</p>
-<p>炭啊</p>
-<hr />
-<p>捎上他们</p>
-<p>一起回老家去吧</p>
-<b>
-<p align="right">
-作于2023年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>爱人朋友</title>
-    <url>/%E7%88%B1%E4%BA%BA%E6%9C%8B%E5%8F%8B/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我的朋友 爱人</p>
-<p>你在哪里</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>爱情慢慢变得神圣</p>
-<p>形式慢慢变得无用</p>
-<p>如果能再来 我会</p>
-<b>
-<p align="right">
-作于2023年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -1180,98 +1245,82 @@ x=x_0-\frac{f(x_0)}{f^{&#39;}(x_0)} \]</span></p>
       </categories>
   </entry>
   <entry>
-    <title>极坐标系</title>
-    <url>/%E6%9E%81%E5%9D%90%E6%A0%87%E7%B3%BB/</url>
+    <title>爱人朋友</title>
+    <url>/%E7%88%B1%E4%BA%BA%E6%9C%8B%E5%8F%8B/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<h3 id="微分">微分</h3>
-<p><span class="math display">\[
-\begin{align*}
-    &amp;x=r\cos \theta \\
-    &amp;y=r\sin \theta \\
-    &amp;\frac{\mathrm{d}y}{\mathrm{d}x}=\frac{\frac{\mathrm{d}y}{\mathrm{d}\theta}}{\frac{\mathrm{d}x}{\mathrm{d}\theta}}
-\\
-\end{align*}\]</span></p>
-<span id="more"></span>
-<p><span class="math display">\[
-平行于极轴\colon{\frac{\mathrm{d}y}{\mathrm{d}\theta}}=0 \]</span></p>
-<p><span class="math display">\[
-垂直于极轴\colon{\frac{\mathrm{d}x}{\mathrm{d}\theta}}=0 \]</span></p>
-<h3 id="积分">积分</h3>
-<p><span class="math display">\[
-\mathrm{S}=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
-\]</span></p>
-<h4 id="证明">证明</h4>
-<p><span class="math display">\[ \begin{align*}
-    \mathrm{S}&amp;=\sum_{i=0}^{+\infty}\frac{1}{2}r^2\mathrm{d}\theta_{i}
-\\
-    &amp;=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
-\end{align*} \]</span></p>
-<h3 id="作图">作图</h3>
-<p><span class="math display">\[ 对于r=a(p+q\cos\theta)\enspace(p\geq q)
-\colon \]</span></p>
-<p>当<span class="math inline">\(p=q \colon\)</span> <img
-src="/pic/极坐标系/p=q时图像.png" alt="img" /></p>
-<p>当<span class="math inline">\(q&lt;p&lt;2q \colon\)</span> <img
-src="/pic/极坐标系/p在q和2q间时图像.png" alt="img" /></p>
-<p>当<span class="math inline">\(p\geq 2q \colon\)</span> <img
-src="/pic/极坐标系/p大于等于2q图像.png" alt="img" /></p>
-<h4 id="证明-1">证明</h4>
-<p>证明图像有没有凹口，相当于证它切线垂直于极轴的点的个数大于2</p>
-<p>证明：</p>
-<p><span class="math display">\[
-x=r\cos\theta=a\cos\theta(p+q\cos\theta) \]</span></p>
-<p><span class="math display">\[ x=ap\cos\theta+aq\cos^2\theta
-\]</span></p>
-<p><span
-class="math display">\[\frac{\mathrm{d}x}{\mathrm{d}\theta}=-ap\sin\theta-2aq\sin\theta\cos\theta=0\]</span></p>
-<p><span class="math display">\[
-\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q} \]</span></p>
-<details>
-<summary>
-Case 1 有凹口
-</summary>
-<p><span class="math display">\[ \mathrm{Case}\ 1.1\colon\enspace p=q
-\]</span></p>
-<p><span class="math display">\[ \therefore -\frac{p}{2q}=-\frac{1}{2}
-\]</span></p>
-<p><span class="math display">\[ \therefore
-\theta=0,\pi,\pm\frac{2}{3}\pi \]</span></p>
-<p>其中<span class="math inline">\(\theta=\pi\)</span>时，<span
-class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}\theta}\)</span>和<span
-class="math inline">\(\frac{\mathrm{d}x}{\mathrm{d}\theta}\)</span>都为零，再观察图像，发现切线其实是平行于极轴的，所以<span
-class="math inline">\(\theta=0,\pm\frac{2}{3}\pi\)</span>,有凹口</p>
-<p><span class="math display">\[ ~ \]</span></p>
-<p><span class="math display">\[ \mathrm{Case}\ 1.2\colon\enspace
-q&lt;p&lt;2q \]</span></p>
-<p><span class="math display">\[ \therefore -1&lt;-\frac{p}{2q}&lt;1
-\]</span></p>
-<p><span class="math display">\[ \therefore
-\theta=0,\pi,\arccos(-\frac{p}{2q}),(2\pi-\arccos(-\frac{p}{2q}))
-\]</span></p>
-<p><span
-class="math inline">\(\theta\)</span>有四个解，所以图像有凹口</p>
-</details>
-<details>
-<summary>
-Case 2 无凹口
-</summary>
-<p><span class="math display">\[ \mathrm{Case}\ 2\colon\enspace p\geq2q
-\]</span></p>
-<p><span class="math display">\[ \therefore -\frac{p}{2q}\leq-1
-\]</span></p>
-<p><span class="math display">\[
-\because\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q}\]</span></p>
-<p><span class="math display">\[ \therefore \theta=0,\pi \]</span></p>
-<p><span
-class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
-</details>
+<b> <big>
+<center>
+<p>我的朋友 爱人</p>
+<p>你在哪里</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>爱情慢慢变得神圣</p>
+<p>形式慢慢变得无用</p>
+<p>如果能再来 我会</p>
+<b>
+<p align="right">
+作于2023年7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
 ]]></content>
       <categories>
-        <category>数学</category>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>牢骚</title>
+    <url>/%E7%89%A2%E9%AA%9A/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>地铁口人头攒动</p>
+<p>流浪歌手有话说</p>
+<p>吉他口琴一张嘴</p>
+<p>憋屈牢骚道面前</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>“好事情”活得蛮累</p>
+<p>八戒他活得挺闲</p>
+<p>悟空打饭 沙僧端水</p>
+<p>改过自新就明天</p>
+<p>啦啦啦啦啦啦</p>
+<p>啊 我的天</p>
+<hr />
+<p>悟空西去享猴生</p>
+<p>三藏无言佛高位</p>
+<p>偶然低头往下看</p>
+<p>骆驼祥子满大街</p>
+<p>啦啦啦啦啦啦</p>
+<p>啊 我的天</p>
+<hr />
+<p>祥子十点回到家</p>
+<p>担忧明日优化否</p>
+<p>福子抚背安慰之</p>
+<p>姑且还有班能加</p>
+<p>啦啦啦啦啦啦</p>
+<p>啊 我的天</p>
+<b>
+<p align="right">
+作于2023年7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -1516,75 +1565,6 @@ class="math inline">\(x=\mathrm{e}^u\)</span>代入即可</p>
       </categories>
   </entry>
   <entry>
-    <title>牢骚</title>
-    <url>/%E7%89%A2%E9%AA%9A/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>地铁口人头攒动</p>
-<p>流浪歌手有话说</p>
-<p>吉他口琴一张嘴</p>
-<p>憋屈牢骚道面前</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>“好事情”活得蛮累</p>
-<p>八戒他活得挺闲</p>
-<p>悟空打饭 沙僧端水</p>
-<p>改过自新就明天</p>
-<p>啦啦啦啦啦啦</p>
-<p>啊 我的天</p>
-<hr />
-<p>悟空西去享猴生</p>
-<p>三藏无言佛高位</p>
-<p>偶然低头往下看</p>
-<p>骆驼祥子满大街</p>
-<p>啦啦啦啦啦啦</p>
-<p>啊 我的天</p>
-<hr />
-<p>祥子十点回到家</p>
-<p>担忧明日优化否</p>
-<p>福子抚背安慰之</p>
-<p>姑且还有班能加</p>
-<p>啦啦啦啦啦啦</p>
-<p>啊 我的天</p>
-<b>
-<p align="right">
-作于2023年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>计算人物移动距离</title>
-    <url>/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
-<span id="more"></span>
-<p>先定义一个累积经过距离的变量。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
-<p>然后是移动函数。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
-]]></content>
-      <categories>
-        <category>Unity2D</category>
-      </categories>
-  </entry>
-  <entry>
     <title>狂人</title>
     <url>/%E7%8B%82%E4%BA%BA/</url>
     <content><![CDATA[<b>
@@ -1627,6 +1607,26 @@ XantC
 ]]></content>
       <categories>
         <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>计算人物移动距离</title>
+    <url>/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
+<span id="more"></span>
+<p>先定义一个累积经过距离的变量。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
+<p>然后是移动函数。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
+]]></content>
+      <categories>
+        <category>Unity2D</category>
       </categories>
   </entry>
   <entry>
@@ -1682,6 +1682,48 @@ Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，�
       </categories>
       <tags>
         <tag>前卫摇滚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>谈《孤独的人是可耻的》</title>
+    <url>/%E8%B0%88%E3%80%8A%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84%E3%80%8B/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>最初，我想用写《黑梦》听后感的结构化方式来写《孤独》，但很快发现写不下去，拖了两个月才从头开始。我觉得这是因为每篇歌词挨个做诗词鉴赏很枯燥，而且我也不擅长分析曲。所以就决定把我印象深刻的部分单独写下来，别写听后感也整个八股文了。</p>
+<span id="more"></span>
+<h3 id="蚂蚁没问题">蚂蚁没问题</h3>
+<p>《蚂蚁蚂蚁》这张专辑里我最喜欢的一首歌，我曾拿它感动哭过一位emo的同志。</p>
+<p>此曲也使我明白了艺术欣赏的方式。</p>
+<p>最初听到“看一看我的理想还埋在土里”时，我总感觉楚哥是在讽刺这些没有理想的人，又觉得用雷鬼这种欢快的节奏来反讽，貌似有点太腹黑了。于是到知乎上一搜，却发现张楚说过:</p>
+<blockquote>
+<p>“我就是喜欢一种特别天然的、无拘无束的东西......所以就写了这么一首歌”。</p>
+</blockquote>
+<p>原来，“没有理想”，在楚哥的乌托邦里并不是什么大事，重要的是能够每天听着收音机，请朋友吃西瓜皮，这就够了。而对我而言，我也因此对乌托邦有了自己明确的想象，明白了艺术欣赏本质是观众和创作者的交流，交流成功，才能达到共鸣。</p>
+<h3 id="女性主义">女性主义</h3>
+<p>在摇滚乐，乃至整个音乐中，这个主题我只在楚哥这里见到过。</p>
+<p>专辑里主要有两首歌与这相关：《和大伙去乘凉》和《赵小姐》。它们是我女性主义的启蒙。</p>
+<p>据B站up主范筒老师所说，张楚从不把自己摆在审视者的角度，而是和他所描写的群体站在一起。这使他能敏锐地点出女性的困境，提出的愿景也充满了亲切。</p>
+<p>像在《和大伙去乘凉》中，张楚唱道：</p>
+<blockquote>
+<p>我可以回去用肥皂把手再洗干净/可我不能去找个姑娘来洗净头脑/姑娘/不该是肥皂/姑娘/不该是肥皂</p>
+</blockquote>
+<p>这句话能有很多种解读：比如物化女性、对爱人的责任等。但由于我自己的经历，以及习惯把看到听到的东西的意义拔高，我更倾向于后一种分析，对这句话的理解也超出了尊重女性，还引申到了对爱情的理解上。希望以后真能做到负尽责任。</p>
+<h3 id="张楚的文风">张楚的“文风”</h3>
+<p>虽然我写过的歌词一类的东西还很少，但我的“文风”还是主要受了崔健和张楚的影响。形式上像崔健，张楚则让我的每句话都包含着含义。</p>
+<p>这张专辑里的张楚很擅长保持听众的兴趣。他会给歌曲起一些“摸不清要唱啥”的名字，像“孤独的人是可耻的”、“厕所和床”；也会在作品开头用新奇的句子“阳光下我的脸突然被什么亲吻，这温暖的感受差点儿送了我的命”。</p>
+<p>第二，表达上也兼收并蓄。其实好的专辑，好的歌曲，都会把心思放在雕琢情绪爆发和低沉的点上。</p>
+<p>如《苍蝇》里，开场的口琴模拟了苍蝇嗡嗡的叫声，吸引起观众兴趣。之后，张楚缓慢唱出“苍蝇”能吃饱饭，心里却依旧空旷的苦衷；以及它为爱所困，感到越来越无力的麻木。苍蝇的叫声继续行进，突然停歇后再跟上鼓点，情绪渲染至高峰，张楚便爆发出了苍蝇们痛恨身边熟悉的一切，想要改变却无能为力的纠结情感。</p>
+<h3 id="总结">总结</h3>
+<p>所以说，张楚对我而言就像个亲切的同龄朋友，他脑子里的东西比我深刻的多，热情也比我强烈。听他的歌就是一场剖析现代生活的交流会。我和众多听众一起琢磨着其中的内涵，一起跟着他唱“前面是光明的大道”，多是一件美事啊。</p>
+]]></content>
+      <categories>
+        <category>听后感</category>
+      </categories>
+      <tags>
+        <tag>中国摇滚乐</tag>
       </tags>
   </entry>
   <entry>
@@ -1799,47 +1841,5 @@ XantC
       <categories>
         <category>文艺</category>
       </categories>
-  </entry>
-  <entry>
-    <title>谈《孤独的人是可耻的》</title>
-    <url>/%E8%B0%88%E3%80%8A%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84%E3%80%8B/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>最初，我想用写《黑梦》听后感的结构化方式来写《孤独》，但很快发现写不下去，拖了两个月才从头开始。我觉得这是因为每篇歌词挨个做诗词鉴赏很枯燥，而且我也不擅长分析曲。所以就决定把我印象深刻的部分单独写下来，别写听后感也整个八股文了。</p>
-<span id="more"></span>
-<h3 id="蚂蚁没问题">蚂蚁没问题</h3>
-<p>《蚂蚁蚂蚁》这张专辑里我最喜欢的一首歌，我曾拿它感动哭过一位emo的同志。</p>
-<p>此曲也使我明白了艺术欣赏的方式。</p>
-<p>最初听到“看一看我的理想还埋在土里”时，我总感觉楚哥是在讽刺这些没有理想的人，又觉得用雷鬼这种欢快的节奏来反讽，貌似有点太腹黑了。于是到知乎上一搜，却发现张楚说过:</p>
-<blockquote>
-<p>“我就是喜欢一种特别天然的、无拘无束的东西......所以就写了这么一首歌”。</p>
-</blockquote>
-<p>原来，“没有理想”，在楚哥的乌托邦里并不是什么大事，重要的是能够每天听着收音机，请朋友吃西瓜皮，这就够了。而对我而言，我也因此对乌托邦有了自己明确的想象，明白了艺术欣赏本质是观众和创作者的交流，交流成功，才能达到共鸣。</p>
-<h3 id="女性主义">女性主义</h3>
-<p>在摇滚乐，乃至整个音乐中，这个主题我只在楚哥这里见到过。</p>
-<p>专辑里主要有两首歌与这相关：《和大伙去乘凉》和《赵小姐》。它们是我女性主义的启蒙。</p>
-<p>据B站up主范筒老师所说，张楚从不把自己摆在审视者的角度，而是和他所描写的群体站在一起。这使他能敏锐地点出女性的困境，提出的愿景也充满了亲切。</p>
-<p>像在《和大伙去乘凉》中，张楚唱道：</p>
-<blockquote>
-<p>我可以回去用肥皂把手再洗干净/可我不能去找个姑娘来洗净头脑/姑娘/不该是肥皂/姑娘/不该是肥皂</p>
-</blockquote>
-<p>这句话能有很多种解读：比如物化女性、对爱人的责任等。但由于我自己的经历，以及习惯把看到听到的东西的意义拔高，我更倾向于后一种分析，对这句话的理解也超出了尊重女性，还引申到了对爱情的理解上。希望以后真能做到负尽责任。</p>
-<h3 id="张楚的文风">张楚的“文风”</h3>
-<p>虽然我写过的歌词一类的东西还很少，但我的“文风”还是主要受了崔健和张楚的影响。形式上像崔健，张楚则让我的每句话都包含着含义。</p>
-<p>这张专辑里的张楚很擅长保持听众的兴趣。他会给歌曲起一些“摸不清要唱啥”的名字，像“孤独的人是可耻的”、“厕所和床”；也会在作品开头用新奇的句子“阳光下我的脸突然被什么亲吻，这温暖的感受差点儿送了我的命”。</p>
-<p>第二，表达上也兼收并蓄。其实好的专辑，好的歌曲，都会把心思放在雕琢情绪爆发和低沉的点上。</p>
-<p>如《苍蝇》里，开场的口琴模拟了苍蝇嗡嗡的叫声，吸引起观众兴趣。之后，张楚缓慢唱出“苍蝇”能吃饱饭，心里却依旧空旷的苦衷；以及它为爱所困，感到越来越无力的麻木。苍蝇的叫声继续行进，突然停歇后再跟上鼓点，情绪渲染至高峰，张楚便爆发出了苍蝇们痛恨身边熟悉的一切，想要改变却无能为力的纠结情感。</p>
-<h3 id="总结">总结</h3>
-<p>所以说，张楚对我而言就像个亲切的同龄朋友，他脑子里的东西比我深刻的多，热情也比我强烈。听他的歌就是一场剖析现代生活的交流会。我和众多听众一起琢磨着其中的内涵，一起跟着他唱“前面是光明的大道”，多是一件美事啊。</p>
-]]></content>
-      <categories>
-        <category>听后感</category>
-      </categories>
-      <tags>
-        <tag>中国摇滚乐</tag>
-      </tags>
   </entry>
 </search>
