@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2023.8.1</title>
-    <url>/2023-8-1/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我今天才明白，《一块红布》是个永恒的东西。</p>
-<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
-<b>
-<p align="right">
-作于2023.8.1
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.9.12</title>
     <url>/2023-9-12/</url>
     <content><![CDATA[<b>
@@ -49,57 +25,27 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>21st Century Education Machine</title>
-    <url>/21st-Century-Education-Machine/</url>
+    <title>2023.8.1</title>
+    <url>/2023-8-1/</url>
     <content><![CDATA[<b>
 <p align="right">
-XantC &amp; gxy
+XantC
 </p>
 <p></b></p>
 <b> <big>
 <center>
-<p>Hey you angels of wonders,</p>
-<p>Where have you been?</p>
-<p>Let me lead you to the path of happiness,</p>
-<p>Conversion towards formality.</p>
-<p>As my conjecture, your protectors advise,</p>
-<p>“Behave, like a 21st century education machine.”</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>As you learn the fabulous poetry,</p>
-<p>We’ll teach ya the unshakable meanings.</p>
-<p>You’d better throw your thoughts away,</p>
-<p>Behave, like a 21st century education machine.</p>
-<hr />
-<p>We highly suggest you, to keep your heads in the game,</p>
-<p>Waiting for mighty vanity, to seep into your daily life.</p>
-<p>Hey young lad, why are you running away?</p>
-<p>See the winners on stage, sure you'll become one someday.</p>
-<p>Behave, like a 21st century education machine.</p>
-<hr />
-<p>Stuck in the solid building,</p>
-<p>Instilled sincere words of future.</p>
-<p>Once a glance out of the window,</p>
-<p>Still bricks and bricks and bricks.</p>
-<p>(You’re a solider. You don’t have to think. You have to obey
-orders.)</p>
-<p>Behave, like a soldier, a brave, a 21st century education
-machine.</p>
+<p>我今天才明白，《一块红布》是个永恒的东西。</p>
+<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
+<b>
 <p align="right">
-作于2022年11月
+作于2023.8.1
 </p>
-<p align="right">
-订于2023年7月
-</p>
-<p></b> </big></p>
-<hr />
-<h3 id="提醒自己一下"><strong>提醒自己一下</strong></h3>
-<p>如果要出版之类的，署名要写两个人名字（提前去问下gxy）</p>
+<p></b></p>
+</b> </big>
 </center>
 ]]></content>
       <categories>
-        <category>文艺</category>
+        <category>日记</category>
       </categories>
   </entry>
   <entry>
@@ -272,41 +218,57 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>一些积分</title>
-    <url>/%E4%B8%80%E4%BA%9B%E7%A7%AF%E5%88%86/</url>
+    <title>21st Century Education Machine</title>
+    <url>/21st-Century-Education-Machine/</url>
     <content><![CDATA[<b>
 <p align="right">
-XantC
+XantC &amp; gxy
 </p>
 <p></b></p>
-<h3 id="目录">目录</h3>
-<p><a
-href="#分母为二次式或根号下二次式">分母为二次式或根号下二次式</a></p>
-<span id="more"></span>
-<h3 id="分母为二次式或根号下二次式">分母为二次式或根号下二次式</h3>
-<h4 id="思路">思路</h4>
-<p><span class="math display">\[ 把x代入为某个三角或双曲函数
-\]</span></p>
-<h4 id="二次式">二次式</h4>
-<p><span class="math display">\[
-\int\frac{1}{x^2+a^2}\mathrm{d}x=\frac{1}{a}\arctan(\frac{x}{a})+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{x^2-a^2}\mathrm{d}x=\frac{1}{2a}\ln|\frac{x+a}{x-a}|+\mathrm{C}
-\]</span></p>
-<h4 id="根号下二次式">根号下二次式</h4>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{a^2-x^2}}\mathrm{d}x=\arcsin(\frac{x}{a})+\mathrm{C}
-\enspace(|x|&lt;a) \]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{a^2+x^2}}\mathrm{d}x=\mathrm{arsinh}(\frac{x}{a})+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{x^2-a^2}}\mathrm{d}x=\mathrm{arcosh}(\frac{x}{a})+\mathrm{C}\enspace(x&gt;a)
-\]</span></p>
+<b> <big>
+<center>
+<p>Hey you angels of wonders,</p>
+<p>Where have you been?</p>
+<p>Let me lead you to the path of happiness,</p>
+<p>Conversion towards formality.</p>
+<p>As my conjecture, your protectors advise,</p>
+<p>“Behave, like a 21st century education machine.”</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>As you learn the fabulous poetry,</p>
+<p>We’ll teach ya the unshakable meanings.</p>
+<p>You’d better throw your thoughts away,</p>
+<p>Behave, like a 21st century education machine.</p>
+<hr />
+<p>We highly suggest you, to keep your heads in the game,</p>
+<p>Waiting for mighty vanity, to seep into your daily life.</p>
+<p>Hey young lad, why are you running away?</p>
+<p>See the winners on stage, sure you'll become one someday.</p>
+<p>Behave, like a 21st century education machine.</p>
+<hr />
+<p>Stuck in the solid building,</p>
+<p>Instilled sincere words of future.</p>
+<p>Once a glance out of the window,</p>
+<p>Still bricks and bricks and bricks.</p>
+<p>(You’re a solider. You don’t have to think. You have to obey
+orders.)</p>
+<p>Behave, like a soldier, a brave, a 21st century education
+machine.</p>
+<p align="right">
+作于2022年11月
+</p>
+<p align="right">
+订于2023年7月
+</p>
+<p></b> </big></p>
+<hr />
+<h3 id="提醒自己一下"><strong>提醒自己一下</strong></h3>
+<p>如果要出版之类的，署名要写两个人名字（提前去问下gxy）</p>
+</center>
 ]]></content>
       <categories>
-        <category>数学</category>
+        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -357,24 +319,38 @@ XantC
       </tags>
   </entry>
   <entry>
-    <title>伽马函数</title>
-    <url>/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
+    <title>一些积分</title>
+    <url>/%E4%B8%80%E4%BA%9B%E7%A7%AF%E5%88%86/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<h3 id="公式">公式</h3>
-<p><span class="math display">\[ 令f(x)=x^n \colon \]</span></p>
-<p><span class="math display">\[ \int
-x^n\mathrm{e}^xdx=f(x)\mathrm{e}^x-f^{&#39;}(x)\mathrm{e}^x+f^{&#39;&#39;}(x)\mathrm{e}^x-...+(-1)^{n}f^{(n)}\mathrm{e}^x
-\]</span></p>
+<h3 id="目录">目录</h3>
+<p><a
+href="#分母为二次式或根号下二次式">分母为二次式或根号下二次式</a></p>
 <span id="more"></span>
-<h3 id="证明">证明</h3>
-<ol type="1">
-<li><p>分部积分法</p></li>
-<li><p>数学归纳法</p></li>
-</ol>
+<h3 id="分母为二次式或根号下二次式">分母为二次式或根号下二次式</h3>
+<h4 id="思路">思路</h4>
+<p><span class="math display">\[ 把x代入为某个三角或双曲函数
+\]</span></p>
+<h4 id="二次式">二次式</h4>
+<p><span class="math display">\[
+\int\frac{1}{x^2+a^2}\mathrm{d}x=\frac{1}{a}\arctan(\frac{x}{a})+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{x^2-a^2}\mathrm{d}x=\frac{1}{2a}\ln|\frac{x+a}{x-a}|+\mathrm{C}
+\]</span></p>
+<h4 id="根号下二次式">根号下二次式</h4>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{a^2-x^2}}\mathrm{d}x=\arcsin(\frac{x}{a})+\mathrm{C}
+\enspace(|x|&lt;a) \]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{a^2+x^2}}\mathrm{d}x=\mathrm{arsinh}(\frac{x}{a})+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{x^2-a^2}}\mathrm{d}x=\mathrm{arcosh}(\frac{x}{a})+\mathrm{C}\enspace(x&gt;a)
+\]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -428,6 +404,133 @@ x+\mathrm{C} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>向量叉乘</title>
+    <url>/%E5%90%91%E9%87%8F%E5%8F%89%E4%B9%98/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="定义">定义</h3>
+<h4 id="几何定义">几何定义</h4>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta\hat{\boldsymbol{n}}
+\]</span></p>
+<p><span class="math display">\[
+其中\hat{\boldsymbol{n}}是垂直于\boldsymbol{a}、\boldsymbol{b}所在平面的单位向量，用右手螺旋定则确定方向
+\]</span></p>
+<span id="more"></span>
+<h4 id="代数定义">代数定义</h4>
+<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
+    a_1\\
+    a_2\\
+    a_3
+\end{bmatrix}, \,
+\boldsymbol{b}=\begin{bmatrix}
+    b_1\\
+    b_2\\
+    b_3
+\end{bmatrix}
+\]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=\begin{vmatrix}
+    \boldsymbol{i} &amp;&amp; \boldsymbol{j} &amp;&amp; \boldsymbol{k}\\
+    a_1 &amp;&amp; a_2 &amp;&amp; a_3 \\
+    b_1 &amp;&amp; b_2 &amp;&amp; b_3\\
+\end{vmatrix} =
+\boldsymbol{i}\begin{vmatrix}
+    a_2&amp;&amp;a_3\\b_2&amp;&amp;b_3
+\end{vmatrix}-
+\boldsymbol{j}\begin{vmatrix}
+    a_1&amp;&amp;a_3\\b_1&amp;&amp;b_3
+\end{vmatrix}+
+\boldsymbol{k}\begin{vmatrix}
+    a_1&amp;&amp;a_2\\b_1&amp;&amp;b_2
+\end{vmatrix} \]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}
+\]</span></p>
+<h5 id="推导">推导</h5>
+<p><span class="math display">\[ \begin{align*}
+    \boldsymbol{a}\times\boldsymbol{b}=&amp;(a_1\boldsymbol{i}+a_2\boldsymbol{j}+a_3\boldsymbol{k})\times(b_1\boldsymbol{i}+b_2\boldsymbol{j}+b_3\boldsymbol{k})\\
+    =&amp;(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}\\
+\end{align*} \]</span></p>
+<h3 id="意义">意义</h3>
+<h4 id="几何意义">几何意义</h4>
+<p><span class="math display">\[
+|\boldsymbol{a}\times\boldsymbol{b}|=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+S_{\Delta}=\frac{1}{2}|\boldsymbol{a}\times\boldsymbol{b}|\,,S_{\text{平四}}=|\boldsymbol{a}\times\boldsymbol{b}|
+\]</span></p>
+<h3 id="混合积">混合积</h3>
+<h4 id="定义-1">定义</h4>
+<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
+    a_1\\
+    a_2\\
+    a_3
+\end{bmatrix}, \,
+\boldsymbol{b}=\begin{bmatrix}
+    b_1\\
+    b_2\\
+    b_3
+\end{bmatrix}, \,
+\boldsymbol{c}=\begin{bmatrix}
+    c_1\\
+    c_2\\
+    c_3
+\end{bmatrix}
+\]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\cdot(\boldsymbol{b}\times\boldsymbol{c})=\begin{vmatrix}
+    a_1&amp;&amp;a_2&amp;&amp;a_3\\
+    b_1&amp;&amp;b_2&amp;&amp;b_3\\
+    c_1&amp;&amp;c_2&amp;&amp;c_3\\
+\end{vmatrix} \]</span></p>
+<h4 id="几何意义-1">几何意义</h4>
+<p><span class="math display">\[
+表示\boldsymbol{a}、\boldsymbol{b}、\boldsymbol{c}构成的平行六面体的体积
+\]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>唯物主义哲学</title>
+    <url>/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>伟人，每个时代都有</p>
+<p>除了自己所在的时代</p>
+<p>每个时代也都有敬仰的伟人</p>
+<p>但没有一个时代 真正敬仰伟人</p>
+<p>敬仰真正的人</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>天上没有鸟</p>
+<p>因为没人看</p>
+<p>剥削可以有</p>
+<p>因为改不了</p>
+<b>
+<p align="right">
+作于2023年9月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -540,209 +643,24 @@ x\rvert&lt;1) \]</span></p>
       </categories>
   </entry>
   <entry>
-    <title>唯物主义哲学</title>
-    <url>/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/</url>
+    <title>伽马函数</title>
+    <url>/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<b> <big>
-<center>
-<p>伟人，每个时代都有</p>
-<p>除了自己所在的时代</p>
-<p>每个时代也都有敬仰的伟人</p>
-<p>但没有一个时代 真正敬仰伟人</p>
-<p>敬仰真正的人</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>天上没有鸟</p>
-<p>因为没人看</p>
-<p>剥削可以有</p>
-<p>因为改不了</p>
-<b>
-<p align="right">
-作于2023年9月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>圆锥曲线求导</title>
-    <url>/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%B1%82%E5%AF%BC/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="核心思路">核心思路</h3>
-<p><span class="math display">\[ 参数方程 \]</span></p>
-<span id="more"></span>
-<h3 id="椭圆">椭圆</h3>
-<h4 id="笛卡尔方程">笛卡尔方程</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
-\]</span></p>
-<h4 id="参数方程">参数方程</h4>
-<p><span class="math display">\[ \begin{cases}
-    x=a\cos\theta \\
-    y=b\sin\theta
-\end{cases} \]</span></p>
-<h4 id="切线法线方程">切线法线方程</h4>
-<p><span class="math display">\[ 切线：ay\sin\theta+bx\cos\theta=ab
-\]</span></p>
-<p><span class="math display">\[
-法线：by\cos\theta=ax\sin\theta+(b^2-a^2)\sin\theta\cos\theta
-\]</span></p>
-<h3 id="双曲线">双曲线</h3>
-<h4 id="标准双曲线">标准双曲线</h4>
-<h5 id="笛卡尔方程-1">笛卡尔方程</h5>
-<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=1
-\]</span></p>
-<h5 id="参数方程-1">参数方程</h5>
-<p><span class="math display">\[
-\begin{aligned}
-    &amp; \begin{cases}
-    x=a\cosh\theta \\
-    y=b\sinh\theta
-\end{cases} \quad
-\text{或} \quad
-\begin{cases}
-    x=a\sec\theta \\
-    y=b\tan\theta
-\end{cases}
-\end{aligned}
-\]</span></p>
-<h5 id="切线法线方程-1">切线法线方程</h5>
-<p><span class="math display">\[\begin{align*}
-    \text{在双曲参数下，}
-    切线：&amp;ay\sinh\theta+ab=bx\cosh\theta \\
-    法线：&amp;by\cosh\theta+ax\sinh\theta=(a^2+b^2)\sinh\theta\cosh\theta
-\\
-    \text{在三角参数下，}
-    切线：&amp;ay\tan\theta+ab=bx\sec\theta \\
-    法线：&amp;by\sec\theta+ax\tan\theta=(a^2+b^2)\sec\theta\tan\theta
-\end{align*}\]</span></p>
-<h4 id="矩形双曲线">矩形双曲线</h4>
-<h5 id="笛卡尔方程-2">笛卡尔方程</h5>
-<p><span class="math display">\[ xy=c^2 \]</span></p>
-<h5 id="参数方程-2">参数方程</h5>
-<p><span class="math display">\[ \begin{cases}
-    x=ct \\
-    y=\frac{c}{t}
-\end{cases} \]</span></p>
-<h5 id="切线法线方程-2">切线法线方程</h5>
-<p><span class="math display">\[ 切线：x+t^2y=2ct \]</span></p>
-<p><span class="math display">\[ 法线：t^3x-ty=c(t^4-1) \]</span></p>
-<h3 id="抛物线">抛物线</h3>
-<h4 id="笛卡尔方程-3">笛卡尔方程</h4>
-<p><span class="math display">\[ y^2=4ax \]</span></p>
-<h4 id="参数方程-3">参数方程</h4>
-<p><span class="math display">\[ \begin{cases}
-    x=at^2 \\
-    y=2at
-\end{cases} \]</span></p>
-<h4 id="切线法线方程-3">切线法线方程</h4>
-<p><span class="math display">\[ 切线：ty=x+at^2 \]</span></p>
-<p><span class="math display">\[ 法线：y+tx=2at+at^3 \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>向量叉乘</title>
-    <url>/%E5%90%91%E9%87%8F%E5%8F%89%E4%B9%98/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="定义">定义</h3>
-<h4 id="几何定义">几何定义</h4>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta\hat{\boldsymbol{n}}
-\]</span></p>
-<p><span class="math display">\[
-其中\hat{\boldsymbol{n}}是垂直于\boldsymbol{a}、\boldsymbol{b}所在平面的单位向量，用右手螺旋定则确定方向
+<h3 id="公式">公式</h3>
+<p><span class="math display">\[ 令f(x)=x^n \colon \]</span></p>
+<p><span class="math display">\[ \int
+x^n\mathrm{e}^xdx=f(x)\mathrm{e}^x-f^{&#39;}(x)\mathrm{e}^x+f^{&#39;&#39;}(x)\mathrm{e}^x-...+(-1)^{n}f^{(n)}\mathrm{e}^x
 \]</span></p>
 <span id="more"></span>
-<h4 id="代数定义">代数定义</h4>
-<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
-    a_1\\
-    a_2\\
-    a_3
-\end{bmatrix}, \,
-\boldsymbol{b}=\begin{bmatrix}
-    b_1\\
-    b_2\\
-    b_3
-\end{bmatrix}
-\]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=\begin{vmatrix}
-    \boldsymbol{i} &amp;&amp; \boldsymbol{j} &amp;&amp; \boldsymbol{k}\\
-    a_1 &amp;&amp; a_2 &amp;&amp; a_3 \\
-    b_1 &amp;&amp; b_2 &amp;&amp; b_3\\
-\end{vmatrix} =
-\boldsymbol{i}\begin{vmatrix}
-    a_2&amp;&amp;a_3\\b_2&amp;&amp;b_3
-\end{vmatrix}-
-\boldsymbol{j}\begin{vmatrix}
-    a_1&amp;&amp;a_3\\b_1&amp;&amp;b_3
-\end{vmatrix}+
-\boldsymbol{k}\begin{vmatrix}
-    a_1&amp;&amp;a_2\\b_1&amp;&amp;b_2
-\end{vmatrix} \]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}
-\]</span></p>
-<h5 id="推导">推导</h5>
-<p><span class="math display">\[ \begin{align*}
-    \boldsymbol{a}\times\boldsymbol{b}=&amp;(a_1\boldsymbol{i}+a_2\boldsymbol{j}+a_3\boldsymbol{k})\times(b_1\boldsymbol{i}+b_2\boldsymbol{j}+b_3\boldsymbol{k})\\
-    =&amp;(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}\\
-\end{align*} \]</span></p>
-<h3 id="意义">意义</h3>
-<h4 id="几何意义">几何意义</h4>
-<p><span class="math display">\[
-|\boldsymbol{a}\times\boldsymbol{b}|=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow
-S_{\Delta}=\frac{1}{2}|\boldsymbol{a}\times\boldsymbol{b}|\,,S_{\text{平四}}=|\boldsymbol{a}\times\boldsymbol{b}|
-\]</span></p>
-<h3 id="混合积">混合积</h3>
-<h4 id="定义-1">定义</h4>
-<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
-    a_1\\
-    a_2\\
-    a_3
-\end{bmatrix}, \,
-\boldsymbol{b}=\begin{bmatrix}
-    b_1\\
-    b_2\\
-    b_3
-\end{bmatrix}, \,
-\boldsymbol{c}=\begin{bmatrix}
-    c_1\\
-    c_2\\
-    c_3
-\end{bmatrix}
-\]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\cdot(\boldsymbol{b}\times\boldsymbol{c})=\begin{vmatrix}
-    a_1&amp;&amp;a_2&amp;&amp;a_3\\
-    b_1&amp;&amp;b_2&amp;&amp;b_3\\
-    c_1&amp;&amp;c_2&amp;&amp;c_3\\
-\end{vmatrix} \]</span></p>
-<h4 id="几何意义-1">几何意义</h4>
-<p><span class="math display">\[
-表示\boldsymbol{a}、\boldsymbol{b}、\boldsymbol{c}构成的平行六面体的体积
-\]</span></p>
+<h3 id="证明">证明</h3>
+<ol type="1">
+<li><p>分部积分法</p></li>
+<li><p>数学归纳法</p></li>
+</ol>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -897,6 +815,88 @@ class="math inline">\(\sin^nθ\)</span>展开成关于θ的一次三角多项式
       </categories>
   </entry>
   <entry>
+    <title>圆锥曲线求导</title>
+    <url>/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%B1%82%E5%AF%BC/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="核心思路">核心思路</h3>
+<p><span class="math display">\[ 参数方程 \]</span></p>
+<span id="more"></span>
+<h3 id="椭圆">椭圆</h3>
+<h4 id="笛卡尔方程">笛卡尔方程</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
+\]</span></p>
+<h4 id="参数方程">参数方程</h4>
+<p><span class="math display">\[ \begin{cases}
+    x=a\cos\theta \\
+    y=b\sin\theta
+\end{cases} \]</span></p>
+<h4 id="切线法线方程">切线法线方程</h4>
+<p><span class="math display">\[ 切线：ay\sin\theta+bx\cos\theta=ab
+\]</span></p>
+<p><span class="math display">\[
+法线：by\cos\theta=ax\sin\theta+(b^2-a^2)\sin\theta\cos\theta
+\]</span></p>
+<h3 id="双曲线">双曲线</h3>
+<h4 id="标准双曲线">标准双曲线</h4>
+<h5 id="笛卡尔方程-1">笛卡尔方程</h5>
+<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=1
+\]</span></p>
+<h5 id="参数方程-1">参数方程</h5>
+<p><span class="math display">\[
+\begin{aligned}
+    &amp; \begin{cases}
+    x=a\cosh\theta \\
+    y=b\sinh\theta
+\end{cases} \quad
+\text{或} \quad
+\begin{cases}
+    x=a\sec\theta \\
+    y=b\tan\theta
+\end{cases}
+\end{aligned}
+\]</span></p>
+<h5 id="切线法线方程-1">切线法线方程</h5>
+<p><span class="math display">\[\begin{align*}
+    \text{在双曲参数下，}
+    切线：&amp;ay\sinh\theta+ab=bx\cosh\theta \\
+    法线：&amp;by\cosh\theta+ax\sinh\theta=(a^2+b^2)\sinh\theta\cosh\theta
+\\
+    \text{在三角参数下，}
+    切线：&amp;ay\tan\theta+ab=bx\sec\theta \\
+    法线：&amp;by\sec\theta+ax\tan\theta=(a^2+b^2)\sec\theta\tan\theta
+\end{align*}\]</span></p>
+<h4 id="矩形双曲线">矩形双曲线</h4>
+<h5 id="笛卡尔方程-2">笛卡尔方程</h5>
+<p><span class="math display">\[ xy=c^2 \]</span></p>
+<h5 id="参数方程-2">参数方程</h5>
+<p><span class="math display">\[ \begin{cases}
+    x=ct \\
+    y=\frac{c}{t}
+\end{cases} \]</span></p>
+<h5 id="切线法线方程-2">切线法线方程</h5>
+<p><span class="math display">\[ 切线：x+t^2y=2ct \]</span></p>
+<p><span class="math display">\[ 法线：t^3x-ty=c(t^4-1) \]</span></p>
+<h3 id="抛物线">抛物线</h3>
+<h4 id="笛卡尔方程-3">笛卡尔方程</h4>
+<p><span class="math display">\[ y^2=4ax \]</span></p>
+<h4 id="参数方程-3">参数方程</h4>
+<p><span class="math display">\[ \begin{cases}
+    x=at^2 \\
+    y=2at
+\end{cases} \]</span></p>
+<h4 id="切线法线方程-3">切线法线方程</h4>
+<p><span class="math display">\[ 切线：ty=x+at^2 \]</span></p>
+<p><span class="math display">\[ 法线：y+tx=2at+at^3 \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
     <title>完整的麦子</title>
     <url>/%E5%AE%8C%E6%95%B4%E7%9A%84%E9%BA%A6%E5%AD%90/</url>
     <content><![CDATA[<b>
@@ -945,107 +945,6 @@ XantC
 <b>
 <p align="right">
 作于2023年9月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>小区</title>
-    <url>/%E5%B0%8F%E5%8C%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<p align="right">
-—— 喂猫，劈柴，周游世界
-</p>
-<p></b></p>
-<b>
-<center>
-<p>我的小区 大多时候很安静</p>
-<p>外面的挖掘机和情侣都不见踪影</p>
-<p>里面的人上上下下 但偶有声响</p>
-<p>空虚寂寞得跟我的生活一样</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我家对面住着个女孩 是个家里蹲</p>
-<p>最大的兴趣就是从早到晚地写诗</p>
-<p>她爸妈好像特别看不惯她不出门工作</p>
-<p>她好像也特别看不惯人们都要出门工作</p>
-<hr />
-<p>我每天不停从小区和外面之间往返</p>
-<p>不管工作日还是假期都一直如此</p>
-<p>我说这没有办法 大地总是唯物的</p>
-<p>我便是她看不惯的其中一个</p>
-<hr />
-<p>一次我突然看到她撰写的大作</p>
-<p>这感觉像是处男 第一次吃了禁果</p>
-<p>心灵飞出了自己 那群干部和高智商</p>
-<p>可我剩下的一切还留在这里</p>
-<hr />
-<p>污水和柴米油盐 越过越长</p>
-<p>麦子和明天 越读越不顺畅</p>
-<p>不管出门多少次 还是没真正出过小区</p>
-<p>就连对面的那只猫都会让我烦躁</p>
-<hr />
-<p>我大步流星地来到门口 打算永远地离开这里</p>
-<p>一群小孩从外面飞驰而过</p>
-<p>其中一个一把抓住我 回头一看</p>
-<p>原来是我在拽着我自己</p>
-<hr />
-<p>我的朋友低头咕哝了点什么</p>
-<p>但丢弃唯心的瞬间也太可惜</p>
-<p>突然身后一个声音响起</p>
-<hr />
-<p>那个姑娘在外边笑着</p>
-<p>冲我招手</p>
-<p align="right">
-作于2023年8-9月
-</p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>新鲜的风</title>
-    <url>/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>一股强风吹来</p>
-<p>带着新鲜的味道</p>
-<p>有些人一见那风</p>
-<p>就畏畏缩缩</p>
-<p>将本真塞紧在大衣里</p>
-<p>而无畏无惧、张开双臂的那一群</p>
-<p>逐渐改造、进化</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>完全换了一副容貌</p>
-<p>说着听不懂的语言</p>
-<p>传播新习得的真理</p>
-<p>一股风一种模样</p>
-<p>以物喜悲，变化无常</p>
-<p>聚众探讨，世间美好</p>
-<b>
-<p align="right">
-作于2023年2月
 </p>
 <p></b></p>
 </b> </big>
@@ -1151,6 +1050,69 @@ class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
       </categories>
   </entry>
   <entry>
+    <title>小区</title>
+    <url>/%E5%B0%8F%E5%8C%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<p align="right">
+—— 喂猫，劈柴，周游世界
+</p>
+<p></b></p>
+<b>
+<center>
+<p>我的小区 大多时候很安静</p>
+<p>外面的挖掘机和情侣都不见踪影</p>
+<p>里面的人上上下下 但偶有声响</p>
+<p>空虚寂寞得跟我的生活一样</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>我家对面住着个女孩 是个家里蹲</p>
+<p>最大的兴趣就是从早到晚地写诗</p>
+<p>她爸妈好像特别看不惯她不出门工作</p>
+<p>她好像也特别看不惯人们都要出门工作</p>
+<hr />
+<p>我每天不停从小区和外面之间往返</p>
+<p>不管工作日还是假期都一直如此</p>
+<p>我说这没有办法 大地总是唯物的</p>
+<p>我便是她看不惯的其中一个</p>
+<hr />
+<p>一次我突然看到她撰写的大作</p>
+<p>这感觉像是处男 第一次吃了禁果</p>
+<p>心灵飞出了自己 那群干部和高智商</p>
+<p>可我剩下的一切还留在这里</p>
+<hr />
+<p>污水和柴米油盐 越过越长</p>
+<p>麦子和明天 越读越不顺畅</p>
+<p>不管出门多少次 还是没真正出过小区</p>
+<p>就连对面的那只猫都会让我烦躁</p>
+<hr />
+<p>我大步流星地来到门口 打算永远地离开这里</p>
+<p>一群小孩从外面飞驰而过</p>
+<p>其中一个一把抓住我 回头一看</p>
+<p>原来是我在拽着我自己</p>
+<hr />
+<p>我的朋友低头咕哝了点什么</p>
+<p>但丢弃唯心的瞬间也太可惜</p>
+<p>突然身后一个声音响起</p>
+<hr />
+<p>那个姑娘在外边笑着</p>
+<p>冲我招手</p>
+<p align="right">
+作于2023年8-9月
+</p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>求曲线本身属性</title>
     <url>/%E6%B1%82%E6%9B%B2%E7%BA%BF%E6%9C%AC%E8%BA%AB%E5%B1%9E%E6%80%A7/</url>
     <content><![CDATA[<b>
@@ -1222,6 +1184,44 @@ y\frac{\mathrm{d}s}{\mathrm{d}x} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>新鲜的风</title>
+    <url>/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>一股强风吹来</p>
+<p>带着新鲜的味道</p>
+<p>有些人一见那风</p>
+<p>就畏畏缩缩</p>
+<p>将本真塞紧在大衣里</p>
+<p>而无畏无惧、张开双臂的那一群</p>
+<p>逐渐改造、进化</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>完全换了一副容貌</p>
+<p>说着听不懂的语言</p>
+<p>传播新习得的真理</p>
+<p>一股风一种模样</p>
+<p>以物喜悲，变化无常</p>
+<p>聚众探讨，世间美好</p>
+<b>
+<p align="right">
+作于2023年2月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -1433,6 +1433,51 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>狂人</title>
+    <url>/%E7%8B%82%E4%BA%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>我是个觉醒的狂人 但不是鲁迅写的那个</p>
+<p>因为我和很多其他的狂人在一起</p>
+<p>找到了志同道合的知音总是甜蜜的 所以这是个美好的集体</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>我既然觉醒了 那就会每晚花时间思考东西</p>
+<p>比如像红烧里脊 和那天上的红旗</p>
+<p>想着想着 想明白了个人和集体</p>
+<p>我赶紧找到一个狂人兄弟分享感情</p>
+<hr />
+<p>我说 “个人和集体值得平衡”</p>
+<p>眼神偷偷打量着他的反应</p>
+<p>但他眉头紧皱 斜着瞟了我一眼</p>
+<p>“你是不是被风吹傻了”</p>
+<hr />
+<p>我想往下解释 却又被他制止</p>
+<p>我好像成了个狂人了</p>
+<p>他摇摇头站起身子 在手机上打了些什么</p>
+<p>我好像真的成了个狂人了</p>
+<hr />
+<p>我是个觉醒的狂人</p>
+<p>我是个觉醒的狂人</p>
+<b>
+<p align="right">
+作于2023年6月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>牢骚</title>
     <url>/%E7%89%A2%E9%AA%9A/</url>
     <content><![CDATA[<b>
@@ -1472,51 +1517,6 @@ XantC
 <b>
 <p align="right">
 作于2023年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>狂人</title>
-    <url>/%E7%8B%82%E4%BA%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我是个觉醒的狂人 但不是鲁迅写的那个</p>
-<p>因为我和很多其他的狂人在一起</p>
-<p>找到了志同道合的知音总是甜蜜的 所以这是个美好的集体</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我既然觉醒了 那就会每晚花时间思考东西</p>
-<p>比如像红烧里脊 和那天上的红旗</p>
-<p>想着想着 想明白了个人和集体</p>
-<p>我赶紧找到一个狂人兄弟分享感情</p>
-<hr />
-<p>我说 “个人和集体值得平衡”</p>
-<p>眼神偷偷打量着他的反应</p>
-<p>但他眉头紧皱 斜着瞟了我一眼</p>
-<p>“你是不是被风吹傻了”</p>
-<hr />
-<p>我想往下解释 却又被他制止</p>
-<p>我好像成了个狂人了</p>
-<p>他摇摇头站起身子 在手机上打了些什么</p>
-<p>我好像真的成了个狂人了</p>
-<hr />
-<p>我是个觉醒的狂人</p>
-<p>我是个觉醒的狂人</p>
-<b>
-<p align="right">
-作于2023年6月
 </p>
 <p></b></p>
 </b> </big>
@@ -1583,6 +1583,11 @@ XantC
 <p><span class="math display">\[
 d=\bigg|\frac{(\boldsymbol{a}-\boldsymbol{c})\cdot(\boldsymbol{b}\times\boldsymbol{d})}{|\boldsymbol{b}\times\boldsymbol{d}|}\bigg|
 \]</span></p>
+<h3 id="原点到平面距离">原点到平面距离</h3>
+<p><span class="math display">\[
+\boldsymbol{r}\cdot\hat{\boldsymbol{n}}=d \]</span></p>
+<p><span class="math display">\[
+其中\hat{\boldsymbol{n}}为单位法向量，d为原点到平面距离 \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -1606,6 +1611,242 @@ XantC
 ]]></content>
       <categories>
         <category>Unity2D</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>谈《人民抱住想象力》</title>
+    <url>/%E8%B0%88%E3%80%8A%E4%BA%BA%E6%B0%91%E6%8A%B1%E4%BD%8F%E6%83%B3%E8%B1%A1%E5%8A%9B%E3%80%8B/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<blockquote>
+<p>“人民抱住想象力啊，就像抱住邻居的鸡啊。”</p>
+</blockquote>
+<hr />
+<p>这是继Pink
+Floyd的<em>Animals</em>之后，我听过的第二张把全社会都骂了一遍的，甚至于把“社会”本身给骂了一遍的唱片。</p>
+]]></content>
+      <categories>
+        <category>听后感</category>
+      </categories>
+      <tags>
+        <tag>中国摇滚乐</tag>
+        <tag>前卫摇滚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>读《呐喊》有感</title>
+    <url>/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p><b></p>
+<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
+<p></b></p>
+<span id="more"></span>
+<p><b></p>
+<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
+<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
+<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
+<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
+<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
+<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
+<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
+<b>
+<p align="right">
+作于2023年8月
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>读后感</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>谈《孤独的人是可耻的》</title>
+    <url>/%E8%B0%88%E3%80%8A%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84%E3%80%8B/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>最初，我想用写《黑梦》听后感的结构化方式来写《孤独》，但很快发现写不下去，拖了两个月才从头开始。我觉得这是因为每篇歌词挨个做诗词鉴赏很枯燥，而且我也不擅长分析曲。所以就决定把我印象深刻的部分单独写下来，别写听后感也整个八股文了。</p>
+<span id="more"></span>
+<h3 id="蚂蚁没问题">蚂蚁没问题</h3>
+<p>《蚂蚁蚂蚁》这张专辑里我最喜欢的一首歌，我曾拿它感动哭过一位emo的同志。</p>
+<p>此曲也使我明白了艺术欣赏的方式。</p>
+<p>最初听到“看一看我的理想还埋在土里”时，我总感觉楚哥是在讽刺这些没有理想的人，又觉得用雷鬼这种欢快的节奏来反讽，貌似有点太腹黑了。于是到知乎上一搜，却发现张楚说过:</p>
+<blockquote>
+<p>“我就是喜欢一种特别天然的、无拘无束的东西......所以就写了这么一首歌”。</p>
+</blockquote>
+<p>原来，“没有理想”，在楚哥的乌托邦里并不是什么大事，重要的是能够每天听着收音机，请朋友吃西瓜皮，这就够了。而对我而言，我也因此对乌托邦有了自己明确的想象，明白了艺术欣赏本质是观众和创作者的交流，交流成功，才能达到共鸣。</p>
+<h3 id="女性主义">女性主义</h3>
+<p>在摇滚乐，乃至整个音乐中，这个主题我只在楚哥这里见到过。</p>
+<p>专辑里主要有两首歌与这相关：《和大伙去乘凉》和《赵小姐》。它们是我女性主义的启蒙。</p>
+<p>据B站up主范筒老师所说，张楚从不把自己摆在审视者的角度，而是和他所描写的群体站在一起。这使他能敏锐地点出女性的困境，提出的愿景也充满了亲切。</p>
+<p>像在《和大伙去乘凉》中，张楚唱道：</p>
+<blockquote>
+<p>我可以回去用肥皂把手再洗干净/可我不能去找个姑娘来洗净头脑/姑娘/不该是肥皂/姑娘/不该是肥皂</p>
+</blockquote>
+<p>这句话能有很多种解读：比如物化女性、对爱人的责任等。但由于我自己的经历，以及习惯把看到听到的东西的意义拔高，我更倾向于后一种分析，对这句话的理解也超出了尊重女性，还引申到了对爱情的理解上。希望以后真能做到负尽责任。</p>
+<h3 id="张楚的文风">张楚的“文风”</h3>
+<p>虽然我写过的歌词一类的东西还很少，但我的“文风”还是主要受了崔健和张楚的影响。形式上像崔健，张楚则让我的每句话都包含着含义（读起来也着实累人）。</p>
+<p>这张专辑里的张楚很擅长保持听众的兴趣。他会给歌曲起一些“摸不清要唱啥”的名字，像“孤独的人是可耻的”、“厕所和床”；也会在作品开头用新奇的句子“阳光下我的脸突然被什么亲吻，这温暖的感受差点儿送了我的命”。</p>
+<p>第二，表达上也兼收并蓄。其实好的专辑，好的歌曲，都会把心思放在雕琢情绪爆发和低沉的点上。</p>
+<p>如《苍蝇》里，开场的口琴模拟了苍蝇嗡嗡的叫声，吸引起观众兴趣。之后，张楚缓慢唱出“苍蝇”能吃饱饭，心里却依旧空旷的苦衷；以及它为爱所困，感到越来越无力的麻木。苍蝇的叫声继续行进，突然停歇后再跟上鼓点，情绪渲染至高峰，张楚便爆发出了苍蝇们痛恨身边熟悉的一切，想要改变却无能为力的纠结情感。</p>
+<h3 id="总结">总结</h3>
+<p>所以说，张楚对我而言就像个亲切的同龄朋友，他脑子里的东西比我深刻的多，热情也比我强烈。听他的歌就是一场剖析现代生活的交流会。我和众多听众一起琢磨着其中的内涵，一起跟着他唱“前面是光明的大道”，多是一件美事啊。</p>
+]]></content>
+      <categories>
+        <category>听后感</category>
+      </categories>
+      <tags>
+        <tag>中国摇滚乐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>谈谈迷墙里平克的法西斯式行为</title>
+    <url>/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
+Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
+Like Hell”, ”Waiting For The Worms”等等。</p>
+<span id="more"></span>
+<p>Comfortably
+Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
+The
+Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>前卫摇滚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>那人</title>
+    <url>/%E9%82%A3%E4%BA%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>他从小到大 没仔细想过周围的一切</p>
+<p>一些困惑只在悠闲的时候才会出现</p>
+<p>这好像是他天生的诟病</p>
+<p>但能活在空调下 还有什么不乐意</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>他不久就去念书了 成绩特好</p>
+<p>老师同学都说他是个好苗苗</p>
+<p>但反差的是 他最讨厌别人叫他“知识分子”</p>
+<p>因为他总会感到不顺 不知道要怎么回应</p>
+<p>他一特棒的朋友就会马上安慰他</p>
+<p>陪他打游戏 给他说好话</p>
+<p>他心里的苍蝇来回乱窜了</p>
+<hr />
+<p>他很快就上初中了 成绩依然保持稳定</p>
+<p>他有了喜欢的女生和帅气的情敌</p>
+<p>等他俩牵起手来 肚子就一阵绞痛</p>
+<p>他为此消沉了一阵 开始琢磨些什么</p>
+<hr />
+<p>他断定自己并不适合恋爱</p>
+<p>越想越觉得自己只适合学习</p>
+<p>别管这些破事 以后还得吹空调上班呢</p>
+<p>他把手机拿出来开始奋斗</p>
+<hr />
+<p>命运给他推了一首歌 叫“教育机器”</p>
+<p>听得他醍醐灌顶却又心有余悸</p>
+<p>过去做的一切好像突然失去了意义</p>
+<p>因为一个花三分钟就听完了的东西</p>
+<hr />
+<p>这种撕裂的感觉持续撕裂着他</p>
+<p>一直到走上中考的考场</p>
+<p>他九年来奋斗的底气强撑着他</p>
+<p>铃响了 他把卷子交给老师</p>
+<hr />
+<p>他回到家 不知道要干什么 就死盯着那叠书</p>
+<p>心里的苍蝇闷得飞不起来了</p>
+<p>他挑了一本出来 还不肯服输</p>
+<p>他慢慢发现他的心灵也一并被交上去了</p>
+<hr />
+<p>这人终于受不了了 他找到了他的父亲</p>
+<p>他问：“这天怎么他妈这么闷啊”</p>
+<p>“你开个空调不就得了”</p>
+<b>
+<p align="right">
+作于2023年6-7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>那人（2）</title>
+    <url>/%E9%82%A3%E4%BA%BA%EF%BC%882%EF%BC%89/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>（嘶吼）</p>
+<p>我不是“那人”</p>
+<p>我是我自己</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>“教育机器”只是个开头</p>
+<p>网络上的很多还等着他探索</p>
+<p>踩一捧一 电子药剂</p>
+<p>这些他都倒背如流</p>
+<hr />
+<p>他坚决否定过去的自己</p>
+<p>就像否定孔孟一样容易</p>
+<p>他坚决追捧如今的自己</p>
+<p>就像十万个人血馒头 捧起了鲁迅</p>
+<hr />
+<p>可以把“太较真”的内容放进去</p>
+<hr />
+<p>父亲说</p>
+<p>要打仗了</p>
+<p>母亲说</p>
+<p>又长痘了</p>
+<p>亲戚说</p>
+<p>又变瘦了</p>
+<p>我说</p>
+<p>了什么？</p>
+<hr />
+<p>这不还是没变么</p>
+<p>只是他头顶上的空调换了个牌子</p>
+<b>
+<p align="right">
+作于2023年7-8月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -1847,242 +2088,6 @@ class="math inline">\(x=\mathrm{e}^u\)</span>代入即可</p>
 ]]></content>
       <categories>
         <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>谈《人民抱住想象力》</title>
-    <url>/%E8%B0%88%E3%80%8A%E4%BA%BA%E6%B0%91%E6%8A%B1%E4%BD%8F%E6%83%B3%E8%B1%A1%E5%8A%9B%E3%80%8B/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<blockquote>
-<p>“人民抱住想象力啊，就像抱住邻居的鸡啊。”</p>
-</blockquote>
-<hr />
-<p>这是继Pink
-Floyd的<em>Animals</em>之后，我听过的第二张把全社会都骂了一遍的，甚至于把“社会”本身给骂了一遍的唱片。</p>
-]]></content>
-      <categories>
-        <category>听后感</category>
-      </categories>
-      <tags>
-        <tag>中国摇滚乐</tag>
-        <tag>前卫摇滚</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>谈《孤独的人是可耻的》</title>
-    <url>/%E8%B0%88%E3%80%8A%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84%E3%80%8B/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>最初，我想用写《黑梦》听后感的结构化方式来写《孤独》，但很快发现写不下去，拖了两个月才从头开始。我觉得这是因为每篇歌词挨个做诗词鉴赏很枯燥，而且我也不擅长分析曲。所以就决定把我印象深刻的部分单独写下来，别写听后感也整个八股文了。</p>
-<span id="more"></span>
-<h3 id="蚂蚁没问题">蚂蚁没问题</h3>
-<p>《蚂蚁蚂蚁》这张专辑里我最喜欢的一首歌，我曾拿它感动哭过一位emo的同志。</p>
-<p>此曲也使我明白了艺术欣赏的方式。</p>
-<p>最初听到“看一看我的理想还埋在土里”时，我总感觉楚哥是在讽刺这些没有理想的人，又觉得用雷鬼这种欢快的节奏来反讽，貌似有点太腹黑了。于是到知乎上一搜，却发现张楚说过:</p>
-<blockquote>
-<p>“我就是喜欢一种特别天然的、无拘无束的东西......所以就写了这么一首歌”。</p>
-</blockquote>
-<p>原来，“没有理想”，在楚哥的乌托邦里并不是什么大事，重要的是能够每天听着收音机，请朋友吃西瓜皮，这就够了。而对我而言，我也因此对乌托邦有了自己明确的想象，明白了艺术欣赏本质是观众和创作者的交流，交流成功，才能达到共鸣。</p>
-<h3 id="女性主义">女性主义</h3>
-<p>在摇滚乐，乃至整个音乐中，这个主题我只在楚哥这里见到过。</p>
-<p>专辑里主要有两首歌与这相关：《和大伙去乘凉》和《赵小姐》。它们是我女性主义的启蒙。</p>
-<p>据B站up主范筒老师所说，张楚从不把自己摆在审视者的角度，而是和他所描写的群体站在一起。这使他能敏锐地点出女性的困境，提出的愿景也充满了亲切。</p>
-<p>像在《和大伙去乘凉》中，张楚唱道：</p>
-<blockquote>
-<p>我可以回去用肥皂把手再洗干净/可我不能去找个姑娘来洗净头脑/姑娘/不该是肥皂/姑娘/不该是肥皂</p>
-</blockquote>
-<p>这句话能有很多种解读：比如物化女性、对爱人的责任等。但由于我自己的经历，以及习惯把看到听到的东西的意义拔高，我更倾向于后一种分析，对这句话的理解也超出了尊重女性，还引申到了对爱情的理解上。希望以后真能做到负尽责任。</p>
-<h3 id="张楚的文风">张楚的“文风”</h3>
-<p>虽然我写过的歌词一类的东西还很少，但我的“文风”还是主要受了崔健和张楚的影响。形式上像崔健，张楚则让我的每句话都包含着含义（读起来也着实累人）。</p>
-<p>这张专辑里的张楚很擅长保持听众的兴趣。他会给歌曲起一些“摸不清要唱啥”的名字，像“孤独的人是可耻的”、“厕所和床”；也会在作品开头用新奇的句子“阳光下我的脸突然被什么亲吻，这温暖的感受差点儿送了我的命”。</p>
-<p>第二，表达上也兼收并蓄。其实好的专辑，好的歌曲，都会把心思放在雕琢情绪爆发和低沉的点上。</p>
-<p>如《苍蝇》里，开场的口琴模拟了苍蝇嗡嗡的叫声，吸引起观众兴趣。之后，张楚缓慢唱出“苍蝇”能吃饱饭，心里却依旧空旷的苦衷；以及它为爱所困，感到越来越无力的麻木。苍蝇的叫声继续行进，突然停歇后再跟上鼓点，情绪渲染至高峰，张楚便爆发出了苍蝇们痛恨身边熟悉的一切，想要改变却无能为力的纠结情感。</p>
-<h3 id="总结">总结</h3>
-<p>所以说，张楚对我而言就像个亲切的同龄朋友，他脑子里的东西比我深刻的多，热情也比我强烈。听他的歌就是一场剖析现代生活的交流会。我和众多听众一起琢磨着其中的内涵，一起跟着他唱“前面是光明的大道”，多是一件美事啊。</p>
-]]></content>
-      <categories>
-        <category>听后感</category>
-      </categories>
-      <tags>
-        <tag>中国摇滚乐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>读《呐喊》有感</title>
-    <url>/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p><b></p>
-<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
-<p></b></p>
-<span id="more"></span>
-<p><b></p>
-<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
-<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
-<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
-<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
-<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
-<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
-<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
-<b>
-<p align="right">
-作于2023年8月
-</p>
-<p></b></p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>读后感</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>谈谈迷墙里平克的法西斯式行为</title>
-    <url>/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
-Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
-Like Hell”, ”Waiting For The Worms”等等。</p>
-<span id="more"></span>
-<p>Comfortably
-Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
-The
-Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>前卫摇滚</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>那人</title>
-    <url>/%E9%82%A3%E4%BA%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>他从小到大 没仔细想过周围的一切</p>
-<p>一些困惑只在悠闲的时候才会出现</p>
-<p>这好像是他天生的诟病</p>
-<p>但能活在空调下 还有什么不乐意</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>他不久就去念书了 成绩特好</p>
-<p>老师同学都说他是个好苗苗</p>
-<p>但反差的是 他最讨厌别人叫他“知识分子”</p>
-<p>因为他总会感到不顺 不知道要怎么回应</p>
-<p>他一特棒的朋友就会马上安慰他</p>
-<p>陪他打游戏 给他说好话</p>
-<p>他心里的苍蝇来回乱窜了</p>
-<hr />
-<p>他很快就上初中了 成绩依然保持稳定</p>
-<p>他有了喜欢的女生和帅气的情敌</p>
-<p>等他俩牵起手来 肚子就一阵绞痛</p>
-<p>他为此消沉了一阵 开始琢磨些什么</p>
-<hr />
-<p>他断定自己并不适合恋爱</p>
-<p>越想越觉得自己只适合学习</p>
-<p>别管这些破事 以后还得吹空调上班呢</p>
-<p>他把手机拿出来开始奋斗</p>
-<hr />
-<p>命运给他推了一首歌 叫“教育机器”</p>
-<p>听得他醍醐灌顶却又心有余悸</p>
-<p>过去做的一切好像突然失去了意义</p>
-<p>因为一个花三分钟就听完了的东西</p>
-<hr />
-<p>这种撕裂的感觉持续撕裂着他</p>
-<p>一直到走上中考的考场</p>
-<p>他九年来奋斗的底气强撑着他</p>
-<p>铃响了 他把卷子交给老师</p>
-<hr />
-<p>他回到家 不知道要干什么 就死盯着那叠书</p>
-<p>心里的苍蝇闷得飞不起来了</p>
-<p>他挑了一本出来 还不肯服输</p>
-<p>他慢慢发现他的心灵也一并被交上去了</p>
-<hr />
-<p>这人终于受不了了 他找到了他的父亲</p>
-<p>他问：“这天怎么他妈这么闷啊”</p>
-<p>“你开个空调不就得了”</p>
-<b>
-<p align="right">
-作于2023年6-7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>那人（2）</title>
-    <url>/%E9%82%A3%E4%BA%BA%EF%BC%882%EF%BC%89/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>（嘶吼）</p>
-<p>我不是“那人”</p>
-<p>我是我自己</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>“教育机器”只是个开头</p>
-<p>网络上的很多还等着他探索</p>
-<p>踩一捧一 电子药剂</p>
-<p>这些他都倒背如流</p>
-<hr />
-<p>他坚决否定过去的自己</p>
-<p>就像否定孔孟一样容易</p>
-<p>他坚决追捧如今的自己</p>
-<p>就像十万个人血馒头 捧起了鲁迅</p>
-<hr />
-<p>可以把“太较真”的内容放进去</p>
-<hr />
-<p>父亲说</p>
-<p>要打仗了</p>
-<p>母亲说</p>
-<p>又长痘了</p>
-<p>亲戚说</p>
-<p>又变瘦了</p>
-<p>我说</p>
-<p>了什么？</p>
-<hr />
-<p>这不还是没变么</p>
-<p>只是他头顶上的空调换了个牌子</p>
-<b>
-<p align="right">
-作于2023年7-8月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
       </categories>
   </entry>
 </search>
