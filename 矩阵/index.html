@@ -19,27 +19,27 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"allenxantc.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.17.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"style":null,"show_result":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"waline","storage":true,"lazyload":false,"nav":null,"activeClass":"waline"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="XantC   定义 \[ \boldsymbol{A}\boldsymbol{x}&#x3D;\lambda\boldsymbol{x} \] \[ \boldsymbol{x}为特征向量，\lambda为特征值 \]">
+    <meta name="description" content="XantC   特征值 定义 \[ \mathbf{A}\boldsymbol{x}&#x3D;\lambda\boldsymbol{x} \] \[ \boldsymbol{x}为特征向量，\lambda为特征值 \]">
 <meta property="og:type" content="article">
-<meta property="og:title" content="矩阵特征值">
-<meta property="og:url" content="https://allenxantc.github.io/%E7%9F%A9%E9%98%B5%E7%89%B9%E5%BE%81%E5%80%BC/index.html">
+<meta property="og:title" content="矩阵">
+<meta property="og:url" content="https://allenxantc.github.io/%E7%9F%A9%E9%98%B5/index.html">
 <meta property="og:site_name" content="XantC的博客">
-<meta property="og:description" content="XantC   定义 \[ \boldsymbol{A}\boldsymbol{x}&#x3D;\lambda\boldsymbol{x} \] \[ \boldsymbol{x}为特征向量，\lambda为特征值 \]">
+<meta property="og:description" content="XantC   特征值 定义 \[ \mathbf{A}\boldsymbol{x}&#x3D;\lambda\boldsymbol{x} \] \[ \boldsymbol{x}为特征向量，\lambda为特征值 \]">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2023-11-12T01:28:35.000Z">
-<meta property="article:modified_time" content="2023-11-12T01:46:48.672Z">
+<meta property="article:modified_time" content="2023-11-19T01:18:47.101Z">
 <meta property="article:author" content="XantC">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="https://allenxantc.github.io/%E7%9F%A9%E9%98%B5%E7%89%B9%E5%BE%81%E5%80%BC/">
+<link rel="canonical" href="https://allenxantc.github.io/%E7%9F%A9%E9%98%B5/">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/%E7%9F%A9%E9%98%B5%E7%89%B9%E5%BE%81%E5%80%BC/","path":"矩阵特征值/","title":"矩阵特征值"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/%E7%9F%A9%E9%98%B5/","path":"矩阵/","title":"矩阵"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>矩阵特征值 | XantC的博客</title>
+<title>矩阵 | XantC的博客</title>
   
 
 
@@ -139,7 +139,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%AE%9A%E4%B9%89"><span class="nav-number">1.</span> <span class="nav-text">定义</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%AE%A1%E7%AE%97"><span class="nav-number">2.</span> <span class="nav-text">计算</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89"><span class="nav-number">3.</span> <span class="nav-text">几何意义</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%89%B9%E5%BE%81%E5%80%BC"><span class="nav-number">1.</span> <span class="nav-text">特征值</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%AE%9A%E4%B9%89"><span class="nav-number">1.1.</span> <span class="nav-text">定义</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%AE%A1%E7%AE%97"><span class="nav-number">1.2.</span> <span class="nav-text">计算</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89"><span class="nav-number">1.3.</span> <span class="nav-text">几何意义</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%AF%B9%E7%A7%B0%E7%9F%A9%E9%98%B5"><span class="nav-number">2.</span> <span class="nav-text">对称矩阵</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%AE%9A%E4%B9%89-1"><span class="nav-number">2.1.</span> <span class="nav-text">定义</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5"><span class="nav-number">3.</span> <span class="nav-text">正交矩阵</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%AE%9A%E4%B9%89-2"><span class="nav-number">3.1.</span> <span class="nav-text">定义</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%80%A7%E8%B4%A8"><span class="nav-number">3.2.</span> <span class="nav-text">性质</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%AF%B9%E8%A7%92%E7%9F%A9%E9%98%B5"><span class="nav-number">4.</span> <span class="nav-text">对角矩阵</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%AE%9A%E4%B9%89-3"><span class="nav-number">4.1.</span> <span class="nav-text">定义</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%AF%B9%E7%A7%B0%E7%9F%A9%E9%98%B5%E5%AF%B9%E8%A7%92%E5%8C%96"><span class="nav-number">4.2.</span> <span class="nav-text">对称矩阵对角化</span></a></li></ol></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -193,7 +193,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E7%9F%A9%E9%98%B5%E7%89%B9%E5%BE%81%E5%80%BC/">
+    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E7%9F%A9%E9%98%B5/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -206,12 +206,12 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="矩阵特征值 | XantC的博客">
+      <meta itemprop="name" content="矩阵 | XantC的博客">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          矩阵特征值
+          矩阵
         </h1>
 
         <div class="post-meta-container">
@@ -221,9 +221,15 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
-      
 
-      <time title="创建时间：2023-11-12 09:28:35 / 修改时间：09:46:48" itemprop="dateCreated datePublished" datetime="2023-11-12T09:28:35+08:00">2023-11-12</time>
+      <time title="创建时间：2023-11-12 09:28:35" itemprop="dateCreated datePublished" datetime="2023-11-12T09:28:35+08:00">2023-11-12</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2023-11-19 09:18:47" itemprop="dateModified" datetime="2023-11-19T09:18:47+08:00">2023-11-19</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -244,8 +250,8 @@
     </span>
     <span class="post-meta-item-text">Waline：</span>
   
-    <a title="waline" href="/%E7%9F%A9%E9%98%B5%E7%89%B9%E5%BE%81%E5%80%BC/#waline" itemprop="discussionUrl">
-      <span class="post-comments-count waline-comment-count" data-path="/%E7%9F%A9%E9%98%B5%E7%89%B9%E5%BE%81%E5%80%BC/" itemprop="commentCount"></span>
+    <a title="waline" href="/%E7%9F%A9%E9%98%B5/#waline" itemprop="discussionUrl">
+      <span class="post-comments-count waline-comment-count" data-path="/%E7%9F%A9%E9%98%B5/" itemprop="commentCount"></span>
     </a>
   </span>
   
@@ -263,19 +269,58 @@
 XantC
 </p>
 <p></b></p>
-<h3 id="定义">定义</h3>
+<h3 id="特征值">特征值</h3>
+<h4 id="定义">定义</h4>
 <p><span class="math display">\[
-\boldsymbol{A}\boldsymbol{x}=\lambda\boldsymbol{x} \]</span></p>
+\mathbf{A}\boldsymbol{x}=\lambda\boldsymbol{x} \]</span></p>
 <p><span class="math display">\[
 \boldsymbol{x}为特征向量，\lambda为特征值 \]</span></p>
 <span id="more"></span>
-<h3 id="计算">计算</h3>
-<p><span class="math display">\[
-\det(\boldsymbol{A}-\lambda\boldsymbol{I})=0 \]</span></p>
-<h3 id="几何意义">几何意义</h3>
+<h4 id="计算">计算</h4>
+<p><span class="math display">\[ \det(\mathbf{A}-\lambda\mathbf{I})=0
+\]</span></p>
+<h4 id="几何意义">几何意义</h4>
 <p><span class="math display">\[
 \boldsymbol{x}是经\boldsymbol{A}变换后方向不变，模长伸缩因子为\lambda的向量
 \]</span></p>
+<h3 id="对称矩阵">对称矩阵</h3>
+<h4 id="定义-1">定义</h4>
+<p><span class="math display">\[ \mathbf{M}=\mathbf{M}^\mathrm{T}
+\]</span></p>
+<h3 id="正交矩阵">正交矩阵</h3>
+<h4 id="定义-2">定义</h4>
+<p><span class="math display">\[
+\mathbf{M}\mathbf{M}^\mathrm{T}=\mathbf{I} \]</span></p>
+<h4 id="性质">性质</h4>
+<p><span class="math display">\[ 特征向量互相垂直 \]</span></p>
+<p><span class="math display">\[ \text{e.g.}\
+三维矩阵：\boldsymbol{x_1}\cdot\boldsymbol{x_2}=\boldsymbol{x_1}\cdot\boldsymbol{x_3}=\boldsymbol{x_2}\cdot\boldsymbol{x_3}=0
+\]</span></p>
+<h3 id="对角矩阵">对角矩阵</h3>
+<h4 id="定义-3">定义</h4>
+<p><span class="math display">\[ \begin{pmatrix}
+      a_{1} &amp; &amp; &amp; &amp; \\
+      &amp; a_{2} &amp; &amp; &amp;\\
+      &amp; &amp; a_{3} &amp; &amp;\\
+      &amp; &amp; &amp;\ddots &amp; \\
+      &amp; &amp; &amp; &amp; a_{n}
+\end{pmatrix} \]</span></p>
+<h4 id="对称矩阵对角化">对称矩阵对角化</h4>
+<p><span class="math display">\[
+\boldsymbol{x_1},\boldsymbol{x_2},\dots,
+\boldsymbol{x_n}为\mathbf{A}特征向量 \]</span></p>
+<p><span class="math display">\[
+\boldsymbol{x_i}=\frac{1}{|\boldsymbol{x_i}|}\begin{bmatrix}
+    a_{1i}\\
+    a_{2i}\\
+    a_{3i}\\
+    \vdots\\
+    a_{ni}
+\end{bmatrix} \]</span></p>
+<p><span class="math display">\[
+\mathbf{P}为以n个\boldsymbol{x_i}为列向量的n维矩阵 \]</span></p>
+<p><span class="math display">\[
+\mathbf{D}=\mathbf{P}^{\mathrm{T}}\mathbf{A}\mathbf{P} \]</span></p>
 
     </div>
 
@@ -293,7 +338,7 @@ XantC
   </li>
   <li class="post-copyright-link">
       <strong>本文链接：</strong>
-      <a href="https://allenxantc.github.io/%E7%9F%A9%E9%98%B5%E7%89%B9%E5%BE%81%E5%80%BC/" title="矩阵特征值">https://allenxantc.github.io/矩阵特征值/</a>
+      <a href="https://allenxantc.github.io/%E7%9F%A9%E9%98%B5/" title="矩阵">https://allenxantc.github.io/矩阵/</a>
   </li>
   <li class="post-copyright-license">
       <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
@@ -389,7 +434,7 @@ XantC
 <script src="/js/third-party/math/mathjax.js"></script>
 
 
-<script class="next-config" data-name="waline" type="application/json">{"lang":"zh-CN","enable":true,"serverURL":"waline-ten-flax.vercel.app","cssUrl":"https://unpkg.com/@waline/client@v2/dist/waline.css","commentCount":true,"pageview":false,"placeholder":"你所热爱的 就是你的生活","avatar":"mm","meta":["nick","mail"],"pageSize":10,"visitor":false,"comment_count":true,"requiredFields":["nick"],"libUrl":"//unpkg.com/@waline/client@v2/dist/waline.js","el":"#waline","comment":true,"path":"/%E7%9F%A9%E9%98%B5%E7%89%B9%E5%BE%81%E5%80%BC/"}</script>
+<script class="next-config" data-name="waline" type="application/json">{"lang":"zh-CN","enable":true,"serverURL":"waline-ten-flax.vercel.app","cssUrl":"https://unpkg.com/@waline/client@v2/dist/waline.css","commentCount":true,"pageview":false,"placeholder":"你所热爱的 就是你的生活","avatar":"mm","meta":["nick","mail"],"pageSize":10,"visitor":false,"comment_count":true,"requiredFields":["nick"],"libUrl":"//unpkg.com/@waline/client@v2/dist/waline.js","el":"#waline","comment":true,"path":"/%E7%9F%A9%E9%98%B5/"}</script>
 <link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css">
 <script>
 document.addEventListener('page:loaded', () => {

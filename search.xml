@@ -164,34 +164,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>“劝学”新说</title>
-    <url>/%E2%80%9C%E5%8A%9D%E5%AD%A6%E2%80%9D%E6%96%B0%E8%AF%B4/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>《劝学》，是两千多年前战国百家争鸣时流传下来的文章，记载着荀子对当时学习问题的朴素认识。在这两千多年来，随着时代的变迁，一些新的学习问题开始涌现，古时劝学的文章也需要后人再来添上几笔了。</p>
-<span id="more"></span>
-<p>学习，不言而喻的是一件枯燥的事，而这也正需要我们建立良好、持续的学习源动力。</p>
-<p>源动力的前提是对学习持积极的态度。而如今应试教育的猖獗，恰恰是阻碍其形成的绊脚石之一。这东西从我们记事起就耳濡目染，对它的厌恶自然便会延续到学习身上，以至于分不清两者的区别，甚至当以成绩为宗旨的老师们说到“终身学习”时，自己也会感到胃疼。但其实，应试和学习应该要明确开来。</p>
-<p>学习能让我们按自己期望的方向发展。相信大家都有过这种体验。在学习或者做自己真正喜欢的东西的时候，过程中的一切都是享受的：会为了一点小小的成功而沾沾自喜，不因挫折而放弃，甚至于会主动去锻炼自己薄弱的环节。这种感受，跟看到试卷上一个个消不去的红叉肯定是不同的。学习是一个比应试自由得多、广阔得多的天地。我现在在“劝”的也不是应试，而是学习。</p>
-<p>那么学习的源动力要如何形成呢？这种源动力一定要是真实的，能说服自己的（这从上一段可以看出来一点）。现在有人会受人灌输，从名人传记上随意找来一些“为中华之崛起而读书”的不符合自己思想境界，不能使自己信服的话，这样依靠它学习的时候也不会有什么底气了。我建议的是先从我们自己的爱好，或是梦想的职业中寻找学习的动力。只有个人喜爱的东西，我们才能坚持下去，一直为之学习下去。</p>
-<p>比如美国。他们的教育中不会刻意灌输“学习的目的或意义”，而是给学生们充分的空间发展个性，让他们找到自己努力学习的意义。等到他们长大，在社会中各司其职时，这种源动力更能不断促进他们自我发展，贡献社会了。</p>
-<p>所以我说学习的源动力来源于个人，并不是鼓励大家自私自利，目中无人，而是希望学习的成果在个人身上展现后，能够继续为所在的集体发光发热。这和马克思所说“每个人的自由发展是一切人自由发展的条件”是一样的。</p>
-<p>而仅对于我们眼前的应试，上面的东西也可以利用，也就是要设置一些目标。有时某个学科本身就很合自己胃口，对未来的努力方向也有好处；而对于不那么顺人意的，可以只把它当作进修某个理想专业的必经之路。</p>
-<p>总之，我们在寻找学习内驱力时，要讨好自身。这对于学习或是任何“想要做好”的事都是一样的。而且我们的教育中也要有良好的引导，以及容纳其广泛存在的氛围。有了这些，我们才有可能真正地喜欢上学习，真正地为社会出力，“为人民服务”。</p>
-<b>
-<p align="right">
-作于2023年10月
-</p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Saxophone in 2050s</title>
     <url>/Saxophone-in-2050s/</url>
     <content><![CDATA[<b>
@@ -272,50 +244,66 @@ nowhere.</p>
       </categories>
   </entry>
   <entry>
-    <title>三角导数与积分公式</title>
-    <url>/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/</url>
+    <title>“劝学”新说</title>
+    <url>/%E2%80%9C%E5%8A%9D%E5%AD%A6%E2%80%9D%E6%96%B0%E8%AF%B4/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<h3 id="导数">导数</h3>
-<h4 id="三角">三角</h4>
-<p><span class="math display">\[ (\sin x)^{&#39;}=\cos x \]</span></p>
-<p><span class="math display">\[ (\cos x)^{&#39;}=-\sin x \]</span></p>
+<p>《劝学》，是两千多年前战国百家争鸣时流传下来的文章，记载着荀子对当时学习问题的朴素认识。在这两千多年来，随着时代的变迁，一些新的学习问题开始涌现，古时劝学的文章也需要后人再来添上几笔了。</p>
 <span id="more"></span>
-<p><span class="math display">\[ (\tan x)^{&#39;}=\sec^2x \]</span></p>
-<p><span class="math display">\[ (\cot x)^{&#39;}=-\csc^2x \]</span></p>
-<p><span class="math display">\[ (\sec x)^{&#39;}=\sec x\tan x
+<p>学习，不言而喻的是一件枯燥的事，而这也正需要我们建立良好、持续的学习源动力。</p>
+<p>源动力的前提是对学习持积极的态度。而如今应试教育的猖獗，恰恰是阻碍其形成的绊脚石之一。这东西从我们记事起就耳濡目染，对它的厌恶自然便会延续到学习身上，以至于分不清两者的区别，甚至当以成绩为宗旨的老师们说到“终身学习”时，自己也会感到胃疼。但其实，应试和学习应该要明确开来。</p>
+<p>学习能让我们按自己期望的方向发展。相信大家都有过这种体验。在学习或者做自己真正喜欢的东西的时候，过程中的一切都是享受的：会为了一点小小的成功而沾沾自喜，不因挫折而放弃，甚至于会主动去锻炼自己薄弱的环节。这种感受，跟看到试卷上一个个消不去的红叉肯定是不同的。学习是一个比应试自由得多、广阔得多的天地。我现在在“劝”的也不是应试，而是学习。</p>
+<p>那么学习的源动力要如何形成呢？这种源动力一定要是真实的，能说服自己的（这从上一段可以看出来一点）。现在有人会受人灌输，从名人传记上随意找来一些“为中华之崛起而读书”的不符合自己思想境界，不能使自己信服的话，这样依靠它学习的时候也不会有什么底气了。我建议的是先从我们自己的爱好，或是梦想的职业中寻找学习的动力。只有个人喜爱的东西，我们才能坚持下去，一直为之学习下去。</p>
+<p>比如美国。他们的教育中不会刻意灌输“学习的目的或意义”，而是给学生们充分的空间发展个性，让他们找到自己努力学习的意义。等到他们长大，在社会中各司其职时，这种源动力更能不断促进他们自我发展，贡献社会了。</p>
+<p>所以我说学习的源动力来源于个人，并不是鼓励大家自私自利，目中无人，而是希望学习的成果在个人身上展现后，能够继续为所在的集体发光发热。这和马克思所说“每个人的自由发展是一切人自由发展的条件”是一样的。</p>
+<p>而仅对于我们眼前的应试，上面的东西也可以利用，也就是要设置一些目标。有时某个学科本身就很合自己胃口，对未来的努力方向也有好处；而对于不那么顺人意的，可以只把它当作进修某个理想专业的必经之路。</p>
+<p>总之，我们在寻找学习内驱力时，要讨好自身。这对于学习或是任何“想要做好”的事都是一样的。而且我们的教育中也要有良好的引导，以及容纳其广泛存在的氛围。有了这些，我们才有可能真正地喜欢上学习，真正地为社会出力，“为人民服务”。</p>
+<b>
+<p align="right">
+作于2023年10月
+</p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>一些积分</title>
+    <url>/%E4%B8%80%E4%BA%9B%E7%A7%AF%E5%88%86/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="目录">目录</h3>
+<p><a
+href="#分母为二次式或根号下二次式">分母为二次式或根号下二次式</a></p>
+<span id="more"></span>
+<h3 id="分母为二次式或根号下二次式">分母为二次式或根号下二次式</h3>
+<h4 id="思路">思路</h4>
+<p><span class="math display">\[ 把x代入为某个三角或双曲函数
 \]</span></p>
-<p><span class="math display">\[ (\csc x)^{&#39;}=-\csc x\cot x
+<h4 id="二次式">二次式</h4>
+<p><span class="math display">\[
+\int\frac{1}{x^2+a^2}\mathrm{d}x=\frac{1}{a}\arctan(\frac{x}{a})+\mathrm{C}
 \]</span></p>
-<h4 id="反三角">反三角</h4>
-<p><span class="math display">\[ (\arcsin
-x)^{&#39;}=\frac{1}{\sqrt{1-x^2}} \]</span></p>
-<p><span class="math display">\[ (\arccos
-x)^{&#39;}=-\frac{1}{\sqrt{1-x^2}} \]</span></p>
-<p><span class="math display">\[ (\arctan x)^{&#39;}=\frac{1}{1+x^2}
+<p><span class="math display">\[
+\int\frac{1}{x^2-a^2}\mathrm{d}x=\frac{1}{2a}\ln|\frac{x+a}{x-a}|+\mathrm{C}
 \]</span></p>
-<h3 id="积分">积分</h3>
-<h4 id="三角-1">三角</h4>
-<p><span class="math display">\[ \int \sin x\mathrm{d}x=-\cos
-x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \cos x\mathrm{d}x=\sin
-x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \tan x\mathrm{d}x=-ln|\cos
-x|+\mathrm{C}=ln|\sec x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \cot x\mathrm{d}x=ln|\sin
-x|+\mathrm{C}=-ln|\csc x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \sec x\mathrm{d}x=ln|\sec x+\tan
-x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \csc x\mathrm{d}x=-ln|\csc x+\cot
-x|+\mathrm{C} \]</span></p>
-<h4 id="反三角-1">反三角</h4>
-<p><span class="math display">\[ \int
-\frac{1}{\sqrt{1-x^2}}\mathrm{d}x=\arcsin x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \frac{1}{1+x^2}\mathrm{d}x=\arctan
-x+\mathrm{C} \]</span></p>
+<h4 id="根号下二次式">根号下二次式</h4>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{a^2-x^2}}\mathrm{d}x=\arcsin(\frac{x}{a})+\mathrm{C}
+\enspace(|x|&lt;a) \]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{a^2+x^2}}\mathrm{d}x=\mathrm{arsinh}(\frac{x}{a})+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{x^2-a^2}}\mathrm{d}x=\mathrm{arcosh}(\frac{x}{a})+\mathrm{C}\enspace(x&gt;a)
+\]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -369,62 +357,50 @@ XantC
       </tags>
   </entry>
   <entry>
-    <title>一些积分</title>
-    <url>/%E4%B8%80%E4%BA%9B%E7%A7%AF%E5%88%86/</url>
+    <title>三角导数与积分公式</title>
+    <url>/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<h3 id="目录">目录</h3>
-<p><a
-href="#分母为二次式或根号下二次式">分母为二次式或根号下二次式</a></p>
+<h3 id="导数">导数</h3>
+<h4 id="三角">三角</h4>
+<p><span class="math display">\[ (\sin x)^{&#39;}=\cos x \]</span></p>
+<p><span class="math display">\[ (\cos x)^{&#39;}=-\sin x \]</span></p>
 <span id="more"></span>
-<h3 id="分母为二次式或根号下二次式">分母为二次式或根号下二次式</h3>
-<h4 id="思路">思路</h4>
-<p><span class="math display">\[ 把x代入为某个三角或双曲函数
+<p><span class="math display">\[ (\tan x)^{&#39;}=\sec^2x \]</span></p>
+<p><span class="math display">\[ (\cot x)^{&#39;}=-\csc^2x \]</span></p>
+<p><span class="math display">\[ (\sec x)^{&#39;}=\sec x\tan x
 \]</span></p>
-<h4 id="二次式">二次式</h4>
-<p><span class="math display">\[
-\int\frac{1}{x^2+a^2}\mathrm{d}x=\frac{1}{a}\arctan(\frac{x}{a})+\mathrm{C}
+<p><span class="math display">\[ (\csc x)^{&#39;}=-\csc x\cot x
 \]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{x^2-a^2}\mathrm{d}x=\frac{1}{2a}\ln|\frac{x+a}{x-a}|+\mathrm{C}
+<h4 id="反三角">反三角</h4>
+<p><span class="math display">\[ (\arcsin
+x)^{&#39;}=\frac{1}{\sqrt{1-x^2}} \]</span></p>
+<p><span class="math display">\[ (\arccos
+x)^{&#39;}=-\frac{1}{\sqrt{1-x^2}} \]</span></p>
+<p><span class="math display">\[ (\arctan x)^{&#39;}=\frac{1}{1+x^2}
 \]</span></p>
-<h4 id="根号下二次式">根号下二次式</h4>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{a^2-x^2}}\mathrm{d}x=\arcsin(\frac{x}{a})+\mathrm{C}
-\enspace(|x|&lt;a) \]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{a^2+x^2}}\mathrm{d}x=\mathrm{arsinh}(\frac{x}{a})+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{x^2-a^2}}\mathrm{d}x=\mathrm{arcosh}(\frac{x}{a})+\mathrm{C}\enspace(x&gt;a)
-\]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>伽马函数</title>
-    <url>/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="公式">公式</h3>
-<p><span class="math display">\[ 令f(x)=x^n \colon \]</span></p>
+<h3 id="积分">积分</h3>
+<h4 id="三角-1">三角</h4>
+<p><span class="math display">\[ \int \sin x\mathrm{d}x=-\cos
+x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \cos x\mathrm{d}x=\sin
+x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \tan x\mathrm{d}x=-ln|\cos
+x|+\mathrm{C}=ln|\sec x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \cot x\mathrm{d}x=ln|\sin
+x|+\mathrm{C}=-ln|\csc x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \sec x\mathrm{d}x=ln|\sec x+\tan
+x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \csc x\mathrm{d}x=-ln|\csc x+\cot
+x|+\mathrm{C} \]</span></p>
+<h4 id="反三角-1">反三角</h4>
 <p><span class="math display">\[ \int
-x^n\mathrm{e}^xdx=f(x)\mathrm{e}^x-f^{&#39;}(x)\mathrm{e}^x+f^{&#39;&#39;}(x)\mathrm{e}^x-...+(-1)^{n}f^{(n)}\mathrm{e}^x
-\]</span></p>
-<span id="more"></span>
-<h3 id="证明">证明</h3>
-<ol type="1">
-<li><p>分部积分法</p></li>
-<li><p>数学归纳法</p></li>
-</ol>
+\frac{1}{\sqrt{1-x^2}}\mathrm{d}x=\arcsin x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \frac{1}{1+x^2}\mathrm{d}x=\arctan
+x+\mathrm{C} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -470,6 +446,7 @@ XantC
 <p>你们值得高涨的麦子</p>
 <p>你们值得鲜活的明天</p>
 <p>你们值得这一切</p>
+<p>你们值得</p>
 <b>
 <p align="right">
 作于2023年10月
@@ -480,6 +457,99 @@ XantC
 ]]></content>
       <categories>
         <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>向量叉乘</title>
+    <url>/%E5%90%91%E9%87%8F%E5%8F%89%E4%B9%98/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="定义">定义</h3>
+<h4 id="几何定义">几何定义</h4>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta\hat{\boldsymbol{n}}
+\]</span></p>
+<p><span class="math display">\[
+其中\hat{\boldsymbol{n}}是垂直于\boldsymbol{a}、\boldsymbol{b}所在平面的单位向量，用右手螺旋定则确定方向
+\]</span></p>
+<span id="more"></span>
+<h4 id="代数定义">代数定义</h4>
+<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
+    a_1\\
+    a_2\\
+    a_3
+\end{bmatrix}, \,
+\boldsymbol{b}=\begin{bmatrix}
+    b_1\\
+    b_2\\
+    b_3
+\end{bmatrix}
+\]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=\begin{vmatrix}
+    \boldsymbol{i} &amp;&amp; \boldsymbol{j} &amp;&amp; \boldsymbol{k}\\
+    a_1 &amp;&amp; a_2 &amp;&amp; a_3 \\
+    b_1 &amp;&amp; b_2 &amp;&amp; b_3\\
+\end{vmatrix} =
+\boldsymbol{i}\begin{vmatrix}
+    a_2&amp;&amp;a_3\\b_2&amp;&amp;b_3
+\end{vmatrix}-
+\boldsymbol{j}\begin{vmatrix}
+    a_1&amp;&amp;a_3\\b_1&amp;&amp;b_3
+\end{vmatrix}+
+\boldsymbol{k}\begin{vmatrix}
+    a_1&amp;&amp;a_2\\b_1&amp;&amp;b_2
+\end{vmatrix} \]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}
+\]</span></p>
+<h5 id="推导">推导</h5>
+<p><span class="math display">\[ \begin{align*}
+    \boldsymbol{a}\times\boldsymbol{b}=&amp;(a_1\boldsymbol{i}+a_2\boldsymbol{j}+a_3\boldsymbol{k})\times(b_1\boldsymbol{i}+b_2\boldsymbol{j}+b_3\boldsymbol{k})\\
+    =&amp;(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}\\
+\end{align*} \]</span></p>
+<h3 id="意义">意义</h3>
+<h4 id="几何意义">几何意义</h4>
+<p><span class="math display">\[
+|\boldsymbol{a}\times\boldsymbol{b}|=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+S_{\Delta}=\frac{1}{2}|\boldsymbol{a}\times\boldsymbol{b}|\,,S_{\text{平四}}=|\boldsymbol{a}\times\boldsymbol{b}|
+\]</span></p>
+<h3 id="混合积">混合积</h3>
+<h4 id="定义-1">定义</h4>
+<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
+    a_1\\
+    a_2\\
+    a_3
+\end{bmatrix}, \,
+\boldsymbol{b}=\begin{bmatrix}
+    b_1\\
+    b_2\\
+    b_3
+\end{bmatrix}, \,
+\boldsymbol{c}=\begin{bmatrix}
+    c_1\\
+    c_2\\
+    c_3
+\end{bmatrix}
+\]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\cdot(\boldsymbol{b}\times\boldsymbol{c})=\begin{vmatrix}
+    a_1&amp;&amp;a_2&amp;&amp;a_3\\
+    b_1&amp;&amp;b_2&amp;&amp;b_3\\
+    c_1&amp;&amp;c_2&amp;&amp;c_3\\
+\end{vmatrix} \]</span></p>
+<h4 id="几何意义-1">几何意义</h4>
+<p><span class="math display">\[
+表示\boldsymbol{a}、\boldsymbol{b}、\boldsymbol{c}构成的平行六面体的体积
+\]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
       </categories>
   </entry>
   <entry>
@@ -592,96 +662,76 @@ x\rvert&lt;1) \]</span></p>
       </categories>
   </entry>
   <entry>
-    <title>向量叉乘</title>
-    <url>/%E5%90%91%E9%87%8F%E5%8F%89%E4%B9%98/</url>
+    <title>伽马函数</title>
+    <url>/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<h3 id="定义">定义</h3>
-<h4 id="几何定义">几何定义</h4>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta\hat{\boldsymbol{n}}
-\]</span></p>
-<p><span class="math display">\[
-其中\hat{\boldsymbol{n}}是垂直于\boldsymbol{a}、\boldsymbol{b}所在平面的单位向量，用右手螺旋定则确定方向
+<h3 id="公式">公式</h3>
+<p><span class="math display">\[ 令f(x)=x^n \colon \]</span></p>
+<p><span class="math display">\[ \int
+x^n\mathrm{e}^xdx=f(x)\mathrm{e}^x-f^{&#39;}(x)\mathrm{e}^x+f^{&#39;&#39;}(x)\mathrm{e}^x-...+(-1)^{n}f^{(n)}\mathrm{e}^x
 \]</span></p>
 <span id="more"></span>
-<h4 id="代数定义">代数定义</h4>
-<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
-    a_1\\
-    a_2\\
-    a_3
-\end{bmatrix}, \,
-\boldsymbol{b}=\begin{bmatrix}
-    b_1\\
-    b_2\\
-    b_3
-\end{bmatrix}
-\]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=\begin{vmatrix}
-    \boldsymbol{i} &amp;&amp; \boldsymbol{j} &amp;&amp; \boldsymbol{k}\\
-    a_1 &amp;&amp; a_2 &amp;&amp; a_3 \\
-    b_1 &amp;&amp; b_2 &amp;&amp; b_3\\
-\end{vmatrix} =
-\boldsymbol{i}\begin{vmatrix}
-    a_2&amp;&amp;a_3\\b_2&amp;&amp;b_3
-\end{vmatrix}-
-\boldsymbol{j}\begin{vmatrix}
-    a_1&amp;&amp;a_3\\b_1&amp;&amp;b_3
-\end{vmatrix}+
-\boldsymbol{k}\begin{vmatrix}
-    a_1&amp;&amp;a_2\\b_1&amp;&amp;b_2
-\end{vmatrix} \]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}
-\]</span></p>
-<h5 id="推导">推导</h5>
-<p><span class="math display">\[ \begin{align*}
-    \boldsymbol{a}\times\boldsymbol{b}=&amp;(a_1\boldsymbol{i}+a_2\boldsymbol{j}+a_3\boldsymbol{k})\times(b_1\boldsymbol{i}+b_2\boldsymbol{j}+b_3\boldsymbol{k})\\
-    =&amp;(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}\\
-\end{align*} \]</span></p>
-<h3 id="意义">意义</h3>
-<h4 id="几何意义">几何意义</h4>
-<p><span class="math display">\[
-|\boldsymbol{a}\times\boldsymbol{b}|=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow
-S_{\Delta}=\frac{1}{2}|\boldsymbol{a}\times\boldsymbol{b}|\,,S_{\text{平四}}=|\boldsymbol{a}\times\boldsymbol{b}|
-\]</span></p>
-<h3 id="混合积">混合积</h3>
-<h4 id="定义-1">定义</h4>
-<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
-    a_1\\
-    a_2\\
-    a_3
-\end{bmatrix}, \,
-\boldsymbol{b}=\begin{bmatrix}
-    b_1\\
-    b_2\\
-    b_3
-\end{bmatrix}, \,
-\boldsymbol{c}=\begin{bmatrix}
-    c_1\\
-    c_2\\
-    c_3
-\end{bmatrix}
-\]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\cdot(\boldsymbol{b}\times\boldsymbol{c})=\begin{vmatrix}
-    a_1&amp;&amp;a_2&amp;&amp;a_3\\
-    b_1&amp;&amp;b_2&amp;&amp;b_3\\
-    c_1&amp;&amp;c_2&amp;&amp;c_3\\
-\end{vmatrix} \]</span></p>
-<h4 id="几何意义-1">几何意义</h4>
-<p><span class="math display">\[
-表示\boldsymbol{a}、\boldsymbol{b}、\boldsymbol{c}构成的平行六面体的体积
-\]</span></p>
+<h3 id="证明">证明</h3>
+<ol type="1">
+<li><p>分部积分法</p></li>
+<li><p>数学归纳法</p></li>
+</ol>
 ]]></content>
       <categories>
         <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>唯物主义哲学</title>
+    <url>/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>伟人 每个时代都有</p>
+<p>除了自己所在的时代</p>
+<p>每个时代也都有敬仰的伟人</p>
+<p>但没有一个时代敬仰真正的人</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>厨房的肥皂裂成两半</p>
+<p>门前的大路修了半年</p>
+<p>回家种地也不是出路</p>
+<hr />
+<p>劳工奴隶不值得怜悯</p>
+<p>因为生产关系适应生产力</p>
+<hr />
+<p>不愿给同龄人打比喻</p>
+<p>我这时代的伟人都在哪呢</p>
+<p>新时代的人血馒头赞扬鲁迅</p>
+<hr />
+<p>咖啡店的白须老头神情淡漠</p>
+<p>吱呀呀地盯着桌子上的手机</p>
+<p>旁边那人 朝着哪儿看呢</p>
+<p>菜单 大街 还是天空</p>
+<hr />
+<p>天上从没有过飞鸟</p>
+<p>因为没有人抬头向上望</p>
+<p>唯物没给唯心留地方</p>
+<p>因为没有人抬头向上望</p>
+<b>
+<p align="right">
+作于2023年11月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -753,50 +803,6 @@ a)，则T=4(m-a) \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>唯物主义哲学</title>
-    <url>/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>伟人 每个时代都有</p>
-<p>除了自己所在的时代</p>
-<p>每个时代也都有敬仰的伟人</p>
-<p>但没有一个时代敬仰真正的人</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>厨房的肥皂裂成两半</p>
-<p>门前的大路修了半年</p>
-<hr />
-<p>劳工奴隶不值得怜悯</p>
-<p>因为生产关系适应生产力</p>
-<hr />
-<p>咖啡店的白须老头神情自若</p>
-<p>吱呀呀地盯着桌子上的手机</p>
-<p>旁边那人朝着哪儿看呢</p>
-<p>菜单 大街还是蓝天</p>
-<hr />
-<p>天上从没有过飞鸟</p>
-<p>因为没有人抬头向上望</p>
-<p>唯物没给唯心留地方</p>
-<p>因为没有人抬头向上望</p>
-<b>
-<p align="right">
-作于2023年11月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -1030,64 +1036,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>完整的麦子</title>
-    <url>/%E5%AE%8C%E6%95%B4%E7%9A%84%E9%BA%A6%E5%AD%90/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>青春</p>
-<p>大家都说这很美好</p>
-<p>真思索起来</p>
-<p>却只有“朝气”、“题目”和“爱情”</p>
-<p>泡在时代的米糊里</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我们只能够看着</p>
-<p>吃着精心设计的 模糊的小麦和米</p>
-<p>因为这米糊浓稠又柔软</p>
-<p>或是让未来代替热情</p>
-<p>让自己的青春 成为这米糊里的一小勺</p>
-<hr />
-<p>这些糊状的麦子看着别无二致</p>
-<p>就像我们做的事 和我们的愿望</p>
-<p>独特完整的麦子 很难找到</p>
-<p>成长和变化 更找不到</p>
-<hr />
-<p>青春 它只能给你一个机会啊</p>
-<p>不能给你结果</p>
-<p>这机会也不在米糊里</p>
-<p>而是在外面</p>
-<hr />
-<p>快在糊里头钻个洞</p>
-<p>把你的心用力抛出去吧</p>
-<p>抛到校园外面 小区外面</p>
-<p>在大道上喝着可乐 看着日出</p>
-<hr />
-<p>快放松你的肠胃吧</p>
-<p>和大家一起到田里</p>
-<p>去寻找那株完整的麦子</p>
-<p>不关心农民</p>
-<p>对着太阳愤怒生长的麦子啊</p>
-<hr />
-<p>这才叫青春</p>
-<b>
-<p align="right">
-作于2023年9月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
     <title>小区</title>
     <url>/%E5%B0%8F%E5%8C%BA/</url>
     <content><![CDATA[<b>
@@ -1284,6 +1232,64 @@ class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
       </categories>
   </entry>
   <entry>
+    <title>完整的麦子</title>
+    <url>/%E5%AE%8C%E6%95%B4%E7%9A%84%E9%BA%A6%E5%AD%90/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>青春</p>
+<p>大家都说这很美好</p>
+<p>真思索起来</p>
+<p>却只有“朝气”、“题目”和“爱情”</p>
+<p>泡在时代的米糊里</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>我们只能够看着</p>
+<p>吃着精心设计的 模糊的小麦和米</p>
+<p>因为这米糊浓稠又柔软</p>
+<p>或是让未来代替热情</p>
+<p>让自己的青春 成为这米糊里的一小勺</p>
+<hr />
+<p>这些糊状的麦子看着别无二致</p>
+<p>就像我们做的事 和我们的愿望</p>
+<p>独特完整的麦子 很难找到</p>
+<p>成长和变化 更找不到</p>
+<hr />
+<p>青春 它只能给你一个机会啊</p>
+<p>不能给你结果</p>
+<p>这机会也不在米糊里</p>
+<p>而是在外面</p>
+<hr />
+<p>快在糊里头钻个洞</p>
+<p>把你的心用力抛出去吧</p>
+<p>抛到校园外面 小区外面</p>
+<p>在大道上喝着可乐 看着日出</p>
+<hr />
+<p>快放松你的肠胃吧</p>
+<p>和大家一起到田里</p>
+<p>去寻找那株完整的麦子</p>
+<p>不关心农民</p>
+<p>对着太阳愤怒生长的麦子啊</p>
+<hr />
+<p>这才叫青春</p>
+<b>
+<p align="right">
+作于2023年9月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>极限</title>
     <url>/%E6%9E%81%E9%99%90/</url>
     <content><![CDATA[<b>
@@ -1468,77 +1474,98 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>求曲线本身属性</title>
-    <url>/%E6%B1%82%E6%9B%B2%E7%BA%BF%E6%9C%AC%E8%BA%AB%E5%B1%9E%E6%80%A7/</url>
+    <title>炭</title>
+    <url>/%E7%82%AD/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<h3 id="曲线长度">曲线长度</h3>
-<p><span class="math display">\[ s=\begin{cases}
-    \displaystyle\int_{x_a}^{x_b}\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
-\\
-    \displaystyle\int_{y_a}^{y_b}\sqrt{1+(\frac{\mathrm{d}x}{\mathrm{d}y})^2}\,\mathrm{d}y
-\\
-    \displaystyle\int_{t_a}^{t_b}\sqrt{(\frac{\mathrm{d}x}{\mathrm{d}t})^2+(\frac{\mathrm{d}y}{\mathrm{d}t})^2}\,\mathrm{d}t
-\\
-\end{cases} \]</span></p>
+<b> <big>
+<p align="right">
+—— 卖炭翁 伐薪烧炭南山中
+</p>
+<p></b> </big></p>
 <span id="more"></span>
-<h4 id="推导">推导</h4>
-<p><span class="math display">\[ (\delta s)^2\approx(\delta x)^2+(\delta
-y)^2 \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\frac{\mathrm{d}s}{\mathrm{d}x}=\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow
-s=\int_{x_a}^{x_b}\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
-\]</span></p>
-<h3 id="曲线旋转体">曲线旋转体</h3>
-<h4 id="体积">体积</h4>
-<p><span class="math display">\[ \begin{align*}
-    \text{绕x轴旋转：}
-    V=\pi\int_{x_a}^{x_b}y^2\mathrm{d}x \\
-    \text{绕y轴旋转：}
-    V=\pi\int_{y_a}^{y_b}x^2\mathrm{d}y
-\end{align*} \]</span></p>
-<h4 id="侧表面积">侧表面积</h4>
-<h5 id="基本公式">基本公式</h5>
-<p><span class="math display">\[ \begin{align*}
-    \text{绕x轴旋转：}
-    S=\int2\pi y\mathrm{d}s=\int2\pi
-y\frac{\mathrm{d}s}{\mathrm{d}x}\mathrm{d}x \\
-    \text{绕y轴旋转：}
-     S=\int2\pi x\mathrm{d}s=\int2\pi
-x\frac{\mathrm{d}s}{\mathrm{d}y}\mathrm{d}y \\
-\end{align*} \]</span></p>
-<h5 id="用于计算的公式">用于计算的公式</h5>
-<p><span class="math display">\[ 以绕x轴旋转为例： \]</span></p>
-<p><span class="math display">\[ S=\begin{cases}
-    \displaystyle
-2\pi\int_{x_a}^{x_b}y\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
-\\
-    \displaystyle
-2\pi\int_{y_a}^{y_b}y\sqrt{1+(\frac{\mathrm{d}x}{\mathrm{d}y})^2}\,\mathrm{d}y
-\\
-    \displaystyle
-2\pi\int_{t_a}^{t_b}y\sqrt{(\frac{\mathrm{d}x}{\mathrm{d}t})^2+(\frac{\mathrm{d}y}{\mathrm{d}t})^2}\,\mathrm{d}t
-\\
-\end{cases} \]</span></p>
-<h5 id="推导-1">推导</h5>
-<p><span class="math display">\[ 圆台侧表面积公式为S=\pi(r_1+r_2)l
-\]</span></p>
-<p><span class="math display">\[ \therefore \delta S=\pi(y+(y+\delta
-y))\delta s \]</span></p>
-<p><span class="math display">\[ \frac{\delta S}{\delta x}=\pi(2y+\delta
-y)\frac{\delta s}{\delta x} \]</span></p>
-<p><span class="math display">\[ \frac{\mathrm{d}S}{\mathrm{d}x}=2\pi
-y\frac{\mathrm{d}s}{\mathrm{d}x} \]</span></p>
-<p><span class="math display">\[ \Rightarrow S=\int2\pi y\mathrm{d}s
-\]</span></p>
+<hr />
+<b> <big>
+<center>
+<p><em>I. 就这样吧</em></p>
+<p>炭</p>
+<p>是一个村子的名字</p>
+<hr />
+<hr />
+<p>就这样就行了</p>
+<p>了了了了了了</p>
+<hr />
+<p>这就像炭从卖炭翁手里 被白衫儿抢走</p>
+<p>炭不可能知道</p>
+<p>卖炭翁的墓在哪 白乐天的魂在哪</p>
+<p>炭又怎么知道呢</p>
+<p>呢呢呢呢呢呢</p>
+<hr />
+<p><em>II. 搞明白了？</em></p>
+<hr />
+<p>Just like the coffee had by noon won't be recalled,</p>
+<p>Until tossing and turning at night.</p>
+<hr />
+<p><em>III. 知行合一</em></p>
+<p>你的想法和行为 离得太远了</p>
+<p>你的想法和愉悦 离得太近了</p>
+<p>你 叫得太大声了</p>
+<p>完美地掩饰</p>
+<p>你的无能</p>
+<hr />
+<p>炭在一块儿烧才旺</p>
+<p>但它的尸体都找不着</p>
+<p>除了挤在你旁边的那群</p>
+<p>炭啊</p>
+<hr />
+<p>捎上他们</p>
+<p>一起回老家去吧</p>
+<b>
+<p align="right">
+作于2023年7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
 ]]></content>
       <categories>
-        <category>数学</category>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>爱人朋友</title>
+    <url>/%E7%88%B1%E4%BA%BA%E6%9C%8B%E5%8F%8B/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>我的朋友 爱人</p>
+<p>你在哪里</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>我想给你念上几首诗</p>
+<p>叫你几声爱人</p>
+<p>同志还是朋友</p>
+<p>终究后者轻松点吧</p>
+<hr />
+<p>我的爱人朋友</p>
+<b>
+<p align="right">
+作于2023年7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -1655,8 +1682,8 @@ x=x_0-\frac{f(x_0)}{f^{&#39;}(x_0)} \]</span></p>
       </categories>
   </entry>
   <entry>
-    <title>爱人朋友</title>
-    <url>/%E7%88%B1%E4%BA%BA%E6%9C%8B%E5%8F%8B/</url>
+    <title>狂人</title>
+    <url>/%E7%8B%82%E4%BA%BA/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -1664,20 +1691,32 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
-<p>我的朋友 爱人</p>
-<p>你在哪里</p>
+<p>我是个觉醒的狂人 但不是鲁迅写的那个</p>
+<p>因为我和很多其他的狂人在一起</p>
+<p>找到了志同道合的知音总是甜蜜的 所以这是个美好的集体</p>
 <p></big> <span id="more"></span></p>
 <hr />
 <p><big></p>
-<p>我想给你念上几首诗</p>
-<p>叫你几声爱人</p>
-<p>同志还是朋友</p>
-<p>终究后者轻松点吧</p>
+<p>我既然觉醒了 那就会每晚花时间思考东西</p>
+<p>比如像红烧里脊 和那天上的红旗</p>
+<p>想着想着 想明白了个人和集体</p>
+<p>我赶紧找到一个狂人兄弟分享感情</p>
 <hr />
-<p>我的爱人朋友</p>
+<p>我说 “个人和集体值得平衡”</p>
+<p>眼神偷偷打量他的反应</p>
+<p>可他眉头紧皱 斜着瞟了我一眼</p>
+<p>“你是不是被风吹傻了”</p>
+<hr />
+<p>我想往下解释 却又被他制止</p>
+<p>我好像成了个狂人了</p>
+<p>他摇摇头站起身子 长叹了一口气</p>
+<p>我好像真的成了个狂人了</p>
+<hr />
+<p>我是个觉醒的狂人</p>
+<p>我是个觉醒的狂人</p>
 <b>
 <p align="right">
-作于2023年7月
+作于2023年6月
 </p>
 <p></b></p>
 </b> </big>
@@ -1737,133 +1776,65 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>炭</title>
-    <url>/%E7%82%AD/</url>
+    <title>矩阵</title>
+    <url>/%E7%9F%A9%E9%98%B5/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<b> <big>
-<p align="right">
-—— 卖炭翁 伐薪烧炭南山中
-</p>
-<p></b> </big></p>
-<span id="more"></span>
-<hr />
-<b> <big>
-<center>
-<p><em>I. 就这样吧</em></p>
-<p>炭</p>
-<p>是一个村子的名字</p>
-<hr />
-<hr />
-<p>就这样就行了</p>
-<p>了了了了了了</p>
-<hr />
-<p>这就像炭从卖炭翁手里 被白衫儿抢走</p>
-<p>炭不可能知道</p>
-<p>卖炭翁的墓在哪 白乐天的魂在哪</p>
-<p>炭又怎么知道呢</p>
-<p>呢呢呢呢呢呢</p>
-<hr />
-<p><em>II. 搞明白了？</em></p>
-<hr />
-<p>Just like the coffee had by noon won't be recalled,</p>
-<p>Until tossing and turning at night.</p>
-<hr />
-<p><em>III. 知行合一</em></p>
-<p>你的想法和行为 离得太远了</p>
-<p>你的想法和愉悦 离得太近了</p>
-<p>你 叫得太大声了</p>
-<p>完美地掩饰</p>
-<p>你的无能</p>
-<hr />
-<p>炭在一块儿烧才旺</p>
-<p>但它的尸体都找不着</p>
-<p>除了挤在你旁边的那群</p>
-<p>炭啊</p>
-<hr />
-<p>捎上他们</p>
-<p>一起回老家去吧</p>
-<b>
-<p align="right">
-作于2023年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>狂人</title>
-    <url>/%E7%8B%82%E4%BA%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我是个觉醒的狂人 但不是鲁迅写的那个</p>
-<p>因为我和很多其他的狂人在一起</p>
-<p>找到了志同道合的知音总是甜蜜的 所以这是个美好的集体</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我既然觉醒了 那就会每晚花时间思考东西</p>
-<p>比如像红烧里脊 和那天上的红旗</p>
-<p>想着想着 想明白了个人和集体</p>
-<p>我赶紧找到一个狂人兄弟分享感情</p>
-<hr />
-<p>我说 “个人和集体值得平衡”</p>
-<p>眼神偷偷打量他的反应</p>
-<p>可他眉头紧皱 斜着瞟了我一眼</p>
-<p>“你是不是被风吹傻了”</p>
-<hr />
-<p>我想往下解释 却又被他制止</p>
-<p>我好像成了个狂人了</p>
-<p>他摇摇头站起身子 长叹了一口气</p>
-<p>我好像真的成了个狂人了</p>
-<hr />
-<p>我是个觉醒的狂人</p>
-<p>我是个觉醒的狂人</p>
-<b>
-<p align="right">
-作于2023年6月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>矩阵特征值</title>
-    <url>/%E7%9F%A9%E9%98%B5%E7%89%B9%E5%BE%81%E5%80%BC/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="定义">定义</h3>
+<h3 id="特征值">特征值</h3>
+<h4 id="定义">定义</h4>
 <p><span class="math display">\[
-\boldsymbol{A}\boldsymbol{x}=\lambda\boldsymbol{x} \]</span></p>
+\mathbf{A}\boldsymbol{x}=\lambda\boldsymbol{x} \]</span></p>
 <p><span class="math display">\[
 \boldsymbol{x}为特征向量，\lambda为特征值 \]</span></p>
 <span id="more"></span>
-<h3 id="计算">计算</h3>
-<p><span class="math display">\[
-\det(\boldsymbol{A}-\lambda\boldsymbol{I})=0 \]</span></p>
-<h3 id="几何意义">几何意义</h3>
+<h4 id="计算">计算</h4>
+<p><span class="math display">\[ \det(\mathbf{A}-\lambda\mathbf{I})=0
+\]</span></p>
+<h4 id="几何意义">几何意义</h4>
 <p><span class="math display">\[
 \boldsymbol{x}是经\boldsymbol{A}变换后方向不变，模长伸缩因子为\lambda的向量
 \]</span></p>
+<h3 id="对称矩阵">对称矩阵</h3>
+<h4 id="定义-1">定义</h4>
+<p><span class="math display">\[ \mathbf{M}=\mathbf{M}^\mathrm{T}
+\]</span></p>
+<h3 id="正交矩阵">正交矩阵</h3>
+<h4 id="定义-2">定义</h4>
+<p><span class="math display">\[
+\mathbf{M}\mathbf{M}^\mathrm{T}=\mathbf{I} \]</span></p>
+<h4 id="性质">性质</h4>
+<p><span class="math display">\[ 特征向量互相垂直 \]</span></p>
+<p><span class="math display">\[ \text{e.g.}\
+三维矩阵：\boldsymbol{x_1}\cdot\boldsymbol{x_2}=\boldsymbol{x_1}\cdot\boldsymbol{x_3}=\boldsymbol{x_2}\cdot\boldsymbol{x_3}=0
+\]</span></p>
+<h3 id="对角矩阵">对角矩阵</h3>
+<h4 id="定义-3">定义</h4>
+<p><span class="math display">\[ \begin{pmatrix}
+      a_{1} &amp; &amp; &amp; &amp; \\
+      &amp; a_{2} &amp; &amp; &amp;\\
+      &amp; &amp; a_{3} &amp; &amp;\\
+      &amp; &amp; &amp;\ddots &amp; \\
+      &amp; &amp; &amp; &amp; a_{n}
+\end{pmatrix} \]</span></p>
+<h4 id="对称矩阵对角化">对称矩阵对角化</h4>
+<p><span class="math display">\[
+\boldsymbol{x_1},\boldsymbol{x_2},\dots,
+\boldsymbol{x_n}为\mathbf{A}特征向量 \]</span></p>
+<p><span class="math display">\[
+\boldsymbol{x_i}=\frac{1}{|\boldsymbol{x_i}|}\begin{bmatrix}
+    a_{1i}\\
+    a_{2i}\\
+    a_{3i}\\
+    \vdots\\
+    a_{ni}
+\end{bmatrix} \]</span></p>
+<p><span class="math display">\[
+\mathbf{P}为以n个\boldsymbol{x_i}为列向量的n维矩阵 \]</span></p>
+<p><span class="math display">\[
+\mathbf{D}=\mathbf{P}^{\mathrm{T}}\mathbf{A}\mathbf{P} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -1931,6 +1902,100 @@ d=\bigg|\frac{(\boldsymbol{a}-\boldsymbol{c})\cdot(\boldsymbol{b}\times\boldsymb
 \boldsymbol{r}\cdot\hat{\boldsymbol{n}}=d \]</span></p>
 <p><span class="math display">\[
 其中\hat{\boldsymbol{n}}为单位法向量，d为原点到平面距离 \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>计算人物移动距离</title>
+    <url>/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
+<span id="more"></span>
+<p>先定义一个累积经过距离的变量。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
+<p>然后是移动函数。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
+]]></content>
+      <categories>
+        <category>Unity2D</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>求曲线本身属性</title>
+    <url>/%E6%B1%82%E6%9B%B2%E7%BA%BF%E6%9C%AC%E8%BA%AB%E5%B1%9E%E6%80%A7/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="曲线长度">曲线长度</h3>
+<p><span class="math display">\[ s=\begin{cases}
+    \displaystyle\int_{x_a}^{x_b}\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
+\\
+    \displaystyle\int_{y_a}^{y_b}\sqrt{1+(\frac{\mathrm{d}x}{\mathrm{d}y})^2}\,\mathrm{d}y
+\\
+    \displaystyle\int_{t_a}^{t_b}\sqrt{(\frac{\mathrm{d}x}{\mathrm{d}t})^2+(\frac{\mathrm{d}y}{\mathrm{d}t})^2}\,\mathrm{d}t
+\\
+\end{cases} \]</span></p>
+<span id="more"></span>
+<h4 id="推导">推导</h4>
+<p><span class="math display">\[ (\delta s)^2\approx(\delta x)^2+(\delta
+y)^2 \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\frac{\mathrm{d}s}{\mathrm{d}x}=\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+s=\int_{x_a}^{x_b}\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
+\]</span></p>
+<h3 id="曲线旋转体">曲线旋转体</h3>
+<h4 id="体积">体积</h4>
+<p><span class="math display">\[ \begin{align*}
+    \text{绕x轴旋转：}
+    V=\pi\int_{x_a}^{x_b}y^2\mathrm{d}x \\
+    \text{绕y轴旋转：}
+    V=\pi\int_{y_a}^{y_b}x^2\mathrm{d}y
+\end{align*} \]</span></p>
+<h4 id="侧表面积">侧表面积</h4>
+<h5 id="基本公式">基本公式</h5>
+<p><span class="math display">\[ \begin{align*}
+    \text{绕x轴旋转：}
+    S=\int2\pi y\mathrm{d}s=\int2\pi
+y\frac{\mathrm{d}s}{\mathrm{d}x}\mathrm{d}x \\
+    \text{绕y轴旋转：}
+     S=\int2\pi x\mathrm{d}s=\int2\pi
+x\frac{\mathrm{d}s}{\mathrm{d}y}\mathrm{d}y \\
+\end{align*} \]</span></p>
+<h5 id="用于计算的公式">用于计算的公式</h5>
+<p><span class="math display">\[ 以绕x轴旋转为例： \]</span></p>
+<p><span class="math display">\[ S=\begin{cases}
+    \displaystyle
+2\pi\int_{x_a}^{x_b}y\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
+\\
+    \displaystyle
+2\pi\int_{y_a}^{y_b}y\sqrt{1+(\frac{\mathrm{d}x}{\mathrm{d}y})^2}\,\mathrm{d}y
+\\
+    \displaystyle
+2\pi\int_{t_a}^{t_b}y\sqrt{(\frac{\mathrm{d}x}{\mathrm{d}t})^2+(\frac{\mathrm{d}y}{\mathrm{d}t})^2}\,\mathrm{d}t
+\\
+\end{cases} \]</span></p>
+<h5 id="推导-1">推导</h5>
+<p><span class="math display">\[ 圆台侧表面积公式为S=\pi(r_1+r_2)l
+\]</span></p>
+<p><span class="math display">\[ \therefore \delta S=\pi(y+(y+\delta
+y))\delta s \]</span></p>
+<p><span class="math display">\[ \frac{\delta S}{\delta x}=\pi(2y+\delta
+y)\frac{\delta s}{\delta x} \]</span></p>
+<p><span class="math display">\[ \frac{\mathrm{d}S}{\mathrm{d}x}=2\pi
+y\frac{\mathrm{d}s}{\mathrm{d}x} \]</span></p>
+<p><span class="math display">\[ \Rightarrow S=\int2\pi y\mathrm{d}s
+\]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -2178,37 +2243,6 @@ class="math inline">\(x=\mathrm{e}^u\)</span>代入即可</p>
       </categories>
   </entry>
   <entry>
-    <title>读《呐喊》有感</title>
-    <url>/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p><b></p>
-<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
-<p></b></p>
-<span id="more"></span>
-<p><b></p>
-<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
-<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
-<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
-<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
-<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
-<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
-<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
-<b>
-<p align="right">
-作于2023年8月
-</p>
-<p></b></p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>读后感</category>
-      </categories>
-  </entry>
-  <entry>
     <title>读《在路上》有感</title>
     <url>/%E8%AF%BB%E3%80%8A%E5%9C%A8%E8%B7%AF%E4%B8%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
     <content><![CDATA[<b>
@@ -2241,47 +2275,34 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>谈谈迷墙里平克的法西斯式行为</title>
-    <url>/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
+    <title>读《呐喊》有感</title>
+    <url>/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
-Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
-Like Hell”, ”Waiting For The Worms”等等。</p>
+<p><b></p>
+<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
+<p></b></p>
 <span id="more"></span>
-<p>Comfortably
-Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
-The
-Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>前卫摇滚</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>计算人物移动距离</title>
-    <url>/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
-    <content><![CDATA[<b>
+<p><b></p>
+<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
+<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
+<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
+<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
+<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
+<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
+<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
+<b>
 <p align="right">
-XantC
+作于2023年8月
 </p>
 <p></b></p>
-<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
-<span id="more"></span>
-<p>先定义一个累积经过距离的变量。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
-<p>然后是移动函数。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
+<p></b></p>
 ]]></content>
       <categories>
-        <category>Unity2D</category>
+        <category>读后感</category>
       </categories>
   </entry>
   <entry>
@@ -2327,55 +2348,28 @@ XantC
       </tags>
   </entry>
   <entry>
-    <title>那人（2）</title>
-    <url>/%E9%82%A3%E4%BA%BA%EF%BC%882%EF%BC%89/</url>
+    <title>谈谈迷墙里平克的法西斯式行为</title>
+    <url>/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<b> <big>
-<center>
-<p>（嘶吼）</p>
-<p>我不是“那人”</p>
-<p>我是我自己</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>“教育机器”只是个开头</p>
-<p>网络上的很多还等着他探索</p>
-<p>踩一捧一 电子药剂</p>
-<p>这些他都倒背如流</p>
-<hr />
-<p>他坚决否定过去的自己</p>
-<p>就像否定孔孟一样容易</p>
-<p>他坚决追捧如今的自己</p>
-<p>就像十万个人血馒头 捧起了鲁迅</p>
-<hr />
-<p>可以把“太较真”的内容放进去</p>
-<hr />
-<p>父亲说</p>
-<p>要打仗了</p>
-<p>母亲说</p>
-<p>又长痘了</p>
-<p>亲戚说</p>
-<p>又变瘦了</p>
-<p>我说</p>
-<p>了什么？</p>
-<hr />
-<p>这不还是没变么</p>
-<p>只是他头顶上的空调换了个牌子</p>
-<b>
-<p align="right">
-作于2023年7-8月
-</p>
-<p></b></p>
-</b> </big>
-</center>
+<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
+Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
+Like Hell”, ”Waiting For The Worms”等等。</p>
+<span id="more"></span>
+<p>Comfortably
+Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
+The
+Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
 ]]></content>
       <categories>
-        <category>文艺</category>
+        <category>杂谈</category>
       </categories>
+      <tags>
+        <tag>前卫摇滚</tag>
+      </tags>
   </entry>
   <entry>
     <title>那人</title>
@@ -2433,6 +2427,57 @@ XantC
 <b>
 <p align="right">
 作于2023年6-7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>那人（2）</title>
+    <url>/%E9%82%A3%E4%BA%BA%EF%BC%882%EF%BC%89/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>（嘶吼）</p>
+<p>我不是“那人”</p>
+<p>我是我自己</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>“教育机器”只是个开头</p>
+<p>网络上的很多还等着他探索</p>
+<p>踩一捧一 电子药剂</p>
+<p>这些他都倒背如流</p>
+<hr />
+<p>他坚决否定过去的自己</p>
+<p>就像否定孔孟一样容易</p>
+<p>他坚决追捧如今的自己</p>
+<p>就像十万个人血馒头 捧起了鲁迅</p>
+<hr />
+<p>可以把“太较真”的内容放进去</p>
+<hr />
+<p>父亲说</p>
+<p>要打仗了</p>
+<p>母亲说</p>
+<p>又长痘了</p>
+<p>亲戚说</p>
+<p>又变瘦了</p>
+<p>我说</p>
+<p>了什么？</p>
+<hr />
+<p>这不还是没变么</p>
+<p>只是他头顶上的空调换了个牌子</p>
+<b>
+<p align="right">
+作于2023年7-8月
 </p>
 <p></b></p>
 </b> </big>
