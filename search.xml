@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2023.8.1</title>
-    <url>/2023-8-1/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我今天才明白，《一块红布》是个永恒的东西。</p>
-<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
-<b>
-<p align="right">
-作于2023.8.1
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.9.12</title>
     <url>/2023-9-12/</url>
     <content><![CDATA[<b>
@@ -39,6 +15,30 @@ XantC
 <b>
 <p align="right">
 作于2023.9.12
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.8.1</title>
+    <url>/2023-8-1/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>我今天才明白，《一块红布》是个永恒的东西。</p>
+<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
+<b>
+<p align="right">
+作于2023.8.1
 </p>
 <p></b></p>
 </b> </big>
@@ -319,6 +319,56 @@ XantC
       </tags>
   </entry>
   <entry>
+    <title>三角导数与积分公式</title>
+    <url>/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="导数">导数</h3>
+<h4 id="三角">三角</h4>
+<p><span class="math display">\[ (\sin x)^{&#39;}=\cos x \]</span></p>
+<p><span class="math display">\[ (\cos x)^{&#39;}=-\sin x \]</span></p>
+<span id="more"></span>
+<p><span class="math display">\[ (\tan x)^{&#39;}=\sec^2x \]</span></p>
+<p><span class="math display">\[ (\cot x)^{&#39;}=-\csc^2x \]</span></p>
+<p><span class="math display">\[ (\sec x)^{&#39;}=\sec x\tan x
+\]</span></p>
+<p><span class="math display">\[ (\csc x)^{&#39;}=-\csc x\cot x
+\]</span></p>
+<h4 id="反三角">反三角</h4>
+<p><span class="math display">\[ (\arcsin
+x)^{&#39;}=\frac{1}{\sqrt{1-x^2}} \]</span></p>
+<p><span class="math display">\[ (\arccos
+x)^{&#39;}=-\frac{1}{\sqrt{1-x^2}} \]</span></p>
+<p><span class="math display">\[ (\arctan x)^{&#39;}=\frac{1}{1+x^2}
+\]</span></p>
+<h3 id="积分">积分</h3>
+<h4 id="三角-1">三角</h4>
+<p><span class="math display">\[ \int \sin x\mathrm{d}x=-\cos
+x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \cos x\mathrm{d}x=\sin
+x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \tan x\mathrm{d}x=-ln|\cos
+x|+\mathrm{C}=ln|\sec x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \cot x\mathrm{d}x=ln|\sin
+x|+\mathrm{C}=-ln|\csc x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \sec x\mathrm{d}x=ln|\sec x+\tan
+x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \csc x\mathrm{d}x=-ln|\csc x+\cot
+x|+\mathrm{C} \]</span></p>
+<h4 id="反三角-1">反三角</h4>
+<p><span class="math display">\[ \int
+\frac{1}{\sqrt{1-x^2}}\mathrm{d}x=\arcsin x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \frac{1}{1+x^2}\mathrm{d}x=\arctan
+x+\mathrm{C} \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
     <title>伽马函数</title>
     <url>/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
     <content><![CDATA[<b>
@@ -381,56 +431,6 @@ href="#分母为二次式或根号下二次式">分母为二次式或根号下�
       </categories>
   </entry>
   <entry>
-    <title>三角导数与积分公式</title>
-    <url>/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="导数">导数</h3>
-<h4 id="三角">三角</h4>
-<p><span class="math display">\[ (\sin x)^{&#39;}=\cos x \]</span></p>
-<p><span class="math display">\[ (\cos x)^{&#39;}=-\sin x \]</span></p>
-<span id="more"></span>
-<p><span class="math display">\[ (\tan x)^{&#39;}=\sec^2x \]</span></p>
-<p><span class="math display">\[ (\cot x)^{&#39;}=-\csc^2x \]</span></p>
-<p><span class="math display">\[ (\sec x)^{&#39;}=\sec x\tan x
-\]</span></p>
-<p><span class="math display">\[ (\csc x)^{&#39;}=-\csc x\cot x
-\]</span></p>
-<h4 id="反三角">反三角</h4>
-<p><span class="math display">\[ (\arcsin
-x)^{&#39;}=\frac{1}{\sqrt{1-x^2}} \]</span></p>
-<p><span class="math display">\[ (\arccos
-x)^{&#39;}=-\frac{1}{\sqrt{1-x^2}} \]</span></p>
-<p><span class="math display">\[ (\arctan x)^{&#39;}=\frac{1}{1+x^2}
-\]</span></p>
-<h3 id="积分">积分</h3>
-<h4 id="三角-1">三角</h4>
-<p><span class="math display">\[ \int \sin x\mathrm{d}x=-\cos
-x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \cos x\mathrm{d}x=\sin
-x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \tan x\mathrm{d}x=-ln|\cos
-x|+\mathrm{C}=ln|\sec x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \cot x\mathrm{d}x=ln|\sin
-x|+\mathrm{C}=-ln|\csc x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \sec x\mathrm{d}x=ln|\sec x+\tan
-x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \csc x\mathrm{d}x=-ln|\csc x+\cot
-x|+\mathrm{C} \]</span></p>
-<h4 id="反三角-1">反三角</h4>
-<p><span class="math display">\[ \int
-\frac{1}{\sqrt{1-x^2}}\mathrm{d}x=\arcsin x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \frac{1}{1+x^2}\mathrm{d}x=\arctan
-x+\mathrm{C} \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
     <title>你们值得</title>
     <url>/%E4%BD%A0%E4%BB%AC%E5%80%BC%E5%BE%97/</url>
     <content><![CDATA[<b>
@@ -481,6 +481,77 @@ XantC
 ]]></content>
       <categories>
         <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>周期函数</title>
+    <url>/%E5%91%A8%E6%9C%9F%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="定义">定义</h3>
+<p><span class="math display">\[ f(x+T)=f(x)\enspace(T\neq0)
+\]</span></p>
+<span id="more"></span>
+<h3 id="有周期性的抽象函数">有周期性的抽象函数</h3>
+<p><span class="math display">\[ f(x+a)=f(x)\Rightarrow T=a \tag{1}
+\]</span></p>
+<p><span class="math display">\[ f(x+a)=-f(x)\Rightarrow T=a \tag{2}
+\]</span></p>
+<p><span class="math display">\[ f(x+a)=\pm\frac{1}{f(x)}\Rightarrow
+T=2a \tag{3} \]</span></p>
+<p><span class="math display">\[ f(x+a)=f(x-a)\Rightarrow T=2a \tag{4}
+\]</span></p>
+<p><span class="math display">\[ f(x+a)=\frac{1-f(x)}{1+f(x)}\Rightarrow
+T=2a \tag{5}\]</span></p>
+<p><span class="math display">\[ f(x+a)=\frac{1+f(x)}{1-f(x)}\Rightarrow
+T=4a \tag{6} \]</span></p>
+<p><span class="math display">\[ f(x)=f(x-m)+f(x+m)\Rightarrow T=6m
+\tag{7} \]</span></p>
+<h3 id="定理">定理</h3>
+<h4 id="关于两条直线对称">关于两条直线对称</h4>
+<p><span class="math display">\[
+y=f(x)关于A(a,y_0)，B(b,y_0)对称，则T=2(b-a) \]</span></p>
+<h5 id="证明">证明</h5>
+<p><span class="math display">\[ \begin{cases}
+    f(a+x)+f(a-x)=2y_0\\
+    f(b+x)+f(b-x)=2y_0\\
+\end{cases} \]</span></p>
+<p><span class="math display">\[
+\begin{align*}
+    \Rightarrow f[x+2(b-a)]&amp;=f[b+(x+b-2a)] \\
+    &amp;=2y_0-f[b-(x+b-2a)] \\
+    &amp;=2y_0-f(2a-x) \\
+    &amp;=2y_0-\left\{2y_0-f[a-(a-x)]\right\}\\
+    &amp;=f(x)
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \therefore f[x+2(b-a)]=f(x)
+\]</span></p>
+<h4 id="关于一点一线对称">关于一点一线对称</h4>
+<p><span class="math display">\[ y=f(x)关于(m,n)，x=a对称(a\neq0,\,m\neq
+a)，则T=4(m-a) \]</span></p>
+<h5 id="证明-1">证明</h5>
+<p><span class="math display">\[ \begin{cases}
+    2n-f(x)=f(2m-x)\\
+    f(2a-x)=f(x)
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \Rightarrow\begin{cases}
+     2n-f(2a-x)=f(2m-x) \\
+     2n-f(2a-x)=f(2m-2a+x)\\
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \Rightarrow 2n-f(x)=f(2m-2a+x)
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow 2n-f(2m-2a+x)=f(4m-4a+x)
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow 2n-(2n-f(x))=f(4m-4a+x)
+\]</span></p>
+<p><span class="math display">\[ \therefore f[4(m-a)+x]=f(x)
+\]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
       </categories>
   </entry>
   <entry>
@@ -686,77 +757,6 @@ x\rvert&lt;1) \]</span></p>
       </categories>
   </entry>
   <entry>
-    <title>周期函数</title>
-    <url>/%E5%91%A8%E6%9C%9F%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="定义">定义</h3>
-<p><span class="math display">\[ f(x+T)=f(x)\enspace(T\neq0)
-\]</span></p>
-<span id="more"></span>
-<h3 id="有周期性的抽象函数">有周期性的抽象函数</h3>
-<p><span class="math display">\[ f(x+a)=f(x)\Rightarrow T=a \tag{1}
-\]</span></p>
-<p><span class="math display">\[ f(x+a)=-f(x)\Rightarrow T=a \tag{2}
-\]</span></p>
-<p><span class="math display">\[ f(x+a)=\pm\frac{1}{f(x)}\Rightarrow
-T=2a \tag{3} \]</span></p>
-<p><span class="math display">\[ f(x+a)=f(x-a)\Rightarrow T=2a \tag{4}
-\]</span></p>
-<p><span class="math display">\[ f(x+a)=\frac{1-f(x)}{1+f(x)}\Rightarrow
-T=2a \tag{5}\]</span></p>
-<p><span class="math display">\[ f(x+a)=\frac{1+f(x)}{1-f(x)}\Rightarrow
-T=4a \tag{6} \]</span></p>
-<p><span class="math display">\[ f(x)=f(x-m)+f(x+m)\Rightarrow T=6m
-\tag{7} \]</span></p>
-<h3 id="定理">定理</h3>
-<h4 id="关于两条直线对称">关于两条直线对称</h4>
-<p><span class="math display">\[
-y=f(x)关于A(a,y_0)，B(b,y_0)对称，则T=2(b-a) \]</span></p>
-<h5 id="证明">证明</h5>
-<p><span class="math display">\[ \begin{cases}
-    f(a+x)+f(a-x)=2y_0\\
-    f(b+x)+f(b-x)=2y_0\\
-\end{cases} \]</span></p>
-<p><span class="math display">\[
-\begin{align*}
-    \Rightarrow f[x+2(b-a)]&amp;=f[b+(x+b-2a)] \\
-    &amp;=2y_0-f[b-(x+b-2a)] \\
-    &amp;=2y_0-f(2a-x) \\
-    &amp;=2y_0-\left\{2y_0-f[a-(a-x)]\right\}\\
-    &amp;=f(x)
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \therefore f[x+2(b-a)]=f(x)
-\]</span></p>
-<h4 id="关于一点一线对称">关于一点一线对称</h4>
-<p><span class="math display">\[ y=f(x)关于(m,n)，x=a对称(a\neq0,\,m\neq
-a)，则T=4(m-a) \]</span></p>
-<h5 id="证明-1">证明</h5>
-<p><span class="math display">\[ \begin{cases}
-    2n-f(x)=f(2m-x)\\
-    f(2a-x)=f(x)
-\end{cases} \]</span></p>
-<p><span class="math display">\[ \Rightarrow\begin{cases}
-     2n-f(2a-x)=f(2m-x) \\
-     2n-f(2a-x)=f(2m-2a+x)\\
-\end{cases} \]</span></p>
-<p><span class="math display">\[ \Rightarrow 2n-f(x)=f(2m-2a+x)
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow 2n-f(2m-2a+x)=f(4m-4a+x)
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow 2n-(2n-f(x))=f(4m-4a+x)
-\]</span></p>
-<p><span class="math display">\[ \therefore f[4(m-a)+x]=f(x)
-\]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
     <title>唯物主义哲学</title>
     <url>/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/</url>
     <content><![CDATA[<b>
@@ -776,19 +776,19 @@ XantC
 <p>厨房的肥皂裂成两半</p>
 <p>门前的大路修了半年</p>
 <p>城市的大楼一片荒芜</p>
-<p>我们的脸上一片笑颜</p>
+<p>西服和工装满脸笑颜</p>
 <hr />
 <p>劳工奴隶不值得怜悯</p>
 <p>因为生产关系适应生产力</p>
 <hr />
-<p>大街上的</p>
-<p>不想给同龄人打比喻</p>
+<p>青年的希望在更年轻的身上</p>
+<p>不再给同龄人打比喻</p>
 <p>我这时代的伟人都在哪呢</p>
-<p>新时代的人血馒头赞扬鲁迅</p>
+<p>新时代的人血馒头赞美鲁迅</p>
 <hr />
 <p>咖啡店的白须老头神情淡漠</p>
 <p>吱呀呀地盯着桌子上的手机</p>
-<p>旁边那人 朝着哪儿看呢</p>
+<p>旁边那人朝着哪儿看呢</p>
 <p>菜单 大街 还是天空</p>
 <hr />
 <p>天上从没有过飞鸟</p>
@@ -1038,6 +1038,36 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>妈妈我能活到大航海时代吗</title>
+    <url>/%E5%A6%88%E5%A6%88%E6%88%91%E8%83%BD%E6%B4%BB%E5%88%B0%E5%A4%A7%E8%88%AA%E6%B5%B7%E6%97%B6%E4%BB%A3%E5%90%97/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>妈妈</p>
+<p>我能活到大航海时代吗</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<hr />
+<p>孩子吃药了吗</p>
+<p>我等会儿会吃的</p>
+<b>
+<p align="right">
+作于2023年12月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>完整的麦子</title>
     <url>/%E5%AE%8C%E6%95%B4%E7%9A%84%E9%BA%A6%E5%AD%90/</url>
     <content><![CDATA[<b>
@@ -1113,7 +1143,7 @@ XantC
 <p>我不知道明天 脑袋里会想点什么</p>
 <p>全看早上耳机里放的是什么歌</p>
 <p>无所事事的不倒翁</p>
-<p>风一吹就倒</p>
+<p>风一吹就倒 不要</p>
 <hr />
 <p>未来急不可耐地飞奔了过来</p>
 <p>看见我们 把过去闷在怀里</p>
@@ -1125,8 +1155,7 @@ XantC
 <p>我不知道软的是骨头 还是我的心</p>
 <p>病入膏肓</p>
 <hr />
-<p>我看见一个诗人</p>
-<p>在大街上俯身 系着鞋带</p>
+<p>我看见一个诗人 腿陷在泥地里</p>
 <p>嘴里吐出比春风还软的话语</p>
 <p>加油 加油 上帝保佑</p>
 <b>
@@ -1142,17 +1171,41 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>打印机脱机问题解决</title>
-    <url>/%E6%89%93%E5%8D%B0%E6%9C%BA%E8%84%B1%E6%9C%BA%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</url>
+    <title>新鲜的风</title>
+    <url>/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<p>win11：打印机和扫描仪-更多设备和打印机设置-右键打印机-查看现在正在打印什么-打印机-取消“脱机使用打印机”</p>
+<b> <big>
+<center>
+<p>一股强风吹来</p>
+<p>带着新鲜的味道</p>
+<p>有些人一见那风</p>
+<p>就畏畏缩缩</p>
+<p>将本真塞紧在大衣里</p>
+<p>而无畏无惧、张开双臂的那一群</p>
+<p>逐渐改造、进化</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>完全换了一副容貌</p>
+<p>说着听不懂的语言</p>
+<p>传播新习得的真理</p>
+<p>一股风一种模样</p>
+<p>以物喜悲，变化无常</p>
+<p>聚众探讨，世间美好</p>
+<b>
+<p align="right">
+作于2023年2月
+</p>
+<p></b></p>
+</b> </big>
+</center>
 ]]></content>
       <categories>
-        <category>小贴士</category>
+        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -1219,41 +1272,186 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>新鲜的风</title>
-    <url>/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
+    <title>打印机脱机问题解决</title>
+    <url>/%E6%89%93%E5%8D%B0%E6%9C%BA%E8%84%B1%E6%9C%BA%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<b> <big>
-<center>
-<p>一股强风吹来</p>
-<p>带着新鲜的味道</p>
-<p>有些人一见那风</p>
-<p>就畏畏缩缩</p>
-<p>将本真塞紧在大衣里</p>
-<p>而无畏无惧、张开双臂的那一群</p>
-<p>逐渐改造、进化</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>完全换了一副容貌</p>
-<p>说着听不懂的语言</p>
-<p>传播新习得的真理</p>
-<p>一股风一种模样</p>
-<p>以物喜悲，变化无常</p>
-<p>聚众探讨，世间美好</p>
-<b>
-<p align="right">
-作于2023年2月
-</p>
-<p></b></p>
-</b> </big>
-</center>
+<p>win11：打印机和扫描仪-更多设备和打印机设置-右键打印机-查看现在正在打印什么-打印机-取消“脱机使用打印机”</p>
 ]]></content>
       <categories>
-        <category>文艺</category>
+        <category>小贴士</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>极坐标系</title>
+    <url>/%E6%9E%81%E5%9D%90%E6%A0%87%E7%B3%BB/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="微分">微分</h3>
+<p><span class="math display">\[
+\begin{align*}
+    &amp;x=r\cos \theta \\
+    &amp;y=r\sin \theta \\
+    &amp;\frac{\mathrm{d}y}{\mathrm{d}x}=\frac{\frac{\mathrm{d}y}{\mathrm{d}\theta}}{\frac{\mathrm{d}x}{\mathrm{d}\theta}}
+\\
+\end{align*}\]</span></p>
+<span id="more"></span>
+<p><span class="math display">\[
+平行于极轴\colon{\frac{\mathrm{d}y}{\mathrm{d}\theta}}=0 \]</span></p>
+<p><span class="math display">\[
+垂直于极轴\colon{\frac{\mathrm{d}x}{\mathrm{d}\theta}}=0 \]</span></p>
+<h3 id="积分">积分</h3>
+<p><span class="math display">\[
+\mathrm{S}=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
+\]</span></p>
+<h4 id="证明">证明</h4>
+<p><span class="math display">\[ \begin{align*}
+    \mathrm{S}&amp;=\sum_{i=0}^{+\infty}\frac{1}{2}r^2\mathrm{d}\theta_{i}
+\\
+    &amp;=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
+\end{align*} \]</span></p>
+<h3 id="作图">作图</h3>
+<p><span class="math display">\[ 对于r=a(p+q\cos\theta)\enspace(p\geq q)
+\colon \]</span></p>
+<p>当<span class="math inline">\(p=q \colon\)</span> <img
+src="/pic/极坐标系/p=q时图像.png" alt="img" /></p>
+<p>当<span class="math inline">\(q&lt;p&lt;2q \colon\)</span> <img
+src="/pic/极坐标系/p在q和2q间时图像.png" alt="img" /></p>
+<p>当<span class="math inline">\(p\geq 2q \colon\)</span> <img
+src="/pic/极坐标系/p大于等于2q图像.png" alt="img" /></p>
+<h4 id="证明-1">证明</h4>
+<p>证明图像有没有凹口，相当于证它切线垂直于极轴的点的个数大于2</p>
+<p>证明：</p>
+<p><span class="math display">\[
+x=r\cos\theta=a\cos\theta(p+q\cos\theta) \]</span></p>
+<p><span class="math display">\[ x=ap\cos\theta+aq\cos^2\theta
+\]</span></p>
+<p><span
+class="math display">\[\frac{\mathrm{d}x}{\mathrm{d}\theta}=-ap\sin\theta-2aq\sin\theta\cos\theta=0\]</span></p>
+<p><span class="math display">\[
+\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q} \]</span></p>
+<details>
+<summary>
+Case 1 有凹口
+</summary>
+<p><span class="math display">\[ \mathrm{Case}\ 1.1\colon\enspace p=q
+\]</span></p>
+<p><span class="math display">\[ \therefore -\frac{p}{2q}=-\frac{1}{2}
+\]</span></p>
+<p><span class="math display">\[ \therefore
+\theta=0,\pi,\pm\frac{2}{3}\pi \]</span></p>
+<p>其中<span class="math inline">\(\theta=\pi\)</span>时，<span
+class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}\theta}\)</span>和<span
+class="math inline">\(\frac{\mathrm{d}x}{\mathrm{d}\theta}\)</span>都为零，再观察图像，发现切线其实是平行于极轴的，所以<span
+class="math inline">\(\theta=0,\pm\frac{2}{3}\pi\)</span>,有凹口</p>
+<p><span class="math display">\[ ~ \]</span></p>
+<p><span class="math display">\[ \mathrm{Case}\ 1.2\colon\enspace
+q&lt;p&lt;2q \]</span></p>
+<p><span class="math display">\[ \therefore -1&lt;-\frac{p}{2q}&lt;1
+\]</span></p>
+<p><span class="math display">\[ \therefore
+\theta=0,\pi,\arccos(-\frac{p}{2q}),(2\pi-\arccos(-\frac{p}{2q}))
+\]</span></p>
+<p><span
+class="math inline">\(\theta\)</span>有四个解，所以图像有凹口</p>
+</details>
+<details>
+<summary>
+Case 2 无凹口
+</summary>
+<p><span class="math display">\[ \mathrm{Case}\ 2\colon\enspace p\geq2q
+\]</span></p>
+<p><span class="math display">\[ \therefore -\frac{p}{2q}\leq-1
+\]</span></p>
+<p><span class="math display">\[
+\because\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q}\]</span></p>
+<p><span class="math display">\[ \therefore \theta=0,\pi \]</span></p>
+<p><span
+class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
+</details>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>求曲线本身属性</title>
+    <url>/%E6%B1%82%E6%9B%B2%E7%BA%BF%E6%9C%AC%E8%BA%AB%E5%B1%9E%E6%80%A7/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="曲线长度">曲线长度</h3>
+<p><span class="math display">\[ s=\begin{cases}
+    \displaystyle\int_{x_a}^{x_b}\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
+\\
+    \displaystyle\int_{y_a}^{y_b}\sqrt{1+(\frac{\mathrm{d}x}{\mathrm{d}y})^2}\,\mathrm{d}y
+\\
+    \displaystyle\int_{t_a}^{t_b}\sqrt{(\frac{\mathrm{d}x}{\mathrm{d}t})^2+(\frac{\mathrm{d}y}{\mathrm{d}t})^2}\,\mathrm{d}t
+\\
+\end{cases} \]</span></p>
+<span id="more"></span>
+<h4 id="推导">推导</h4>
+<p><span class="math display">\[ (\delta s)^2\approx(\delta x)^2+(\delta
+y)^2 \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\frac{\mathrm{d}s}{\mathrm{d}x}=\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+s=\int_{x_a}^{x_b}\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
+\]</span></p>
+<h3 id="曲线旋转体">曲线旋转体</h3>
+<h4 id="体积">体积</h4>
+<p><span class="math display">\[ \begin{align*}
+    \text{绕x轴旋转：}
+    V=\pi\int_{x_a}^{x_b}y^2\mathrm{d}x \\
+    \text{绕y轴旋转：}
+    V=\pi\int_{y_a}^{y_b}x^2\mathrm{d}y
+\end{align*} \]</span></p>
+<h4 id="侧表面积">侧表面积</h4>
+<h5 id="基本公式">基本公式</h5>
+<p><span class="math display">\[ \begin{align*}
+    \text{绕x轴旋转：}
+    S=\int2\pi y\mathrm{d}s=\int2\pi
+y\frac{\mathrm{d}s}{\mathrm{d}x}\mathrm{d}x \\
+    \text{绕y轴旋转：}
+     S=\int2\pi x\mathrm{d}s=\int2\pi
+x\frac{\mathrm{d}s}{\mathrm{d}y}\mathrm{d}y \\
+\end{align*} \]</span></p>
+<h5 id="用于计算的公式">用于计算的公式</h5>
+<p><span class="math display">\[ 以绕x轴旋转为例： \]</span></p>
+<p><span class="math display">\[ S=\begin{cases}
+    \displaystyle
+2\pi\int_{x_a}^{x_b}y\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
+\\
+    \displaystyle
+2\pi\int_{y_a}^{y_b}y\sqrt{1+(\frac{\mathrm{d}x}{\mathrm{d}y})^2}\,\mathrm{d}y
+\\
+    \displaystyle
+2\pi\int_{t_a}^{t_b}y\sqrt{(\frac{\mathrm{d}x}{\mathrm{d}t})^2+(\frac{\mathrm{d}y}{\mathrm{d}t})^2}\,\mathrm{d}t
+\\
+\end{cases} \]</span></p>
+<h5 id="推导-1">推导</h5>
+<p><span class="math display">\[ 圆台侧表面积公式为S=\pi(r_1+r_2)l
+\]</span></p>
+<p><span class="math display">\[ \therefore \delta S=\pi(y+(y+\delta
+y))\delta s \]</span></p>
+<p><span class="math display">\[ \frac{\delta S}{\delta x}=\pi(2y+\delta
+y)\frac{\delta s}{\delta x} \]</span></p>
+<p><span class="math display">\[ \frac{\mathrm{d}S}{\mathrm{d}x}=2\pi
+y\frac{\mathrm{d}s}{\mathrm{d}x} \]</span></p>
+<p><span class="math display">\[ \Rightarrow S=\int2\pi y\mathrm{d}s
+\]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
       </categories>
   </entry>
   <entry>
@@ -1340,7 +1538,7 @@ L-\varepsilon \]</span></p>
 <h5 id="洛必达法则">洛必达法则</h5>
 <p><span class="math display">\[ \lim_{x\to a}f(x)=\lim_{x\to a}g(x)=0
 \;\text{or} \lim_{x\to a}f(x)=\lim_{x\to a}g(x)=\infty \]</span></p>
-<p><span class="math display">\[ \exist f^{&#39;}(x),g^{&#39;}(x),
+<p><span class="math display">\[ \exists f^{&#39;}(x),g^{&#39;}(x),
 \,x\in\mathring{U}(a) \]</span></p>
 <p><span class="math display">\[ \lim_{x\to
 a}\frac{f(x)}{g(x)}=\lim_{x\to a}\frac{f^{&#39;}(x)}{g^{&#39;}(x)}
@@ -1348,7 +1546,7 @@ a}\frac{f(x)}{g(x)}=\lim_{x\to a}\frac{f^{&#39;}(x)}{g^{&#39;}(x)}
 <h6 id="证明-1">证明</h6>
 <p><span class="math display">\[ \text{For}\colon f(a)=g(a)=0
 \]</span></p>
-<p><span class="math display">\[ \exist \xi \in (x,a)\,\text{or}\,(a,x)
+<p><span class="math display">\[ \exists \xi \in (x,a)\,\text{or}\,(a,x)
 \]</span></p>
 <p><span class="math display">\[ \text{s.t.}\,
 \frac{f^{&#39;}(\xi)}{g^{&#39;}(\xi)}=\frac{f(x)-f(a)}{g(x)-g(a)}=\frac{f(x)}{g(x)}
@@ -1370,7 +1568,8 @@ a}\frac{g^{&#39;}(x)f^2(x)}{f^{&#39;}(x)g^2(x)} \]</span></p>
 <p><span class="math display">\[ \therefore \lim_{x\to
 a}\frac{f(x)}{g(x)}=\lim_{x\to a}\frac{f^{&#39;}(x)}{g^{&#39;}(x)}
 \]</span></p>
-<h4 id="运算法则">运算法则</h4>
+<h4 id="计算">计算</h4>
+<h5 id="运算法则">运算法则</h5>
 <p><span class="math display">\[ \lim_{x\to a}[f(x)+g(x)]=\lim_{x\to
 a}f(x)+\lim_{x\to a}g(x) \tag{1} \]</span></p>
 <p><span class="math display">\[ \lim_{x\to a}[f(x)-g(x)]=\lim_{x\to
@@ -1392,7 +1591,7 @@ a}\sqrt[n]{f(x)}=\sqrt[n]{\lim_{x\to a}f(x)} \tag{8} \]</span></p>
 <p><span class="math display">\[ \lim_{x\to a}x=a \tag{10} \]</span></p>
 <p><span class="math display">\[ \lim_{x\to a}x^n=a^n \tag{11}
 \]</span></p>
-<h5 id="证明加法运算">证明加法运算</h5>
+<h6 id="证明加法运算">证明加法运算</h6>
 <p><span class="math display">\[ \lim_{x\to a}[f(x)+g(x)]=\lim_{x\to
 a}f(x)+\lim_{x\to a}g(x)\colon \]</span></p>
 <p><span class="math display">\[ \lim_{x\to a}f(x)=L,\; \lim_{x\to
@@ -1420,7 +1619,7 @@ a}g(x)=M \]</span></p>
 |f(x)+g(x)-L-M|&lt;\varepsilon \]</span></p>
 <p><span class="math display">\[ \therefore \lim_{x\to
 a}[f(x)+g(x)]=\lim_{x\to a}f(x)+\lim_{x\to a}g(x) \]</span></p>
-<h5 id="证明复合函数运算">证明复合函数运算</h5>
+<h6 id="证明复合函数运算">证明复合函数运算</h6>
 <p><span class="math display">\[ u=g(x), \lim_{x\to
 a}g(x)=u_0,\lim_{u\to u_0}f(u)=f(u_0) \]</span></p>
 <p><span class="math display">\[ \Rightarrow \lim_{x\to
@@ -1438,6 +1637,21 @@ a}f(g(x))=f(\lim_{x\to a}g(x))=f(u_0)\colon \]</span></p>
 a}f(u)=f(u_0)=f(\lim_{x\to a}g(x)) \]</span></p>
 <p><span class="math display">\[ \therefore \lim_{x\to
 a}f(g(x))=f(\lim_{x\to a}g(x))=f(u_0) \]</span></p>
+<h5 id="未定式极限">未定式极限</h5>
+<h6 id="分式">分式</h6>
+<p><span class="math display">\[
+\frac{0}{0}=\frac{0^{&#39;}}{0^{&#39;}},\;\frac{\infty}{\infty}=\frac{\infty^{&#39;}}{\infty^{&#39;}}
+\]</span></p>
+<h6 id="乘式">乘式</h6>
+<p><span class="math display">\[
+0\cdot\infty=\frac{0}{\frac{1}{\infty}}=\frac{\infty}{\frac{1}{0}}
+\]</span></p>
+<h6 id="减式">减式</h6>
+<p><span class="math display">\[ \infty-\infty\colon\text{通分}
+\]</span></p>
+<h6 id="次方">次方</h6>
+<p><span class="math display">\[ \infty^0=0^0=1^\infty\colon \lim
+u^v=\mathrm{e}^{\lim v\ln{u}} \]</span></p>
 <h4 id="重要极限">重要极限</h4>
 <h5 id="第一类重要极限">第一类重要极限</h5>
 <p><span class="math display">\[ \lim_{x\to 0}\frac{\sin x}{x}=1
@@ -1526,6 +1740,7 @@ Case 3 f(x) &lt; f(a)
 \]</span></p>
 <p><span class="math display">\[ \therefore \exists c\in(a,b),
 \text{s.t.}\, f^{&#39;}(c)=0 \]</span></p>
+</details>
 <h3 id="拉格朗日中值定理">拉格朗日中值定理</h3>
 <p><span class="math display">\[ f(x)\in\mathrm{C}[a, b],\,
 f(x)在(a,b)可导 \]</span></p>
@@ -1562,68 +1777,6 @@ f(x)与g(x)在(a,b)可导 \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>炭</title>
-    <url>/%E7%82%AD/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<p align="right">
-—— 卖炭翁 伐薪烧炭南山中
-</p>
-<p></b> </big></p>
-<span id="more"></span>
-<hr />
-<b> <big>
-<center>
-<p><em>I. 就这样吧</em></p>
-<p>炭</p>
-<p>是一个村子的名字</p>
-<hr />
-<hr />
-<p>就这样就行了</p>
-<p>了了了了了了</p>
-<hr />
-<p>这就像炭从卖炭翁手里 被白衫儿抢走</p>
-<p>炭不可能知道</p>
-<p>卖炭翁的墓在哪 白乐天的魂在哪</p>
-<p>炭又怎么知道呢</p>
-<p>呢呢呢呢呢呢</p>
-<hr />
-<p><em>II. 搞明白了？</em></p>
-<hr />
-<p>Just like the coffee had by noon won't be recalled,</p>
-<p>Until tossing and turning at night.</p>
-<hr />
-<p><em>III. 知行合一</em></p>
-<p>你的想法和行为 离得太远了</p>
-<p>你的想法和愉悦 离得太近了</p>
-<p>你 叫得太大声了</p>
-<p>完美地掩饰</p>
-<p>你的无能</p>
-<hr />
-<p>炭在一块儿烧才旺</p>
-<p>但它的尸体都找不着</p>
-<p>除了挤在你旁边的那群</p>
-<p>炭啊</p>
-<hr />
-<p>捎上他们</p>
-<p>一起回老家去吧</p>
-<b>
-<p align="right">
-作于2023年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -1740,100 +1893,55 @@ x=x_0-\frac{f(x_0)}{f^{&#39;}(x_0)} \]</span></p>
       </categories>
   </entry>
   <entry>
-    <title>求曲线本身属性</title>
-    <url>/%E6%B1%82%E6%9B%B2%E7%BA%BF%E6%9C%AC%E8%BA%AB%E5%B1%9E%E6%80%A7/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="曲线长度">曲线长度</h3>
-<p><span class="math display">\[ s=\begin{cases}
-    \displaystyle\int_{x_a}^{x_b}\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
-\\
-    \displaystyle\int_{y_a}^{y_b}\sqrt{1+(\frac{\mathrm{d}x}{\mathrm{d}y})^2}\,\mathrm{d}y
-\\
-    \displaystyle\int_{t_a}^{t_b}\sqrt{(\frac{\mathrm{d}x}{\mathrm{d}t})^2+(\frac{\mathrm{d}y}{\mathrm{d}t})^2}\,\mathrm{d}t
-\\
-\end{cases} \]</span></p>
-<span id="more"></span>
-<h4 id="推导">推导</h4>
-<p><span class="math display">\[ (\delta s)^2\approx(\delta x)^2+(\delta
-y)^2 \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\frac{\mathrm{d}s}{\mathrm{d}x}=\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow
-s=\int_{x_a}^{x_b}\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
-\]</span></p>
-<h3 id="曲线旋转体">曲线旋转体</h3>
-<h4 id="体积">体积</h4>
-<p><span class="math display">\[ \begin{align*}
-    \text{绕x轴旋转：}
-    V=\pi\int_{x_a}^{x_b}y^2\mathrm{d}x \\
-    \text{绕y轴旋转：}
-    V=\pi\int_{y_a}^{y_b}x^2\mathrm{d}y
-\end{align*} \]</span></p>
-<h4 id="侧表面积">侧表面积</h4>
-<h5 id="基本公式">基本公式</h5>
-<p><span class="math display">\[ \begin{align*}
-    \text{绕x轴旋转：}
-    S=\int2\pi y\mathrm{d}s=\int2\pi
-y\frac{\mathrm{d}s}{\mathrm{d}x}\mathrm{d}x \\
-    \text{绕y轴旋转：}
-     S=\int2\pi x\mathrm{d}s=\int2\pi
-x\frac{\mathrm{d}s}{\mathrm{d}y}\mathrm{d}y \\
-\end{align*} \]</span></p>
-<h5 id="用于计算的公式">用于计算的公式</h5>
-<p><span class="math display">\[ 以绕x轴旋转为例： \]</span></p>
-<p><span class="math display">\[ S=\begin{cases}
-    \displaystyle
-2\pi\int_{x_a}^{x_b}y\sqrt{1+(\frac{\mathrm{d}y}{\mathrm{d}x})^2}\,\mathrm{d}x
-\\
-    \displaystyle
-2\pi\int_{y_a}^{y_b}y\sqrt{1+(\frac{\mathrm{d}x}{\mathrm{d}y})^2}\,\mathrm{d}y
-\\
-    \displaystyle
-2\pi\int_{t_a}^{t_b}y\sqrt{(\frac{\mathrm{d}x}{\mathrm{d}t})^2+(\frac{\mathrm{d}y}{\mathrm{d}t})^2}\,\mathrm{d}t
-\\
-\end{cases} \]</span></p>
-<h5 id="推导-1">推导</h5>
-<p><span class="math display">\[ 圆台侧表面积公式为S=\pi(r_1+r_2)l
-\]</span></p>
-<p><span class="math display">\[ \therefore \delta S=\pi(y+(y+\delta
-y))\delta s \]</span></p>
-<p><span class="math display">\[ \frac{\delta S}{\delta x}=\pi(2y+\delta
-y)\frac{\delta s}{\delta x} \]</span></p>
-<p><span class="math display">\[ \frac{\mathrm{d}S}{\mathrm{d}x}=2\pi
-y\frac{\mathrm{d}s}{\mathrm{d}x} \]</span></p>
-<p><span class="math display">\[ \Rightarrow S=\int2\pi y\mathrm{d}s
-\]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>爱人朋友</title>
-    <url>/%E7%88%B1%E4%BA%BA%E6%9C%8B%E5%8F%8B/</url>
+    <title>炭</title>
+    <url>/%E7%82%AD/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
 <b> <big>
+<p align="right">
+—— 卖炭翁 伐薪烧炭南山中
+</p>
+<p></b> </big></p>
+<span id="more"></span>
+<hr />
+<b> <big>
 <center>
-<p>我的朋友 爱人</p>
-<p>你在哪里</p>
-<p></big> <span id="more"></span></p>
+<p><em>I. 就这样吧</em></p>
+<p>炭</p>
+<p>是一个村子的名字</p>
 <hr />
-<p><big></p>
-<p>我想给你念上几首诗</p>
-<p>叫你几声爱人</p>
-<p>同志还是朋友</p>
-<p>终究后者轻松点吧</p>
 <hr />
-<p>我的爱人朋友</p>
+<p>就这样就行了</p>
+<p>了了了了了了</p>
+<hr />
+<p>这就像炭从卖炭翁手里 被白衫儿抢走</p>
+<p>炭不可能知道</p>
+<p>卖炭翁的墓在哪 白乐天的魂在哪</p>
+<p>炭又怎么知道呢</p>
+<p>呢呢呢呢呢呢</p>
+<hr />
+<p><em>II. 搞明白了？</em></p>
+<hr />
+<p>Just like the coffee had by noon won't be recalled,</p>
+<p>Until tossing and turning at night.</p>
+<hr />
+<p><em>III. 知行合一</em></p>
+<p>你的想法和行为 离得太远了</p>
+<p>你的想法和愉悦 离得太近了</p>
+<p>你 叫得太大声了</p>
+<p>完美地掩饰</p>
+<p>你的无能</p>
+<hr />
+<p>炭在一块儿烧才旺</p>
+<p>但它的尸体都找不着</p>
+<p>除了挤在你旁边的那群</p>
+<p>炭啊</p>
+<hr />
+<p>捎上他们</p>
+<p>一起回老家去吧</p>
 <b>
 <p align="right">
 作于2023年7月
@@ -1896,8 +2004,8 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>看上去很美</title>
-    <url>/%E7%9C%8B%E4%B8%8A%E5%8E%BB%E5%BE%88%E7%BE%8E/</url>
+    <title>爱人朋友</title>
+    <url>/%E7%88%B1%E4%BA%BA%E6%9C%8B%E5%8F%8B/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -1905,16 +2013,20 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
+<p>我的朋友 爱人</p>
+<p>你在哪里</p>
 <p></big> <span id="more"></span></p>
 <hr />
 <p><big></p>
-<p>看上去很美</p>
+<p>我想给你念上几首诗</p>
+<p>叫你几声爱人</p>
+<p>同志还是朋友</p>
+<p>终究后者轻松点吧</p>
 <hr />
-<p>我不想这段日子只能拿来回忆</p>
-<p>至少我现在开始珍惜了</p>
+<p>我的爱人朋友</p>
 <b>
 <p align="right">
-作于2023年12月
+作于2023年7月
 </p>
 <p></b></p>
 </b> </big>
@@ -1960,6 +2072,102 @@ XantC
 <b>
 <p align="right">
 作于2023年6月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>空间向量几何</title>
+    <url>/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%87%A0%E4%BD%95/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="空间直线方程">空间直线方程</h3>
+<h4 id="向量方程">向量方程</h4>
+<p><span class="math display">\[
+\boldsymbol{r}=\boldsymbol{a}+t\boldsymbol{b} \]</span></p>
+<p><span class="math display">\[
+(\boldsymbol{r}-\boldsymbol{a})\times\boldsymbol{b}=\boldsymbol{0}
+\]</span></p>
+<span id="more"></span>
+<h4 id="笛卡尔方程">笛卡尔方程</h4>
+<p><span class="math display">\[ \boldsymbol{a}=\begin{pmatrix}
+    x_1\\x_2\\x_3
+\end{pmatrix},\,
+\boldsymbol{b}=\begin{pmatrix}
+    l\\m\\n
+\end{pmatrix} \]</span></p>
+<p><span class="math display">\[
+\frac{x-x_1}{l}=\frac{y-y_1}{m}=\frac{z-z_1}{n}=\lambda \]</span></p>
+<h3 id="空间平面方程">空间平面方程</h3>
+<h4 id="标量方程">标量方程</h4>
+<p><span class="math display">\[ \boldsymbol{r}\cdot\boldsymbol{n}=p
+\]</span></p>
+<h4 id="向量方程-1">向量方程</h4>
+<p><span class="math display">\[
+\boldsymbol{r}=\boldsymbol{a}+\lambda\boldsymbol{b}+\mu\boldsymbol{c}
+\]</span></p>
+<p><span class="math display">\[
+其中\boldsymbol{a}为平面上的点，\boldsymbol{b}和\boldsymbol{c}是向量
+\]</span></p>
+<h4 id="笛卡尔方程-1">笛卡尔方程</h4>
+<p><span class="math display">\[ ax+by+cz+d=0 \]</span></p>
+<h3 id="夹角">夹角</h3>
+<h4 id="线线夹角">线线夹角</h4>
+<p><span class="math display">\[
+\cos\theta=\bigg|\frac{\boldsymbol{a}\cdot\boldsymbol{b}}{|\boldsymbol{a}||\boldsymbol{b}|}\bigg|
+\]</span></p>
+<h4 id="线面夹角">线面夹角</h4>
+<p><span class="math display">\[
+\sin\theta=\bigg|\frac{\boldsymbol{b}\cdot\boldsymbol{n}}{|\boldsymbol{b}||\boldsymbol{n}|}\bigg|
+\]</span></p>
+<h4 id="面面夹角">面面夹角</h4>
+<p><span class="math display">\[
+\cos\theta=\bigg|\frac{\boldsymbol{n_1}\cdot\boldsymbol{n_2}}{|\boldsymbol{n_1}||\boldsymbol{n_2}|}\bigg|
+\]</span></p>
+<h3 id="异面直线距离">异面直线距离</h3>
+<p><span class="math display">\[
+\boldsymbol{r_1}=\boldsymbol{a}+\lambda\boldsymbol{b},\enspace\boldsymbol{r_2}=\boldsymbol{c}+\mu\boldsymbol{d}\]</span></p>
+<p><span class="math display">\[
+d=\bigg|\frac{(\boldsymbol{a}-\boldsymbol{c})\cdot(\boldsymbol{b}\times\boldsymbol{d})}{|\boldsymbol{b}\times\boldsymbol{d}|}\bigg|
+\]</span></p>
+<h3 id="原点到平面距离">原点到平面距离</h3>
+<p><span class="math display">\[
+\boldsymbol{r}\cdot\hat{\boldsymbol{n}}=d \]</span></p>
+<p><span class="math display">\[
+其中\hat{\boldsymbol{n}}为单位法向量，d为原点到平面距离 \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>看上去很美</title>
+    <url>/%E7%9C%8B%E4%B8%8A%E5%8E%BB%E5%BE%88%E7%BE%8E/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>看上去很美</p>
+<hr />
+<p>我不想这段日子只能拿来回忆</p>
+<p>至少我现在开始珍惜了</p>
+<b>
+<p align="right">
+作于2023年12月
 </p>
 <p></b></p>
 </b> </big>
@@ -2110,93 +2318,6 @@ XantC
 ]]></content>
       <categories>
         <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>空间向量几何</title>
-    <url>/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%87%A0%E4%BD%95/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="空间直线方程">空间直线方程</h3>
-<h4 id="向量方程">向量方程</h4>
-<p><span class="math display">\[
-\boldsymbol{r}=\boldsymbol{a}+t\boldsymbol{b} \]</span></p>
-<p><span class="math display">\[
-(\boldsymbol{r}-\boldsymbol{a})\times\boldsymbol{b}=\boldsymbol{0}
-\]</span></p>
-<span id="more"></span>
-<h4 id="笛卡尔方程">笛卡尔方程</h4>
-<p><span class="math display">\[ \boldsymbol{a}=\begin{pmatrix}
-    x_1\\x_2\\x_3
-\end{pmatrix},\,
-\boldsymbol{b}=\begin{pmatrix}
-    l\\m\\n
-\end{pmatrix} \]</span></p>
-<p><span class="math display">\[
-\frac{x-x_1}{l}=\frac{y-y_1}{m}=\frac{z-z_1}{n}=\lambda \]</span></p>
-<h3 id="空间平面方程">空间平面方程</h3>
-<h4 id="标量方程">标量方程</h4>
-<p><span class="math display">\[ \boldsymbol{r}\cdot\boldsymbol{n}=p
-\]</span></p>
-<h4 id="向量方程-1">向量方程</h4>
-<p><span class="math display">\[
-\boldsymbol{r}=\boldsymbol{a}+\lambda\boldsymbol{b}+\mu\boldsymbol{c}
-\]</span></p>
-<p><span class="math display">\[
-其中\boldsymbol{a}为平面上的点，\boldsymbol{b}和\boldsymbol{c}是向量
-\]</span></p>
-<h4 id="笛卡尔方程-1">笛卡尔方程</h4>
-<p><span class="math display">\[ ax+by+cz+d=0 \]</span></p>
-<h3 id="夹角">夹角</h3>
-<h4 id="线线夹角">线线夹角</h4>
-<p><span class="math display">\[
-\cos\theta=\bigg|\frac{\boldsymbol{a}\cdot\boldsymbol{b}}{|\boldsymbol{a}||\boldsymbol{b}|}\bigg|
-\]</span></p>
-<h4 id="线面夹角">线面夹角</h4>
-<p><span class="math display">\[
-\sin\theta=\bigg|\frac{\boldsymbol{b}\cdot\boldsymbol{n}}{|\boldsymbol{b}||\boldsymbol{n}|}\bigg|
-\]</span></p>
-<h4 id="面面夹角">面面夹角</h4>
-<p><span class="math display">\[
-\cos\theta=\bigg|\frac{\boldsymbol{n_1}\cdot\boldsymbol{n_2}}{|\boldsymbol{n_1}||\boldsymbol{n_2}|}\bigg|
-\]</span></p>
-<h3 id="异面直线距离">异面直线距离</h3>
-<p><span class="math display">\[
-\boldsymbol{r_1}=\boldsymbol{a}+\lambda\boldsymbol{b},\enspace\boldsymbol{r_2}=\boldsymbol{c}+\mu\boldsymbol{d}\]</span></p>
-<p><span class="math display">\[
-d=\bigg|\frac{(\boldsymbol{a}-\boldsymbol{c})\cdot(\boldsymbol{b}\times\boldsymbol{d})}{|\boldsymbol{b}\times\boldsymbol{d}|}\bigg|
-\]</span></p>
-<h3 id="原点到平面距离">原点到平面距离</h3>
-<p><span class="math display">\[
-\boldsymbol{r}\cdot\hat{\boldsymbol{n}}=d \]</span></p>
-<p><span class="math display">\[
-其中\hat{\boldsymbol{n}}为单位法向量，d为原点到平面距离 \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>计算人物移动距离</title>
-    <url>/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
-<span id="more"></span>
-<p>先定义一个累积经过距离的变量。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
-<p>然后是移动函数。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
-]]></content>
-      <categories>
-        <category>Unity2D</category>
       </categories>
   </entry>
   <entry>
@@ -2441,98 +2562,33 @@ class="math inline">\(x=\mathrm{e}^u\)</span>代入即可</p>
       </categories>
   </entry>
   <entry>
-    <title>极坐标系</title>
-    <url>/%E6%9E%81%E5%9D%90%E6%A0%87%E7%B3%BB/</url>
+    <title>读《在路上》有感</title>
+    <url>/%E8%AF%BB%E3%80%8A%E5%9C%A8%E8%B7%AF%E4%B8%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<h3 id="微分">微分</h3>
-<p><span class="math display">\[
-\begin{align*}
-    &amp;x=r\cos \theta \\
-    &amp;y=r\sin \theta \\
-    &amp;\frac{\mathrm{d}y}{\mathrm{d}x}=\frac{\frac{\mathrm{d}y}{\mathrm{d}\theta}}{\frac{\mathrm{d}x}{\mathrm{d}\theta}}
-\\
-\end{align*}\]</span></p>
+<p><b></p>
+<p>最近读完了杰克凯鲁亚克的《在路上》。这毕竟是颓废一代的代表作品，读之前的印象自然是一群颓废青年满美国乱兜，再中间穿插一点“生活真道理”的故事。但中间主角跟一个离家出走的姑娘互生爱意，决定成立家庭不久后，又因寒冬与生计而分道扬镳的事情，让我觉得不太对劲--这本书的真实性好像是玩真格的，真不愧是率真写作。而且最后的结局也没让我失望：主角的好哥们狄恩长途跋涉几千公里赶到纽约，只为了来看看自己。但他没钱和狄恩一起回旧金山，只能目送他在寒冷的纽约街头走去，身上穿着被虫子咬过的外套。其原型也在凯鲁亚克死前一个月，冻死在了2月墨西哥的铁道边上。</p>
+<p></b></p>
 <span id="more"></span>
-<p><span class="math display">\[
-平行于极轴\colon{\frac{\mathrm{d}y}{\mathrm{d}\theta}}=0 \]</span></p>
-<p><span class="math display">\[
-垂直于极轴\colon{\frac{\mathrm{d}x}{\mathrm{d}\theta}}=0 \]</span></p>
-<h3 id="积分">积分</h3>
-<p><span class="math display">\[
-\mathrm{S}=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
-\]</span></p>
-<h4 id="证明">证明</h4>
-<p><span class="math display">\[ \begin{align*}
-    \mathrm{S}&amp;=\sum_{i=0}^{+\infty}\frac{1}{2}r^2\mathrm{d}\theta_{i}
-\\
-    &amp;=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
-\end{align*} \]</span></p>
-<h3 id="作图">作图</h3>
-<p><span class="math display">\[ 对于r=a(p+q\cos\theta)\enspace(p\geq q)
-\colon \]</span></p>
-<p>当<span class="math inline">\(p=q \colon\)</span> <img
-src="/pic/极坐标系/p=q时图像.png" alt="img" /></p>
-<p>当<span class="math inline">\(q&lt;p&lt;2q \colon\)</span> <img
-src="/pic/极坐标系/p在q和2q间时图像.png" alt="img" /></p>
-<p>当<span class="math inline">\(p\geq 2q \colon\)</span> <img
-src="/pic/极坐标系/p大于等于2q图像.png" alt="img" /></p>
-<h4 id="证明-1">证明</h4>
-<p>证明图像有没有凹口，相当于证它切线垂直于极轴的点的个数大于2</p>
-<p>证明：</p>
-<p><span class="math display">\[
-x=r\cos\theta=a\cos\theta(p+q\cos\theta) \]</span></p>
-<p><span class="math display">\[ x=ap\cos\theta+aq\cos^2\theta
-\]</span></p>
-<p><span
-class="math display">\[\frac{\mathrm{d}x}{\mathrm{d}\theta}=-ap\sin\theta-2aq\sin\theta\cos\theta=0\]</span></p>
-<p><span class="math display">\[
-\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q} \]</span></p>
-<details>
-<summary>
-Case 1 有凹口
-</summary>
-<p><span class="math display">\[ \mathrm{Case}\ 1.1\colon\enspace p=q
-\]</span></p>
-<p><span class="math display">\[ \therefore -\frac{p}{2q}=-\frac{1}{2}
-\]</span></p>
-<p><span class="math display">\[ \therefore
-\theta=0,\pi,\pm\frac{2}{3}\pi \]</span></p>
-<p>其中<span class="math inline">\(\theta=\pi\)</span>时，<span
-class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}\theta}\)</span>和<span
-class="math inline">\(\frac{\mathrm{d}x}{\mathrm{d}\theta}\)</span>都为零，再观察图像，发现切线其实是平行于极轴的，所以<span
-class="math inline">\(\theta=0,\pm\frac{2}{3}\pi\)</span>,有凹口</p>
-<p><span class="math display">\[ ~ \]</span></p>
-<p><span class="math display">\[ \mathrm{Case}\ 1.2\colon\enspace
-q&lt;p&lt;2q \]</span></p>
-<p><span class="math display">\[ \therefore -1&lt;-\frac{p}{2q}&lt;1
-\]</span></p>
-<p><span class="math display">\[ \therefore
-\theta=0,\pi,\arccos(-\frac{p}{2q}),(2\pi-\arccos(-\frac{p}{2q}))
-\]</span></p>
-<p><span
-class="math inline">\(\theta\)</span>有四个解，所以图像有凹口</p>
-</details>
-<details>
-<summary>
-Case 2 无凹口
-</summary>
-<p><span class="math display">\[ \mathrm{Case}\ 2\colon\enspace p\geq2q
-\]</span></p>
-<p><span class="math display">\[ \therefore -\frac{p}{2q}\leq-1
-\]</span></p>
-<p><span class="math display">\[
-\because\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q}\]</span></p>
-<p><span class="math display">\[ \therefore \theta=0,\pi \]</span></p>
-<p><span
-class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
-</details>
+<p><b></p>
+<p>于是这让我开始琢磨，这本书最大的噱头明明是飙车吸毒性爱，这悲剧结尾的冲击力怎会这么大？如果明明知道这一切的“追寻意义”都不会有结果，</p>
+<p>主要内容：讨论对未来的精准预测</p>
+<p>（考虑一下要不要删第一段）</p>
+<p>世界上历史上这类反抗的事情太多了，摇滚乐也记载着太多这类事情。嬉皮士们改变了性与战争，</p>
+<p>所以这有点像杭天说的：“在这一切均已被尝试，一切结局都可被观测的‘后’时代，我感到没有方向，无所适从，备受煎熬。”</p>
+<p>出路何在？舌头的主唱吴吞说：“有人替你活着/有人替你死了/可是没有人能替你证明你的存在。”</p>
+<b>
+<p align="right">
+作于2023年11月
+</p>
+<p></b></p>
+<p></b></p>
 ]]></content>
       <categories>
-        <category>数学</category>
+        <category>读后感</category>
       </categories>
   </entry>
   <entry>
@@ -2567,58 +2623,24 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>读《在路上》有感</title>
-    <url>/%E8%AF%BB%E3%80%8A%E5%9C%A8%E8%B7%AF%E4%B8%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
+    <title>计算人物移动距离</title>
+    <url>/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<p><b></p>
-<p>最近读完了杰克凯鲁亚克的《在路上》。这毕竟是颓废一代的代表作品，读之前的印象自然是一群颓废青年满美国乱兜，再中间穿插一点“生活真道理”的故事。但中间主角跟一个离家出走的姑娘互生爱意，决定成立家庭不久后，又因寒冬与生计而分道扬镳的事情，让我觉得不太对劲--这本书的真实性好像是玩真格的，真不愧是率真写作。而且最后的结局也没让我失望：主角的好哥们狄恩长途跋涉几千公里赶到纽约，只为了来看看自己。但他没钱和狄恩一起回旧金山，只能目送他在寒冷的纽约街头走去，身上穿着被虫子咬过的外套。其原型也在凯鲁亚克死前一个月，冻死在了2月墨西哥的铁道边上。</p>
-<p></b></p>
+<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
 <span id="more"></span>
-<p><b></p>
-<p>于是这让我开始琢磨，这本书最大的噱头明明是飙车吸毒性爱，这悲剧结尾的冲击力怎会这么大？如果明明知道这一切的“追寻意义”都不会有结果，</p>
-<p>主要内容：讨论对未来的精准预测</p>
-<p>（考虑一下要不要删第一段）</p>
-<p>世界上历史上这类反抗的事情太多了，摇滚乐也记载着太多这类事情。嬉皮士们改变了性与战争，</p>
-<p>所以这有点像杭天说的：“在这一切均已被尝试，一切结局都可被观测的‘后’时代，我感到没有方向，无所适从，备受煎熬。”</p>
-<p>出路何在？舌头的主唱吴吞说：“有人替你活着/有人替你死了/可是没有人能替你证明你的存在。”</p>
-<b>
-<p align="right">
-作于2023年11月
-</p>
-<p></b></p>
-<p></b></p>
+<p>先定义一个累积经过距离的变量。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
+<p>然后是移动函数。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
 ]]></content>
       <categories>
-        <category>读后感</category>
+        <category>Unity2D</category>
       </categories>
-  </entry>
-  <entry>
-    <title>谈谈迷墙里平克的法西斯式行为</title>
-    <url>/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
-Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
-Like Hell”, ”Waiting For The Worms”等等。</p>
-<span id="more"></span>
-<p>Comfortably
-Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
-The
-Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>前卫摇滚</tag>
-      </tags>
   </entry>
   <entry>
     <title>谈《孤独的人是可耻的》</title>
@@ -2661,6 +2683,95 @@ XantC
       <tags>
         <tag>中国摇滚乐</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>谈谈迷墙里平克的法西斯式行为</title>
+    <url>/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
+Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
+Like Hell”, ”Waiting For The Worms”等等。</p>
+<span id="more"></span>
+<p>Comfortably
+Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
+The
+Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>前卫摇滚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>那人</title>
+    <url>/%E9%82%A3%E4%BA%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>他从小到大 没仔细想过周围的一切</p>
+<p>一些困惑只在悠闲的时候才会出现</p>
+<p>这好像是他天生的诟病</p>
+<p>但能活在空调下 还有什么不乐意</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>他不久就去念书了 成绩特好</p>
+<p>老师同学都说他是个好苗苗</p>
+<p>但反差的是 他最讨厌别人叫他“知识分子”</p>
+<p>因为他总会感到不顺 不知道要怎么回应</p>
+<p>他一特棒的朋友就会马上安慰他</p>
+<p>陪他打游戏 给他说好话</p>
+<p>他心里的苍蝇来回乱窜了</p>
+<hr />
+<p>他很快就上初中了 成绩依然保持稳定</p>
+<p>他有了喜欢的女生和帅气的情敌</p>
+<p>等他俩牵起手来 肚子就一阵绞痛</p>
+<p>他为此消沉了一阵 开始琢磨些什么</p>
+<hr />
+<p>他断定自己并不适合恋爱</p>
+<p>越想越觉得自己只适合学习</p>
+<p>别管这些破事 以后还得吹空调上班呢</p>
+<p>他把手机拿出来开始奋斗</p>
+<hr />
+<p>命运给他推了一首歌 叫“教育机器”</p>
+<p>听得他醍醐灌顶却又心有余悸</p>
+<p>过去做的一切好像突然失去了意义</p>
+<p>因为一个花三分钟就听完了的东西</p>
+<hr />
+<p>这种撕裂的感觉持续撕裂着他</p>
+<p>一直到走上中考的考场</p>
+<p>他九年来奋斗的底气强撑着他</p>
+<p>铃响了 他把卷子交给老师</p>
+<hr />
+<p>他回到家 不知道要干什么 就死盯着那叠书</p>
+<p>心里的苍蝇闷得飞不起来了</p>
+<p>他挑了一本出来 还不肯服输</p>
+<p>他发现他的心灵也被交上去了</p>
+<hr />
+<p>这人终于受不了了 他找到了他的父亲</p>
+<p>他问：“这天怎么他妈这么闷啊”</p>
+<p>“你开个空调不就得了”</p>
+<b>
+<p align="right">
+作于2023年6-7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
   </entry>
   <entry>
     <title>那人（2）</title>
@@ -2746,71 +2857,6 @@ XantC
 ]]></content>
       <categories>
         <category>杂谈</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>那人</title>
-    <url>/%E9%82%A3%E4%BA%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>他从小到大 没仔细想过周围的一切</p>
-<p>一些困惑只在悠闲的时候才会出现</p>
-<p>这好像是他天生的诟病</p>
-<p>但能活在空调下 还有什么不乐意</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>他不久就去念书了 成绩特好</p>
-<p>老师同学都说他是个好苗苗</p>
-<p>但反差的是 他最讨厌别人叫他“知识分子”</p>
-<p>因为他总会感到不顺 不知道要怎么回应</p>
-<p>他一特棒的朋友就会马上安慰他</p>
-<p>陪他打游戏 给他说好话</p>
-<p>他心里的苍蝇来回乱窜了</p>
-<hr />
-<p>他很快就上初中了 成绩依然保持稳定</p>
-<p>他有了喜欢的女生和帅气的情敌</p>
-<p>等他俩牵起手来 肚子就一阵绞痛</p>
-<p>他为此消沉了一阵 开始琢磨些什么</p>
-<hr />
-<p>他断定自己并不适合恋爱</p>
-<p>越想越觉得自己只适合学习</p>
-<p>别管这些破事 以后还得吹空调上班呢</p>
-<p>他把手机拿出来开始奋斗</p>
-<hr />
-<p>命运给他推了一首歌 叫“教育机器”</p>
-<p>听得他醍醐灌顶却又心有余悸</p>
-<p>过去做的一切好像突然失去了意义</p>
-<p>因为一个花三分钟就听完了的东西</p>
-<hr />
-<p>这种撕裂的感觉持续撕裂着他</p>
-<p>一直到走上中考的考场</p>
-<p>他九年来奋斗的底气强撑着他</p>
-<p>铃响了 他把卷子交给老师</p>
-<hr />
-<p>他回到家 不知道要干什么 就死盯着那叠书</p>
-<p>心里的苍蝇闷得飞不起来了</p>
-<p>他挑了一本出来 还不肯服输</p>
-<p>他发现他的心灵也被交上去了</p>
-<hr />
-<p>这人终于受不了了 他找到了他的父亲</p>
-<p>他问：“这天怎么他妈这么闷啊”</p>
-<p>“你开个空调不就得了”</p>
-<b>
-<p align="right">
-作于2023年6-7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
       </categories>
   </entry>
 </search>
