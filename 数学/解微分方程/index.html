@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 6.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"allenxantc.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.17.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"style":null,"show_result":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"waline","storage":true,"lazyload":false,"nav":null,"activeClass":"waline"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+
+    <meta name="description" content="XantC   一阶线性微分方程 一般形式 \[ \frac{\mathrm{d}y}{\mathrm{d}x}+Py&#x3D;Q \]">
+<meta property="og:type" content="article">
+<meta property="og:title" content="解微分方程">
+<meta property="og:url" content="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/index.html">
+<meta property="og:site_name" content="XantC的博客">
+<meta property="og:description" content="XantC   一阶线性微分方程 一般形式 \[ \frac{\mathrm{d}y}{\mathrm{d}x}+Py&#x3D;Q \]">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2023-08-18T09:24:39.000Z">
+<meta property="article:modified_time" content="2024-01-24T05:39:19.787Z">
+<meta property="article:author" content="XantC">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/","path":"数学/解微分方程/","title":"解微分方程"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>解微分方程 | XantC的博客</title>
+  
+
+
+
+
+
+
+
+<link rel="dns-prefetch" href="waline-ten-flax.vercel.app">
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<style>.darkmode--activated{--body-bg-color:#282828;--content-bg-color:#333;--card-bg-color:#555;--text-color:#ccc;--blockquote-color:#bbb;--link-color:#ccc;--link-hover-color:#eee;--brand-color:#ddd;--brand-hover-color:#ddd;--table-row-odd-bg-color:#282828;--table-row-hover-bg-color:#363636;--menu-item-bg-color:#555;--btn-default-bg:#222;--btn-default-color:#ccc;--btn-default-border-color:#555;--btn-default-hover-bg:#666;--btn-default-hover-color:#ccc;--btn-default-hover-border-color:#666;--highlight-background:#282b2e;--highlight-foreground:#a9b7c6;--highlight-gutter-background:#34393d;--highlight-gutter-foreground:#9ca9b6}.darkmode--activated img{opacity:.75}.darkmode--activated img:hover{opacity:.9}.darkmode--activated code{color:#69dbdc;background:0 0}button.darkmode-toggle{z-index:9999}.darkmode-ignore,img{display:flex!important}.beian img{display:inline-block!important}</style></head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">XantC的博客</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">The Power of The Powerless 去看看欧盟域名有没有申请成功！</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li><li class="menu-item menu-item-日记"><a href="/diary/" rel="section"><i class="fa fa-address-book fa-fw"></i>日记</a></li><li class="menu-item menu-item-guestbook"><a href="/guestbook/" rel="section"><i class="fa fa-book fa-fw"></i>留言板</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E9%98%B6%E7%BA%BF%E6%80%A7%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B"><span class="nav-number">1.</span> <span class="nav-text">一阶线性微分方程</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E4%B8%80%E8%88%AC%E5%BD%A2%E5%BC%8F"><span class="nav-number">1.1.</span> <span class="nav-text">一般形式</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%B1%82%E8%A7%A3"><span class="nav-number">1.2.</span> <span class="nav-text">求解</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#%E5%8F%AF%E5%88%86%E7%A6%BB%E5%8F%98%E9%87%8F%E7%9A%84%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B"><span class="nav-number">1.2.1.</span> <span class="nav-text">可分离变量的微分方程</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E9%80%9A%E8%A7%A3"><span class="nav-number">1.2.2.</span> <span class="nav-text">通解</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E4%BB%A3%E6%8D%A2%E6%B3%95"><span class="nav-number">1.2.3.</span> <span class="nav-text">代换法</span></a><ol class="nav-child"><li class="nav-item nav-level-6"><a class="nav-link" href="#%E5%BA%94%E7%94%A8"><span class="nav-number">1.2.3.1.</span> <span class="nav-text">应用</span></a></li></ol></li></ol></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C%E9%98%B6%E5%8F%98%E7%B3%BB%E6%95%B0%E7%BA%BF%E6%80%A7%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B"><span class="nav-number">2.</span> <span class="nav-text">二阶变系数线性微分方程</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E4%B8%80%E8%88%AC%E5%BD%A2%E5%BC%8F-1"><span class="nav-number">2.1.</span> <span class="nav-text">一般形式</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%B1%82%E8%A7%A3-1"><span class="nav-number">2.2.</span> <span class="nav-text">求解</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C%E9%98%B6%E5%B8%B8%E7%B3%BB%E6%95%B0%E7%BA%BF%E6%80%A7%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B"><span class="nav-number">3.</span> <span class="nav-text">二阶常系数线性微分方程</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E4%B8%80%E8%88%AC%E5%BD%A2%E5%BC%8F-2"><span class="nav-number">3.1.</span> <span class="nav-text">一般形式</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%B1%82%E8%A7%A3-2"><span class="nav-number">3.2.</span> <span class="nav-text">求解</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#%E4%B8%80%E8%88%AC%E6%96%B9%E6%B3%95"><span class="nav-number">3.2.1.</span> <span class="nav-text">一般方法</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E7%89%B9%E6%AE%8A%E6%96%B9%E6%B3%95"><span class="nav-number">3.2.2.</span> <span class="nav-text">特殊方法</span></a></li></ol></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">XantC</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">52</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">9</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="cc-license animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" class="cc-opacity" rel="noopener" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/creativecommons-vocabulary/2020.11.3/assets/license_badges/small/by_nc_sa.svg" alt="Creative Commons"></a>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="XantC">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="解微分方程 | XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          解微分方程
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2023-08-18 17:24:39" itemprop="dateCreated datePublished" datetime="2023-08-18T17:24:39+08:00">2023-08-18</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2024-01-24 13:39:19" itemprop="dateModified" datetime="2024-01-24T13:39:19+08:00">2024-01-24</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E6%95%B0%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">数学</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Waline：</span>
+  
+    <a title="waline" href="/%E6%95%B0%E5%AD%A6/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/#waline" itemprop="discussionUrl">
+      <span class="post-comments-count waline-comment-count" data-path="/%E6%95%B0%E5%AD%A6/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="一阶线性微分方程">一阶线性微分方程</h3>
+<h4 id="一般形式">一般形式</h4>
+<p><span class="math display">\[ \frac{\mathrm{d}y}{\mathrm{d}x}+Py=Q
+\]</span></p>
+<span id="more"></span>
+<h4 id="求解">求解</h4>
+<h5 id="可分离变量的微分方程">可分离变量的微分方程</h5>
+<p><span class="math display">\[
+\frac{\mathrm{d}y}{\mathrm{d}x}=f(x)g(y) \]</span> <span
+class="math display">\[ \int\frac{1}{g(y)}\mathrm{d}y=\int
+f(x)\mathrm{d}x+\mathrm{C} \]</span></p>
+<h5 id="通解">通解</h5>
+<p><span
+class="math display">\[凑\frac{\mathrm{d}}{\mathrm{d}x}(uv)=u\frac{\mathrm{d}v}{\mathrm{d}x}+v\frac{\mathrm{d}u}{\mathrm{d}x}\]</span></p>
+<p><span class="math display">\[ \frac{\mathrm{d}y}{\mathrm{d}x}+Py=Q
+\tag{1}\]</span></p>
+<p><span class="math display">\[
+f(x)\frac{\mathrm{d}y}{\mathrm{d}x}+f(x)Py=f(x)Q \]</span></p>
+<p><span class="math display">\[ \because
+(f(x)y)^{&#39;}=f(x)y^{&#39;}+f^{&#39;}(x)y \]</span></p>
+<p><span class="math display">\[ \therefore f^{&#39;}(x)=f(x)P
+\]</span></p>
+<p><span class="math display">\[ \therefore f(x)=e^{\int P\mathrm{d}x}
+\tag{2}\]</span></p>
+<p><span class="math display">\[ (2) \to (1) \colon e^{\int
+P\mathrm{d}x}\frac{\mathrm{d}y}{\mathrm{d}x}+e^{\int
+P\mathrm{d}x}Py=e^{\int P\mathrm{d}x}Q \]</span></p>
+<p><span class="math display">\[ (e^{\int
+P\mathrm{d}x}y)^{&#39;}=e^{\int P\mathrm{d}x}Q \]</span></p>
+<p><span class="math display">\[ \therefore e^{\int P\mathrm{d}x}y=\int
+e^{\int P\mathrm{d}x}Qdx+\mathrm{C} \]</span></p>
+<h5 id="代换法">代换法</h5>
+<p>令<span
+class="math inline">\(u=f(x,y)\)</span>，代入进原方程，得到一个u关于x的方程，求解，然后再把<span
+class="math inline">\(y=f(x,u)\)</span>回代即可</p>
+<h6 id="应用">应用</h6>
+<ol type="1">
+<li>伯努利方程</li>
+</ol>
+<p><span class="math display">\[
+对于\frac{\mathrm{d}y}{\mathrm{d}x}+Py=Qy^n \colon \]</span></p>
+<p><span class="math display">\[ 令z=y^{1-n} \]</span></p>
+<p><span class="math display">\[
+则\frac{\mathrm{d}z}{\mathrm{d}x}-P(n-1)z=-Q(n-1) \]</span></p>
+<p>证明：</p>
+<p><span class="math display">\[ 先设z=y^k \]</span></p>
+<p><span class="math display">\[ 则 \enspace
+\frac{1}{k}\frac{\mathrm{d}z}{\mathrm{d}x}z^{\frac{1-k}{k}}+Pz^{\frac{1}{k}}=Qz^{\frac{n}{k}}
+\]</span></p>
+<p><span class="math display">\[
+为凑得\frac{1}{k}\frac{\mathrm{d}z}{\mathrm{d}x}+Pz=Q\colon
+\]</span></p>
+<p><span class="math display">\[ \frac{1-k}{k}=\frac{n}{k} \]</span></p>
+<p><span class="math display">\[ \therefore k=1-n \]</span></p>
+<p><span class="math display">\[ \therefore z=y^{1-n} \]</span></p>
+<p><span class="math display">\[ \therefore
+\frac{\mathrm{d}z}{\mathrm{d}x}-P(n-1)z=-Q(n-1) \]</span></p>
+<h3 id="二阶变系数线性微分方程">二阶变系数线性微分方程</h3>
+<h4 id="一般形式-1">一般形式</h4>
+<p><span class="math display">\[
+\frac{\mathrm{d}^2y}{\mathrm{d}x^2}+P(x)\frac{\mathrm{d}y}{\mathrm{d}x}+Q(x)y=f(x)
+\]</span></p>
+<h4 id="求解-1">求解</h4>
+<p><span class="math display">\[ 对于已知齐次通解求非齐次通解\colon
+\]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    y&amp;=\mathrm{C_1}y_1+\mathrm{C_2}y_2 \\
+    &amp;=y_1v_1+y_2v_2
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+y^{&#39;}=y_1v_1^{&#39;}+y_2v_2^{&#39;}+y_1^{&#39;}v_1+y_2^{&#39;}v_2
+\]</span></p>
+<p><span class="math display">\[
+要得到关于v_1^{&#39;},v_2^{&#39;}的二元一次方程组\Rightarrow
+y^{&#39;}中不含v_1^{&#39;}和v_2^{&#39;} \]</span></p>
+<p><span class="math display">\[ \therefore
+y_1v_1^{&#39;}+y_2v_2^{&#39;}=0 \tag{1} \]</span></p>
+<p><span class="math display">\[ y^{&#39;}=y_1^{&#39;}v_1+y_2^{&#39;}v_2
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+y^{&#39;&#39;}=y_1^{&#39;}v_1^{&#39;}+y_2^{&#39;}v_2^{&#39;}+y_1^{&#39;&#39;}v_1+y_2^{&#39;&#39;}v_2
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+y_1^{&#39;}v_1^{&#39;}+y_2^{&#39;}v_2^{&#39;}+y_1^{&#39;&#39;}v_1+y_2^{&#39;&#39;}v_2+P(y_1^{&#39;}v_1+y_2^{&#39;}v_2)+Q(y_1v_1+y_2v_2)=f
+\]</span></p>
+<p><span class="math display">\[
+y_1^{&#39;}v_1^{&#39;}+y_2^{&#39;}v_2^{&#39;}+v_1(y_1^{&#39;&#39;}+Py_1^{&#39;}+Qy_1)+v_2(y_2^{&#39;&#39;}+Py_2^{&#39;}+Qy_2)=f
+\]</span></p>
+<p><span class="math display">\[ \therefore
+y_1^{&#39;}v_1^{&#39;}+y_2^{&#39;}v_2^{&#39;}=f\tag{2} \]</span></p>
+<p><span class="math display">\[ \begin{cases}
+    y_1v_1^{&#39;}+y_2v_2^{&#39;}=0\\
+     y_1^{&#39;}v_1^{&#39;}+y_2^{&#39;}v_2^{&#39;}=f
+\end{cases} \]</span></p>
+<p><span class="math display">\[ W=\begin{vmatrix}
+    y_1&amp;y_2\\
+    y_1^{&#39;}&amp;y_2^{&#39;}
+\end{vmatrix},v_1^{&#39;}=-\frac{y_2f}{W}, v_2^{&#39;}=\frac{y_1f}{W}
+\]</span></p>
+<p><span class="math display">\[
+v_1=\mathrm{C_1}+\int(-\frac{y_2f}{W})\mathrm{d}x,
+v_2=\mathrm{C_2}+\int\frac{y_1f}{W}\mathrm{d}x \]</span></p>
+<p><span class="math display">\[ \therefore
+y=\mathrm{C_1}y_1+\mathrm{C_2}y_2-y_1\int\frac{y_2f}{W}\mathrm{d}x+y_2\int\frac{y_1f}{W}\mathrm{d}x
+\]</span></p>
+<h3 id="二阶常系数线性微分方程">二阶常系数线性微分方程</h3>
+<h4 id="一般形式-2">一般形式</h4>
+<p><span class="math display">\[
+a\frac{\mathrm{d}^2y}{\mathrm{d}x^2}+b\frac{\mathrm{d}y}{\mathrm{d}x}+cy=f(x)
+\]</span></p>
+<h4 id="求解-2">求解</h4>
+<h5 id="一般方法">一般方法</h5>
+<p>先处理<span class="math inline">\(f(x)=0\)</span>的情况：</p>
+<p><span class="math display">\[ ay^{&#39;&#39;}+by^{&#39;}+cy=0
+\]</span></p>
+<p><span class="math display">\[ 只有y=\mathrm{A}e^{mx}可能符合这个方程
+\]</span></p>
+<p><span class="math display">\[ \therefore
+\mathrm{A}am^2e^{mx}+\mathrm{A}bme^{mx}+\mathrm{A}ce^{mx}=0
+\]</span></p>
+<p><span class="math display">\[ am^2+bm+c=0 \]</span></p>
+<details>
+<summary>
+Case 1 两不等实根
+</summary>
+<p><span class="math display">\[ \mathrm{Case}\ 1\colon\enspace b^2 &gt;
+4ac \]</span></p>
+<p><span class="math display">\[ 令\enspace m=p,q \enspace(p\neq q)
+\]</span></p>
+<p><span class="math display">\[ \therefore
+y^{&#39;&#39;}-(p+q)y^{&#39;}+pqy=0 \]</span></p>
+<p><span class="math display">\[ \int
+\frac{(y^{&#39;}-py)^{&#39;}}{y^{&#39;}-py} \mathrm{d}x=\int
+q\mathrm{d}x + \mathrm{C}_1 \]</span></p>
+<p><span class="math display">\[ \ln(y^{&#39;}-py)=qx+\mathrm{C}_1
+\]</span></p>
+<p><span class="math display">\[ \therefore
+y^{&#39;}-py=\mathrm{A}e^{qx} \]</span></p>
+<p><span class="math display">\[
+e^{-px}y=\frac{\mathrm{A}}{q-p}e^{qx-px}+\mathrm{C}_2 \]</span></p>
+<p><span class="math display">\[
+y=\frac{\mathrm{A}}{q-p}e^{qx}+\mathrm{C}_2e^{px}\]</span></p>
+<p><span class="math display">\[ \therefore
+y=\mathrm{A}e^{px}+\mathrm{B}e^{qx} \]</span></p>
+</details>
+<details>
+<summary>
+Case 2 两相等实根
+</summary>
+<p><span class="math display">\[ \mathrm{Case}\ 2\colon\enspace b^2=4ac
+\]</span></p>
+<p><span class="math display">\[ 令\enspace m=p,q \enspace(p=q)
+\]</span></p>
+<p><span class="math display">\[ 同\text{Case 1}理\colon
+y^{&#39;}-py=\mathrm{A}e^{qx} \]</span></p>
+<p><span class="math display">\[
+\text{e}^{-px}y^{&#39;}-pe^{-py}y=\mathrm{A} \]</span></p>
+<p><span class="math display">\[ e^{-px}y=\mathrm{A}x+\mathrm{B}
+\]</span></p>
+<p><span class="math display">\[ \therefore
+y=(\mathrm{A}x+\mathrm{B})e^{px} \]</span></p>
+</details>
+<details>
+<summary>
+Case 3 两复数根
+</summary>
+<p><span class="math display">\[ \mathrm{Case}\ 3\colon\enspace
+b^2&lt;4ac \]</span></p>
+<p><span class="math display">\[ 令\enspace m=u,v
+\enspace(u=p+q\mathrm{i},\enspace v=p-q\mathrm{i}) \]</span></p>
+<p><span class="math display">\[ 同\text{Case 1}理\colon
+y=\mathrm{A}\mathrm{e}^{ux}+\mathrm{B}\mathrm{e}^{vx} \]</span></p>
+<p><span class="math display">\[
+y=\mathrm{Ae}^{(p+q\mathrm{i})x}+\mathrm{Be}^{(p-q\mathrm{i})x}
+\]</span></p>
+<p><span class="math display">\[
+y=\mathrm{e}^{px}(\mathrm{Ae}^{qx\mathrm{i}}+\mathrm{Be}^{-qx\mathrm{i}})
+\]</span></p>
+<p><span class="math display">\[
+y=\mathrm{e}^{px}[\mathrm{A}(\cos(qx)+\mathrm{i}\sin(qx))+\mathrm{B}(\cos(qx)-\mathrm{i}\sin(qx))]
+\]</span></p>
+<p><span class="math display">\[
+y=\mathrm{e}^{px}[(\mathrm{A+B})\cos(qx)+\mathrm{i}(\mathrm{A-B})\sin(qx)]
+\]</span></p>
+<p><span class="math display">\[
+y=\mathrm{e}^{px}(\mathrm{A}\cos(qx)+\mathrm{B}\sin(qx)) \]</span></p>
+</details>
+<p><span class="math display">\[ \therefore y=\begin{cases}
+    \mathrm{A}e^{px}+\mathrm{B}e^{qx}&amp; b^2&gt;4ac\\
+    (\mathrm{A}x+\mathrm{B})e^{px}&amp; b^2=4ac\\
+    \mathrm{e}^{px}(\mathrm{A}\cos(qx)+\mathrm{B}\sin(qx))&amp;
+b^2&lt;4ac
+\end{cases} \]</span></p>
+<p>再处理<span class="math inline">\(f(x)\neq0\)</span>的情况：</p>
+<p>此时要找到方程<span
+class="math inline">\(ay^{&#39;&#39;}_1+by^{&#39;}_1+cy_1=f(x)\)</span>的特解，再把<span
+class="math inline">\(y_1\)</span>与<span
+class="math inline">\(f(x)=0\)</span>时的一般解(记为<span
+class="math inline">\(y_2\)</span>)相加，那么<span
+class="math inline">\(y=y_1+y_2\)</span>就是一般解了</p>
+<p>有一个函数对应特解的表格：</p>
+<table>
+<thead>
+<tr class="header">
+<th><span class="math inline">\(f(x)\)</span></th>
+<th>特解</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><span class="math inline">\(k\)</span></td>
+<td><span class="math inline">\(\lambda\)</span></td>
+</tr>
+<tr class="even">
+<td><span class="math inline">\(kx+m\)</span></td>
+<td><span class="math inline">\(\lambda x+\mu\)</span></td>
+</tr>
+<tr class="odd">
+<td><span class="math inline">\(kx^2+mx+n\)</span></td>
+<td><span class="math inline">\(\lambda x^2+\mu x+\nu\)</span></td>
+</tr>
+<tr class="even">
+<td><span class="math inline">\(k\mathrm{e}^{px}\)</span></td>
+<td><span class="math inline">\(k\mathrm{e}^{px}\)</span></td>
+</tr>
+<tr class="odd">
+<td><span class="math inline">\(m\cos px+n\sin px\)</span></td>
+<td><span class="math inline">\(m\cos px+n\sin px\)</span></td>
+</tr>
+</tbody>
+</table>
+<p>总之思路是：想着一个函数要怎么凑，能凑成它自己和它的一阶、二阶导函数的线性组合能等于零</p>
+<p>如果一般解和特解中有项是重合的，可以试着把特解乘一个<span
+class="math inline">\(x\)</span></p>
+<h5 id="特殊方法">特殊方法</h5>
+<ol type="1">
+<li>代换法</li>
+</ol>
+<p>如碰到<span
+class="math inline">\(ax^2\frac{\mathrm{d}^2y}{\mathrm{d}x^2}+bx\frac{\mathrm{d}y}{\mathrm{d}x}+cy=0\)</span>的方程，可以令<span
+class="math inline">\(x=\mathrm{e}^u\)</span>，然后得到：</p>
+<p><span class="math display">\[ \begin{align*}
+    \frac{\mathrm{d}y}{\mathrm{d}u}&amp;=\frac{\mathrm{d}y}{\mathrm{d}x}*\frac{\mathrm{d}x}{\mathrm{d}u}
+\\
+    &amp;=x\frac{\mathrm{d}y}{\mathrm{d}x}
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \therefore
+x\frac{\mathrm{d}y}{\mathrm{d}x}=\frac{\mathrm{d}y}{\mathrm{d}u}
+\]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \frac{\mathrm{d}^2y}{\mathrm{d}u^2}&amp;=\frac{\mathrm{d}}{\mathrm{d}u}(\frac{\mathrm{d}y}{\mathrm{d}u})
+\\
+    &amp;=\frac{\mathrm{d}}{\mathrm{d}u}(x\frac{\mathrm{d}y}{\mathrm{d}x})
+\\
+    &amp;=x(\frac{\mathrm{d}}{\mathrm{d}u}\frac{\mathrm{d}y}{\mathrm{d}x})+\frac{\mathrm{d}y}{\mathrm{d}x}(\frac{\mathrm{d}}{\mathrm{d}u}x)
+\\
+    &amp;=x\frac{\mathrm{d}^2y}{\mathrm{d}x^2}\frac{\mathrm{d}x}{\mathrm{d}u}+\frac{\mathrm{d}y}{\mathrm{d}u}
+\\
+    &amp;=x^2\frac{\mathrm{d}^2y}{\mathrm{d}x^2}+\frac{\mathrm{d}y}{\mathrm{d}u}
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \therefore
+x^2\frac{\mathrm{d}^2y}{\mathrm{d}x^2}=\frac{\mathrm{d}^2y}{\mathrm{d}u^2}-\frac{\mathrm{d}y}{\mathrm{d}u}
+\]</span></p>
+<p>思路是用<span
+class="math inline">\(\frac{\mathrm{d}^2y}{\mathrm{d}u^2}\)</span>和<span
+class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}u}\)</span>，把<span
+class="math inline">\(\frac{\mathrm{d}^2y}{\mathrm{d}x^2}和\frac{\mathrm{d}y}{\mathrm{d}x}\)</span>表示出来，进而：</p>
+<p><span class="math display">\[
+a(\frac{\mathrm{d}^2y}{\mathrm{d}u^2}-\frac{\mathrm{d}y}{\mathrm{d}u})+b(\frac{\mathrm{d}y}{\mathrm{d}u})+cy=0
+\]</span></p>
+<p>之后解出<span class="math inline">\(y\)</span>关于<span
+class="math inline">\(u\)</span>的方程，再把<span
+class="math inline">\(x=\mathrm{e}^u\)</span>代入即可</p>
+<ol start="2" type="1">
+<li><a href="/泰勒展开/#解微分方程">泰勒展开</a></li>
+</ol>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>原作者： </strong>XantC
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/" title="解微分方程">https://allenxantc.github.io/数学/解微分方程/</a>
+  </li>
+  <li class="post-copyright-license">
+      <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/%E6%95%B0%E5%AD%A6/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/" rel="prev" title="三角导数与积分公式">
+                  <i class="fa fa-chevron-left"></i> 三角导数与积分公式
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/%E6%95%B0%E5%AD%A6/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/" rel="next" title="伽马函数">
+                  伽马函数 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="waline"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2024</span>
+    <span class="with-love">
+      <i class="fa fa-user"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">XantC</span>
+  </div>
+  <div class="powered-by">由 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.6.0/pjax.min.js" integrity="sha256-vxLn1tSKWD4dqbMRyv940UYw4sXgMtYcK6reefzZrao=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","mhchem":true,"js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
+
+
+<script class="next-config" data-name="waline" type="application/json">{"lang":"zh-CN","enable":true,"serverURL":"waline-ten-flax.vercel.app","cssUrl":"https://unpkg.com/@waline/client@v2/dist/waline.css","commentCount":true,"pageview":false,"placeholder":"你所热爱的 就是你的生活","avatar":"mm","meta":["nick","mail"],"pageSize":10,"visitor":false,"comment_count":true,"requiredFields":["nick"],"libUrl":"//unpkg.com/@waline/client@v2/dist/waline.js","el":"#waline","comment":true,"path":"/%E6%95%B0%E5%AD%A6/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/"}</script>
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css">
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.waline.el).then(() =>
+    NexT.utils.getScript(CONFIG.waline.libUrl, { condition: window.Waline })
+  ).then(() => 
+    Waline.init(Object.assign({}, CONFIG.waline,{ el: document.querySelector(CONFIG.waline.el) }))
+  );
+});
+</script>
+<script src="https://unpkg.com/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+
+<script>
+var options = {
+  bottom: '64px',
+  right: '32px',
+  left: 'unset',
+  time: '0.5s',
+  mixColor: 'transparent',
+  backgroundColor: 'transparent',
+  buttonColorDark: '#100f2c',
+  buttonColorLight: '#fff',
+  saveInCookies: false,
+  label: '🌓',
+  autoMatchOsTheme: false
+}
+const darkmode = new Darkmode(options);
+window.darkmode = darkmode;
+darkmode.showWidget();
+</script>
+
+</body>
+</html>
