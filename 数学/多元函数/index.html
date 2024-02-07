@@ -27,7 +27,7 @@
 <meta property="og:description" content="XantC   概念 定义 \[ u&#x3D;f(P) \] \[ \;P(x_1, x_2, \cdots, x_n)\in D, \; D\subset \mathbb{R}^n \]">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2024-02-06T06:23:42.000Z">
-<meta property="article:modified_time" content="2024-02-06T13:55:48.772Z">
+<meta property="article:modified_time" content="2024-02-07T07:29:08.556Z">
 <meta property="article:author" content="XantC">
 <meta name="twitter:card" content="summary">
 
@@ -221,9 +221,15 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
-      
 
-      <time title="创建时间：2024-02-06 14:23:42 / 修改时间：21:55:48" itemprop="dateCreated datePublished" datetime="2024-02-06T14:23:42+08:00">2024-02-06</time>
+      <time title="创建时间：2024-02-06 14:23:42" itemprop="dateCreated datePublished" datetime="2024-02-06T14:23:42+08:00">2024-02-06</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2024-02-07 15:29:08" itemprop="dateModified" datetime="2024-02-07T15:29:08+08:00">2024-02-07</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -390,16 +396,68 @@ y_0)}{|\nabla f(x_0, y_0)|} \]</span></p>
 y_0)=\frac{\partial f}{\partial n}\boldsymbol{n} \]</span></p>
 <h2 id="极值">极值</h2>
 <h3 id="无条件极值">无条件极值</h3>
+<p><span class="math display">\[ \begin{cases}
+    f_x^{&#39;}(x,y)=0\\
+    f_y^{&#39;}(x,y)=0
+\end{cases} \]</span></p>
+<p><span class="math display">\[ D=\begin{vmatrix}
+    f_{xx}^{&#39;&#39;}&amp;f_{xy}^{&#39;&#39;}\\
+    f_{xy}^{&#39;&#39;}&amp;f_{yy}^{&#39;&#39;}
+\end{vmatrix}= f_{xx}^{&#39;&#39;}f_{yy}^{&#39;&#39;}-(
+f_{xy}^{&#39;&#39;})^2 \]</span></p>
+<p><span class="math display">\[ D&gt;0,\;
+f_{xx}^{&#39;&#39;}&gt;0\colon 极小值 \]</span></p>
+<p><span class="math display">\[ D&gt;0,\;
+f_{xx}^{&#39;&#39;}&lt;0\colon 极大值 \]</span></p>
+<p><span class="math display">\[ D&lt;0\colon 无极值 \]</span></p>
+<p><span class="math display">\[ D=0\colon 极值情况不确定 \]</span></p>
 <h3 id="有条件极值拉格朗日乘数法">有条件极值（拉格朗日乘数法）</h3>
 <h4 id="概念-1">概念</h4>
+<p><span class="math display">\[ z=f(x,y),\; \varphi(x,y)=0
+\]</span></p>
+<p><span class="math display">\[ 令 \;L(x,y)=f(x,y)+\lambda\varphi(x,y)
+\]</span></p>
+<p><span class="math display">\[ \begin{cases}
+    L_x^{&#39;}(x_0,y_0)=0\\
+    L_y^{&#39;}(x_0,y_0)=0\\
+    \varphi(x_0,y_0)=0
+\end{cases} \]</span></p>
+<p><span class="math display">\[ (x_0, y_0)为可能极值点 \]</span></p>
 <h4 id="证明-1">证明</h4>
+<p><span class="math display">\[ \varphi(x_0,y_0)=0确定y=y(x)
+\]</span></p>
+<p><span class="math display">\[ \begin{cases}
+    \frac{\partial}{\partial x}f(x_0, y(x_0))=0\\
+    \varphi(x_0,y(x_0))=0
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \begin{cases}
+    \displaystyle
+f_x^{&#39;}(x_0,y_0)+f_y^{&#39;}(x_0,y_0)\frac{\mathrm{d}y}{\mathrm{d}x}\bigg|_{x=x_0}=0\\
+    \displaystyle
+\frac{\mathrm{d}y}{\mathrm{d}x}\bigg|_{x=x_0}=-\frac{\varphi_x^{&#39;}(x_0,y_0)}{\varphi_y^{&#39;}(x_0,y_0)}
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \Rightarrow f_x^{&#39;}(x_0,
+y_0)-f_y^{&#39;}(x_0,y_0)\frac{\varphi_x^{&#39;}(x_0,y_0)}{\varphi_y^{&#39;}(x_0,y_0)}=0
+\]</span></p>
+<p><span class="math display">\[ 令\; \lambda =
+-\frac{f_y^{&#39;}(x_0,y_0)}{\varphi_y^{&#39;}(x_0,y_0)} \]</span></p>
+<p><span class="math display">\[ \therefore \begin{cases}
+    \displaystyle f_x^{&#39;}(x_0,
+y_0)+\lambda\varphi_x^{&#39;}(x_0,y_0)=0\\
+    \displaystyle f_y^{&#39;}(x_0,
+y_0)+\lambda\varphi_y^{&#39;}(x_0,y_0)=0\\
+    \displaystyle\varphi(x,y)=0
+\end{cases} \]</span></p>
 <h2 id="全微分">全微分</h2>
 <p><span class="math display">\[ \mathrm{d}z=\frac{\partial z}{\partial
-x}\mathrm{d}+\frac{\partial z}{\partial y}\mathrm{d}y \]</span></p>
+x}\mathrm{d}x+\frac{\partial z}{\partial y}\mathrm{d}y \]</span></p>
+<p><span class="math display">\[ \iff \Delta z=\frac{\partial
+z}{\partial x}\Delta x+\frac{\partial z}{\partial y}\Delta
+y+\mathcal{o}(\rho) \]</span></p>
 <h2 id="一元向量值函数">一元向量值函数</h2>
 <h3 id="定义-4">定义</h3>
 <p><span class="math display">\[
-\boldsymbol{r}=\boldsymbol{f}(t)=f_1(t)\boldsymbol{i}+f_2(t)\boldsymbol{j}+f_3(t)\bold{k}
+\boldsymbol{r}=\boldsymbol{f}(t)=f_1(t)\boldsymbol{i}+f_2(t)\boldsymbol{j}+f_3(t)\boldsymbol{k}
 \]</span></p>
 <h3 id="极限-1">极限</h3>
 <h4 id="定义-5">定义</h4>
