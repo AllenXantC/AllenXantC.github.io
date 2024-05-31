@@ -13,8 +13,8 @@ XantC
 <p>你会怎么办</p>
 <p>如果看见自己浸泡在夕阳下橙色的风浪</p>
 <p>看见小颗粒物漫天飞舞无处不在</p>
+<p>看见一只猫趴在阳伞上伸懒腰</p>
 <p>看见一个工人扛着鱼竿走过</p>
-<p>看见一只花猫趴在阳伞上伸懒腰</p>
 <p>如果有一天你突然又感受不到这些了</p>
 <p>不管是因为什么</p>
 <p>你会怎么办</p>
@@ -27,14 +27,14 @@ XantC
 <p>感到沉下游泳池底的空虚吗</p>
 <p>稍微扑腾一下就又回来了</p>
 <p>或者突然有一天</p>
-<p>你瘸了一条腿走不动路</p>
+<p>你瘸了一条腿走不了路</p>
 <p>再也听不见摇滚乐</p>
 <p>味蕾被氯化钠毁掉</p>
 <p>你又会怎么办</p>
 <hr />
 <p>人的痛苦和欢乐应该一起来到一起离开</p>
 <p>就像包办婚姻的爱人那样</p>
-<p>不情愿却不得已</p>
+<p>不情愿又不得已</p>
 <b>
 <p align="right">
 作于2024年5月
@@ -45,6 +45,56 @@ XantC
 ]]></content>
       <categories>
         <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>天空</title>
+    <url>/%E5%A4%A9%E7%A9%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>为什么我的家</p>
+<p>天空没有国外的蓝</p>
+<p>因为这里高楼太多</p>
+<p>把蓝天挡住了</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<hr />
+<p>想要冲出天空的人</p>
+<p>都是诗人</p>
+<p>不管是天文学家</p>
+<p>还是清澈的孩子</p>
+<p>用易拉罐搭出巴别塔</p>
+<p>都是诗人</p>
+<b>
+<p align="right">
+作于2024年5月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>打印机脱机问题解决</title>
+    <url>/%E6%89%93%E5%8D%B0%E6%9C%BA%E8%84%B1%E6%9C%BA%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>win11：打印机和扫描仪-更多设备和打印机设置-右键打印机-查看现在正在打印什么-打印机-取消“脱机使用打印机”</p>
+]]></content>
+      <categories>
+        <category>小贴士</category>
       </categories>
   </entry>
   <entry>
@@ -75,17 +125,149 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>打印机脱机问题解决</title>
-    <url>/%E6%89%93%E5%8D%B0%E6%9C%BA%E8%84%B1%E6%9C%BA%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</url>
+    <title>曲线论</title>
+    <url>/%E6%9B%B2%E7%BA%BF%E8%AE%BA/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<p>win11：打印机和扫描仪-更多设备和打印机设置-右键打印机-查看现在正在打印什么-打印机-取消“脱机使用打印机”</p>
+<h3 id="预备知识">预备知识</h3>
+<h4 id="坐标变换">坐标变换</h4>
+<p>笛卡尔坐标系<span class="math inline">\(\lbrace
+O;\boldsymbol{i},\boldsymbol{j},\boldsymbol{k}\rbrace\)</span>变换到标架<span
+class="math inline">\(\lbrace p; \boldsymbol{e_1}, \boldsymbol{e_2},
+\boldsymbol{e_3}\rbrace\)</span>，坐标会从<span
+class="math inline">\((x,y,z)\)</span>，变为<span
+class="math inline">\((\widetilde{x}, \widetilde{y},
+\widetilde{z})\)</span></p>
+<p>这里只是坐标系发生变化，点在空间的实际位置没有变化，可以说是换了种表示方法</p>
+<p>标架变换描述为<span
+class="math inline">\(\begin{cases}  \vec{Op}=a_1\boldsymbol{i}+a_2\boldsymbol{j}+a_3\boldsymbol{k}\\  \boldsymbol{e_1}=a_{11}\boldsymbol{i}+a_{12}\boldsymbol{j}+a_{13}\boldsymbol{k}\\  \boldsymbol{e_2}=a_{21}\boldsymbol{i}+a_{22}\boldsymbol{j}+a_{23}\boldsymbol{k}\\  \boldsymbol{e_2}=a_{31}\boldsymbol{i}+a_{32}\boldsymbol{j}+a_{33}\boldsymbol{k}\\
+\end{cases}\)</span>， 也可为<span
+class="math inline">\(\begin{cases}  \vec{Op}=\boldsymbol{a}\\  \begin{pmatrix}  \boldsymbol{e_1}
+\\  \boldsymbol{e_2}
+\\  \boldsymbol{e_3}  \end{pmatrix}  =\boldsymbol{A}  \begin{pmatrix}  \boldsymbol{i}
+\\  \boldsymbol{j} \\  \boldsymbol{k}  \end{pmatrix}
+\end{cases}\)</span></p>
+<p>两个坐标关系为</p>
+<h4 id="刚体运动">刚体运动</h4>
+<h3 id="向量几何定理">向量几何定理</h3>
+<h3 id="曲线弧长">曲线弧长</h3>
+<h3 id="frenet标架">Frenet标架</h3>
+<h3 id="曲线论基本定理">曲线论基本定理</h3>
 ]]></content>
       <categories>
-        <category>小贴士</category>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>嗯</title>
+    <url>/%E5%97%AF/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>不要搞了</p>
+<p>每人每月三千块</p>
+<p>饿死算数</p>
+<b>
+<p align="right">
+作于2024年5月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>城市歌谣</title>
+    <url>/%E6%AD%8C%E8%B0%A3/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>又起来了</p>
+<p>人们</p>
+<p>太阳已然升起</p>
+<p>靠着云彩</p>
+<p>面向宇宙晒太阳</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>但是没有什么人</p>
+<p>看到太阳这样悠闲</p>
+<p>大街上行走的挖掘机</p>
+<p>三三两两聚集的情侣</p>
+<p>都有自己的事情要忙</p>
+<hr />
+<p>他们一个一个走着</p>
+<p>有的坐上公交地铁</p>
+<p>在平行移动的铁盒子里</p>
+<p>与手上的小盒子一起做着冥想</p>
+<p>几秒钟的功夫</p>
+<p>他们来到工地上</p>
+<p>大楼里</p>
+<p>和纸张石头结伴</p>
+<p>继续做着冥想</p>
+<hr />
+<p>什么都没有想</p>
+<hr />
+<p>这就像天空</p>
+<p>一片一片的白</p>
+<p>可能混上一点湿气</p>
+<p>抬头看便荒凉空虚</p>
+<p>天似穹庐笼罩四野</p>
+<hr />
+<p>你的眼神就是你的武器</p>
+<p>你的眼神就是你的逃避</p>
+<p>对一个乞丐多看几眼表达悲悯</p>
+<p>对天空多看几眼表达欣赏</p>
+<p>那乞丐便有了一百万</p>
+<p>天空便会从中间荡开</p>
+<hr />
+<hr />
+<p>你或许应该</p>
+<p>戴上一副墨镜</p>
+<b>
+<p align="right">
+作于2024年5月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>计算人物移动距离</title>
+    <url>/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
+<span id="more"></span>
+<p>先定义一个累积经过距离的变量。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
+<p>然后是移动函数。</p>
+<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
+]]></content>
+      <categories>
+        <category>Unity2D</category>
       </categories>
   </entry>
   <entry>
@@ -121,6 +303,48 @@ XantC
       <categories>
         <category>文艺</category>
       </categories>
+  </entry>
+  <entry>
+    <title>谈《孤独的人是可耻的》</title>
+    <url>/%E5%90%AC%E5%90%8E%E6%84%9F/%E8%B0%88%E3%80%8A%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84%E3%80%8B/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>最初，我想用写《黑梦》听后感的结构化方式来写《孤独》，但很快发现写不下去，拖了两个月才从头开始。我觉得这是因为每篇歌词挨个做诗词鉴赏很枯燥，而且我也不擅长分析曲。所以就决定把我印象深刻的部分单独写下来，别写听后感也整个八股文了。</p>
+<span id="more"></span>
+<h3 id="蚂蚁没问题">蚂蚁没问题</h3>
+<p>《蚂蚁蚂蚁》这张专辑里我最喜欢的一首歌，我曾拿它感动哭过一位emo的同志。</p>
+<p>此曲也使我明白了艺术欣赏的方式。</p>
+<p>最初听到“看一看我的理想还埋在土里”时，我总感觉楚哥是在讽刺这些没有理想的人，又觉得用雷鬼这种欢快的节奏来反讽，貌似有点太腹黑了。于是到知乎上一搜，却发现张楚说过:</p>
+<blockquote>
+<p>“我就是喜欢一种特别天然的、无拘无束的东西......所以就写了这么一首歌”。</p>
+</blockquote>
+<p>原来，“没有理想”，在楚哥的乌托邦里并不是什么大事，重要的是能够每天听着收音机，请朋友吃西瓜皮，这就够了。而对我而言，我也因此对乌托邦有了自己明确的想象，明白了艺术欣赏本质是观众和创作者的交流，交流成功，才能达到共鸣。</p>
+<h3 id="女性主义">女性主义</h3>
+<p>在摇滚乐，乃至整个音乐中，这个主题我只在楚哥这里见到过。</p>
+<p>专辑里主要有两首歌与这相关：《和大伙去乘凉》和《赵小姐》。它们是我女性主义的启蒙。</p>
+<p>据B站up主范筒老师所说，张楚从不把自己摆在审视者的角度，而是和他所描写的群体站在一起。这使他能敏锐地点出女性的困境，提出的愿景也充满了亲切。</p>
+<p>像在《和大伙去乘凉》中，张楚唱道：</p>
+<blockquote>
+<p>我可以回去用肥皂把手再洗干净/可我不能去找个姑娘来洗净头脑/姑娘/不该是肥皂/姑娘/不该是肥皂</p>
+</blockquote>
+<p>这句话能有很多种解读：比如物化女性、对爱人的责任等。但由于我自己的经历，以及习惯把看到听到的东西的意义拔高，我更倾向于后一种分析，对这句话的理解也超出了尊重女性，还引申到了对爱情的理解上。希望以后真能做到负尽责任。</p>
+<h3 id="张楚的文风">张楚的“文风”</h3>
+<p>虽然我写过的歌词一类的东西还很少，但我的“文风”还是主要受了崔健和张楚的影响。形式上像崔健，张楚则让我的每句话都包含着含义（读起来也着实累人）。</p>
+<p>这张专辑里的张楚很擅长保持听众的兴趣。他会给歌曲起一些“摸不清要唱啥”的名字，像“孤独的人是可耻的”、“厕所和床”；也会在作品开头用新奇的句子“阳光下我的脸突然被什么亲吻，这温暖的感受差点儿送了我的命”。</p>
+<p>第二，表达上也兼收并蓄。其实好的专辑，好的歌曲，都会把心思放在雕琢情绪的起伏上。</p>
+<p>如《苍蝇》里，开场的口琴模拟了苍蝇嗡嗡的叫声，吸引起观众兴趣。之后，张楚缓慢唱出“苍蝇”能吃饱饭，心里却依旧空旷的苦衷；以及它为爱所困，感到越来越无力的麻木。苍蝇的叫声继续行进，突然停歇后再跟上鼓点，情绪渲染至高峰，张楚便爆发出了苍蝇们痛恨身边熟悉的一切，想要改变却无能为力的纠结情感。</p>
+<h3 id="总结">总结</h3>
+<p>这张专辑囊括了一个人年轻的时候，脑子里能想到的所有东西。所以说，张楚对现在的我而言就像个亲切的同龄朋友，他想的东西比我深刻的多，热情也比我强烈。我和众多听众一起琢磨着其中的内涵，一起跟着他唱“前面是光明的大道”，真他妈的幸福。</p>
+]]></content>
+      <categories>
+        <category>听后感</category>
+      </categories>
+      <tags>
+        <tag>中国摇滚乐</tag>
+      </tags>
   </entry>
   <entry>
     <title>《黑梦》听后感</title>
@@ -170,302 +394,24 @@ XantC
       </tags>
   </entry>
   <entry>
-    <title>计算人物移动距离</title>
-    <url>/%E8%AE%A1%E7%AE%97%E4%BA%BA%E7%89%A9%E7%A7%BB%E5%8A%A8%E8%B7%9D%E7%A6%BB/</url>
+    <title>伽马函数</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<p>场景：一个小骷髅的AI，需要它经过5格的距离后就停止一会，之后再移动。</p>
+<h3 id="公式">公式</h3>
+<p><span class="math display">\[ 令f(x)=x^n \colon \]</span></p>
+<p><span class="math display">\[ \int
+x^n\mathrm{e}^xdx=f(x)\mathrm{e}^x-f^{&#39;}(x)\mathrm{e}^x+f^{&#39;&#39;}(x)\mathrm{e}^x-...+(-1)^{n}f^{(n)}\mathrm{e}^x
+\]</span></p>
 <span id="more"></span>
-<p>先定义一个累积经过距离的变量。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="built_in">float</span> chasingDist</span><br></pre></td></tr></table></figure>
-<p>然后是移动函数。</p>
-<figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">Move</span>()</span></span><br><span class="line">&#123;</span><br><span class="line">    Vector2 movement;</span><br><span class="line">    <span class="comment">// 这个movement表示人物将要移动的距离，相当于距离的变化量</span></span><br><span class="line"> </span><br><span class="line">    <span class="comment">// 赋值，移动</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"> </span><br><span class="line">     chasingDist += movement.magnitude;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>关键就是要把每一次移动距离的变化量单独给到一个字段，不断累加就是人物经过的距离了。</p>
-]]></content>
-      <categories>
-        <category>Unity2D</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>谈《孤独的人是可耻的》</title>
-    <url>/%E5%90%AC%E5%90%8E%E6%84%9F/%E8%B0%88%E3%80%8A%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84%E3%80%8B/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>最初，我想用写《黑梦》听后感的结构化方式来写《孤独》，但很快发现写不下去，拖了两个月才从头开始。我觉得这是因为每篇歌词挨个做诗词鉴赏很枯燥，而且我也不擅长分析曲。所以就决定把我印象深刻的部分单独写下来，别写听后感也整个八股文了。</p>
-<span id="more"></span>
-<h3 id="蚂蚁没问题">蚂蚁没问题</h3>
-<p>《蚂蚁蚂蚁》这张专辑里我最喜欢的一首歌，我曾拿它感动哭过一位emo的同志。</p>
-<p>此曲也使我明白了艺术欣赏的方式。</p>
-<p>最初听到“看一看我的理想还埋在土里”时，我总感觉楚哥是在讽刺这些没有理想的人，又觉得用雷鬼这种欢快的节奏来反讽，貌似有点太腹黑了。于是到知乎上一搜，却发现张楚说过:</p>
-<blockquote>
-<p>“我就是喜欢一种特别天然的、无拘无束的东西......所以就写了这么一首歌”。</p>
-</blockquote>
-<p>原来，“没有理想”，在楚哥的乌托邦里并不是什么大事，重要的是能够每天听着收音机，请朋友吃西瓜皮，这就够了。而对我而言，我也因此对乌托邦有了自己明确的想象，明白了艺术欣赏本质是观众和创作者的交流，交流成功，才能达到共鸣。</p>
-<h3 id="女性主义">女性主义</h3>
-<p>在摇滚乐，乃至整个音乐中，这个主题我只在楚哥这里见到过。</p>
-<p>专辑里主要有两首歌与这相关：《和大伙去乘凉》和《赵小姐》。它们是我女性主义的启蒙。</p>
-<p>据B站up主范筒老师所说，张楚从不把自己摆在审视者的角度，而是和他所描写的群体站在一起。这使他能敏锐地点出女性的困境，提出的愿景也充满了亲切。</p>
-<p>像在《和大伙去乘凉》中，张楚唱道：</p>
-<blockquote>
-<p>我可以回去用肥皂把手再洗干净/可我不能去找个姑娘来洗净头脑/姑娘/不该是肥皂/姑娘/不该是肥皂</p>
-</blockquote>
-<p>这句话能有很多种解读：比如物化女性、对爱人的责任等。但由于我自己的经历，以及习惯把看到听到的东西的意义拔高，我更倾向于后一种分析，对这句话的理解也超出了尊重女性，还引申到了对爱情的理解上。希望以后真能做到负尽责任。</p>
-<h3 id="张楚的文风">张楚的“文风”</h3>
-<p>虽然我写过的歌词一类的东西还很少，但我的“文风”还是主要受了崔健和张楚的影响。形式上像崔健，张楚则让我的每句话都包含着含义（读起来也着实累人）。</p>
-<p>这张专辑里的张楚很擅长保持听众的兴趣。他会给歌曲起一些“摸不清要唱啥”的名字，像“孤独的人是可耻的”、“厕所和床”；也会在作品开头用新奇的句子“阳光下我的脸突然被什么亲吻，这温暖的感受差点儿送了我的命”。</p>
-<p>第二，表达上也兼收并蓄。其实好的专辑，好的歌曲，都会把心思放在雕琢情绪的起伏上。</p>
-<p>如《苍蝇》里，开场的口琴模拟了苍蝇嗡嗡的叫声，吸引起观众兴趣。之后，张楚缓慢唱出“苍蝇”能吃饱饭，心里却依旧空旷的苦衷；以及它为爱所困，感到越来越无力的麻木。苍蝇的叫声继续行进，突然停歇后再跟上鼓点，情绪渲染至高峰，张楚便爆发出了苍蝇们痛恨身边熟悉的一切，想要改变却无能为力的纠结情感。</p>
-<h3 id="总结">总结</h3>
-<p>这张专辑囊括了一个人年轻的时候，脑子里能想到的所有东西。所以说，张楚对现在的我而言就像个亲切的同龄朋友，他想的东西比我深刻的多，热情也比我强烈。我和众多听众一起琢磨着其中的内涵，一起跟着他唱“前面是光明的大道”，真他妈的幸福。</p>
-]]></content>
-      <categories>
-        <category>听后感</category>
-      </categories>
-      <tags>
-        <tag>中国摇滚乐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023.8.1</title>
-    <url>/%E6%97%A5%E8%AE%B0/2023-8-1/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我今天才明白，《一块红布》是个永恒的东西。</p>
-<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
-<b>
-<p align="right">
-作于2023.8.1
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.9.12</title>
-    <url>/%E6%97%A5%E8%AE%B0/2023-9-12/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>听了杭天给迪伦的致敬</p>
-<p>Tomorrow is a long time.</p>
-<b>
-<p align="right">
-作于2023.9.12
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>“劝学”新说</title>
-    <url>/%E6%9D%82%E8%B0%88/%E2%80%9C%E5%8A%9D%E5%AD%A6%E2%80%9D%E6%96%B0%E8%AF%B4/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>《劝学》，是两千多年前战国百家争鸣时流传下来的文章，记载着荀子对当时学习问题的朴素认识。在这两千多年来，随着时代的变迁，一些新的学习问题开始涌现，古时劝学的文章也需要后人再来添上几笔了。</p>
-<span id="more"></span>
-<p>学习，不言而喻的是一件枯燥的事，而这也正需要我们建立良好、持续的学习源动力。</p>
-<p>源动力的前提是对学习持积极的态度。而如今应试教育的猖獗，恰恰是阻碍其形成的绊脚石之一。这东西从我们记事起就耳濡目染，对它的厌恶自然便会延续到学习身上，以至于分不清两者的区别，甚至当以成绩为宗旨的老师们说到“终身学习”时，自己也会感到胃疼。但其实，应试和学习应该要明确开来。</p>
-<p>学习能让我们按自己期望的方向发展。相信大家都有过这种体验。在学习或者做自己真正喜欢的东西的时候，过程中的一切都是享受的：会为了一点小小的成功而沾沾自喜，不因挫折而放弃，甚至于会主动去锻炼自己薄弱的环节。这种感受，跟看到试卷上一个个消不去的红叉肯定是不同的。学习是一个比应试自由得多、广阔得多的天地。我现在在“劝”的也不是应试，而是学习。</p>
-<p>那么学习的源动力要如何形成呢？这种源动力一定要是真实的，能说服自己的（这从上一段可以看出来一点）。现在有人会受人灌输，从名人传记上随意找来一些“为中华之崛起而读书”的不符合自己思想境界，不能使自己信服的话，这样依靠它学习的时候也不会有什么底气了。我建议的是先从我们自己的爱好，或是梦想的职业中寻找学习的动力。只有个人喜爱的东西，我们才能坚持下去，一直为之学习下去。</p>
-<p>比如美国。他们的教育中不会刻意灌输“学习的目的或意义”，而是给学生们充分的空间发展个性，让他们找到自己努力学习的意义。等到他们长大，在社会中各司其职时，这种源动力更能不断促进他们自我发展，贡献社会了。</p>
-<p>所以我说学习的源动力来源于个人，并不是鼓励大家自私自利，目中无人，而是希望学习的成果在个人身上展现后，能够继续为所在的集体发光发热。这和马克思所说“每个人的自由发展是一切人自由发展的条件”是一样的。</p>
-<p>而仅对于我们眼前的应试，上面的东西也可以利用，也就是要设置一些目标。有时某个学科本身就很合自己胃口，对未来的努力方向也有好处；而对于不那么顺人意的，可以只把它当作进修某个理想专业的必经之路。</p>
-<p>总之，我们在寻找学习内驱力时，要讨好自身。这对于学习或是任何“想要做好”的事都是一样的。而且我们的教育中也要有良好的引导，以及容纳其广泛存在的氛围。有了这些，我们才有可能真正地喜欢上学习，真正地为社会出力，“为人民服务”。</p>
-<b>
-<p align="right">
-作于2023年10月
-</p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>场与势函数</title>
-    <url>/%E7%89%A9%E7%90%86/%E5%9C%BA%E4%B8%8E%E5%8A%BF%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>这篇可能有问题，但先放在这里</p>
-<p>改写成只关于静电场的案例</p>
-<span id="more"></span>
-<p><span class="math display">\[
-在这种有势函数的讨论环境下，场都是向量场，也就是一个向量值函数
-\]</span></p>
-<p><span class="math display">\[
-设场为\boldsymbol{A}=(P,Q)，势函数为f(x,y) \]</span></p>
-<p><span class="math display">\[
-场有势\iff场上做功与路径无关\iff曲线积分与路径无关\iff
-\boldsymbol{A}=\nabla f，此处f即为势函数 \]</span></p>
-<p><span class="math display">\[ \therefore
-从逻辑上，是先有场函数，再把对应势函数求出来；但把势函数画出来之后，可以清晰看出“势”的感觉
-\]</span></p>
-]]></content>
-      <categories>
-        <category>物理</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>论“命定”</title>
-    <url>/%E6%9D%82%E8%B0%88/%E8%AE%BA%E2%80%9C%E5%91%BD%E5%AE%9A%E2%80%9D/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p><b></p>
-<p>最近读完了杰克凯鲁亚克的《在路上》。这毕竟是垮掉一代的代表作品，读之前的印象自然是一群颓废青年满美国乱兜，再中间穿插一点“生活真道理”的故事，浪漫得很。但中间主角跟一个姑娘互生爱意，决定成立家庭不久后，又因寒冬与生计而分道扬镳。这让我觉得不太对劲--这本书的真实好像是玩真格的。最后的结局也没让我失望：主角的好哥们狄恩长途跋涉几千公里赶到纽约，只为来看看自己。但他没钱和狄恩一起回旧金山，只能目送他在寒冷的纽约街头走去，身上穿着被虫子咬过的外套。其原型也在凯鲁亚克死前一个月，冻死在了墨西哥2月的铁道边上。其名曰尼尔卡赛迪。</p>
-<p></b></p>
-<span id="more"></span>
-<p><b></p>
-<p>这帮美国文青，在二战后切身感受到战争的惨绝人寰以及冷战的末日氛围，于是撒了疯地在美国大地上寻来找去，希望打破生活的沉寂，趁苏美扔核弹之前把这辈子好好过完。但很明显，凯鲁亚克和卡赛迪最终什么也没有寻得，破罐子破摔的命运依旧落回原处。而对我最具冲击力的，还是飙车爵士乐吸毒的主旋律与悲剧结尾的巨大反差，更会让人感到命运既定，哪吒都是扯屁。</p>
-<p>关于命定论，有一个概念能对其进行论证，叫“拉普拉斯的恶魔”：简单说，若任何事物的状态和运作规律都是已知，那么由于因果论，下一秒它们的状态就可以确定，下下一秒的也可以确定，进而我们的未来就都是确定的。举个例子：在这个理论下，你早饭吃了包子，不是因为你“想”，而是它由大脑的一束脑电波决定，甚至从宇宙大爆炸的那一刻起，这件事就是确定的--今天早上你吃的一定是包子，时间倒流回去也跑不掉。这样一解释，人的自由意志便自动散成一滩渣，都不用社会费老大劲来碾。这种状况，哲学家把它归为“后现代精神危机”。</p>
-<p>国内有张专辑（《冷水浇头》），内页写着这样的话：“在这一切均已被尝试，一切结局都可被观测的‘后’时代，我感到没有方向，无所适从，备受煎熬。”这算是种历史的创伤。三十年河东三十年河西，我们总能从历史里找到当今事件的翻版，进而对结果进行预测，通常会得出“这把死定了”的结论。除了杭天，草东也发出过“我想要说的/前人们都说过了”的感慨。而且如今互联网普及，社会阶层与年龄层的天然隔阂被打破，我们每个人都看到了不应该看到的东西，年纪轻轻就受困于大学毕业了有没有工作，工作能不能稳定到我退休等等。这样的恐惧持续渗透，于是更觉命运已定。</p>
-<p>人类不喜欢确定的未来，但仍对预测未来十分热衷。从原始社会<em>用星星和颧骨来预测命运</em>，到现在天气预报，股市预测，以及大部分的科学都是在干这事。但以我们目前的科技水平，足以被称作拉普拉斯的恶魔吗？我们从没有过准确预测未来的能力。我尽管认同因果律，认同命运是确定的，人类也不可能确定“这就是命运”，不可能明确命运的样貌。你说你觉得你考不上高中，考不进985，人生看不见明天--咱连明天下不下雨都不知道。没准明天阳光明媚晴空万里，你就看见明天了。</p>
-<p>结论已出：命运是确定的，但是人类不能确定命运。感谢上帝让我们的科学没那么发达，给我们的未来留下一点未知。其实人生活的大部分都是已知熟悉的，直到某一天突然一个未知出现，我们再去被迫地适应它，跳进新的已知之中。这样讲，人活着可能就是来探索命运的（有点浪漫，大可不信）。毕竟全部都是已知的生活无聊至极，我们总需要一些惊喜或惊吓；最终在病榻前看完自己命运的全貌，再回到我们来的地方去。地球online，名副其实也。</p>
-<p>在我能活到的年份里，我都不怕有科学家能准确预测未来，他们没这能耐，我未来也不会从事这种工作为之努力。如果有人不信邪，曲线救国，发明了通往未来的时光机器，我会第一个以反人类罪名将其绳之以法，当众枪决。</p>
-<b>
-<p align="right">
-作于2023年12月
-</p>
-<p></b></p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>谈谈迷墙里平克的法西斯式行为</title>
-    <url>/%E6%9D%82%E8%B0%88/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
-Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
-Like Hell”, ”Waiting For The Worms”等等。</p>
-<span id="more"></span>
-<p>Comfortably
-Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
-The
-Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>前卫摇滚</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>解析力学案例</title>
-    <url>/%E7%89%A9%E7%90%86/%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6%E6%A1%88%E4%BE%8B/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3
-id="与速度垂直的力只改变其速度方向">与速度垂直的力只改变其速度方向</h3>
-<p><span class="math display">\[ 令\boldsymbol{v}_0=(v_{0x},
-v_{0y}),\;\boldsymbol{v}=(\varphi, \psi) \]</span></p>
-<span id="more"></span>
-<p><span class="math display">\[ 则
-\boldsymbol{F}=k(-\psi,\varphi),其中k为随t变化的常数 \]</span></p>
-<p><span class="math display">\[
-\boldsymbol{v^{&#39;}}=\boldsymbol{a}=\frac{k}{m}(-\psi,\varphi)=(\varphi^{&#39;},
-\psi^{&#39;}) \]</span></p>
-<p><span class="math display">\[ \Rightarrow \begin{cases}
-    \displaystyle\varphi^{&#39;}=-\frac{k}{m}\psi\\
-    \displaystyle\psi^{&#39;}=\frac{k}{m}\varphi\\
-\end{cases}\Rightarrow\begin{cases}
-    \displaystyle\varphi=-A\sin\frac{k}{m}t+B\cos\frac{k}{m}t\\
-    \displaystyle\psi=A\cos\frac{k}{m}t+B\sin\frac{k}{m}t
-\end{cases} \]</span></p>
-<p><span class="math display">\[ \because v\, \bigg |_{t=0}=(v_{0x},
-v_{0y}) \]</span></p>
-<p><span class="math display">\[ \therefore A=v_{0y},\;B=v_{0x}
-\]</span></p>
-<p><span class="math display">\[ \therefore
-|\boldsymbol{v}|=\sqrt{\varphi^2+\psi^2}=\sqrt{A^2+B^2}=\sqrt{\boldsymbol{v}_{0x}^2+\boldsymbol{v}_{0y}^2}=|\boldsymbol{v}_0|
-\]</span></p>
-<h3 id="计算向心加速度大小">计算向心加速度大小</h3>
-<p><span class="math display">\[ \boldsymbol{s}=(r\cos\omega t,
-r\sin\omega t) \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\boldsymbol{a}=(-r\omega^2\cos\omega t, -r\omega^2\sin\omega t)
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow |\boldsymbol{a}|=r\omega^2
-\]</span></p>
-]]></content>
-      <categories>
-        <category>物理</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>一些积分</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E4%B8%80%E4%BA%9B%E7%A7%AF%E5%88%86/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="目录">目录</h3>
-<p><a
-href="#分母为二次式或根号下二次式">分母为二次式或根号下二次式</a></p>
-<span id="more"></span>
-<h3 id="分母为二次式或根号下二次式">分母为二次式或根号下二次式</h3>
-<h4 id="思路">思路</h4>
-<p><span class="math display">\[ 把x代入为某个三角或双曲函数
-\]</span></p>
-<h4 id="二次式">二次式</h4>
-<p><span class="math display">\[
-\int\frac{1}{x^2+a^2}\mathrm{d}x=\frac{1}{a}\arctan(\frac{x}{a})+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{x^2-a^2}\mathrm{d}x=\frac{1}{2a}\ln|\frac{x+a}{x-a}|+\mathrm{C}
-\]</span></p>
-<h4 id="根号下二次式">根号下二次式</h4>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{a^2-x^2}}\mathrm{d}x=\arcsin(\frac{x}{a})+\mathrm{C}
-\enspace(|x|&lt;a) \]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{a^2+x^2}}\mathrm{d}x=\mathrm{arsinh}(\frac{x}{a})+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{x^2-a^2}}\mathrm{d}x=\mathrm{arcosh}(\frac{x}{a})+\mathrm{C}\enspace(x&gt;a)
-\]</span></p>
+<h3 id="证明">证明</h3>
+<ol type="1">
+<li><p>分部积分法</p></li>
+<li><p>数学归纳法</p></li>
+</ol>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -516,6 +462,44 @@ x|+\mathrm{C} \]</span></p>
 \frac{1}{\sqrt{1-x^2}}\mathrm{d}x=\arcsin x+\mathrm{C} \]</span></p>
 <p><span class="math display">\[ \int \frac{1}{1+x^2}\mathrm{d}x=\arctan
 x+\mathrm{C} \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>一些积分</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E4%B8%80%E4%BA%9B%E7%A7%AF%E5%88%86/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="目录">目录</h3>
+<p><a
+href="#分母为二次式或根号下二次式">分母为二次式或根号下二次式</a></p>
+<span id="more"></span>
+<h3 id="分母为二次式或根号下二次式">分母为二次式或根号下二次式</h3>
+<h4 id="思路">思路</h4>
+<p><span class="math display">\[ 把x代入为某个三角或双曲函数
+\]</span></p>
+<h4 id="二次式">二次式</h4>
+<p><span class="math display">\[
+\int\frac{1}{x^2+a^2}\mathrm{d}x=\frac{1}{a}\arctan(\frac{x}{a})+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{x^2-a^2}\mathrm{d}x=\frac{1}{2a}\ln|\frac{x+a}{x-a}|+\mathrm{C}
+\]</span></p>
+<h4 id="根号下二次式">根号下二次式</h4>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{a^2-x^2}}\mathrm{d}x=\arcsin(\frac{x}{a})+\mathrm{C}
+\enspace(|x|&lt;a) \]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{a^2+x^2}}\mathrm{d}x=\mathrm{arsinh}(\frac{x}{a})+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{x^2-a^2}}\mathrm{d}x=\mathrm{arcosh}(\frac{x}{a})+\mathrm{C}\enspace(x&gt;a)
+\]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -615,139 +599,6 @@ x}{l}\mathrm{d}x)\\
 x}{l}-i\sin\frac{n\pi x}{l})\mathrm{d}x\\
     &amp;=\frac{1}{2l}\int^l_{-l}f(x)e^{-\frac{n\pi x}{l}}\mathrm{d}x
 \end{align*} \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>伽马函数</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="公式">公式</h3>
-<p><span class="math display">\[ 令f(x)=x^n \colon \]</span></p>
-<p><span class="math display">\[ \int
-x^n\mathrm{e}^xdx=f(x)\mathrm{e}^x-f^{&#39;}(x)\mathrm{e}^x+f^{&#39;&#39;}(x)\mathrm{e}^x-...+(-1)^{n}f^{(n)}\mathrm{e}^x
-\]</span></p>
-<span id="more"></span>
-<h3 id="证明">证明</h3>
-<ol type="1">
-<li><p>分部积分法</p></li>
-<li><p>数学归纳法</p></li>
-</ol>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>双曲函数</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="定义">定义</h3>
-<h4 id="几何定义">几何定义</h4>
-<p>双曲线<span
-class="math inline">\(x^2-y^2=1\)</span>右支上的点，到y轴距离为<span
-class="math inline">\(\cosh \theta\)</span>，到x轴距离为<span
-class="math inline">\(\sinh\theta\)</span>，两者正负号不做限定</p>
-<h4 id="代数定义">代数定义</h4>
-<p><span class="math display">\[ \sinh
-x=\frac{\mathrm{e}^x-\mathrm{e}^{-x}}{2} \]</span></p>
-<p><span class="math display">\[ \cosh
-x=\frac{\mathrm{e}^x+\mathrm{e}^{-x}}{2} \]</span></p>
-<span id="more"></span>
-<p><span class="math display">\[ \tanh
-x=\frac{\mathrm{e}^{2x}-1}{\mathrm{e}^{2x}+1} \]</span></p>
-<p><span class="math display">\[ \coth
-x=\frac{\mathrm{e}^{2x}+1}{\mathrm{e}^{2x}-1} \]</span></p>
-<p><span class="math display">\[
-\mathrm{sech}\:x=\frac{2}{\mathrm{e}^x+\mathrm{e}^{-x}} \]</span></p>
-<p><span class="math display">\[
-\mathrm{csch}\:x=\frac{2}{\mathrm{e}^x-\mathrm{e}^{-x}} \]</span></p>
-<h4 id="两者关系">两者关系</h4>
-<p>由积分与<span class="math inline">\(x^2-y^2=1\)</span>的<span
-class="math inline">\(a=1\)</span>，可以得到双曲角<span
-class="math inline">\(\theta\)</span>为它与双曲线所夹面积的2倍，再通过一系列计算,就可以得到<span
-class="math inline">\(\sinh\theta\)</span>与<span
-class="math inline">\(\sinh\theta\)</span>的指数形式</p>
-<details>
-<summary>
-计算过程
-</summary>
-<p><span class="math display">\[
-\frac{\alpha}{2}=\frac{1}{2}\cosh\alpha\sinh\alpha-\int^{\cosh\alpha}_{1}\sqrt{x^2-1}\,\mathrm{d}x
-\]</span></p>
-<p><span class="math display">\[ 令x=\sec\theta,
-则\,\mathrm{d}x=\sec\theta\tan\theta\,\mathrm{d}\theta \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \Rightarrow\int\sqrt{x^2-1}\,\mathrm{d}x&amp;=\int\sec\theta\tan^2\theta\mathrm{d}\theta\\
-    &amp;=\sec\theta\tan\theta-\int\sec^3\theta\mathrm{d}\theta \\
-    &amp;=\frac{1}{2}\sec\theta\tan\theta-\frac{1}{2}\ln|\sec\theta+\tan\theta|\\
-    &amp;=\frac{1}{2}x\sqrt{x^2-1}-\frac{1}{2}\ln(x+\sqrt{x^2-1})
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\int^{\cosh\alpha}_{1}\sqrt{x^2-1}\,\mathrm{d}x=\frac{1}{2}\cosh\alpha\sinh\alpha-\frac{1}{2}\ln(\cosh\alpha+\sinh\alpha)
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\frac{\alpha}{2}=\frac{1}{2}\ln(\cosh\alpha+\sinh\alpha) \]</span></p>
-<p><span class="math display">\[ \Rightarrow \begin{cases}
-    \cosh\alpha+\sinh\alpha=\mathrm{e}^{\alpha}\\
-    \cosh^2\alpha=\sinh^2\alpha+1 \\
-\end{cases} \]</span></p>
-<p><span class="math display">\[ \therefore \begin{cases}
-    \displaystyle\cosh\alpha=\frac{\mathrm{e}^{\alpha}+\mathrm{e}^{-\alpha}}{2}\\
-    \displaystyle\sinh\alpha=\frac{\mathrm{e}^{\alpha}-\mathrm{e}^{-\alpha}}{2}
-\end{cases} \]</span></p>
-</details>
-<h3 id="基本定理">基本定理</h3>
-<p><span class="math display">\[ \cosh x=\cos\mathrm{i}x \]</span></p>
-<p><span class="math display">\[ \mathrm{i}\sinh x=\sin\mathrm{i}x
-\]</span></p>
-<p><span class="math display">\[ \cosh^2x-\sinh^2x=1 \]</span></p>
-<h3 id="三角公式转换为双曲公式">三角公式转换为双曲公式</h3>
-<h4 id="osborns-rule">Osborn's Rule</h4>
-<p><span class="math display">\[ 只有\sin^2 x转到\sinh^2 x时要变号
-\]</span></p>
-<h4 id="证明">证明</h4>
-<p><span class="math display">\[ 待定 \]</span></p>
-<h3 id="反双曲">反双曲</h3>
-<p><span class="math display">\[
-\mathrm{arsinh}\:x=\ln\,(x+\sqrt{x^2+1}) \]</span></p>
-<p><span class="math display">\[
-\mathrm{arcosh}\:x=\ln\,(x+\sqrt{x^2-1})\enspace(x\geq1) \]</span></p>
-<p><span class="math display">\[
-\mathrm{artanh}\:x=\frac{1}{2}\ln\,(\frac{1+x}{1-x})\enspace(\lvert
-x\rvert&lt;1) \]</span></p>
-<h3 id="求导">求导</h3>
-<p><span class="math display">\[ (\sinh x)^{&#39;}=\cosh x \]</span></p>
-<p><span class="math display">\[ (\cosh x)^{&#39;} =\sinh x\]</span></p>
-<p><span class="math display">\[ (\tanh x)^{&#39;}=\mathrm{sech}^2x
-\]</span></p>
-<p><span class="math display">\[ (\coth x)^{&#39;}=-\mathrm{csch}^2x
-\]</span></p>
-<p><span class="math display">\[
-(\mathrm{sech}\:x)^{&#39;}=-\mathrm{sech}\:x\tanh x \]</span></p>
-<p><span class="math display">\[
-(\mathrm{csch}\:x)^{&#39;}=-\mathrm{csch}\:x\coth x \]</span></p>
-<h3 id="积分">积分</h3>
-<p><span class="math display">\[ \int
-\mathrm{sech}\:x=2\arctan\:(e^x)+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int
-\frac{1}{\sqrt{1+x^2}}\mathrm{d}x=\mathrm{arsinh}\:x+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[ \int
-\frac{1}{\sqrt{x^2-1}}\mathrm{d}x=\mathrm{arcosh}\:x+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[ \int
-\frac{1}{1-x^2}\mathrm{d}x=\mathrm{artanh}\:x+\mathrm{C} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -923,6 +774,115 @@ XantC
 <h4 id="切线法线方程-3">切线法线方程</h4>
 <p><span class="math display">\[ 切线：ty=x+at^2 \]</span></p>
 <p><span class="math display">\[ 法线：y+tx=2at+at^3 \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>双曲函数</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="定义">定义</h3>
+<h4 id="几何定义">几何定义</h4>
+<p>双曲线<span
+class="math inline">\(x^2-y^2=1\)</span>右支上的点，到y轴距离为<span
+class="math inline">\(\cosh \theta\)</span>，到x轴距离为<span
+class="math inline">\(\sinh\theta\)</span>，两者正负号不做限定</p>
+<h4 id="代数定义">代数定义</h4>
+<p><span class="math display">\[ \sinh
+x=\frac{\mathrm{e}^x-\mathrm{e}^{-x}}{2} \]</span></p>
+<p><span class="math display">\[ \cosh
+x=\frac{\mathrm{e}^x+\mathrm{e}^{-x}}{2} \]</span></p>
+<span id="more"></span>
+<p><span class="math display">\[ \tanh
+x=\frac{\mathrm{e}^{2x}-1}{\mathrm{e}^{2x}+1} \]</span></p>
+<p><span class="math display">\[ \coth
+x=\frac{\mathrm{e}^{2x}+1}{\mathrm{e}^{2x}-1} \]</span></p>
+<p><span class="math display">\[
+\mathrm{sech}\:x=\frac{2}{\mathrm{e}^x+\mathrm{e}^{-x}} \]</span></p>
+<p><span class="math display">\[
+\mathrm{csch}\:x=\frac{2}{\mathrm{e}^x-\mathrm{e}^{-x}} \]</span></p>
+<h4 id="两者关系">两者关系</h4>
+<p>由积分与<span class="math inline">\(x^2-y^2=1\)</span>的<span
+class="math inline">\(a=1\)</span>，可以得到双曲角<span
+class="math inline">\(\theta\)</span>为它与双曲线所夹面积的2倍，再通过一系列计算,就可以得到<span
+class="math inline">\(\sinh\theta\)</span>与<span
+class="math inline">\(\sinh\theta\)</span>的指数形式</p>
+<details>
+<summary>
+计算过程
+</summary>
+<p><span class="math display">\[
+\frac{\alpha}{2}=\frac{1}{2}\cosh\alpha\sinh\alpha-\int^{\cosh\alpha}_{1}\sqrt{x^2-1}\,\mathrm{d}x
+\]</span></p>
+<p><span class="math display">\[ 令x=\sec\theta,
+则\,\mathrm{d}x=\sec\theta\tan\theta\,\mathrm{d}\theta \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \Rightarrow\int\sqrt{x^2-1}\,\mathrm{d}x&amp;=\int\sec\theta\tan^2\theta\mathrm{d}\theta\\
+    &amp;=\sec\theta\tan\theta-\int\sec^3\theta\mathrm{d}\theta \\
+    &amp;=\frac{1}{2}\sec\theta\tan\theta-\frac{1}{2}\ln|\sec\theta+\tan\theta|\\
+    &amp;=\frac{1}{2}x\sqrt{x^2-1}-\frac{1}{2}\ln(x+\sqrt{x^2-1})
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\int^{\cosh\alpha}_{1}\sqrt{x^2-1}\,\mathrm{d}x=\frac{1}{2}\cosh\alpha\sinh\alpha-\frac{1}{2}\ln(\cosh\alpha+\sinh\alpha)
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\frac{\alpha}{2}=\frac{1}{2}\ln(\cosh\alpha+\sinh\alpha) \]</span></p>
+<p><span class="math display">\[ \Rightarrow \begin{cases}
+    \cosh\alpha+\sinh\alpha=\mathrm{e}^{\alpha}\\
+    \cosh^2\alpha=\sinh^2\alpha+1 \\
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \therefore \begin{cases}
+    \displaystyle\cosh\alpha=\frac{\mathrm{e}^{\alpha}+\mathrm{e}^{-\alpha}}{2}\\
+    \displaystyle\sinh\alpha=\frac{\mathrm{e}^{\alpha}-\mathrm{e}^{-\alpha}}{2}
+\end{cases} \]</span></p>
+</details>
+<h3 id="基本定理">基本定理</h3>
+<p><span class="math display">\[ \cosh x=\cos\mathrm{i}x \]</span></p>
+<p><span class="math display">\[ \mathrm{i}\sinh x=\sin\mathrm{i}x
+\]</span></p>
+<p><span class="math display">\[ \cosh^2x-\sinh^2x=1 \]</span></p>
+<h3 id="三角公式转换为双曲公式">三角公式转换为双曲公式</h3>
+<h4 id="osborns-rule">Osborn's Rule</h4>
+<p><span class="math display">\[ 只有\sin^2 x转到\sinh^2 x时要变号
+\]</span></p>
+<h4 id="证明">证明</h4>
+<p><span class="math display">\[ 待定 \]</span></p>
+<h3 id="反双曲">反双曲</h3>
+<p><span class="math display">\[
+\mathrm{arsinh}\:x=\ln\,(x+\sqrt{x^2+1}) \]</span></p>
+<p><span class="math display">\[
+\mathrm{arcosh}\:x=\ln\,(x+\sqrt{x^2-1})\enspace(x\geq1) \]</span></p>
+<p><span class="math display">\[
+\mathrm{artanh}\:x=\frac{1}{2}\ln\,(\frac{1+x}{1-x})\enspace(\lvert
+x\rvert&lt;1) \]</span></p>
+<h3 id="求导">求导</h3>
+<p><span class="math display">\[ (\sinh x)^{&#39;}=\cosh x \]</span></p>
+<p><span class="math display">\[ (\cosh x)^{&#39;} =\sinh x\]</span></p>
+<p><span class="math display">\[ (\tanh x)^{&#39;}=\mathrm{sech}^2x
+\]</span></p>
+<p><span class="math display">\[ (\coth x)^{&#39;}=-\mathrm{csch}^2x
+\]</span></p>
+<p><span class="math display">\[
+(\mathrm{sech}\:x)^{&#39;}=-\mathrm{sech}\:x\tanh x \]</span></p>
+<p><span class="math display">\[
+(\mathrm{csch}\:x)^{&#39;}=-\mathrm{csch}\:x\coth x \]</span></p>
+<h3 id="积分">积分</h3>
+<p><span class="math display">\[ \int
+\mathrm{sech}\:x=2\arctan\:(e^x)+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int
+\frac{1}{\sqrt{1+x^2}}\mathrm{d}x=\mathrm{arsinh}\:x+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[ \int
+\frac{1}{\sqrt{x^2-1}}\mathrm{d}x=\mathrm{arcosh}\:x+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[ \int
+\frac{1}{1-x^2}\mathrm{d}x=\mathrm{artanh}\:x+\mathrm{C} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -1697,6 +1657,214 @@ y}&amp;\displaystyle\frac{\partial}{\partial z}\\
       </categories>
   </entry>
   <entry>
+    <title>极坐标系</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E6%9E%81%E5%9D%90%E6%A0%87%E7%B3%BB/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="微分">微分</h3>
+<p><span class="math display">\[
+\begin{align*}
+    &amp;x=r\cos \theta \\
+    &amp;y=r\sin \theta \\
+    &amp;\frac{\mathrm{d}y}{\mathrm{d}x}=\frac{\frac{\mathrm{d}y}{\mathrm{d}\theta}}{\frac{\mathrm{d}x}{\mathrm{d}\theta}}
+\\
+\end{align*}\]</span></p>
+<span id="more"></span>
+<p><span class="math display">\[
+平行于极轴\colon{\frac{\mathrm{d}y}{\mathrm{d}\theta}}=0 \]</span></p>
+<p><span class="math display">\[
+垂直于极轴\colon{\frac{\mathrm{d}x}{\mathrm{d}\theta}}=0 \]</span></p>
+<h3 id="积分">积分</h3>
+<p><span class="math display">\[
+\mathrm{S}=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
+\]</span></p>
+<h4 id="证明">证明</h4>
+<p><span class="math display">\[ \begin{align*}
+    \mathrm{S}&amp;=\sum_{i=0}^{+\infty}\frac{1}{2}r^2\mathrm{d}\theta_{i}
+\\
+    &amp;=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
+\end{align*} \]</span></p>
+<h3 id="作图">作图</h3>
+<p><span class="math display">\[ 对于r=a(p+q\cos\theta)\enspace(p\geq q)
+\colon \]</span></p>
+<p>当<span class="math inline">\(p=q \colon\)</span> <img
+src="/pic/极坐标系/p=q时图像.png" alt="img" /></p>
+<p>当<span class="math inline">\(q&lt;p&lt;2q \colon\)</span> <img
+src="/pic/极坐标系/p在q和2q间时图像.png" alt="img" /></p>
+<p>当<span class="math inline">\(p\geq 2q \colon\)</span> <img
+src="/pic/极坐标系/p大于等于2q图像.png" alt="img" /></p>
+<h4 id="证明-1">证明</h4>
+<p>证明图像有没有凹口，相当于证它切线垂直于极轴的点的个数大于2</p>
+<p>证明：</p>
+<p><span class="math display">\[
+x=r\cos\theta=a\cos\theta(p+q\cos\theta) \]</span></p>
+<p><span class="math display">\[ x=ap\cos\theta+aq\cos^2\theta
+\]</span></p>
+<p><span
+class="math display">\[\frac{\mathrm{d}x}{\mathrm{d}\theta}=-ap\sin\theta-2aq\sin\theta\cos\theta=0\]</span></p>
+<p><span class="math display">\[
+\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q} \]</span></p>
+<details>
+<summary>
+Case 1 有凹口
+</summary>
+<p><span class="math display">\[ \mathrm{Case}\ 1.1\colon\enspace p=q
+\]</span></p>
+<p><span class="math display">\[ \therefore -\frac{p}{2q}=-\frac{1}{2}
+\]</span></p>
+<p><span class="math display">\[ \therefore
+\theta=0,\pi,\pm\frac{2}{3}\pi \]</span></p>
+<p>其中<span class="math inline">\(\theta=\pi\)</span>时，<span
+class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}\theta}\)</span>和<span
+class="math inline">\(\frac{\mathrm{d}x}{\mathrm{d}\theta}\)</span>都为零，再观察图像，发现切线其实是平行于极轴的，所以<span
+class="math inline">\(\theta=0,\pm\frac{2}{3}\pi\)</span>,有凹口</p>
+<p><span class="math display">\[ ~ \]</span></p>
+<p><span class="math display">\[ \mathrm{Case}\ 1.2\colon\enspace
+q&lt;p&lt;2q \]</span></p>
+<p><span class="math display">\[ \therefore -1&lt;-\frac{p}{2q}&lt;1
+\]</span></p>
+<p><span class="math display">\[ \therefore
+\theta=0,\pi,\arccos(-\frac{p}{2q}),(2\pi-\arccos(-\frac{p}{2q}))
+\]</span></p>
+<p><span
+class="math inline">\(\theta\)</span>有四个解，所以图像有凹口</p>
+</details>
+<details>
+<summary>
+Case 2 无凹口
+</summary>
+<p><span class="math display">\[ \mathrm{Case}\ 2\colon\enspace p\geq2q
+\]</span></p>
+<p><span class="math display">\[ \therefore -\frac{p}{2q}\leq-1
+\]</span></p>
+<p><span class="math display">\[
+\because\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q}\]</span></p>
+<p><span class="math display">\[ \therefore \theta=0,\pi \]</span></p>
+<p><span
+class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
+</details>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>某值定理杂烩</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E6%9F%90%E5%80%BC%E5%AE%9A%E7%90%86%E6%9D%82%E7%83%A9/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="极值定理">极值定理</h3>
+<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b], \]</span>
+<span class="math display">\[ \exists c,d\in[a, b], \text{s.t.}\,
+f(c)=f(x)_{min},\,f(d)=f(x)_{max} \]</span></p>
+<span id="more"></span>
+<h3 id="介值定理">介值定理</h3>
+<p><span class="math display">\[ f(x)\in \mathrm{C}[a, b],\, f(a)\neq
+f(b) \]</span></p>
+<p><span class="math display">\[ \forall N\in (f(a), f(b)), \exists c\in
+(a, b), \text{s.t.}\,f(c)=N \]</span></p>
+<h3 id="罗尔中值定理">罗尔中值定理</h3>
+<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b],\,
+f(x)在(a,b)可导,\,f(a)=f(b) \]</span></p>
+<p><span class="math display">\[ \exists c\in(a,b), \text{s.t.}\,
+f^{&#39;}(c)=0 \]</span></p>
+<h4 id="证明">证明</h4>
+<details>
+<summary>
+Case 1 f(x) = f(a)
+</summary>
+<p><span class="math display">\[ \text{Case 1}\colon f(x)=f(a)
+\]</span></p>
+<p><span class="math display">\[ 显然\,\exists c\in(a,b), \text{s.t.}\,
+f^{&#39;}(c)=0 \]</span></p>
+</details>
+<details>
+<summary>
+Case 2 f(x) &gt; f(a)
+</summary>
+<p><span class="math display">\[ \text{Case 2}\colon f(x)&gt;f(a)
+\]</span></p>
+<p><span class="math display">\[ 由极值定理\colon\exists f(x)_{max}
+\]</span></p>
+<p><span class="math display">\[ \therefore \exists c\in(a,b),
+\text{s.t.}\, f^{&#39;}(c)=0 \]</span></p>
+</details>
+<details>
+<summary>
+Case 3 f(x) &lt; f(a)
+</summary>
+<p><span class="math display">\[ \text{Case 3}\colon f(x)&lt;f(a)
+\]</span></p>
+<p><span class="math display">\[ 由极值定理\colon\exists f(x)_{min}
+\]</span></p>
+<p><span class="math display">\[ \therefore \exists c\in(a,b),
+\text{s.t.}\, f^{&#39;}(c)=0 \]</span></p>
+</details>
+<h3 id="拉格朗日中值定理">拉格朗日中值定理</h3>
+<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b],\,
+f(x)在(a,b)可导 \]</span></p>
+<p><span class="math display">\[ \exists c\in(a,b), \text{s.t.}\,
+f^{&#39;}(c)=\frac{f(b)-f(a)}{b-a} \]</span></p>
+<h4 id="证明-1">证明</h4>
+<p><span class="math display">\[ 令g(x)=f(x)-\frac{f(b)-f(a)}{b-a}x
+\]</span></p>
+<p><span class="math display">\[
+g(a)=f(a)-\frac{f(b)-f(a)}{b-a}a=\frac{bf(a)-af(b)}{b-a} \]</span></p>
+<p><span class="math display">\[
+g(b)=f(b)-\frac{f(b)-f(a)}{b-a}b=\frac{bf(a)-af(b)}{b-a} \]</span></p>
+<p><span class="math display">\[ \Rightarrow g(a)=g(b) \]</span></p>
+<p><span class="math display">\[ \Rightarrow \exists c\in(a,b),
+\text{s.t.}\, g^{&#39;}(c)=0 \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+f^{&#39;}(c)-\frac{f(b)-f(a)}{b-a}=0 \]</span></p>
+<p><span class="math display">\[ \therefore \exists c\in(a,b),
+\text{s.t.}\, f^{&#39;}(c)=\frac{f(b)-f(a)}{b-a} \]</span></p>
+<h3 id="柯西中值定理">柯西中值定理</h3>
+<p><span class="math display">\[ f(x),g(x)\in\mathrm{C}[a, b],\,
+f(x)与g(x)在(a,b)可导 \]</span></p>
+<p><span class="math display">\[ \exists \xi\in(a,b), \text{s.t.}\,
+\frac{f^{&#39;}(\xi)}{g^{&#39;}(\xi)}=\frac{f(b)-f(a)}{g(b)-g(a)}
+\,(g^{&#39;}(\xi)\neq 0)\]</span></p>
+<h4 id="证明-2">证明</h4>
+<p><span class="math display">\[ f^{&#39;}(\xi)=\frac{f(b)-f(a)}{b-a}
+\]</span></p>
+<p><span class="math display">\[ g^{&#39;}(\xi)=\frac{g(a)-g(b)}{b-a}
+\]</span></p>
+<p><span class="math display">\[ \therefore
+\frac{f^{&#39;}(\xi)}{g^{&#39;}(\xi)}=\frac{f(b)-f(a)}{g(b)-g(a)}
+\]</span></p>
+<h3 id="泰勒中值定理">泰勒中值定理</h3>
+<p><span
+class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n+R_n(x)
+\]</span></p>
+<p><span class="math display">\[
+R_n(x)=\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1} \;(\xi \in (x,x_0))
+\]</span></p>
+<h4 id="证明-3">证明</h4>
+<p><span class="math display">\[ R_n(x_0)=R_n^{&#39;}(x_0)=\dots
+=R_n^{(n)}(x_0)=0 \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \frac{R_n(x)}{(x-x_0)^{n+1}}&amp;=\frac{R_n(x)-R_n(x_0)}{(x-x_0)^{n+1}-(x_0-x_0)^{n+1}}
+\\
+    &amp;=\frac{R_n^{&#39;}(\xi)}{(n+1)(x-x_0)^n} \\
+    &amp;\dots \\
+    &amp;=\frac{R_n^{(n+1)}(\xi)}{(n+1)!} \\
+    &amp;=\frac{f^{(n+1)}(\xi)}{(n+1)!}
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \therefore
+R_n(x)=\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1} \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
     <title>极限</title>
     <url>/%E6%95%B0%E5%AD%A6/%E6%9E%81%E9%99%90/</url>
     <content><![CDATA[<b>
@@ -1989,214 +2157,6 @@ y_1=4 \]</span></p>
 \infty}[(1+\frac{1}{n})^n\cdot(1+\frac{1}{n})]=\mathrm{e} \]</span></p>
 <p><span class="math display">\[ \therefore \lim_{x\to
 \infty}(1+\frac{1}{x})^x=\mathrm{e} \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>极坐标系</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E6%9E%81%E5%9D%90%E6%A0%87%E7%B3%BB/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="微分">微分</h3>
-<p><span class="math display">\[
-\begin{align*}
-    &amp;x=r\cos \theta \\
-    &amp;y=r\sin \theta \\
-    &amp;\frac{\mathrm{d}y}{\mathrm{d}x}=\frac{\frac{\mathrm{d}y}{\mathrm{d}\theta}}{\frac{\mathrm{d}x}{\mathrm{d}\theta}}
-\\
-\end{align*}\]</span></p>
-<span id="more"></span>
-<p><span class="math display">\[
-平行于极轴\colon{\frac{\mathrm{d}y}{\mathrm{d}\theta}}=0 \]</span></p>
-<p><span class="math display">\[
-垂直于极轴\colon{\frac{\mathrm{d}x}{\mathrm{d}\theta}}=0 \]</span></p>
-<h3 id="积分">积分</h3>
-<p><span class="math display">\[
-\mathrm{S}=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
-\]</span></p>
-<h4 id="证明">证明</h4>
-<p><span class="math display">\[ \begin{align*}
-    \mathrm{S}&amp;=\sum_{i=0}^{+\infty}\frac{1}{2}r^2\mathrm{d}\theta_{i}
-\\
-    &amp;=\frac{1}{2}\int_{\alpha}^{\beta}r^2\mathrm{d}\theta
-\end{align*} \]</span></p>
-<h3 id="作图">作图</h3>
-<p><span class="math display">\[ 对于r=a(p+q\cos\theta)\enspace(p\geq q)
-\colon \]</span></p>
-<p>当<span class="math inline">\(p=q \colon\)</span> <img
-src="/pic/极坐标系/p=q时图像.png" alt="img" /></p>
-<p>当<span class="math inline">\(q&lt;p&lt;2q \colon\)</span> <img
-src="/pic/极坐标系/p在q和2q间时图像.png" alt="img" /></p>
-<p>当<span class="math inline">\(p\geq 2q \colon\)</span> <img
-src="/pic/极坐标系/p大于等于2q图像.png" alt="img" /></p>
-<h4 id="证明-1">证明</h4>
-<p>证明图像有没有凹口，相当于证它切线垂直于极轴的点的个数大于2</p>
-<p>证明：</p>
-<p><span class="math display">\[
-x=r\cos\theta=a\cos\theta(p+q\cos\theta) \]</span></p>
-<p><span class="math display">\[ x=ap\cos\theta+aq\cos^2\theta
-\]</span></p>
-<p><span
-class="math display">\[\frac{\mathrm{d}x}{\mathrm{d}\theta}=-ap\sin\theta-2aq\sin\theta\cos\theta=0\]</span></p>
-<p><span class="math display">\[
-\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q} \]</span></p>
-<details>
-<summary>
-Case 1 有凹口
-</summary>
-<p><span class="math display">\[ \mathrm{Case}\ 1.1\colon\enspace p=q
-\]</span></p>
-<p><span class="math display">\[ \therefore -\frac{p}{2q}=-\frac{1}{2}
-\]</span></p>
-<p><span class="math display">\[ \therefore
-\theta=0,\pi,\pm\frac{2}{3}\pi \]</span></p>
-<p>其中<span class="math inline">\(\theta=\pi\)</span>时，<span
-class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}\theta}\)</span>和<span
-class="math inline">\(\frac{\mathrm{d}x}{\mathrm{d}\theta}\)</span>都为零，再观察图像，发现切线其实是平行于极轴的，所以<span
-class="math inline">\(\theta=0,\pm\frac{2}{3}\pi\)</span>,有凹口</p>
-<p><span class="math display">\[ ~ \]</span></p>
-<p><span class="math display">\[ \mathrm{Case}\ 1.2\colon\enspace
-q&lt;p&lt;2q \]</span></p>
-<p><span class="math display">\[ \therefore -1&lt;-\frac{p}{2q}&lt;1
-\]</span></p>
-<p><span class="math display">\[ \therefore
-\theta=0,\pi,\arccos(-\frac{p}{2q}),(2\pi-\arccos(-\frac{p}{2q}))
-\]</span></p>
-<p><span
-class="math inline">\(\theta\)</span>有四个解，所以图像有凹口</p>
-</details>
-<details>
-<summary>
-Case 2 无凹口
-</summary>
-<p><span class="math display">\[ \mathrm{Case}\ 2\colon\enspace p\geq2q
-\]</span></p>
-<p><span class="math display">\[ \therefore -\frac{p}{2q}\leq-1
-\]</span></p>
-<p><span class="math display">\[
-\because\sin\theta=0\enspace\mathrm{or}\;\cos\theta=-\frac{p}{2q}\]</span></p>
-<p><span class="math display">\[ \therefore \theta=0,\pi \]</span></p>
-<p><span
-class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
-</details>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>某值定理杂烩</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E6%9F%90%E5%80%BC%E5%AE%9A%E7%90%86%E6%9D%82%E7%83%A9/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="极值定理">极值定理</h3>
-<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b], \]</span>
-<span class="math display">\[ \exists c,d\in[a, b], \text{s.t.}\,
-f(c)=f(x)_{min},\,f(d)=f(x)_{max} \]</span></p>
-<span id="more"></span>
-<h3 id="介值定理">介值定理</h3>
-<p><span class="math display">\[ f(x)\in \mathrm{C}[a, b],\, f(a)\neq
-f(b) \]</span></p>
-<p><span class="math display">\[ \forall N\in (f(a), f(b)), \exists c\in
-(a, b), \text{s.t.}\,f(c)=N \]</span></p>
-<h3 id="罗尔中值定理">罗尔中值定理</h3>
-<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b],\,
-f(x)在(a,b)可导,\,f(a)=f(b) \]</span></p>
-<p><span class="math display">\[ \exists c\in(a,b), \text{s.t.}\,
-f^{&#39;}(c)=0 \]</span></p>
-<h4 id="证明">证明</h4>
-<details>
-<summary>
-Case 1 f(x) = f(a)
-</summary>
-<p><span class="math display">\[ \text{Case 1}\colon f(x)=f(a)
-\]</span></p>
-<p><span class="math display">\[ 显然\,\exists c\in(a,b), \text{s.t.}\,
-f^{&#39;}(c)=0 \]</span></p>
-</details>
-<details>
-<summary>
-Case 2 f(x) &gt; f(a)
-</summary>
-<p><span class="math display">\[ \text{Case 2}\colon f(x)&gt;f(a)
-\]</span></p>
-<p><span class="math display">\[ 由极值定理\colon\exists f(x)_{max}
-\]</span></p>
-<p><span class="math display">\[ \therefore \exists c\in(a,b),
-\text{s.t.}\, f^{&#39;}(c)=0 \]</span></p>
-</details>
-<details>
-<summary>
-Case 3 f(x) &lt; f(a)
-</summary>
-<p><span class="math display">\[ \text{Case 3}\colon f(x)&lt;f(a)
-\]</span></p>
-<p><span class="math display">\[ 由极值定理\colon\exists f(x)_{min}
-\]</span></p>
-<p><span class="math display">\[ \therefore \exists c\in(a,b),
-\text{s.t.}\, f^{&#39;}(c)=0 \]</span></p>
-</details>
-<h3 id="拉格朗日中值定理">拉格朗日中值定理</h3>
-<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b],\,
-f(x)在(a,b)可导 \]</span></p>
-<p><span class="math display">\[ \exists c\in(a,b), \text{s.t.}\,
-f^{&#39;}(c)=\frac{f(b)-f(a)}{b-a} \]</span></p>
-<h4 id="证明-1">证明</h4>
-<p><span class="math display">\[ 令g(x)=f(x)-\frac{f(b)-f(a)}{b-a}x
-\]</span></p>
-<p><span class="math display">\[
-g(a)=f(a)-\frac{f(b)-f(a)}{b-a}a=\frac{bf(a)-af(b)}{b-a} \]</span></p>
-<p><span class="math display">\[
-g(b)=f(b)-\frac{f(b)-f(a)}{b-a}b=\frac{bf(a)-af(b)}{b-a} \]</span></p>
-<p><span class="math display">\[ \Rightarrow g(a)=g(b) \]</span></p>
-<p><span class="math display">\[ \Rightarrow \exists c\in(a,b),
-\text{s.t.}\, g^{&#39;}(c)=0 \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-f^{&#39;}(c)-\frac{f(b)-f(a)}{b-a}=0 \]</span></p>
-<p><span class="math display">\[ \therefore \exists c\in(a,b),
-\text{s.t.}\, f^{&#39;}(c)=\frac{f(b)-f(a)}{b-a} \]</span></p>
-<h3 id="柯西中值定理">柯西中值定理</h3>
-<p><span class="math display">\[ f(x),g(x)\in\mathrm{C}[a, b],\,
-f(x)与g(x)在(a,b)可导 \]</span></p>
-<p><span class="math display">\[ \exists \xi\in(a,b), \text{s.t.}\,
-\frac{f^{&#39;}(\xi)}{g^{&#39;}(\xi)}=\frac{f(b)-f(a)}{g(b)-g(a)}
-\,(g^{&#39;}(\xi)\neq 0)\]</span></p>
-<h4 id="证明-2">证明</h4>
-<p><span class="math display">\[ f^{&#39;}(\xi)=\frac{f(b)-f(a)}{b-a}
-\]</span></p>
-<p><span class="math display">\[ g^{&#39;}(\xi)=\frac{g(a)-g(b)}{b-a}
-\]</span></p>
-<p><span class="math display">\[ \therefore
-\frac{f^{&#39;}(\xi)}{g^{&#39;}(\xi)}=\frac{f(b)-f(a)}{g(b)-g(a)}
-\]</span></p>
-<h3 id="泰勒中值定理">泰勒中值定理</h3>
-<p><span
-class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n+R_n(x)
-\]</span></p>
-<p><span class="math display">\[
-R_n(x)=\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1} \;(\xi \in (x,x_0))
-\]</span></p>
-<h4 id="证明-3">证明</h4>
-<p><span class="math display">\[ R_n(x_0)=R_n^{&#39;}(x_0)=\dots
-=R_n^{(n)}(x_0)=0 \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \frac{R_n(x)}{(x-x_0)^{n+1}}&amp;=\frac{R_n(x)-R_n(x_0)}{(x-x_0)^{n+1}-(x_0-x_0)^{n+1}}
-\\
-    &amp;=\frac{R_n^{&#39;}(\xi)}{(n+1)(x-x_0)^n} \\
-    &amp;\dots \\
-    &amp;=\frac{R_n^{(n+1)}(\xi)}{(n+1)!} \\
-    &amp;=\frac{f^{(n+1)}(\xi)}{(n+1)!}
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \therefore
-R_n(x)=\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -2658,34 +2618,125 @@ y})\mathrm{d}x\wedge\mathrm{d}y
       </categories>
   </entry>
   <entry>
-    <title>读《呐喊》有感</title>
-    <url>/%E8%AF%BB%E5%90%8E%E6%84%9F/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
+    <title>空间解析几何</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E7%A9%BA%E9%97%B4%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<p><b></p>
-<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
-<p></b></p>
+<h2 id="一次">一次</h2>
+<h3 id="空间直线方程">空间直线方程</h3>
+<h4 id="向量方程">向量方程</h4>
+<p><span class="math display">\[
+\boldsymbol{r}=\boldsymbol{a}+t\boldsymbol{b} \]</span></p>
+<p><span class="math display">\[
+(\boldsymbol{r}-\boldsymbol{a})\times\boldsymbol{b}=\boldsymbol{0}
+\]</span></p>
 <span id="more"></span>
-<p><b></p>
-<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
-<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
-<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
-<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
-<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
-<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
-<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
-<b>
-<p align="right">
-作于2023年8月
-</p>
-<p></b></p>
-<p></b></p>
+<h4 id="笛卡尔方程">笛卡尔方程</h4>
+<p><span class="math display">\[ \boldsymbol{a}=\begin{pmatrix}
+    x_1\\x_2\\x_3
+\end{pmatrix},\,
+\boldsymbol{b}=\begin{pmatrix}
+    l\\m\\n
+\end{pmatrix} \]</span></p>
+<p><span class="math display">\[
+\frac{x-x_1}{l}=\frac{y-y_1}{m}=\frac{z-z_1}{n}=\lambda \]</span></p>
+<h3 id="空间平面方程">空间平面方程</h3>
+<h4 id="标量方程">标量方程</h4>
+<p><span class="math display">\[ \boldsymbol{r}\cdot\boldsymbol{n}=p
+\]</span></p>
+<h4 id="向量方程-1">向量方程</h4>
+<p><span class="math display">\[
+\boldsymbol{r}=\boldsymbol{a}+\lambda\boldsymbol{b}+\mu\boldsymbol{c}
+\]</span></p>
+<p><span class="math display">\[
+其中\boldsymbol{a}为平面上的点，\boldsymbol{b}和\boldsymbol{c}是向量
+\]</span></p>
+<h4 id="笛卡尔方程-1">笛卡尔方程</h4>
+<p><span class="math display">\[ ax+by+cz+d=0 \]</span></p>
+<h3 id="关系">关系</h3>
+<h4 id="线线">线线</h4>
+<h5 id="共面">共面</h5>
+<p><span class="math display">\[ l_1\colon
+\frac{x-x_1}{l_1}=\frac{y-y_1}{m_1}=\frac{z-z_1}{n_1} \]</span></p>
+<p><span class="math display">\[ l_2\colon
+\frac{x-x_2}{l_2}=\frac{y-y_2}{m_2}=\frac{z-z_2}{n_2} \]</span></p>
+<p><span class="math display">\[ M_1(x_1, y_1, z_1), M_2(x_2, y_2, z_2)
+\]</span></p>
+<p><span class="math display">\[ 充要条件\colon
+\overrightarrow{M_1M_2}\cdot(\boldsymbol{s_1}\times \boldsymbol{s_2})=0
+\]</span></p>
+<h4 id="线面">线面</h4>
+<h5 id="垂直">垂直</h5>
+<p><span class="math display">\[ \boldsymbol{s}=\boldsymbol{n}
+\]</span></p>
+<h5 id="平行">平行</h5>
+<p><span class="math display">\[ \boldsymbol{s}\cdot\boldsymbol{n}=0
+\]</span></p>
+<h4 id="面面">面面</h4>
+<h5 id="垂直-1">垂直</h5>
+<p><span class="math display">\[ \boldsymbol{n_1}\cdot\boldsymbol{n_2}=0
+\]</span></p>
+<h5 id="平行-1">平行</h5>
+<p><span class="math display">\[
+\boldsymbol{n_1}=\lambda\boldsymbol{n_2} \]</span></p>
+<h3 id="夹角">夹角</h3>
+<h4 id="线线夹角">线线夹角</h4>
+<p><span class="math display">\[
+\cos\theta=\bigg|\frac{\boldsymbol{a}\cdot\boldsymbol{b}}{|\boldsymbol{a}||\boldsymbol{b}|}\bigg|
+\]</span></p>
+<h4 id="线面夹角">线面夹角</h4>
+<p><span class="math display">\[
+\sin\theta=\bigg|\frac{\boldsymbol{b}\cdot\boldsymbol{n}}{|\boldsymbol{b}||\boldsymbol{n}|}\bigg|
+\]</span></p>
+<h4 id="面面夹角">面面夹角</h4>
+<p><span class="math display">\[
+\cos\theta=\bigg|\frac{\boldsymbol{n_1}\cdot\boldsymbol{n_2}}{|\boldsymbol{n_1}||\boldsymbol{n_2}|}\bigg|
+\]</span></p>
+<h3 id="异面直线距离">异面直线距离</h3>
+<p><span class="math display">\[
+\boldsymbol{r_1}=\boldsymbol{a}+\lambda\boldsymbol{b},\enspace\boldsymbol{r_2}=\boldsymbol{c}+\mu\boldsymbol{d}\]</span></p>
+<p><span class="math display">\[
+d=\bigg|\frac{(\boldsymbol{a}-\boldsymbol{c})\cdot(\boldsymbol{b}\times\boldsymbol{d})}{|\boldsymbol{b}\times\boldsymbol{d}|}\bigg|
+\]</span></p>
+<h3 id="原点到平面距离">原点到平面距离</h3>
+<p><span class="math display">\[
+\boldsymbol{r}\cdot\hat{\boldsymbol{n}}=d \]</span></p>
+<p><span class="math display">\[
+其中\hat{\boldsymbol{n}}为单位法向量，d为原点到平面距离 \]</span></p>
+<h2 id="二次">二次</h2>
+<h3 id="曲面">曲面</h3>
+<h4 id="椭圆锥面">椭圆锥面</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=z^2
+\]</span></p>
+<h4 id="椭球面">椭球面</h4>
+<p><span class="math display">\[
+\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1 \]</span></p>
+<h4 id="单叶双曲面">单叶双曲面</h4>
+<p><span class="math display">\[
+\frac{x^2}{a^2}+\frac{y^2}{b^2}-\frac{z^2}{c^2}=1 \]</span></p>
+<h4 id="双叶双曲面">双叶双曲面</h4>
+<p><span class="math display">\[
+\frac{x^2}{a^2}-\frac{y^2}{b^2}-\frac{z^2}{c^2}=1 \]</span></p>
+<h4 id="椭圆抛物面">椭圆抛物面</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=z
+\]</span></p>
+<h4 id="双曲抛物面">双曲抛物面</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=z
+\]</span></p>
+<h4 id="椭圆柱面">椭圆柱面</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
+\]</span></p>
+<h4 id="双曲柱面">双曲柱面</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=1
+\]</span></p>
+<h4 id="抛物柱面">抛物柱面</h4>
+<p><span class="math display">\[ x^2=ay \]</span></p>
 ]]></content>
       <categories>
-        <category>读后感</category>
+        <category>数学</category>
       </categories>
   </entry>
   <entry>
@@ -2978,128 +3029,6 @@ class="math inline">\(x=\mathrm{e}^u\)</span>代入即可</p>
       </categories>
   </entry>
   <entry>
-    <title>空间解析几何</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E7%A9%BA%E9%97%B4%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h2 id="一次">一次</h2>
-<h3 id="空间直线方程">空间直线方程</h3>
-<h4 id="向量方程">向量方程</h4>
-<p><span class="math display">\[
-\boldsymbol{r}=\boldsymbol{a}+t\boldsymbol{b} \]</span></p>
-<p><span class="math display">\[
-(\boldsymbol{r}-\boldsymbol{a})\times\boldsymbol{b}=\boldsymbol{0}
-\]</span></p>
-<span id="more"></span>
-<h4 id="笛卡尔方程">笛卡尔方程</h4>
-<p><span class="math display">\[ \boldsymbol{a}=\begin{pmatrix}
-    x_1\\x_2\\x_3
-\end{pmatrix},\,
-\boldsymbol{b}=\begin{pmatrix}
-    l\\m\\n
-\end{pmatrix} \]</span></p>
-<p><span class="math display">\[
-\frac{x-x_1}{l}=\frac{y-y_1}{m}=\frac{z-z_1}{n}=\lambda \]</span></p>
-<h3 id="空间平面方程">空间平面方程</h3>
-<h4 id="标量方程">标量方程</h4>
-<p><span class="math display">\[ \boldsymbol{r}\cdot\boldsymbol{n}=p
-\]</span></p>
-<h4 id="向量方程-1">向量方程</h4>
-<p><span class="math display">\[
-\boldsymbol{r}=\boldsymbol{a}+\lambda\boldsymbol{b}+\mu\boldsymbol{c}
-\]</span></p>
-<p><span class="math display">\[
-其中\boldsymbol{a}为平面上的点，\boldsymbol{b}和\boldsymbol{c}是向量
-\]</span></p>
-<h4 id="笛卡尔方程-1">笛卡尔方程</h4>
-<p><span class="math display">\[ ax+by+cz+d=0 \]</span></p>
-<h3 id="关系">关系</h3>
-<h4 id="线线">线线</h4>
-<h5 id="共面">共面</h5>
-<p><span class="math display">\[ l_1\colon
-\frac{x-x_1}{l_1}=\frac{y-y_1}{m_1}=\frac{z-z_1}{n_1} \]</span></p>
-<p><span class="math display">\[ l_2\colon
-\frac{x-x_2}{l_2}=\frac{y-y_2}{m_2}=\frac{z-z_2}{n_2} \]</span></p>
-<p><span class="math display">\[ M_1(x_1, y_1, z_1), M_2(x_2, y_2, z_2)
-\]</span></p>
-<p><span class="math display">\[ 充要条件\colon
-\overrightarrow{M_1M_2}\cdot(\boldsymbol{s_1}\times \boldsymbol{s_2})=0
-\]</span></p>
-<h4 id="线面">线面</h4>
-<h5 id="垂直">垂直</h5>
-<p><span class="math display">\[ \boldsymbol{s}=\boldsymbol{n}
-\]</span></p>
-<h5 id="平行">平行</h5>
-<p><span class="math display">\[ \boldsymbol{s}\cdot\boldsymbol{n}=0
-\]</span></p>
-<h4 id="面面">面面</h4>
-<h5 id="垂直-1">垂直</h5>
-<p><span class="math display">\[ \boldsymbol{n_1}\cdot\boldsymbol{n_2}=0
-\]</span></p>
-<h5 id="平行-1">平行</h5>
-<p><span class="math display">\[
-\boldsymbol{n_1}=\lambda\boldsymbol{n_2} \]</span></p>
-<h3 id="夹角">夹角</h3>
-<h4 id="线线夹角">线线夹角</h4>
-<p><span class="math display">\[
-\cos\theta=\bigg|\frac{\boldsymbol{a}\cdot\boldsymbol{b}}{|\boldsymbol{a}||\boldsymbol{b}|}\bigg|
-\]</span></p>
-<h4 id="线面夹角">线面夹角</h4>
-<p><span class="math display">\[
-\sin\theta=\bigg|\frac{\boldsymbol{b}\cdot\boldsymbol{n}}{|\boldsymbol{b}||\boldsymbol{n}|}\bigg|
-\]</span></p>
-<h4 id="面面夹角">面面夹角</h4>
-<p><span class="math display">\[
-\cos\theta=\bigg|\frac{\boldsymbol{n_1}\cdot\boldsymbol{n_2}}{|\boldsymbol{n_1}||\boldsymbol{n_2}|}\bigg|
-\]</span></p>
-<h3 id="异面直线距离">异面直线距离</h3>
-<p><span class="math display">\[
-\boldsymbol{r_1}=\boldsymbol{a}+\lambda\boldsymbol{b},\enspace\boldsymbol{r_2}=\boldsymbol{c}+\mu\boldsymbol{d}\]</span></p>
-<p><span class="math display">\[
-d=\bigg|\frac{(\boldsymbol{a}-\boldsymbol{c})\cdot(\boldsymbol{b}\times\boldsymbol{d})}{|\boldsymbol{b}\times\boldsymbol{d}|}\bigg|
-\]</span></p>
-<h3 id="原点到平面距离">原点到平面距离</h3>
-<p><span class="math display">\[
-\boldsymbol{r}\cdot\hat{\boldsymbol{n}}=d \]</span></p>
-<p><span class="math display">\[
-其中\hat{\boldsymbol{n}}为单位法向量，d为原点到平面距离 \]</span></p>
-<h2 id="二次">二次</h2>
-<h3 id="曲面">曲面</h3>
-<h4 id="椭圆锥面">椭圆锥面</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=z^2
-\]</span></p>
-<h4 id="椭球面">椭球面</h4>
-<p><span class="math display">\[
-\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1 \]</span></p>
-<h4 id="单叶双曲面">单叶双曲面</h4>
-<p><span class="math display">\[
-\frac{x^2}{a^2}+\frac{y^2}{b^2}-\frac{z^2}{c^2}=1 \]</span></p>
-<h4 id="双叶双曲面">双叶双曲面</h4>
-<p><span class="math display">\[
-\frac{x^2}{a^2}-\frac{y^2}{b^2}-\frac{z^2}{c^2}=1 \]</span></p>
-<h4 id="椭圆抛物面">椭圆抛物面</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=z
-\]</span></p>
-<h4 id="双曲抛物面">双曲抛物面</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=z
-\]</span></p>
-<h4 id="椭圆柱面">椭圆柱面</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
-\]</span></p>
-<h4 id="双曲柱面">双曲柱面</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=1
-\]</span></p>
-<h4 id="抛物柱面">抛物柱面</h4>
-<p><span class="math display">\[ x^2=ay \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
     <title>重积分</title>
     <url>/%E6%95%B0%E5%AD%A6/%E9%87%8D%E7%A7%AF%E5%88%86/</url>
     <content><![CDATA[<b>
@@ -3265,8 +3194,8 @@ y})^2+(\frac{\partial x}{\partial z})^2}\mathrm{d}y\mathrm{d}z
       </categories>
   </entry>
   <entry>
-    <title>21st Century Education Machine</title>
-    <url>/%E6%96%87%E8%89%BA/21st-Century-Education-Machine/</url>
+    <title>2023.8.1</title>
+    <url>/%E6%97%A5%E8%AE%B0/2023-8-1/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -3274,157 +3203,156 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
-<p>Hey you angels of wonders,</p>
-<p>Where have you been?</p>
-<p>Let me lead you to the path of happiness,</p>
-<p>Conversion towards formality.</p>
-<p>As my conjecture, your protectors advise,</p>
-<p>“Behave, like a 21st century education machine.”</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>As you learn the fabulous poetry,</p>
-<p>We’ll teach ya the unshakable meanings.</p>
-<p>You’d better throw your thoughts away,</p>
-<p>Behave, like a 21st century education machine.</p>
-<hr />
-<p>We highly suggest you, to keep your heads in the game,</p>
-<p>Waiting for mighty vanity, to seep into your daily life.</p>
-<p>Hey young lad, why are you running away?</p>
-<p>See the winners on stage, sure you'll become one someday.</p>
-<p>Behave, like a 21st century education machine.</p>
-<hr />
-<p>Stuck in the solid building,</p>
-<p>Instilled sincere words of future.</p>
-<p>Once a glance out of the window,</p>
-<p>Still bricks and bricks and bricks.</p>
-<p>(You’re a solider. You don’t have to think. You have to obey
-orders.)</p>
-<p>Behave, like a soldier, a brave, a 21st century education
-machine.</p>
-<p align="right">
-作于2022年11月
-</p>
-<p align="right">
-订于2023年7月
-</p>
-<p></b> </big></p>
-<hr />
-<h3 id="提醒自己一下"><strong>提醒自己一下</strong></h3>
-<p>如果要出版之类的，署名要写两个人名字（提前去问下gxy）</p>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Moments</title>
-    <url>/%E6%96%87%E8%89%BA/Moments/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>Moments of happiness,</p>
-<p>Moments of dark.</p>
-<p>Moments of future,</p>
-<p>Everlasting remember.</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>Everything's going too fast,</p>
-<p>Fast like momentary frames in head.</p>
-<p>Utopia named Unconsciousness</p>
-<p>Is far too easy to get,</p>
-<p>While too hard to escape.</p>
-<hr />
-<p>Doubted in creating eternity,</p>
-<p>Leaving anything good in here.</p>
-<p>As for most common cases,</p>
-<p>Future unseen is already here.</p>
-<hr />
-<p>Desperate, anger, touching, fantasy,</p>
-<p>All washed away in the ease of a sleep.</p>
-<p>Remained only boredom and fear,</p>
-<p>And the endless compassion.</p>
-<hr />
-<p>Classify emotions up in piles,</p>
-<p>Consider life a collection of moments.</p>
-<p>Then forget about the do-ers,</p>
-<p>Enjoy your little plans and schemes,</p>
-<p>In the moment of all human race.</p>
-<hr />
-<p>Now tell me, what's eternity, happiness or sadness?</p>
-<p>What's contemporary, my life or the human race?</p>
-<p>Ah it's all moments, moments.</p>
-<hr />
-<p>There were once greats in the history,</p>
-<p>Like Kerouac killed signs, Curtis killed reality,</p>
-<p>Both killed by time.</p>
-<p>But they carved something on their tombstones,</p>
-<p>Which made time no longer fright.</p>
-<hr />
-<p>Goodbye all of you,</p>
-<p>Raise your words and acts.</p>
-<p align="right">
-作于2023年8-9月
-</p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>一次睡觉</title>
-    <url>/%E6%96%87%E8%89%BA/%E4%B8%80%E6%AC%A1%E7%9D%A1%E8%A7%89/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我选了一个姿势</p>
-<p>脸朝右地睡</p>
-<p>但胳膊好像压到了心脏</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我知道自己一定会在某个时候转过去面向左侧</p>
-<p>因为我这样压迫到了心脏</p>
-<p>但我没有</p>
-<p>我想先以这个姿势培养睡意</p>
-<hr />
-<p>早上喝了咖啡 所以现在睡不着也是正常的</p>
-<p>楼上为什么这么吵</p>
-<p>我要集中全部力量用来睡觉</p>
-<p>我于是绷紧了身体</p>
-<hr />
-<p>也许这就是思想太活跃的情况</p>
-<p>在这种时候想到爱情</p>
-<p>但其实也没有关系了</p>
-<p>这就像是一个庄严的仪式</p>
-<hr />
-<p>一二三四五</p>
-<p>六七八九十</p>
-<p>十一十二十三</p>
-<p>十六十九二十</p>
+<p>我今天才明白，《一块红布》是个永恒的东西。</p>
+<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
 <b>
 <p align="right">
-作于2024年4月
+作于2023.8.1
 </p>
 <p></b></p>
 </b> </big>
 </center>
 ]]></content>
       <categories>
-        <category>文艺</category>
+        <category>日记</category>
       </categories>
+  </entry>
+  <entry>
+    <title>2023.9.12</title>
+    <url>/%E6%97%A5%E8%AE%B0/2023-9-12/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>听了杭天给迪伦的致敬</p>
+<p>Tomorrow is a long time.</p>
+<b>
+<p align="right">
+作于2023.9.12
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>“劝学”新说</title>
+    <url>/%E6%9D%82%E8%B0%88/%E2%80%9C%E5%8A%9D%E5%AD%A6%E2%80%9D%E6%96%B0%E8%AF%B4/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>《劝学》，是两千多年前战国百家争鸣时流传下来的文章，记载着荀子对当时学习问题的朴素认识。在这两千多年来，随着时代的变迁，一些新的学习问题开始涌现，古时劝学的文章也需要后人再来添上几笔了。</p>
+<span id="more"></span>
+<p>学习，不言而喻的是一件枯燥的事，而这也正需要我们建立良好、持续的学习源动力。</p>
+<p>源动力的前提是对学习持积极的态度。而如今应试教育的猖獗，恰恰是阻碍其形成的绊脚石之一。这东西从我们记事起就耳濡目染，对它的厌恶自然便会延续到学习身上，以至于分不清两者的区别，甚至当以成绩为宗旨的老师们说到“终身学习”时，自己也会感到胃疼。但其实，应试和学习应该要明确开来。</p>
+<p>学习能让我们按自己期望的方向发展。相信大家都有过这种体验。在学习或者做自己真正喜欢的东西的时候，过程中的一切都是享受的：会为了一点小小的成功而沾沾自喜，不因挫折而放弃，甚至于会主动去锻炼自己薄弱的环节。这种感受，跟看到试卷上一个个消不去的红叉肯定是不同的。学习是一个比应试自由得多、广阔得多的天地。我现在在“劝”的也不是应试，而是学习。</p>
+<p>那么学习的源动力要如何形成呢？这种源动力一定要是真实的，能说服自己的（这从上一段可以看出来一点）。现在有人会受人灌输，从名人传记上随意找来一些“为中华之崛起而读书”的不符合自己思想境界，不能使自己信服的话，这样依靠它学习的时候也不会有什么底气了。我建议的是先从我们自己的爱好，或是梦想的职业中寻找学习的动力。只有个人喜爱的东西，我们才能坚持下去，一直为之学习下去。</p>
+<p>比如美国。他们的教育中不会刻意灌输“学习的目的或意义”，而是给学生们充分的空间发展个性，让他们找到自己努力学习的意义。等到他们长大，在社会中各司其职时，这种源动力更能不断促进他们自我发展，贡献社会了。</p>
+<p>所以我说学习的源动力来源于个人，并不是鼓励大家自私自利，目中无人，而是希望学习的成果在个人身上展现后，能够继续为所在的集体发光发热。这和马克思所说“每个人的自由发展是一切人自由发展的条件”是一样的。</p>
+<p>而仅对于我们眼前的应试，上面的东西也可以利用，也就是要设置一些目标。有时某个学科本身就很合自己胃口，对未来的努力方向也有好处；而对于不那么顺人意的，可以只把它当作进修某个理想专业的必经之路。</p>
+<p>总之，我们在寻找学习内驱力时，要讨好自身。这对于学习或是任何“想要做好”的事都是一样的。而且我们的教育中也要有良好的引导，以及容纳其广泛存在的氛围。有了这些，我们才有可能真正地喜欢上学习，真正地为社会出力，“为人民服务”。</p>
+<b>
+<p align="right">
+作于2023年10月
+</p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>论“命定”</title>
+    <url>/%E6%9D%82%E8%B0%88/%E8%AE%BA%E2%80%9C%E5%91%BD%E5%AE%9A%E2%80%9D/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p><b></p>
+<p>最近读完了杰克凯鲁亚克的《在路上》。这毕竟是垮掉一代的代表作品，读之前的印象自然是一群颓废青年满美国乱兜，再中间穿插一点“生活真道理”的故事，浪漫得很。但中间主角跟一个姑娘互生爱意，决定成立家庭不久后，又因寒冬与生计而分道扬镳。这让我觉得不太对劲--这本书的真实好像是玩真格的。最后的结局也没让我失望：主角的好哥们狄恩长途跋涉几千公里赶到纽约，只为来看看自己。但他没钱和狄恩一起回旧金山，只能目送他在寒冷的纽约街头走去，身上穿着被虫子咬过的外套。其原型也在凯鲁亚克死前一个月，冻死在了墨西哥2月的铁道边上。其名曰尼尔卡赛迪。</p>
+<p></b></p>
+<span id="more"></span>
+<p><b></p>
+<p>这帮美国文青，在二战后切身感受到战争的惨绝人寰以及冷战的末日氛围，于是撒了疯地在美国大地上寻来找去，希望打破生活的沉寂，趁苏美扔核弹之前把这辈子好好过完。但很明显，凯鲁亚克和卡赛迪最终什么也没有寻得，破罐子破摔的命运依旧落回原处。而对我最具冲击力的，还是飙车爵士乐吸毒的主旋律与悲剧结尾的巨大反差，更会让人感到命运既定，哪吒都是扯屁。</p>
+<p>关于命定论，有一个概念能对其进行论证，叫“拉普拉斯的恶魔”：简单说，若任何事物的状态和运作规律都是已知，那么由于因果论，下一秒它们的状态就可以确定，下下一秒的也可以确定，进而我们的未来就都是确定的。举个例子：在这个理论下，你早饭吃了包子，不是因为你“想”，而是它由大脑的一束脑电波决定，甚至从宇宙大爆炸的那一刻起，这件事就是确定的--今天早上你吃的一定是包子，时间倒流回去也跑不掉。这样一解释，人的自由意志便自动散成一滩渣，都不用社会费老大劲来碾。这种状况，哲学家把它归为“后现代精神危机”。</p>
+<p>国内有张专辑（《冷水浇头》），内页写着这样的话：“在这一切均已被尝试，一切结局都可被观测的‘后’时代，我感到没有方向，无所适从，备受煎熬。”这算是种历史的创伤。三十年河东三十年河西，我们总能从历史里找到当今事件的翻版，进而对结果进行预测，通常会得出“这把死定了”的结论。除了杭天，草东也发出过“我想要说的/前人们都说过了”的感慨。而且如今互联网普及，社会阶层与年龄层的天然隔阂被打破，我们每个人都看到了不应该看到的东西，年纪轻轻就受困于大学毕业了有没有工作，工作能不能稳定到我退休等等。这样的恐惧持续渗透，于是更觉命运已定。</p>
+<p>人类不喜欢确定的未来，但仍对预测未来十分热衷。从原始社会<em>用星星和颧骨来预测命运</em>，到现在天气预报，股市预测，以及大部分的科学都是在干这事。但以我们目前的科技水平，足以被称作拉普拉斯的恶魔吗？我们从没有过准确预测未来的能力。我尽管认同因果律，认同命运是确定的，人类也不可能确定“这就是命运”，不可能明确命运的样貌。你说你觉得你考不上高中，考不进985，人生看不见明天--咱连明天下不下雨都不知道。没准明天阳光明媚晴空万里，你就看见明天了。</p>
+<p>结论已出：命运是确定的，但是人类不能确定命运。感谢上帝让我们的科学没那么发达，给我们的未来留下一点未知。其实人生活的大部分都是已知熟悉的，直到某一天突然一个未知出现，我们再去被迫地适应它，跳进新的已知之中。这样讲，人活着可能就是来探索命运的（有点浪漫，大可不信）。毕竟全部都是已知的生活无聊至极，我们总需要一些惊喜或惊吓；最终在病榻前看完自己命运的全貌，再回到我们来的地方去。地球online，名副其实也。</p>
+<p>在我能活到的年份里，我都不怕有科学家能准确预测未来，他们没这能耐，我未来也不会从事这种工作为之努力。如果有人不信邪，曲线救国，发明了通往未来的时光机器，我会第一个以反人类罪名将其绳之以法，当众枪决。</p>
+<b>
+<p align="right">
+作于2023年12月
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>读《呐喊》有感</title>
+    <url>/%E8%AF%BB%E5%90%8E%E6%84%9F/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p><b></p>
+<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
+<p></b></p>
+<span id="more"></span>
+<p><b></p>
+<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
+<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
+<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
+<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
+<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
+<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
+<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
+<b>
+<p align="right">
+作于2023年8月
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>读后感</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>谈谈迷墙里平克的法西斯式行为</title>
+    <url>/%E6%9D%82%E8%B0%88/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
+Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
+Like Hell”, ”Waiting For The Worms”等等。</p>
+<span id="more"></span>
+<p>Comfortably
+Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
+The
+Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>前卫摇滚</tag>
+      </tags>
   </entry>
   <entry>
     <title>Saxophone in 2050s</title>
@@ -3558,6 +3486,67 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>Moments</title>
+    <url>/%E6%96%87%E8%89%BA/Moments/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>Moments of happiness,</p>
+<p>Moments of dark.</p>
+<p>Moments of future,</p>
+<p>Everlasting remember.</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>Everything's going too fast,</p>
+<p>Fast like momentary frames in head.</p>
+<p>Utopia named Unconsciousness</p>
+<p>Is far too easy to get,</p>
+<p>While too hard to escape.</p>
+<hr />
+<p>Doubted in creating eternity,</p>
+<p>Leaving anything good in here.</p>
+<p>As for most common cases,</p>
+<p>Future unseen is already here.</p>
+<hr />
+<p>Desperate, anger, touching, fantasy,</p>
+<p>All washed away in the ease of a sleep.</p>
+<p>Remained only boredom and fear,</p>
+<p>And the endless compassion.</p>
+<hr />
+<p>Classify emotions up in piles,</p>
+<p>Consider life a collection of moments.</p>
+<p>Then forget about the do-ers,</p>
+<p>Enjoy your little plans and schemes,</p>
+<p>In the moment of all human race.</p>
+<hr />
+<p>Now tell me, what's eternity, happiness or sadness?</p>
+<p>What's contemporary, my life or the human race?</p>
+<p>Ah it's all moments, moments.</p>
+<hr />
+<p>There were once greats in the history,</p>
+<p>Like Kerouac killed signs, Curtis killed reality,</p>
+<p>Both killed by time.</p>
+<p>But they carved something on their tombstones,</p>
+<p>Which made time no longer fright.</p>
+<hr />
+<p>Goodbye all of you,</p>
+<p>Raise your words and acts.</p>
+<p align="right">
+作于2023年8-9月
+</p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>人类需要新青年</title>
     <url>/%E6%96%87%E8%89%BA/%E4%BA%BA%E7%B1%BB%E9%9C%80%E8%A6%81%E6%96%B0%E9%9D%92%E5%B9%B4/</url>
     <content><![CDATA[<b>
@@ -3597,62 +3586,101 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>他当了十秒钟的垮掉派</title>
-    <url>/%E6%96%87%E8%89%BA/%E4%BB%96%E5%BD%93%E4%BA%86%E5%8D%81%E7%A7%92%E9%92%9F%E7%9A%84%E5%9E%AE%E6%8E%89%E6%B4%BE/</url>
+    <title>21st Century Education Machine</title>
+    <url>/%E6%96%87%E8%89%BA/21st-Century-Education-Machine/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<p><b> <big></p>
-<p>（慢点读）</p>
-<p>一切都结束了</p>
-<p>他想</p>
+<b> <big>
+<center>
+<p>Hey you angels of wonders,</p>
+<p>Where have you been?</p>
+<p>Let me lead you to the path of happiness,</p>
+<p>Conversion towards formality.</p>
+<p>As my conjecture, your protectors advise,</p>
+<p>“Behave, like a 21st century education machine.”</p>
 <p></big> <span id="more"></span></p>
 <hr />
 <p><big></p>
-<p>仰望天花板</p>
-<p>转着椅子</p>
+<p>As you learn the fabulous poetry,</p>
+<p>We’ll teach ya the unshakable meanings.</p>
+<p>You’d better throw your thoughts away,</p>
+<p>Behave, like a 21st century education machine.</p>
 <hr />
-<p>为什么我的头上会有天花板</p>
-<p>他想</p>
+<p>We highly suggest you, to keep your heads in the game,</p>
+<p>Waiting for mighty vanity, to seep into your daily life.</p>
+<p>Hey young lad, why are you running away?</p>
+<p>See the winners on stage, sure you'll become one someday.</p>
+<p>Behave, like a 21st century education machine.</p>
 <hr />
-<p>出门转转吧</p>
-<hr />
-<p>他把一只脚跨出去</p>
-<p>看见天空</p>
-<p>白云</p>
-<p>花草</p>
-<p>等等等等</p>
-<p>感叹自然之美</p>
-<p>感觉自己天人合一</p>
-<p>抛弃了名字与身份</p>
-<hr />
-<p>这是一个</p>
-<p>美妙无比的时刻</p>
-<p>已然永恒</p>
-<hr />
-<p>好</p>
-<hr />
-<p>十秒钟过去了</p>
-<hr />
-<p>明天应该还是要六点钟起床的吧</p>
-<p>他想</p>
-<hr />
-<p>仰望天花板</p>
-<p>转着椅子</p>
-<hr />
-<p>他根本没有离开房间</p>
-<p>或许</p>
-<hr />
-<p>一切都结束了</p>
-<p>他想</p>
-<b>
+<p>Stuck in the solid building,</p>
+<p>Instilled sincere words of future.</p>
+<p>Once a glance out of the window,</p>
+<p>Still bricks and bricks and bricks.</p>
+<p>(You’re a solider. You don’t have to think. You have to obey
+orders.)</p>
+<p>Behave, like a soldier, a brave, a 21st century education
+machine.</p>
 <p align="right">
-作于2024年5月
+作于2022年11月
+</p>
+<p align="right">
+订于2023年7月
+</p>
+<p></b> </big></p>
+<hr />
+<h3 id="提醒自己一下"><strong>提醒自己一下</strong></h3>
+<p>如果要出版之类的，署名要写两个人名字（提前去问下gxy）</p>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>一次睡觉</title>
+    <url>/%E6%96%87%E8%89%BA/%E4%B8%80%E6%AC%A1%E7%9D%A1%E8%A7%89/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
 </p>
 <p></b></p>
-<p></b> </big></p>
+<b> <big>
+<center>
+<p>我选了一个姿势</p>
+<p>脸朝右地睡</p>
+<p>但胳膊好像压到了心脏</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>我知道自己一定会在某个时候转过去面向左侧</p>
+<p>因为我这样压迫到了心脏</p>
+<p>但我没有</p>
+<p>我想先以这个姿势培养睡意</p>
+<hr />
+<p>早上喝了咖啡 所以现在睡不着也是正常的</p>
+<p>楼上为什么这么吵</p>
+<p>我要集中全部力量用来睡觉</p>
+<p>我于是绷紧了身体</p>
+<hr />
+<p>也许这就是思想太活跃的情况</p>
+<p>在这种时候想到爱情</p>
+<p>但其实也没有关系了</p>
+<p>这就像是一个庄严的仪式</p>
+<hr />
+<p>一二三四五</p>
+<p>六七八九十</p>
+<p>十一十二十三</p>
+<p>十六十九二十</p>
+<b>
+<p align="right">
+作于2024年4月
+</p>
+<p></b></p>
+</b> </big>
+</center>
 ]]></content>
       <categories>
         <category>文艺</category>
@@ -3702,6 +3730,122 @@ XantC
 <b>
 <p align="right">
 作于2024年2月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>唯物主义哲学</title>
+    <url>/%E6%96%87%E8%89%BA/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>伟人 每个时代都有</p>
+<p>除了自己所在的时代</p>
+<p>每个时代都有敬仰的伟人</p>
+<p>但没有一个时代敬仰真正的人</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>厨房的肥皂裂成两半</p>
+<p>门前的大路修了半年</p>
+<p>城市的高楼一片荒芜</p>
+<p>塑料袋里的纸花一提就走</p>
+<hr />
+<p>劳工奴隶不值得怜悯</p>
+<p>因为生产关系适应生产力</p>
+<hr />
+<p>社会的希望在青年的身上</p>
+<p>青年的希望在更年轻的身上</p>
+<p>我这时代的伟人都在哪呢</p>
+<p>新时代的人血馒头赞美鲁迅</p>
+<hr />
+<p>咖啡店的白发老头神情淡漠</p>
+<p>吱呀呀地盯着桌子上的手机</p>
+<p>旁边那人朝着哪儿看呢</p>
+<p>菜单 大街 还是天空</p>
+<hr />
+<p>天上从没有过飞鸟</p>
+<p>因为没有人抬头向上望</p>
+<p>唯物没给唯心留地方</p>
+<p>因为没有人抬头向上望</p>
+<b>
+<p align="right">
+作于2023年11月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>他当了十秒钟的垮掉派</title>
+    <url>/%E6%96%87%E8%89%BA/%E4%BB%96%E5%BD%93%E4%BA%86%E5%8D%81%E7%A7%92%E9%92%9F%E7%9A%84%E5%9E%AE%E6%8E%89%E6%B4%BE/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>（慢点读）</p>
+<p>一切都结束了</p>
+<p>他想</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>仰望天花板</p>
+<p>转着椅子</p>
+<hr />
+<p>为什么我的头上会有天花板</p>
+<p>他想</p>
+<hr />
+<p>出门转转吧</p>
+<hr />
+<p>他把一只脚跨出去</p>
+<p>看见天空</p>
+<p>白云</p>
+<p>花草</p>
+<p>等等等等</p>
+<p>感叹自然之美</p>
+<p>感觉自己天人合一</p>
+<p>抛弃了名字与身份</p>
+<hr />
+<p>这是一个</p>
+<p>美妙到虚无的时刻</p>
+<hr />
+<p>嗯--！</p>
+<hr />
+<p>好</p>
+<hr />
+<p>十秒钟过去了</p>
+<hr />
+<p>明天应该还是要六点钟起床的吧</p>
+<p>他想</p>
+<hr />
+<p>仰望天花板</p>
+<p>转着椅子</p>
+<hr />
+<p>他根本没有离开房间</p>
+<p>或许</p>
+<hr />
+<p>一切都结束了</p>
+<p>他想</p>
+<b>
+<p align="right">
+作于2024年5月
 </p>
 <p></b></p>
 </b> </big>
@@ -3790,64 +3934,13 @@ XantC
 <p>一个上面写着君民鱼水情</p>
 <hr />
 <p>狂人们从泥巴里跳出来</p>
-<p>痛骂天花板和趴在上面的诗人们</p>
+<p>痛骂趴在天花板上的诗人们</p>
 <p>这是我们最伟岸的反抗</p>
 <p>对脏话的尽情选择</p>
 <p>就是我们最大的自由</p>
 <b>
 <p align="right">
 作于2024年5月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>唯物主义哲学</title>
-    <url>/%E6%96%87%E8%89%BA/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>伟人 每个时代都有</p>
-<p>除了自己所在的时代</p>
-<p>每个时代都有敬仰的伟人</p>
-<p>但没有一个时代敬仰真正的人</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>厨房的肥皂裂成两半</p>
-<p>门前的大路修了半年</p>
-<p>城市的高楼一片荒芜</p>
-<p>塑料袋里的纸花一提就走</p>
-<hr />
-<p>劳工奴隶不值得怜悯</p>
-<p>因为生产关系适应生产力</p>
-<hr />
-<p>社会的希望在青年的身上</p>
-<p>青年的希望在更年轻的身上</p>
-<p>我这时代的伟人都在哪呢</p>
-<p>新时代的人血馒头赞美鲁迅</p>
-<hr />
-<p>咖啡店的白发老头神情淡漠</p>
-<p>吱呀呀地盯着桌子上的手机</p>
-<p>旁边那人朝着哪儿看呢</p>
-<p>菜单 大街 还是天空</p>
-<hr />
-<p>天上从没有过飞鸟</p>
-<p>因为没有人抬头向上望</p>
-<p>唯物没给唯心留地方</p>
-<p>因为没有人抬头向上望</p>
-<b>
-<p align="right">
-作于2023年11月
 </p>
 <p></b></p>
 </b> </big>
@@ -3870,8 +3963,7 @@ XantC
 <p>我是一个每周单休的十五岁童工</p>
 <p>每天只能看见棕黄发黑的天空</p>
 <p>它湛蓝的时候 我在哪呢</p>
-<p>我想活到大航海时代</p>
-<p>我想去大海上看看</p>
+<p>我想去海上看看</p>
 <p>到时我的头上脚下 都会是蓝的</p>
 <p></big> <span id="more"></span></p>
 <hr />
@@ -3881,7 +3973,7 @@ XantC
 <p>我们不用再每天担心煤炭</p>
 <p>不用每天购买水果和蔬菜</p>
 <hr />
-<p>妈妈啊 我昨天晚上做了一个梦</p>
+<p>妈啊 我昨天晚上做了一个梦</p>
 <p>我梦见亚特兰蒂斯人骑着恐龙打斗</p>
 <hr />
 <p>可是妈妈</p>
@@ -4042,51 +4134,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>悬在风里</title>
-    <url>/%E6%96%87%E8%89%BA/%E6%82%AC%E5%9C%A8%E9%A3%8E%E9%87%8C/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>血把骨头泡软</p>
-<p>我们就此悬在风里</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我不知道明天 脑袋里会想点什么</p>
-<p>全看早上耳机里放的是什么歌</p>
-<p>无所事事的不倒翁</p>
-<p>风一吹就倒 不要</p>
-<hr />
-<p>一阵风吹来</p>
-<p>我们抱着过去 哆哆嗦嗦</p>
-<p>一阵风吹去</p>
-<p>我们抱着未来 焦虑无奈</p>
-<hr />
-<p>现实被丢在风雨里痛哭</p>
-<p>今天和明天没有空隙</p>
-<p>能给自己和他们做点什么</p>
-<p>加油加油上帝保佑</p>
-<hr />
-<p>我看见一个诗人 腿陷在泥地里</p>
-<p>嘴里吐出比春风还软的话语</p>
-<p>加油 加油 上帝保佑</p>
-<b>
-<p align="right">
-作于2024年1月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
     <title>就往下一步</title>
     <url>/%E6%96%87%E8%89%BA/%E5%B0%B1%E5%BE%80%E4%B8%8B%E4%B8%80%E6%AD%A5/</url>
     <content><![CDATA[<b>
@@ -4138,6 +4185,51 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>悬在风里</title>
+    <url>/%E6%96%87%E8%89%BA/%E6%82%AC%E5%9C%A8%E9%A3%8E%E9%87%8C/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>血把骨头泡软</p>
+<p>我们就此悬在风里</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>我不知道明天 脑袋里会想点什么</p>
+<p>全看早上耳机里放的是什么歌</p>
+<p>无所事事的不倒翁</p>
+<p>风一吹就倒 不要</p>
+<hr />
+<p>一阵风吹来</p>
+<p>我们抱着过去 哆哆嗦嗦</p>
+<p>一阵风吹去</p>
+<p>我们抱着未来 焦虑无奈</p>
+<hr />
+<p>现实被丢在风雨里痛哭</p>
+<p>今天和明天没有空隙</p>
+<p>能给自己和他们做点什么</p>
+<p>加油加油上帝保佑</p>
+<hr />
+<p>我看见一个诗人 腿陷在泥地里</p>
+<p>嘴里吐出比春风还软的话语</p>
+<p>加油 加油 上帝保佑</p>
+<b>
+<p align="right">
+作于2024年1月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>感谢大家为社会主义事业做出的卓越贡献</title>
     <url>/%E6%96%87%E8%89%BA/%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E4%B8%BA%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E4%BA%8B%E4%B8%9A%E5%81%9A%E5%87%BA%E7%9A%84%E5%8D%93%E8%B6%8A%E8%B4%A1%E7%8C%AE/</url>
     <content><![CDATA[<b>
@@ -4149,13 +4241,13 @@ XantC
 <center>
 <p>这件事情刚被发明的时候</p>
 <p>是作为从资本到共产的过渡出现</p>
-<p>所谓过渡嘛</p>
+<p>所谓过渡</p>
 <p>就是很多东西会不自觉地糅合到一起</p>
 <p>比泥巴还可悲地变成一个四不像</p>
 <p></big> <span id="more"></span></p>
 <hr />
 <p><big></p>
-<p>阶级的本质是职业</p>
+<p>职业是阶级的本质</p>
 <p>等到时机成熟的那一天</p>
 <p>我们都会成为打工家</p>
 <p>把全身心投身于物质的新陈代谢</p>
@@ -4571,7 +4663,7 @@ XantC
 <p><big></p>
 <p>你善于用一句话来杀死</p>
 <p>两百行来建构的一切</p>
-<p>你想单用一只手捏碎一片天空</p>
+<p>你用一只手就可以捏碎一片天空</p>
 <p>让雨像玻璃渣一样落下</p>
 <p>满片殷红</p>
 <hr />
@@ -4580,6 +4672,9 @@ XantC
 <p>它让你的天空变得一只手就可以捏碎</p>
 <p>让你的心灵忧愁得可以一手捏碎</p>
 <hr />
+<p>然后</p>
+<p>就下起雨来</p>
+<hr />
 <p>你有一个名字</p>
 <hr />
 <p>你说你喜欢随便写点东西</p>
@@ -4587,8 +4682,6 @@ XantC
 <hr />
 <p>五条一样颜色的短裤</p>
 <p>和一瓶感冒药</p>
-<p>刷新在篷伞上的那只猫就是你</p>
-<p>你就是那只猫</p>
 <b>
 <p align="right">
 作于2024年4月
@@ -4623,9 +4716,8 @@ XantC
 <p>从四楼向下望</p>
 <hr />
 <p>这里是长宁</p>
-<p>中国的上海</p>
 <p>这里有打篮球的物理老师</p>
-<p>和从朝鲜来的颓废派作家</p>
+<p>朝鲜来的颓废派作家</p>
 <p>这里有夕阳下追赶公交车的男孩</p>
 <p>和追赶男孩的妈妈</p>
 <hr />
@@ -4662,6 +4754,33 @@ XantC
 ]]></content>
       <categories>
         <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>场与势函数</title>
+    <url>/%E7%89%A9%E7%90%86/%E5%9C%BA%E4%B8%8E%E5%8A%BF%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>这篇可能有问题，但先放在这里</p>
+<p>改写成只关于静电场的案例</p>
+<span id="more"></span>
+<p><span class="math display">\[
+在这种有势函数的讨论环境下，场都是向量场，也就是一个向量值函数
+\]</span></p>
+<p><span class="math display">\[
+设场为\boldsymbol{A}=(P,Q)，势函数为f(x,y) \]</span></p>
+<p><span class="math display">\[
+场有势\iff场上做功与路径无关\iff曲线积分与路径无关\iff
+\boldsymbol{A}=\nabla f，此处f即为势函数 \]</span></p>
+<p><span class="math display">\[ \therefore
+从逻辑上，是先有场函数，再把对应势函数求出来；但把势函数画出来之后，可以清晰看出“势”的感觉
+\]</span></p>
+]]></content>
+      <categories>
+        <category>物理</category>
       </categories>
   </entry>
   <entry>
@@ -4706,24 +4825,90 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>伊乔打篮球</title>
-    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E4%BC%8A%E4%B9%94%E6%89%93%E7%AF%AE%E7%90%83/</url>
-    <content><![CDATA[<p><b></p>
-<p>伊乔者，初中足球少将也。既入高中黄旗班，改行篮球，与天涯、炭锑（csb）等诸位共乐。</p>
-<span id="more"></span>
-<p>伊始，伊乔甚弱，打板之技之出于法治甚远，且善空中折叠，十者中一许也。常三分，“向着夕阳”云云出于口，打板后便入天涯之手。众笑之。</p>
-<p>伊乔尝与梁一队，合攻天、炭及姜。梁便曰：“呜呼！不愿此队友！”而天涯则喜，视其为盟。炭锑亦大呼：“稳也稳也！”实则三对二为四对一乎。伊乔之弱，可知矣。</p>
-<p>然今时之伊乔，非旧日然也。一金曜日（星期五）大败天涯后，便痛定思痛，彻夜未眠，思索投篮之技，且颇有成效。现引某次“三滴血”为例。当日，炭择某地以行三分之术，另天涯之讽于一旁，即进。后者乃伊乔，亦进也，顺风疾呼：“吾非上金耀之我也！”后梁亦进，而天涯败之，遂出局。</p>
-<p>此次三滴血，当溃天涯之不败神话，乃黄旗班之奇迹。然伊乔负滚雪球之责，功当为首。伊乔者，大器晚成也。其平日打板之进亦显此论。</p>
-<b>
+    <title>陋室</title>
+    <url>/%E6%96%87%E8%89%BA/%E9%99%8B%E5%AE%A4/</url>
+    <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
+<b> <big>
+<center>
+<ol type="1">
+<li></li>
+</ol>
+<p>在我比较小的时候</p>
+<p>大概是在读小学或者幼儿园</p>
+<p>有一个暑假</p>
+<p>我爸妈会每天把我带到另一个公寓住一个晚上</p>
+<p>第二天早上回来</p>
+<p>晚上再去那里睡觉</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>这个传统现在想来比较奇怪</p>
+<p>但比较好的一点是</p>
+<p>我能够经常到大楼外面</p>
+<p>出门左转的一家汤包馆吃早饭</p>
+<hr />
+<p>那家店叫陋室汤包馆</p>
+<p>虽然汤包的肉并没有多少</p>
+<p>但面皮很软 汁水足</p>
+<p>对一个小孩子也是很诱人的了</p>
+<p>这也奠定了我今后鉴赏此类产品的标准</p>
+<p>比如“小杨生煎就是比丰裕好”</p>
+<hr />
+<p>我那时候对汤包有一个特色吃法</p>
+<p>就是把它的汤留下倒进碟子里</p>
+<p>先吃肉和面皮</p>
+<p>最后再把八个汤包的汤一起喝下去</p>
+<p>我对这个吃法津津乐道</p>
+<p>这跟啃鸡翅先啃哪一边</p>
+<p>上楼梯先抬哪只脚有着异曲同工之妙</p>
+<hr />
+<p>当时店里的一个大叔员工或者老板</p>
+<p>看我把这么一碟子汤喝下去</p>
+<p>就笑着说</p>
+<p>这么小的孩子竟然会喝醋</p>
+<p>然后我妈笑着说</p>
+<p>这不是醋啊</p>
+<p>这是汤</p>
+<hr />
+<p>这种时刻</p>
+<p>需要另一个恰到好处的时刻来感受它</p>
+<p>然后</p>
+<p>就完了</p>
+<hr />
+<ol start="2" type="1">
+<li></li>
+</ol>
+<p>之后应该就是初中了</p>
+<p>我有一次路过武夷路</p>
+<p>发现陋室已经被拆掉</p>
+<p>变成一家面馆还是什么的</p>
+<p>过了一年左右</p>
+<p>它又变成了一个吃牛蛙锅的地方</p>
+<p>之后它一直变来变去</p>
+<p>新店都存活的不久</p>
+<p>最近又变成了一家手擀面</p>
+<p>我妈说味道还不错</p>
+<hr />
+<ol start="3" type="1">
+<li></li>
+</ol>
+<p>就先把这个时刻放在这里</p>
+<hr />
+<p>就这样慢慢下去吧</p>
+<b>
+<p align="right">
+作于2024年4月
+</p>
 <p></b></p>
+</b> </big>
+</center>
 ]]></content>
       <categories>
-        <category>黄旗班史</category>
+        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -4792,89 +4977,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>陋室</title>
-    <url>/%E6%96%87%E8%89%BA/%E9%99%8B%E5%AE%A4/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<ol type="1">
-<li></li>
-</ol>
-<p>在我比较小的时候</p>
-<p>大概是在读小学低年级或者幼儿园</p>
-<p>有一个暑假</p>
-<p>我爸妈会每天把我带到另一个公寓住一个晚上</p>
-<p>第二天早上回来</p>
-<p>晚上再去那里睡觉</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>这个传统现在想来比较奇怪</p>
-<p>但比较好的一点是</p>
-<p>我能够经常到公寓外面</p>
-<p>出门左转的一家汤包馆吃早饭</p>
-<hr />
-<p>那家店叫陋室汤包馆</p>
-<p>虽然汤包的肉并没有多少</p>
-<p>但面皮很软 汁水足</p>
-<p>对小孩子也是很诱人的</p>
-<hr />
-<p>我那时候对汤包有一个特色吃法</p>
-<p>就是把它的汤留下倒进碟子里</p>
-<p>先吃肉和面皮</p>
-<p>最后再把八个汤包的汤一起喝下去</p>
-<p>我对这个吃法津津乐道</p>
-<p>这跟啃鸡翅先啃哪一边</p>
-<p>上楼梯先抬哪只脚有着异曲同工之妙</p>
-<hr />
-<p>当时店里的一个大叔员工或者老板</p>
-<p>看我把这么一碟子汤喝下去</p>
-<p>就笑着说</p>
-<p>这么小的孩子竟然会喝醋</p>
-<p>然后我妈笑着说</p>
-<p>这不是醋啊</p>
-<p>这是汤</p>
-<hr />
-<p>这种时刻</p>
-<p>需要另一个恰到好处的时刻来感受它</p>
-<p>然后</p>
-<p>就完了</p>
-<hr />
-<ol start="2" type="1">
-<li></li>
-</ol>
-<p>之后应该就是初中了</p>
-<p>我有一次路过武夷路</p>
-<p>发现陋室已经被拆掉</p>
-<p>变成一家面馆还是什么的</p>
-<p>过了一年左右</p>
-<p>它又变成了一个吃牛蛙锅的地方</p>
-<p>之后它一直变来变去</p>
-<p>新店都存活得不久</p>
-<p>最近又变成了一家手擀面</p>
-<p>我妈说味道还不错</p>
-<hr />
-<p>总之这又是一段</p>
-<p>把自己的童年镶上了金的回忆</p>
-<p>当我那时并不自知我的状态</p>
-<p>至少我现在开始了</p>
-<b>
-<p align="right">
-作于2024年4月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
     <title>天涯前传</title>
     <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E5%A4%A9%E6%B6%AF%E5%89%8D%E4%BC%A0/</url>
     <content><![CDATA[<p><b></p>
@@ -4900,6 +5002,72 @@ XantC
 ]]></content>
       <categories>
         <category>黄旗班史</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>伊乔打篮球</title>
+    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E4%BC%8A%E4%B9%94%E6%89%93%E7%AF%AE%E7%90%83/</url>
+    <content><![CDATA[<p><b></p>
+<p>伊乔者，初中足球少将也。既入高中黄旗班，改行篮球，与天涯、炭锑（csb）等诸位共乐。</p>
+<span id="more"></span>
+<p>伊始，伊乔甚弱，打板之技之出于法治甚远，且善空中折叠，十者中一许也。常三分，“向着夕阳”云云出于口，打板后便入天涯之手。众笑之。</p>
+<p>伊乔尝与梁一队，合攻天、炭及姜。梁便曰：“呜呼！不愿此队友！”而天涯则喜，视其为盟。炭锑亦大呼：“稳也稳也！”实则三对二为四对一乎。伊乔之弱，可知矣。</p>
+<p>然今时之伊乔，非旧日然也。一金曜日（星期五）大败天涯后，便痛定思痛，彻夜未眠，思索投篮之技，且颇有成效。现引某次“三滴血”为例。当日，炭择某地以行三分之术，另天涯之讽于一旁，即进。后者乃伊乔，亦进也，顺风疾呼：“吾非上金耀之我也！”后梁亦进，而天涯败之，遂出局。</p>
+<p>此次三滴血，当溃天涯之不败神话，乃黄旗班之奇迹。然伊乔负滚雪球之责，功当为首。伊乔者，大器晚成也。其平日打板之进亦显此论。</p>
+<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>黄旗班史</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>解析力学案例</title>
+    <url>/%E7%89%A9%E7%90%86/%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6%E6%A1%88%E4%BE%8B/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3
+id="与速度垂直的力只改变其速度方向">与速度垂直的力只改变其速度方向</h3>
+<p><span class="math display">\[ 令\boldsymbol{v}_0=(v_{0x},
+v_{0y}),\;\boldsymbol{v}=(\varphi, \psi) \]</span></p>
+<span id="more"></span>
+<p><span class="math display">\[ 则
+\boldsymbol{F}=k(-\psi,\varphi),其中k为随t变化的常数 \]</span></p>
+<p><span class="math display">\[
+\boldsymbol{v^{&#39;}}=\boldsymbol{a}=\frac{k}{m}(-\psi,\varphi)=(\varphi^{&#39;},
+\psi^{&#39;}) \]</span></p>
+<p><span class="math display">\[ \Rightarrow \begin{cases}
+    \displaystyle\varphi^{&#39;}=-\frac{k}{m}\psi\\
+    \displaystyle\psi^{&#39;}=\frac{k}{m}\varphi\\
+\end{cases}\Rightarrow\begin{cases}
+    \displaystyle\varphi=-A\sin\frac{k}{m}t+B\cos\frac{k}{m}t\\
+    \displaystyle\psi=A\cos\frac{k}{m}t+B\sin\frac{k}{m}t
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \because v\, \bigg |_{t=0}=(v_{0x},
+v_{0y}) \]</span></p>
+<p><span class="math display">\[ \therefore A=v_{0y},\;B=v_{0x}
+\]</span></p>
+<p><span class="math display">\[ \therefore
+|\boldsymbol{v}|=\sqrt{\varphi^2+\psi^2}=\sqrt{A^2+B^2}=\sqrt{\boldsymbol{v}_{0x}^2+\boldsymbol{v}_{0y}^2}=|\boldsymbol{v}_0|
+\]</span></p>
+<h3 id="计算向心加速度大小">计算向心加速度大小</h3>
+<p><span class="math display">\[ \boldsymbol{s}=(r\cos\omega t,
+r\sin\omega t) \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\boldsymbol{a}=(-r\omega^2\cos\omega t, -r\omega^2\sin\omega t)
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow |\boldsymbol{a}|=r\omega^2
+\]</span></p>
+]]></content>
+      <categories>
+        <category>物理</category>
       </categories>
   </entry>
   <entry>
