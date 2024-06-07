@@ -1,68 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>你会怎么办</title>
-    <url>/%E4%BD%A0%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8A%9E/</url>
+    <title>升国旗奏国歌</title>
+    <url>/%E5%8D%87%E5%9B%BD%E6%97%97%E5%A5%8F%E5%9B%BD%E6%AD%8C/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<b> <big>
-<center>
-<p>你会怎么办</p>
-<p>如果看见自己浸泡在夕阳下橙色的风浪</p>
-<p>看见小颗粒物漫天飞舞无处不在</p>
-<p>看见一只猫趴在阳伞上伸懒腰</p>
-<p>看见一个工人扛着鱼竿走过</p>
-<p>如果有一天你突然又感受不到这些了</p>
-<p>不管是因为什么</p>
-<p>你会怎么办</p>
-<p></big> <span id="more"></span></p>
-<p><big></p>
-<p>看见一个驼背老人</p>
-<p>向他多看几眼以表悲悯</p>
-<p>他就突然直起背来</p>
-<p>你会怎么样</p>
-<p>感到沉下游泳池底的空虚吗</p>
-<p>稍微扑腾一下就又回来了</p>
-<p>或者突然有一天</p>
-<p>你瞎了</p>
-<p>聋了</p>
-<p>坐上轮椅</p>
-<p>你又会怎么办</p>
-<hr />
-<p>人的痛苦和欢乐应该一起来到一起离开</p>
-<p>就像包办婚姻的爱人那样</p>
-<p>不情愿又不得已</p>
 <b>
 <p align="right">
-作于2024年5月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>嗯</title>
-    <url>/%E5%97%AF/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>不要搞了</p>
-<p>每人每月三千块</p>
-<p>饿死算数</p>
-<b>
-<p align="right">
-作于2024年5月
+作于2024年6月
 </p>
 <p></b></p>
 </b> </big>
@@ -94,7 +42,7 @@ XantC
 <p>都是诗人</p>
 <p>不管是天文学家</p>
 <p>还是清澈的孩子</p>
-<p>用易拉罐搭出巴别塔</p>
+<p>用易拉罐搭七巴别塔</p>
 <p>都是诗人</p>
 <b>
 <p align="right">
@@ -194,127 +142,17 @@ class="math inline">\(\widetilde{q}(\widetilde{x}, \widetilde{y},
 \widetilde{z})=(\vec{a}+\boldsymbol{A}(x,y,z))\begin{pmatrix}  \boldsymbol{i}
 \\  \boldsymbol{j} \\  \boldsymbol{k} \end{pmatrix}\)</span></p>
 <h3 id="向量几何定理">向量几何定理</h3>
+<ol type="1">
+<li><p>长度不变</p></li>
+<li><p>方向不变</p></li>
+<li><p>与固定方向垂直</p></li>
+</ol>
 <h3 id="曲线弧长">曲线弧长</h3>
 <h3 id="frenet标架">Frenet标架</h3>
 <h3 id="曲线论基本定理">曲线论基本定理</h3>
 ]]></content>
       <categories>
         <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>城市歌谣</title>
-    <url>/%E6%AD%8C%E8%B0%A3/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>又起来了</p>
-<p>人们</p>
-<p>太阳已然升起</p>
-<p>靠着云彩</p>
-<p>面向宇宙晒太阳</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>但是没有什么人</p>
-<p>看到太阳这样悠闲</p>
-<p>大街上行走的挖掘机</p>
-<p>三三两两聚集的情侣</p>
-<p>都有自己的事情要忙</p>
-<hr />
-<p>他们一个一个走着</p>
-<p>有的坐上公交地铁</p>
-<p>在平行移动的铁盒子里</p>
-<p>和手上的盒子一起做着冥想</p>
-<p>几秒钟的功夫</p>
-<p>他们来到工地上</p>
-<p>大楼里</p>
-<p>和纸张石头结伴</p>
-<p>继续做着冥想</p>
-<hr />
-<p>什么都没有想</p>
-<p>最好的冥想就是没有意识自己在冥想</p>
-<hr />
-<p>天空有的时候</p>
-<p>从这一头到那一头</p>
-<p>都是掺着一点灰色的白</p>
-<p>可能混上一点湿气</p>
-<hr />
-<p>一无所有的天空</p>
-<p>白色还是比蓝色更好</p>
-<hr />
-<p>抬头看天的时候</p>
-<p>一个人静静呆坐的时候</p>
-<p>闭上眼睛</p>
-<p>只用呼吸感受世界的时候</p>
-<p>血流好似静止</p>
-<p>或者仅用一个疲惫的身体和活跃的大脑</p>
-<p>就可以拥抱这一团虚无</p>
-<p>摸不到它</p>
-<p>永远地抱着</p>
-<p>不管物质怎样来来去去</p>
-<p>它就在那里</p>
-<p>它是一切事物的源头</p>
-<hr />
-<p>你的眼神就是你的武器</p>
-<p>你的眼神就是你的逃避</p>
-<p>向一个乞丐多看几眼表达悲悯</p>
-<p>向天空多看几眼表达欣赏</p>
-<p>那乞丐便有了一百万</p>
-<p>天空便会从中间荡开</p>
-<p>出现一道金灿灿的</p>
-<hr />
-<hr />
-<p>你或许应该</p>
-<p>戴上一副墨镜</p>
-<b>
-<p align="right">
-作于2024年5月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>自导自演</title>
-    <url>/%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>从这首诗歌中</p>
-<p>我们能够看出作者对社会的思考</p>
-<p>对现代社会中人的异化的不满</p>
-<p></big> <span id="more"></span></p>
-<p><big></p>
-<p>对传统诗歌形式的摒弃</p>
-<p>对自己才华入了土或从未出过土的无奈</p>
-<p>对昨天在床上想到的和今天在公交车上想到的句子的混合</p>
-<p>对人们为什么要为了那么一点物质拼死拼活的找不着边的不解与愤怒</p>
-<p>对中文诗歌一行为什么只能写这么短的批驳</p>
-<p>最终构建出了伟大的自指</p>
-<p>乐一乐吧</p>
-<b>
-<p align="right">
-作于2024年5月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
       </categories>
   </entry>
   <entry>
@@ -335,126 +173,6 @@ XantC
 ]]></content>
       <categories>
         <category>Unity2D</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.8.1</title>
-    <url>/%E6%97%A5%E8%AE%B0/2023-8-1/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我今天才明白，《一块红布》是个永恒的东西。</p>
-<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
-<b>
-<p align="right">
-作于2023.8.1
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.9.12</title>
-    <url>/%E6%97%A5%E8%AE%B0/2023-9-12/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>听了杭天给迪伦的致敬</p>
-<p>Tomorrow is a long time.</p>
-<b>
-<p align="right">
-作于2023.9.12
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>场与势函数</title>
-    <url>/%E7%89%A9%E7%90%86/%E5%9C%BA%E4%B8%8E%E5%8A%BF%E5%87%BD%E6%95%B0/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>这篇可能有问题，但先放在这里</p>
-<p>改写成只关于静电场的案例</p>
-<span id="more"></span>
-<p><span class="math display">\[
-在这种有势函数的讨论环境下，场都是向量场，也就是一个向量值函数
-\]</span></p>
-<p><span class="math display">\[
-设场为\boldsymbol{A}=(P,Q)，势函数为f(x,y) \]</span></p>
-<p><span class="math display">\[
-场有势\iff场上做功与路径无关\iff曲线积分与路径无关\iff
-\boldsymbol{A}=\nabla f，此处f即为势函数 \]</span></p>
-<p><span class="math display">\[ \therefore
-从逻辑上，是先有场函数，再把对应势函数求出来；但把势函数画出来之后，可以清晰看出“势”的感觉
-\]</span></p>
-]]></content>
-      <categories>
-        <category>物理</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>解析力学案例</title>
-    <url>/%E7%89%A9%E7%90%86/%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6%E6%A1%88%E4%BE%8B/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3
-id="与速度垂直的力只改变其速度方向">与速度垂直的力只改变其速度方向</h3>
-<p><span class="math display">\[ 令\boldsymbol{v}_0=(v_{0x},
-v_{0y}),\;\boldsymbol{v}=(\varphi, \psi) \]</span></p>
-<span id="more"></span>
-<p><span class="math display">\[ 则
-\boldsymbol{F}=k(-\psi,\varphi),其中k为随t变化的常数 \]</span></p>
-<p><span class="math display">\[
-\boldsymbol{v^{&#39;}}=\boldsymbol{a}=\frac{k}{m}(-\psi,\varphi)=(\varphi^{&#39;},
-\psi^{&#39;}) \]</span></p>
-<p><span class="math display">\[ \Rightarrow \begin{cases}
-    \displaystyle\varphi^{&#39;}=-\frac{k}{m}\psi\\
-    \displaystyle\psi^{&#39;}=\frac{k}{m}\varphi\\
-\end{cases}\Rightarrow\begin{cases}
-    \displaystyle\varphi=-A\sin\frac{k}{m}t+B\cos\frac{k}{m}t\\
-    \displaystyle\psi=A\cos\frac{k}{m}t+B\sin\frac{k}{m}t
-\end{cases} \]</span></p>
-<p><span class="math display">\[ \because v\, \bigg |_{t=0}=(v_{0x},
-v_{0y}) \]</span></p>
-<p><span class="math display">\[ \therefore A=v_{0y},\;B=v_{0x}
-\]</span></p>
-<p><span class="math display">\[ \therefore
-|\boldsymbol{v}|=\sqrt{\varphi^2+\psi^2}=\sqrt{A^2+B^2}=\sqrt{\boldsymbol{v}_{0x}^2+\boldsymbol{v}_{0y}^2}=|\boldsymbol{v}_0|
-\]</span></p>
-<h3 id="计算向心加速度大小">计算向心加速度大小</h3>
-<p><span class="math display">\[ \boldsymbol{s}=(r\cos\omega t,
-r\sin\omega t) \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\boldsymbol{a}=(-r\omega^2\cos\omega t, -r\omega^2\sin\omega t)
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow |\boldsymbol{a}|=r\omega^2
-\]</span></p>
-]]></content>
-      <categories>
-        <category>物理</category>
       </categories>
   </entry>
   <entry>
@@ -505,6 +223,44 @@ XantC
       </tags>
   </entry>
   <entry>
+    <title>一些积分</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E4%B8%80%E4%BA%9B%E7%A7%AF%E5%88%86/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="目录">目录</h3>
+<p><a
+href="#分母为二次式或根号下二次式">分母为二次式或根号下二次式</a></p>
+<span id="more"></span>
+<h3 id="分母为二次式或根号下二次式">分母为二次式或根号下二次式</h3>
+<h4 id="思路">思路</h4>
+<p><span class="math display">\[ 把x代入为某个三角或双曲函数
+\]</span></p>
+<h4 id="二次式">二次式</h4>
+<p><span class="math display">\[
+\int\frac{1}{x^2+a^2}\mathrm{d}x=\frac{1}{a}\arctan(\frac{x}{a})+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{x^2-a^2}\mathrm{d}x=\frac{1}{2a}\ln|\frac{x+a}{x-a}|+\mathrm{C}
+\]</span></p>
+<h4 id="根号下二次式">根号下二次式</h4>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{a^2-x^2}}\mathrm{d}x=\arcsin(\frac{x}{a})+\mathrm{C}
+\enspace(|x|&lt;a) \]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{a^2+x^2}}\mathrm{d}x=\mathrm{arsinh}(\frac{x}{a})+\mathrm{C}
+\]</span></p>
+<p><span class="math display">\[
+\int\frac{1}{\sqrt{x^2-a^2}}\mathrm{d}x=\mathrm{arcosh}(\frac{x}{a})+\mathrm{C}\enspace(x&gt;a)
+\]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
     <title>谈《孤独的人是可耻的》</title>
     <url>/%E5%90%AC%E5%90%8E%E6%84%9F/%E8%B0%88%E3%80%8A%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84%E3%80%8B/</url>
     <content><![CDATA[<b>
@@ -545,102 +301,6 @@ XantC
       <tags>
         <tag>中国摇滚乐</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>论“命定”</title>
-    <url>/%E6%9D%82%E8%B0%88/%E8%AE%BA%E2%80%9C%E5%91%BD%E5%AE%9A%E2%80%9D/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p><b></p>
-<p>最近读完了杰克凯鲁亚克的《在路上》。这毕竟是垮掉一代的代表作品，读之前的印象自然是一群颓废青年满美国乱兜，再中间穿插一点“生活真道理”的故事，浪漫得很。但中间主角跟一个姑娘互生爱意，决定成立家庭不久后，又因寒冬与生计而分道扬镳。这让我觉得不太对劲--这本书的真实好像是玩真格的。最后的结局也没让我失望：主角的好哥们狄恩长途跋涉几千公里赶到纽约，只为来看看自己。但他没钱和狄恩一起回旧金山，只能目送他在寒冷的纽约街头走去，身上穿着被虫子咬过的外套。其原型也在凯鲁亚克死前一个月，冻死在了墨西哥2月的铁道边上。其名曰尼尔卡赛迪。</p>
-<p></b></p>
-<span id="more"></span>
-<p><b></p>
-<p>这帮美国文青，在二战后切身感受到战争的惨绝人寰以及冷战的末日氛围，于是撒了疯地在美国大地上寻来找去，希望打破生活的沉寂，趁苏美扔核弹之前把这辈子好好过完。但很明显，凯鲁亚克和卡赛迪最终什么也没有寻得，破罐子破摔的命运依旧落回原处。而对我最具冲击力的，还是飙车爵士乐吸毒的主旋律与悲剧结尾的巨大反差，更会让人感到命运既定，哪吒都是扯屁。</p>
-<p>关于命定论，有一个概念能对其进行论证，叫“拉普拉斯的恶魔”：简单说，若任何事物的状态和运作规律都是已知，那么由于因果论，下一秒它们的状态就可以确定，下下一秒的也可以确定，进而我们的未来就都是确定的。举个例子：在这个理论下，你早饭吃了包子，不是因为你“想”，而是它由大脑的一束脑电波决定，甚至从宇宙大爆炸的那一刻起，这件事就是确定的--今天早上你吃的一定是包子，时间倒流回去也跑不掉。这样一解释，人的自由意志便自动散成一滩渣，都不用社会费老大劲来碾。这种状况，哲学家把它归为“后现代精神危机”。</p>
-<p>国内有张专辑（《冷水浇头》），内页写着这样的话：“在这一切均已被尝试，一切结局都可被观测的‘后’时代，我感到没有方向，无所适从，备受煎熬。”这算是种历史的创伤。三十年河东三十年河西，我们总能从历史里找到当今事件的翻版，进而对结果进行预测，通常会得出“这把死定了”的结论。除了杭天，草东也发出过“我想要说的/前人们都说过了”的感慨。而且如今互联网普及，社会阶层与年龄层的天然隔阂被打破，我们每个人都看到了不应该看到的东西，年纪轻轻就受困于大学毕业了有没有工作，工作能不能稳定到我退休等等。这样的恐惧持续渗透，于是更觉命运已定。</p>
-<p>人类不喜欢确定的未来，但仍对预测未来十分热衷。从原始社会<em>用星星和颧骨来预测命运</em>，到现在天气预报，股市预测，以及大部分的科学都是在干这事。但以我们目前的科技水平，足以被称作拉普拉斯的恶魔吗？我们从没有过准确预测未来的能力。我尽管认同因果律，认同命运是确定的，人类也不可能确定“这就是命运”，不可能明确命运的样貌。你说你觉得你考不上高中，考不进985，人生看不见明天--咱连明天下不下雨都不知道。没准明天阳光明媚晴空万里，你就看见明天了。</p>
-<p>结论已出：命运是确定的，但是人类不能确定命运。感谢上帝让我们的科学没那么发达，给我们的未来留下一点未知。其实人生活的大部分都是已知熟悉的，直到某一天突然一个未知出现，我们再去被迫地适应它，跳进新的已知之中。这样讲，人活着可能就是来探索命运的（有点浪漫，大可不信）。毕竟全部都是已知的生活无聊至极，我们总需要一些惊喜或惊吓；最终在病榻前看完自己命运的全貌，再回到我们来的地方去。地球online，名副其实也。</p>
-<p>在我能活到的年份里，我都不怕有科学家能准确预测未来，他们没这能耐，我未来也不会从事这种工作为之努力。如果有人不信邪，曲线救国，发明了通往未来的时光机器，我会第一个以反人类罪名将其绳之以法，当众枪决。</p>
-<b>
-<p align="right">
-作于2023年12月
-</p>
-<p></b></p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>“劝学”新说</title>
-    <url>/%E6%9D%82%E8%B0%88/%E2%80%9C%E5%8A%9D%E5%AD%A6%E2%80%9D%E6%96%B0%E8%AF%B4/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>《劝学》，是两千多年前战国百家争鸣时流传下来的文章，记载着荀子对当时学习问题的朴素认识。在这两千多年来，随着时代的变迁，一些新的学习问题开始涌现，古时劝学的文章也需要后人再来添上几笔了。</p>
-<span id="more"></span>
-<p>学习，不言而喻的是一件枯燥的事，而这也正需要我们建立良好、持续的学习源动力。</p>
-<p>源动力的前提是对学习持积极的态度。而如今应试教育的猖獗，恰恰是阻碍其形成的绊脚石之一。这东西从我们记事起就耳濡目染，对它的厌恶自然便会延续到学习身上，以至于分不清两者的区别，甚至当以成绩为宗旨的老师们说到“终身学习”时，自己也会感到胃疼。但其实，应试和学习应该要明确开来。</p>
-<p>学习能让我们按自己期望的方向发展。相信大家都有过这种体验。在学习或者做自己真正喜欢的东西的时候，过程中的一切都是享受的：会为了一点小小的成功而沾沾自喜，不因挫折而放弃，甚至于会主动去锻炼自己薄弱的环节。这种感受，跟看到试卷上一个个消不去的红叉肯定是不同的。学习是一个比应试自由得多、广阔得多的天地。我现在在“劝”的也不是应试，而是学习。</p>
-<p>那么学习的源动力要如何形成呢？这种源动力一定要是真实的，能说服自己的（这从上一段可以看出来一点）。现在有人会受人灌输，从名人传记上随意找来一些“为中华之崛起而读书”的不符合自己思想境界，不能使自己信服的话，这样依靠它学习的时候也不会有什么底气了。我建议的是先从我们自己的爱好，或是梦想的职业中寻找学习的动力。只有个人喜爱的东西，我们才能坚持下去，一直为之学习下去。</p>
-<p>比如美国。他们的教育中不会刻意灌输“学习的目的或意义”，而是给学生们充分的空间发展个性，让他们找到自己努力学习的意义。等到他们长大，在社会中各司其职时，这种源动力更能不断促进他们自我发展，贡献社会了。</p>
-<p>所以我说学习的源动力来源于个人，并不是鼓励大家自私自利，目中无人，而是希望学习的成果在个人身上展现后，能够继续为所在的集体发光发热。这和马克思所说“每个人的自由发展是一切人自由发展的条件”是一样的。</p>
-<p>而仅对于我们眼前的应试，上面的东西也可以利用，也就是要设置一些目标。有时某个学科本身就很合自己胃口，对未来的努力方向也有好处；而对于不那么顺人意的，可以只把它当作进修某个理想专业的必经之路。</p>
-<p>总之，我们在寻找学习内驱力时，要讨好自身。这对于学习或是任何“想要做好”的事都是一样的。而且我们的教育中也要有良好的引导，以及容纳其广泛存在的氛围。有了这些，我们才有可能真正地喜欢上学习，真正地为社会出力，“为人民服务”。</p>
-<b>
-<p align="right">
-作于2023年10月
-</p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>一些积分</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E4%B8%80%E4%BA%9B%E7%A7%AF%E5%88%86/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="目录">目录</h3>
-<p><a
-href="#分母为二次式或根号下二次式">分母为二次式或根号下二次式</a></p>
-<span id="more"></span>
-<h3 id="分母为二次式或根号下二次式">分母为二次式或根号下二次式</h3>
-<h4 id="思路">思路</h4>
-<p><span class="math display">\[ 把x代入为某个三角或双曲函数
-\]</span></p>
-<h4 id="二次式">二次式</h4>
-<p><span class="math display">\[
-\int\frac{1}{x^2+a^2}\mathrm{d}x=\frac{1}{a}\arctan(\frac{x}{a})+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{x^2-a^2}\mathrm{d}x=\frac{1}{2a}\ln|\frac{x+a}{x-a}|+\mathrm{C}
-\]</span></p>
-<h4 id="根号下二次式">根号下二次式</h4>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{a^2-x^2}}\mathrm{d}x=\arcsin(\frac{x}{a})+\mathrm{C}
-\enspace(|x|&lt;a) \]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{a^2+x^2}}\mathrm{d}x=\mathrm{arsinh}(\frac{x}{a})+\mathrm{C}
-\]</span></p>
-<p><span class="math display">\[
-\int\frac{1}{\sqrt{x^2-a^2}}\mathrm{d}x=\mathrm{arcosh}(\frac{x}{a})+\mathrm{C}\enspace(x&gt;a)
-\]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
   </entry>
   <entry>
     <title>三角导数与积分公式</title>
@@ -693,6 +353,105 @@ x+\mathrm{C} \]</span></p>
       </categories>
   </entry>
   <entry>
+    <title>傅里叶级数</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h2 id="三角级数">三角级数</h2>
+<p><span class="math display">\[
+f(x)=A_0+\sum_{n=1}^{\infty}A_n\sin(n\omega t+\varphi_n) \]</span></p>
+<span id="more"></span>
+<h2 id="傅里叶级数">傅里叶级数</h2>
+<h3 id="形式">形式</h3>
+<p><span class="math display">\[
+f(x)=\frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos nx+b_n \sin nx
+\]</span></p>
+<h4 id="推导">推导</h4>
+<p><span class="math display">\[ \begin{align*}
+    f(x)&amp;=A_0+\sum_{n=1}^{\infty}A_n(\sin\varphi_n\cos n\omega
+t+\cos\varphi_n\sin n\omega t) \\
+    &amp;=\frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos n\omega t+b_n\sin
+n\omega t\\
+    &amp;=\frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos nx+b_n\sin nx
+\end{align*} \]</span></p>
+<h3 id="傅里叶系数">傅里叶系数</h3>
+<p><span class="math display">\[ \begin{cases}
+    a_n=\displaystyle\frac{1}{\pi}\int^\pi_{-\pi} f(x)\cos
+nx\mathrm{d}x\\
+    b_n=\displaystyle\frac{1}{\pi}\int^\pi_{-\pi}f(x)\sin nx\mathrm{d}x
+\end{cases} \]</span></p>
+<h4 id="推导-1">推导</h4>
+<p><span class="math display">\[
+\int^\pi_{-\pi}f(x)\mathrm{d}x=\int^\pi_{-\pi}\frac{a_0}{2}\mathrm{d}x+\sum_{n=1}^{\infty}\int^\pi_{-\pi}(a_n\cos
+nx+b_n\sin nx)\mathrm{d}x=\pi a_0 \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+a_0=\frac{1}{\pi}\int^\pi_{-\pi}f(x)\mathrm{d}x \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \int^\pi_{-\pi}f(x)\cos
+nx\mathrm{d}x&amp;=\int^\pi_{-\pi}a_n\cos^2{nx}\mathrm{d}x\\
+    &amp;=a_n\int^\pi_{-\pi}\frac{1+\cos 2nx}{2}\mathrm{d}x\\
+    &amp;=a_n \pi
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+a_n=\frac{1}{\pi}\int^\pi_{-\pi}f(x)\cos nx\mathrm{d}x \]</span></p>
+<p><span class="math display">\[
+b_n=\frac{1}{\pi}\int^\pi_{-\pi}f(x)\sin nx\mathrm{d}x \]</span></p>
+<h3 id="奇偶性">奇偶性</h3>
+<p><span class="math display">\[
+奇函数展开为正弦函数，偶函数展开为余弦函数 \]</span></p>
+<p><span class="math display">\[
+对只占半个周期的函数，可以进行周期延拓，展开为正弦或余弦函数
+\]</span></p>
+<p><span class="math display">\[ a_n=\frac{2}{\pi}\int^{\pi}_0f(x)\cos
+nx\mathrm{d}x \]</span></p>
+<p><span class="math display">\[ b_n=\frac{2}{\pi}\int^{\pi}_0f(x)\sin
+nx\mathrm{d}x \]</span></p>
+<h2 id="一般周期的傅里叶级数">一般周期的傅里叶级数</h2>
+<p><span class="math display">\[
+f(x)=\frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos \frac{n\pi x}{l}+b_n \sin
+\frac{n\pi x}{l} \]</span></p>
+<p><span class="math display">\[ \begin{cases}
+    a_n=\displaystyle\frac{1}{l}\int^l_{-l}f(x)\cos\frac{n\pi
+x}{l}\mathrm{d}x\\
+    b_n=\displaystyle\frac{1}{l}\int^l_{-l}f(x)\sin\frac{n\pi
+x}{l}\mathrm{d}x\\
+\end{cases} \]</span></p>
+<h2 id="复数形式的傅里叶级数">复数形式的傅里叶级数</h2>
+<h3 id="形式-1">形式</h3>
+<p><span class="math display">\[ f(x)=\sum_{n=-\infty}^{\infty}c_n
+e^\frac{n\pi xi}{l} \]</span></p>
+<p><span class="math display">\[
+c_n=\frac{1}{2l}\int^l_{-l}f(x)e^{-\frac{n\pi xi}{l}}\mathrm{d}x
+\]</span></p>
+<h3 id="推导-2">推导</h3>
+<p><span class="math display">\[ \begin{align*}
+    f(x)&amp;=\frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos\frac{n\pi
+x}{l}+b_n\sin\frac{n\pi x}{l}\\
+    &amp;=\frac{a_0}{2}+\sum_{n=1}^{\infty}\frac{a_n}{2}(e^\frac{n\pi
+xi}{l}+e^{-\frac{n\pi xi}{l}})+\frac{b_n}{2i}(e^\frac{n\pi
+xi}{l}-e^{-\frac{n\pi xi}{l}})\\
+    &amp;=\frac{a_0}{2}+\sum_{n=1}^{\infty}\frac{a_n-ib_n}{2}e^\frac{n\pi
+xi}{l}+\frac{a_n+ib_n}{2}e^{-\frac{n\pi xi}{l}}\\
+    &amp;=\sum_{n=-\infty}^{\infty}c_n e^\frac{n\pi xi}{l}
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \Rightarrow c_n&amp;=\frac{a_n-ib_n}{2}\\
+    &amp;=\frac{1}{2}(\frac{1}{l}\int^l_{-l}f(x)\cos\frac{n\pi
+x}{l}\mathrm{d}x-\frac{i}{l}\int^l_{-l}f(x)\sin\frac{n\pi
+x}{l}\mathrm{d}x)\\
+    &amp;=\frac{1}{2l}\int^l_{-l}f(x)(\cos\frac{n\pi
+x}{l}-i\sin\frac{n\pi x}{l})\mathrm{d}x\\
+    &amp;=\frac{1}{2l}\int^l_{-l}f(x)e^{-\frac{n\pi x}{l}}\mathrm{d}x
+\end{align*} \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
     <title>伽马函数</title>
     <url>/%E6%95%B0%E5%AD%A6/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
     <content><![CDATA[<b>
@@ -717,28 +476,97 @@ x^n\mathrm{e}^xdx=f(x)\mathrm{e}^x-f^{&#39;}(x)\mathrm{e}^x+f^{&#39;&#39;}(x)\ma
       </categories>
   </entry>
   <entry>
-    <title>谈谈迷墙里平克的法西斯式行为</title>
-    <url>/%E6%9D%82%E8%B0%88/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
+    <title>向量叉乘</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E5%90%91%E9%87%8F%E5%8F%89%E4%B9%98/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
-Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
-Like Hell”, ”Waiting For The Worms”等等。</p>
+<h3 id="定义">定义</h3>
+<h4 id="几何定义">几何定义</h4>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta\hat{\boldsymbol{n}}
+\]</span></p>
+<p><span class="math display">\[
+其中\hat{\boldsymbol{n}}是垂直于\boldsymbol{a}、\boldsymbol{b}所在平面的单位向量，用右手螺旋定则确定方向
+\]</span></p>
 <span id="more"></span>
-<p>Comfortably
-Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
-The
-Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
+<h4 id="代数定义">代数定义</h4>
+<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
+    a_1\\
+    a_2\\
+    a_3
+\end{bmatrix}, \,
+\boldsymbol{b}=\begin{bmatrix}
+    b_1\\
+    b_2\\
+    b_3
+\end{bmatrix}
+\]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=\begin{vmatrix}
+    \boldsymbol{i} &amp;&amp; \boldsymbol{j} &amp;&amp; \boldsymbol{k}\\
+    a_1 &amp;&amp; a_2 &amp;&amp; a_3 \\
+    b_1 &amp;&amp; b_2 &amp;&amp; b_3\\
+\end{vmatrix} =
+\boldsymbol{i}\begin{vmatrix}
+    a_2&amp;&amp;a_3\\b_2&amp;&amp;b_3
+\end{vmatrix}-
+\boldsymbol{j}\begin{vmatrix}
+    a_1&amp;&amp;a_3\\b_1&amp;&amp;b_3
+\end{vmatrix}+
+\boldsymbol{k}\begin{vmatrix}
+    a_1&amp;&amp;a_2\\b_1&amp;&amp;b_2
+\end{vmatrix} \]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}
+\]</span></p>
+<h5 id="推导">推导</h5>
+<p><span class="math display">\[ \begin{align*}
+    \boldsymbol{a}\times\boldsymbol{b}=&amp;(a_1\boldsymbol{i}+a_2\boldsymbol{j}+a_3\boldsymbol{k})\times(b_1\boldsymbol{i}+b_2\boldsymbol{j}+b_3\boldsymbol{k})\\
+    =&amp;(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}\\
+\end{align*} \]</span></p>
+<h3 id="意义">意义</h3>
+<h4 id="几何意义">几何意义</h4>
+<p><span class="math display">\[
+|\boldsymbol{a}\times\boldsymbol{b}|=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+S_{\Delta}=\frac{1}{2}|\boldsymbol{a}\times\boldsymbol{b}|\,,S_{\text{平四}}=|\boldsymbol{a}\times\boldsymbol{b}|
+\]</span></p>
+<h3 id="混合积">混合积</h3>
+<h4 id="定义-1">定义</h4>
+<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
+    a_1\\
+    a_2\\
+    a_3
+\end{bmatrix}, \,
+\boldsymbol{b}=\begin{bmatrix}
+    b_1\\
+    b_2\\
+    b_3
+\end{bmatrix}, \,
+\boldsymbol{c}=\begin{bmatrix}
+    c_1\\
+    c_2\\
+    c_3
+\end{bmatrix}
+\]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\cdot(\boldsymbol{b}\times\boldsymbol{c})=\begin{vmatrix}
+    a_1&amp;&amp;a_2&amp;&amp;a_3\\
+    b_1&amp;&amp;b_2&amp;&amp;b_3\\
+    c_1&amp;&amp;c_2&amp;&amp;c_3\\
+\end{vmatrix} \]</span></p>
+<h4 id="几何意义-1">几何意义</h4>
+<p><span class="math display">\[
+表示\boldsymbol{a}、\boldsymbol{b}、\boldsymbol{c}构成的平行六面体的体积
+\]</span></p>
 ]]></content>
       <categories>
-        <category>杂谈</category>
+        <category>数学</category>
       </categories>
-      <tags>
-        <tag>前卫摇滚</tag>
-      </tags>
   </entry>
   <entry>
     <title>双曲函数</title>
@@ -850,198 +678,6 @@ x\rvert&lt;1) \]</span></p>
       </categories>
   </entry>
   <entry>
-    <title>傅里叶级数</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h2 id="三角级数">三角级数</h2>
-<p><span class="math display">\[
-f(x)=A_0+\sum_{n=1}^{\infty}A_n\sin(n\omega t+\varphi_n) \]</span></p>
-<span id="more"></span>
-<h2 id="傅里叶级数">傅里叶级数</h2>
-<h3 id="形式">形式</h3>
-<p><span class="math display">\[
-f(x)=\frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos nx+b_n \sin nx
-\]</span></p>
-<h4 id="推导">推导</h4>
-<p><span class="math display">\[ \begin{align*}
-    f(x)&amp;=A_0+\sum_{n=1}^{\infty}A_n(\sin\varphi_n\cos n\omega
-t+\cos\varphi_n\sin n\omega t) \\
-    &amp;=\frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos n\omega t+b_n\sin
-n\omega t\\
-    &amp;=\frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos nx+b_n\sin nx
-\end{align*} \]</span></p>
-<h3 id="傅里叶系数">傅里叶系数</h3>
-<p><span class="math display">\[ \begin{cases}
-    a_n=\displaystyle\frac{1}{\pi}\int^\pi_{-\pi} f(x)\cos
-nx\mathrm{d}x\\
-    b_n=\displaystyle\frac{1}{\pi}\int^\pi_{-\pi}f(x)\sin nx\mathrm{d}x
-\end{cases} \]</span></p>
-<h4 id="推导-1">推导</h4>
-<p><span class="math display">\[
-\int^\pi_{-\pi}f(x)\mathrm{d}x=\int^\pi_{-\pi}\frac{a_0}{2}\mathrm{d}x+\sum_{n=1}^{\infty}\int^\pi_{-\pi}(a_n\cos
-nx+b_n\sin nx)\mathrm{d}x=\pi a_0 \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-a_0=\frac{1}{\pi}\int^\pi_{-\pi}f(x)\mathrm{d}x \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \int^\pi_{-\pi}f(x)\cos
-nx\mathrm{d}x&amp;=\int^\pi_{-\pi}a_n\cos^2{nx}\mathrm{d}x\\
-    &amp;=a_n\int^\pi_{-\pi}\frac{1+\cos 2nx}{2}\mathrm{d}x\\
-    &amp;=a_n \pi
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-a_n=\frac{1}{\pi}\int^\pi_{-\pi}f(x)\cos nx\mathrm{d}x \]</span></p>
-<p><span class="math display">\[
-b_n=\frac{1}{\pi}\int^\pi_{-\pi}f(x)\sin nx\mathrm{d}x \]</span></p>
-<h3 id="奇偶性">奇偶性</h3>
-<p><span class="math display">\[
-奇函数展开为正弦函数，偶函数展开为余弦函数 \]</span></p>
-<p><span class="math display">\[
-对只占半个周期的函数，可以进行周期延拓，展开为正弦或余弦函数
-\]</span></p>
-<p><span class="math display">\[ a_n=\frac{2}{\pi}\int^{\pi}_0f(x)\cos
-nx\mathrm{d}x \]</span></p>
-<p><span class="math display">\[ b_n=\frac{2}{\pi}\int^{\pi}_0f(x)\sin
-nx\mathrm{d}x \]</span></p>
-<h2 id="一般周期的傅里叶级数">一般周期的傅里叶级数</h2>
-<p><span class="math display">\[
-f(x)=\frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos \frac{n\pi x}{l}+b_n \sin
-\frac{n\pi x}{l} \]</span></p>
-<p><span class="math display">\[ \begin{cases}
-    a_n=\displaystyle\frac{1}{l}\int^l_{-l}f(x)\cos\frac{n\pi
-x}{l}\mathrm{d}x\\
-    b_n=\displaystyle\frac{1}{l}\int^l_{-l}f(x)\sin\frac{n\pi
-x}{l}\mathrm{d}x\\
-\end{cases} \]</span></p>
-<h2 id="复数形式的傅里叶级数">复数形式的傅里叶级数</h2>
-<h3 id="形式-1">形式</h3>
-<p><span class="math display">\[ f(x)=\sum_{n=-\infty}^{\infty}c_n
-e^\frac{n\pi xi}{l} \]</span></p>
-<p><span class="math display">\[
-c_n=\frac{1}{2l}\int^l_{-l}f(x)e^{-\frac{n\pi xi}{l}}\mathrm{d}x
-\]</span></p>
-<h3 id="推导-2">推导</h3>
-<p><span class="math display">\[ \begin{align*}
-    f(x)&amp;=\frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos\frac{n\pi
-x}{l}+b_n\sin\frac{n\pi x}{l}\\
-    &amp;=\frac{a_0}{2}+\sum_{n=1}^{\infty}\frac{a_n}{2}(e^\frac{n\pi
-xi}{l}+e^{-\frac{n\pi xi}{l}})+\frac{b_n}{2i}(e^\frac{n\pi
-xi}{l}-e^{-\frac{n\pi xi}{l}})\\
-    &amp;=\frac{a_0}{2}+\sum_{n=1}^{\infty}\frac{a_n-ib_n}{2}e^\frac{n\pi
-xi}{l}+\frac{a_n+ib_n}{2}e^{-\frac{n\pi xi}{l}}\\
-    &amp;=\sum_{n=-\infty}^{\infty}c_n e^\frac{n\pi xi}{l}
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \Rightarrow c_n&amp;=\frac{a_n-ib_n}{2}\\
-    &amp;=\frac{1}{2}(\frac{1}{l}\int^l_{-l}f(x)\cos\frac{n\pi
-x}{l}\mathrm{d}x-\frac{i}{l}\int^l_{-l}f(x)\sin\frac{n\pi
-x}{l}\mathrm{d}x)\\
-    &amp;=\frac{1}{2l}\int^l_{-l}f(x)(\cos\frac{n\pi
-x}{l}-i\sin\frac{n\pi x}{l})\mathrm{d}x\\
-    &amp;=\frac{1}{2l}\int^l_{-l}f(x)e^{-\frac{n\pi x}{l}}\mathrm{d}x
-\end{align*} \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>向量叉乘</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E5%90%91%E9%87%8F%E5%8F%89%E4%B9%98/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="定义">定义</h3>
-<h4 id="几何定义">几何定义</h4>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta\hat{\boldsymbol{n}}
-\]</span></p>
-<p><span class="math display">\[
-其中\hat{\boldsymbol{n}}是垂直于\boldsymbol{a}、\boldsymbol{b}所在平面的单位向量，用右手螺旋定则确定方向
-\]</span></p>
-<span id="more"></span>
-<h4 id="代数定义">代数定义</h4>
-<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
-    a_1\\
-    a_2\\
-    a_3
-\end{bmatrix}, \,
-\boldsymbol{b}=\begin{bmatrix}
-    b_1\\
-    b_2\\
-    b_3
-\end{bmatrix}
-\]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=\begin{vmatrix}
-    \boldsymbol{i} &amp;&amp; \boldsymbol{j} &amp;&amp; \boldsymbol{k}\\
-    a_1 &amp;&amp; a_2 &amp;&amp; a_3 \\
-    b_1 &amp;&amp; b_2 &amp;&amp; b_3\\
-\end{vmatrix} =
-\boldsymbol{i}\begin{vmatrix}
-    a_2&amp;&amp;a_3\\b_2&amp;&amp;b_3
-\end{vmatrix}-
-\boldsymbol{j}\begin{vmatrix}
-    a_1&amp;&amp;a_3\\b_1&amp;&amp;b_3
-\end{vmatrix}+
-\boldsymbol{k}\begin{vmatrix}
-    a_1&amp;&amp;a_2\\b_1&amp;&amp;b_2
-\end{vmatrix} \]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}
-\]</span></p>
-<h5 id="推导">推导</h5>
-<p><span class="math display">\[ \begin{align*}
-    \boldsymbol{a}\times\boldsymbol{b}=&amp;(a_1\boldsymbol{i}+a_2\boldsymbol{j}+a_3\boldsymbol{k})\times(b_1\boldsymbol{i}+b_2\boldsymbol{j}+b_3\boldsymbol{k})\\
-    =&amp;(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}\\
-\end{align*} \]</span></p>
-<h3 id="意义">意义</h3>
-<h4 id="几何意义">几何意义</h4>
-<p><span class="math display">\[
-|\boldsymbol{a}\times\boldsymbol{b}|=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow
-S_{\Delta}=\frac{1}{2}|\boldsymbol{a}\times\boldsymbol{b}|\,,S_{\text{平四}}=|\boldsymbol{a}\times\boldsymbol{b}|
-\]</span></p>
-<h3 id="混合积">混合积</h3>
-<h4 id="定义-1">定义</h4>
-<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
-    a_1\\
-    a_2\\
-    a_3
-\end{bmatrix}, \,
-\boldsymbol{b}=\begin{bmatrix}
-    b_1\\
-    b_2\\
-    b_3
-\end{bmatrix}, \,
-\boldsymbol{c}=\begin{bmatrix}
-    c_1\\
-    c_2\\
-    c_3
-\end{bmatrix}
-\]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\cdot(\boldsymbol{b}\times\boldsymbol{c})=\begin{vmatrix}
-    a_1&amp;&amp;a_2&amp;&amp;a_3\\
-    b_1&amp;&amp;b_2&amp;&amp;b_3\\
-    c_1&amp;&amp;c_2&amp;&amp;c_3\\
-\end{vmatrix} \]</span></p>
-<h4 id="几何意义-1">几何意义</h4>
-<p><span class="math display">\[
-表示\boldsymbol{a}、\boldsymbol{b}、\boldsymbol{c}构成的平行六面体的体积
-\]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
     <title>周期函数</title>
     <url>/%E6%95%B0%E5%AD%A6/%E5%91%A8%E6%9C%9F%E5%87%BD%E6%95%B0/</url>
     <content><![CDATA[<b>
@@ -1106,154 +742,6 @@ a)，则T=4(m-a) \]</span></p>
 <p><span class="math display">\[ \Rightarrow 2n-(2n-f(x))=f(4m-4a+x)
 \]</span></p>
 <p><span class="math display">\[ \therefore f[4(m-a)+x]=f(x)
-\]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>复数与三角</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E5%A4%8D%E6%95%B0%E4%B8%8E%E4%B8%89%E8%A7%92/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="复数的三角表示">复数的三角表示</h3>
-<p><span class="math display">\[ z = r(\cos\theta +
-\mathrm{i}\sin\theta) \]</span></p>
-<span id="more"></span>
-<h3
-id="复数三角形式的乘除乘方开方运算">复数三角形式的乘除、乘方、开方运算</h3>
-<h4 id="公式">公式</h4>
-<p>对于乘除：模相乘，角相加</p>
-<p><span class="math display">\[ z_{1} * z_{2} = r_{1} *
-r_{2}(\cos(θ_{1} + θ_{2}) + \mathrm{i}\sin(θ_{1} + θ_{2})) \]</span></p>
-<p><span class="math display">\[ \frac{z_1}{z_2} =
-\frac{r_1}{r_2}(\cos(θ_{1} - θ_{2}) + \mathrm{i}\sin(θ_{1} - θ_{2}))
-\]</span></p>
-<p><span class="math display">\[ z^n = r^n(\cos(n\theta) +
-\mathrm{i}\sin(n\theta)) \]</span></p>
-<p><span class="math display">\[ z^{\frac{1}{n}} =
-r^{\frac{1}{n}}(\cos((θ+2kπ)/n) + \mathrm{i}\sin((θ+2kπ)/n))
-\]</span></p>
-<p>模为一时的乘方公式又名棣莫弗公式</p>
-<p>由于开方时，最小正周期2kπ乘的是一个小于1的数，那么它就不再是周期，加上θ后的余弦值也会不同，因此需要在公式中写出。</p>
-<p>但乘方就没有这种问题。</p>
-<h4 id="证明">证明</h4>
-<p>乘除：把两个复数列出来，死算</p>
-<p>乘方开方：数学归纳法</p>
-<h4 id="应用">应用</h4>
-<ol type="1">
-<li>解方程：形如<span class="math inline">\(z^n =
-z_0\)</span>的方程都可通过开方来解</li>
-<li>见<a href="#n倍角公式"><span
-class="math inline">\(\cos(nθ)、\sin(nθ)\)</span></a></li>
-<li>见<a href="#n次方角公式"><span
-class="math inline">\(\cos^nθ、\sin^nθ\)</span></a></li>
-</ol>
-<h4 id="解复数方程的延伸">解复数方程的延伸</h4>
-<p>一个定理：<span class="math inline">\(z^n =
-1\)</span>的各根之和为0</p>
-<h3 id="欧拉公式">欧拉公式</h3>
-<p>连接实数和虚数的公式</p>
-<p><span class="math display">\[ \mathrm{e}^{\mathrm{i}θ} = \cosθ +
-\mathrm{i}\sinθ \]</span></p>
-<h4 id="证明-1">证明</h4>
-<ol type="1">
-<li><p>泰勒展开，把<span
-class="math inline">\(\mathrm{e}^x\)</span>展开成<span
-class="math inline">\(\cos x\)</span>和<span class="math inline">\(\sin
-x\)</span></p></li>
-<li><p>对<span class="math inline">\(e^{iθ}\)</span>求导，求出<span
-class="math inline">\(ie^{iθ}\)</span>，再作图，发现图像为圆，代上圆的参数方程</p></li>
-</ol>
-<h4 id="应用-1">应用</h4>
-<ol type="1">
-<li>复数的新表示方法，非常简便</li>
-</ol>
-<p><span class="math display">\[ z = r\mathrm{e}^{\mathrm{i}θ}
-\]</span></p>
-<ol start="2" type="1">
-<li></li>
-</ol>
-<p><span class="math display">\[ \mathrm{e}^{\mathrm{i}π} + 1 = 0
-\]</span></p>
-<ol start="3" type="1">
-<li>证明负负得正，这件事听起来很扯，但五年级学负数的时候不可能来证明这个</li>
-</ol>
-<p><span class="math display">\[ (-1) * (-1) = \mathrm{e}^{\mathrm{i}π}
-* \mathrm{e}^{\mathrm{i}π} = \mathrm{e}^{\mathrm{i}(π + π)} =
-e^{2π\mathrm{i}} = 1 \]</span></p>
-<h3 id="cosnθsinnθ展开"><span id="n倍角公式"> <span
-class="math inline">\(\cos(nθ)、\sin(nθ)\)</span>展开 </span></h3>
-<p>这里只讲怎么从复数的角度来展开（公式还不会）</p>
-<p><span class="math display">\[ (\cosθ + \mathrm{i}\sinθ)^n = \cos(nθ)
-+ \mathrm{i}\sin(nθ) \tag{1} \]</span> <span class="math display">\[
-(\cosθ + \mathrm{i}\sinθ)^n = \cos^nθ +
-C_{n}^1\cos^{n-1}θ\mathrm{i}\sinθ + ... +\mathrm{i}^n\sin^nθ \tag{2}
-\]</span></p>
-<p>将二式的实部和虚部分离，和一式对应起来，再用<span
-class="math inline">\(\sin^2θ+\cos^2θ = 1\)</span>化简即可</p>
-<h3 id="cosnθsinnθ展开-1"><span id="n次方角公式"> <span
-class="math inline">\(\cos^nθ、\sin^nθ\)</span>展开 </span></h3>
-<p><big> n为偶数时: </big></p>
-<p><span class="math display">\[ \cos^nθ =
-\frac{2[C_{n}^0\cos(nθ)+C_{n}^1\cos(n-2)θ+...+C_{n}^{\frac{n}{2}-1}\cos2θ]+C_{n}^\frac{n}{2}}{2^n}
-\]</span></p>
-<p><span class="math display">\[ \sin^nθ =
-\frac{2[C_{n}^0\cos(nθ)-C_{n}^1\cos(n-2)θ+...+(-1)^{\frac{n}{2}-1}C_{n}^{\frac{n}{2}-1}\cos2θ]+(-1)^{\frac{n}{2}}C_{n}^\frac{n}{2}}{2^n(-1)^{\frac{n}{2}}}
-\]</span></p>
-<p><big> n为奇数时: </big></p>
-<p><span class="math display">\[ \cos^nθ =
-\frac{C_{n}^0\cos(nθ)+C_{n}^1\cos(n-2)θ+...+C_{n}^{\frac{n-1}{2}}\cosθ}{2^{n-1}}
-\]</span></p>
-<p><span class="math display">\[ \sin^nθ =
-\frac{C_{n}^0\sin(nθ)-C_{n}^1\sin(n-2)θ+...+(-1)^{\frac{n-1}{2}}C_{n}^{\frac{n-1}{2}}\sinθ}{2^{n-1}(-1)^{\frac{n-1}{2}}}
-\]</span></p>
-<h4 id="证明-2">证明</h4>
-<ol type="1">
-<li>从头推导</li>
-</ol>
-<p>基础公式：</p>
-<p><span class="math display">\[ z = \mathrm{e}^{\mathrm{i}θ}:
-\]</span></p>
-<p><span class="math display">\[ z + \frac{1}{z} = 2\cosθ \]</span></p>
-<p><span class="math display">\[ z - \frac{1}{z} = 2\mathrm{i}\sinθ
-\]</span></p>
-<p><span class="math display">\[ z^n + \frac{1}{z^n} = 2\cos(nθ)
-\]</span></p>
-<p><span class="math display">\[ z^n - \frac{1}{z^n} =
-2\mathrm{i}\sin(nθ) \]</span></p>
-<p>然后：(n为偶数)</p>
-<p><span class="math display">\[ (z + \frac{1}{z})^n = (2\cosθ)^n =
-2^n\cos^nθ \tag{1}\]</span></p>
-<p><span class="math display">\[ (z + \frac{1}{z})^n = C_{n}^0z^n + +
-... +
-C_{n}^{\frac{n}{2}-1}z^2+C_{n}^{\frac{n}{2}}+C_{n}^{\frac{n}{2}+1}\frac{1}{z^2}+...+
-C_{n}^{n}\frac{1}{z^n}\]</span></p>
-<p><span class="math display">\[ (z + \frac{1}{z})^n =
-C_{n}^0*2\cos(nθ)+C_{n}^1*2\cos(n-2)θ+...+C_{n}^{\frac{n}{2}-1}*2\cos2θ
-+ C_{n}^{\frac{n}{2}} \tag{2}\]</span></p>
-<p>联立一式二式并化简：</p>
-<p><span class="math display">\[ \cos^nθ =
-\frac{2[C_{n}^0\cos(nθ)+C_{n}^1\cos(n-2)θ+...+C_{n}^{\frac{n}{2}-1}\cos2θ]+C_{n}^\frac{n}{2}}{2^n}
-\]</span></p>
-<p>其他公式也同理</p>
-<ol start="2" type="1">
-<li>万能的数学归纳法</li>
-</ol>
-<h4 id="应用-2">应用</h4>
-<p>求积分</p>
-<p>可以把任意的<span class="math inline">\(\cos^nθ\)</span>或<span
-class="math inline">\(\sin^nθ\)</span>展开成关于θ的一次三角多项式，这样求积分就很方便了</p>
-<p>如求<span class="math inline">\(\int(\sin^4x)dx\)</span>，则</p>
-<p><span class="math display">\[ \int(\sin^4x)\mathrm{d}x =
-\int(\frac{1}{8}\cos4x-\frac{1}{2}\cos2x+\frac{3}{8})\mathrm{d}x
-\]</span></p>
-<p><span class="math display">\[ \int(\sin^4x)\mathrm{d}x =
-\frac{1}{32}\sin4x-\frac{1}{4}\sin2x+\frac{3}{8}x+\mathrm{C}
 \]</span></p>
 ]]></content>
       <categories>
@@ -1337,262 +825,6 @@ XantC
 <h4 id="切线法线方程-3">切线法线方程</h4>
 <p><span class="math display">\[ 切线：ty=x+at^2 \]</span></p>
 <p><span class="math display">\[ 法线：y+tx=2at+at^3 \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>曲线与曲面积分</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E7%BA%BF%E4%B8%8E%E6%9B%B2%E9%9D%A2%E7%A7%AF%E5%88%86/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h2 id="曲线积分">曲线积分</h2>
-<h3 id="对弧长的曲线积分">对弧长的曲线积分</h3>
-<h4 id="定义">定义</h4>
-<p><span class="math display">\[ \int_Lf(x,y)\mathrm{d}s=\lim_{\lambda
-\to 0}\sum_{i=1}^nf(\xi_i,\eta_i)\Delta s_i \]</span></p>
-<span id="more"></span>
-<h4 id="计算">计算</h4>
-<p><span class="math display">\[ \begin{cases}
-    x=\varphi(t)\\
-    y=\psi(t)
-\end{cases},\;t_1\leq t\leq t_2\colon \]</span></p>
-<p><span class="math display">\[
-\int_Lf(x,y)\mathrm{d}s=\int_{t_1}^{t_2}f(\varphi(t),
-\psi(t))\sqrt{(\varphi(t)^{&#39;})^2+(\psi(t)^{&#39;})^2}\mathrm{d}t
-\]</span></p>
-<h3 id="对坐标的曲线积分">对坐标的曲线积分</h3>
-<h4 id="定义-1">定义</h4>
-<p><span class="math display">\[
-\int_L\boldsymbol{F}\mathrm{d}\boldsymbol{r}=\int_LP(x,y)\mathrm{d}x+Q(x,y)\mathrm{d}y
-\]</span></p>
-<h4 id="计算-1">计算</h4>
-<p><span class="math display">\[ \begin{cases}
-    x=\varphi(t)\\
-    y=\psi(t)
-\end{cases},\;t_1\leq t\leq t_2\colon \]</span></p>
-<p><span class="math display">\[
-\int_LP(x,y)\mathrm{d}x+Q(x,y)\mathrm{d}y=\int_{t_1}^{t_2}(P(\varphi(t),
-\psi(t))\varphi^{&#39;}(t)+Q(\varphi(t),
-\psi(t))\psi^{&#39;}(t))\mathrm{d}t \]</span></p>
-<h3 id="两类曲线积分关系">两类曲线积分关系</h3>
-<p><span class="math display">\[ \boldsymbol{\tau}=(\cos\alpha,
-\cos\beta) \]</span></p>
-<p><span class="math display">\[
-\int_L\boldsymbol{A}\mathrm{d}\boldsymbol{r}=\int_L\boldsymbol{A}\cdot\boldsymbol{\tau}\mathrm{d}s
-\]</span></p>
-<h4 id="证明">证明</h4>
-<p><span class="math display">\[ \boldsymbol{r}=(\varphi(t), \psi(t))
-\]</span></p>
-<p><span class="math display">\[
-令\cos\alpha=\frac{\varphi^{&#39;}(t)}{\sqrt{(\varphi^{&#39;}(t))^2+(\psi^{&#39;}(t))^2}},\cos\beta=\frac{\psi^{&#39;}(t)}{\sqrt{(\varphi^{&#39;}(t))^2+(\psi^{&#39;}(t))^2}}
-\]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \int_{L}(P\cos\alpha+Q\cos\beta)\mathrm{d}s&amp;=\int_{L}(P\cos\alpha+Q\cos
-\beta)\sqrt{(\varphi^{&#39;}(t))^2+(\psi^{&#39;}(t))^2}\mathrm{d}t\\
-    &amp;=\int_L (P\varphi^{&#39;}(t)+Q\psi^{&#39;}(t))\mathrm{d}t\\
-    &amp;=\int_L P\mathrm{d}x+Q\mathrm{d}y
-\end{align*} \]</span></p>
-<h3 id="格林公式">格林公式</h3>
-<p><span class="math display">\[ \iint_{D}(\frac{\partial Q}{\partial
-x}-\frac{\partial P}{\partial y})\mathrm{d}x\mathrm{d}y=\oint
-P\mathrm{d}x+Q\mathrm{d}y \]</span></p>
-<h4 id="意义">意义</h4>
-<p><span class="math display">\[
-把关于区域D内一切点的二重积分，转化成了只与区域边界有关的曲线积分
-\]</span></p>
-<h4 id="证明-1">证明</h4>
-<p>把区域D切成很多个小正方形，再对其中每一个的边界求曲线积分，会发现互相重合的积分抵消了，只剩下最外围的一圈。所以对任意区域D边界的曲线积分，就可以把它算成所有正方形的曲线积分元素之和。</p>
-<p><span class="math display">\[ 对于单个正方形M_1M_2M_3M_4\colon
-M_1(a_0,b_0),M_2(a_1,b_0),M_3(a_1,b_1),M_4(a_0,b_1) \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \int_{L_0}P\mathrm{d}x+Q\mathrm{d}y&amp;=\int_{M_1M_2}P\mathrm{d}x+\int_{M_2M_3}Q\mathrm{d}y+\int_{M_3M_4}P\mathrm{d}x+\int_{M_4M_1}Q\mathrm{d}y\\
-    &amp;=\int^{a_1}_{a_0}P(x,b_0)\mathrm{d}x+\int^{b_1}_{b_0}Q(a_1,y)\mathrm{d}y+\int^{a_0}_{a_1}P(x,b_1)\mathrm{d}x+\int^{b_0}_{b_1}Q(a_0,y)\mathrm{d}y\\
-    &amp;=\int^{b_1}_{b_0}[Q(a_1,y)-Q(a_0,y)]\mathrm{d}y-\int^{a_1}_{a_0}[P(x,b_1)-P(x,b_0)]\mathrm{d}x
-\\
-    &amp;=\int^{b_1}_{b_0}[\int^{a_1}_{a_0}\frac{\partial Q}{\partial
-x}\mathrm{d}x]\mathrm{d}y-\int^{a_1}_{a_0}[\int^{b_1}_{b_0}\frac{\partial
-P}{\partial y}\mathrm{d}y]\mathrm{d}x\\
-    &amp;=\iint_{cube}(\frac{\partial Q}{\partial x}-\frac{\partial
-P}{\partial y})\mathrm{d}x\mathrm{d}y
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \therefore
-\oint_LP\mathrm{d}x+Q\mathrm{d}y= \iint_{D}(\frac{\partial Q}{\partial
-x}-\frac{\partial P}{\partial y})\mathrm{d}x\mathrm{d}y \]</span></p>
-<h4 id="应用">应用</h4>
-<h5 id="曲线积分与路径无关条件">曲线积分与路径无关条件</h5>
-<p><span class="math display">\[ \frac{\partial P}{\partial
-y}=\frac{\partial Q}{\partial x} \]</span></p>
-<h6 id="证明-2">证明</h6>
-<p><span class="math display">\[ \int_{L_1}
-P\mathrm{d}x+Q\mathrm{d}y=\int_{L_2} P\mathrm{d}x+Q\mathrm{d}y
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\int_{L_1+\overline{L_2}}P\mathrm{d}x+Q\mathrm{d}y=0 \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\int_{L_1+\overline{L_2}}(\frac{\partial P}{\partial y}-\frac{\partial
-Q}{\partial x})\mathrm{d}x\mathrm{d}y=0 \]</span></p>
-<p><span class="math display">\[ \therefore \frac{\partial P}{\partial
-y}=\frac{\partial Q}{\partial x} \]</span></p>
-<h5 id="全微分求积分">全微分求积分</h5>
-<p><span class="math display">\[
-u(x,y)=P(x,y)\mathrm{d}x+Q(x,y)\mathrm{d}y \]</span></p>
-<p><span class="math display">\[ 条件\colon \frac{\partial P}{\partial
-y}=\frac{\partial Q}{\partial x} \]</span></p>
-<h6 id="积分路线法">积分路线法</h6>
-<p><span class="math display">\[ \begin{align*}
-    u(x,y)&amp;=\int^{(x,y)}_{(x_0,y_0)}P(x,y)\mathrm{d}x+Q(x,y)\mathrm{d}y\\
-    &amp;=\int^{(x,y_0)}_{(x_0,y_0)}P(x,y_0)\mathrm{d}x+\int^{(x,y)}_{(x,y_0)}Q(x,y)\mathrm{d}y
-\end{align*} \]</span></p>
-<h6 id="偏积分法">偏积分法</h6>
-<p><span class="math display">\[ \begin{cases}
-    u=\displaystyle\int P(x,y)\mathrm{d}x+\varphi(y)\\
-    u=\displaystyle\int Q(x,y)\mathrm{d}y+\psi(x)
-\end{cases} \]</span></p>
-<h3 id="曲线积分基本定理">曲线积分基本定理</h3>
-<p><span class="math display">\[ \int_L \nabla
-f\cdot\mathrm{d}\boldsymbol{r}=f(\boldsymbol{r}(b))-f(\boldsymbol{r}(a))
-\]</span></p>
-<h4 id="证明-3">证明</h4>
-<p><span class="math display">\[ 令\boldsymbol{r}=(\varphi(t),
-\psi(t)),\; a\leq t\leq b \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \nabla
-f\cdot\frac{\mathrm{d}\boldsymbol{r}}{\mathrm{d}t}&amp;=(f_x^{&#39;},f_y^{&#39;})\cdot(\varphi^{&#39;}(t),
-\psi^{&#39;}(t))\\
-    &amp;=f_x^{&#39;}\varphi^{&#39;}(t)+f_y^{&#39;}\psi^{&#39;}(t)\\
-    &amp;=\frac{\mathrm{d}f}{\mathrm{d}t}
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \Rightarrow \nabla f\cdot
-\mathrm{d}\boldsymbol{r}=\mathrm{d}f \]</span></p>
-<p><span class="math display">\[ \Rightarrow \int_L \nabla
-f\cdot\mathrm{d}\boldsymbol{r}=\int^{\boldsymbol{r}(b)}_{\boldsymbol{r}(a)}\mathrm{d}f=f(\boldsymbol{r}(b))-f(\boldsymbol{r}(a))
-\]</span></p>
-<h2 id="曲面积分">曲面积分</h2>
-<h3 id="对面积曲面积分">对面积曲面积分</h3>
-<h4 id="定义-2">定义</h4>
-<p><span class="math display">\[
-\iint_{\Sigma}f(x,y,z)\mathrm{d}S=\lim_{\lambda \to
-0}\sum^n_{i=1}f(\xi_i,\eta_i,\zeta_i)\Delta S \]</span></p>
-<h4 id="计算-2">计算</h4>
-<p><span class="math display">\[
-\iint_{\Sigma}f(x,y,z)\mathrm{d}S=\iint_{D_{xy}}f(x,y,z(x,y))\sqrt{1+z_x^{&#39;2}+z_y^{&#39;2}}\mathrm{d}x\mathrm{d}y
-\]</span></p>
-<h3 id="对坐标曲面积分">对坐标曲面积分</h3>
-<h4 id="定义-3">定义</h4>
-<p><span class="math display">\[
-\iint_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}=\iint_{\Sigma}P(x,y,z)\mathrm{d}y\mathrm{d}z+Q(x,y,z)\mathrm{d}z\mathrm{d}x+R(x,y,z)\mathrm{d}x\mathrm{d}y
-\]</span></p>
-<h4 id="计算-3">计算</h4>
-<p><span class="math display">\[
-\iint_{\Sigma}P(x,y,z)\mathrm{d}y\mathrm{d}z=\pm\iint_{D_{yz}}P(x(y,z),y,z)\mathrm{d}y\mathrm{d}z
-\]</span></p>
-<p><span class="math display">\[
-\iint_{\Sigma}Q(x,y,z)\mathrm{d}z\mathrm{d}x=\pm\iint_{D_{xz}}P(x,y(x,z),z)\mathrm{d}z\mathrm{d}x
-\]</span></p>
-<p><span class="math display">\[
-\iint_{\Sigma}R(x,y,z)\mathrm{d}x\mathrm{d}y=\pm\iint_{D_{xy}}P(x,y,z(x,y))\mathrm{d}x\mathrm{d}y
-\]</span></p>
-<h3 id="两类曲面积分关系">两类曲面积分关系</h3>
-<p><span class="math display">\[
-\iint_{\Sigma}\boldsymbol{A}\cdot\boldsymbol{n}\mathrm{d}S=\iint_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}
-\]</span></p>
-<h3 id="高斯公式">高斯公式</h3>
-<p><span class="math display">\[ {\int\kern{-7pt}\int \kern{-24mu}
-\bigcirc}_{\Sigma}P\mathrm{d}y\mathrm{d}z+Q\mathrm{d}z\mathrm{d}x+R\mathrm{d}x\mathrm{d}y=\iiint_{\Omega}(\frac{\partial
-P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial
-z})\mathrm{d}V \]</span></p>
-<p><span class="math display">\[ {\int\kern{-7pt}\int \kern{-24mu}
-\bigcirc}_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}=\iiint_{\Omega}\text{div}\;
-\boldsymbol{A}\mathrm{d}V \]</span></p>
-<h4 id="通量">通量</h4>
-<p><span class="math display">\[
-\Phi=\iint_{\Sigma}\boldsymbol{A}\cdot\boldsymbol{n}\mathrm{d}S=\iint_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}=\iint_{\Sigma}P\mathrm{d}y\mathrm{d}z+Q\mathrm{d}z\mathrm{d}x+R\mathrm{d}x\mathrm{d}y
-\]</span></p>
-<h4 id="散度">散度</h4>
-<p><span class="math display">\[ \text{div}\;
-\boldsymbol{A}=\nabla\cdot\boldsymbol{A}=\frac{\partial P}{\partial
-x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z}
-\]</span></p>
-<h4 id="意义-1">意义</h4>
-<ol type="1">
-<li>指出立体图形边界和内部的关系</li>
-<li>指出通量等于散度</li>
-<li>计算曲面积分时，把三个二重积分转化成了一个三重积分</li>
-</ol>
-<h3 id="证明阿基米德原理">证明阿基米德原理</h3>
-<p><span class="math display">\[ \begin{align*}
-    \boldsymbol{F}&amp;=({\int\kern{-7pt}\int \kern{-24mu} \bigcirc}\rho
-gz\cos\alpha\mathrm{d}S,{\int\kern{-7pt}\int \kern{-24mu} \bigcirc}\rho
-gz\cos\beta\mathrm{d}S,{\int\kern{-7pt}\int \kern{-24mu} \bigcirc}\rho
-gz\cos\gamma\mathrm{d}S)\\
-    &amp;=(0,0,\rho g\iiint_{\Omega}\mathrm{d}V)\\
-    &amp;=(0,0,\rho gV)
-\end{align*} \]</span></p>
-<h2 id="斯托克斯公式">斯托克斯公式</h2>
-<p><span class="math display">\[ \begin{align*}
-    \oint_{L}P\mathrm{d}x+Q\mathrm{d}y+R\mathrm{d}z&amp;=\iint_{\Sigma}\begin{vmatrix}
-        \mathrm{d}y\mathrm{d}z&amp;\mathrm{d}z\mathrm{d}x&amp;\mathrm{d}x\mathrm{d}y\\
-        \displaystyle\frac{\partial}{\partial
-x}&amp;\displaystyle\frac{\partial}{\partial
-y}&amp;\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R\\        
-    \end{vmatrix}\\
-    &amp;=\iint_{\Sigma}\begin{vmatrix}
-        \cos\alpha&amp;\cos\beta&amp;\cos\gamma\\
-        \displaystyle\frac{\partial}{\partial
-x}&amp;\displaystyle\frac{\partial}{\partial
-y}&amp;\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R\\   
-    \end{vmatrix}\mathrm{d}S
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \oint_L
-\boldsymbol{A}\cdot\boldsymbol{\tau}\mathrm{d}s=\iint_{\Sigma}\mathbf{rot}\;\boldsymbol{A}\cdot\boldsymbol{n}\mathrm{d}S
-\]</span></p>
-<h3 id="证明-4">证明</h3>
-<p><span class="math display">\[ \iint_{\Sigma}(\frac{\partial
-P}{\partial z}\mathrm{d}z\mathrm{d}x-\frac{\partial P}{\partial
-y}\mathrm{d}x\mathrm{d}y)=\iint_{\Sigma}(\frac{\partial P}{\partial
-z}\cos\beta-\frac{\partial P}{\partial y}\cos\gamma)\mathrm{d}S
-\]</span></p>
-<p><span class="math display">\[ \because
-\cos\beta=\frac{-f^{&#39;}_y}{\sqrt{1+f^{&#39;2}_x+f^{&#39;2}_y}},\;\cos\gamma=\frac{1}{\sqrt{1+f^{&#39;2}_x+f^{&#39;2}_y}}
-\]</span></p>
-<p><span class="math display">\[ \therefore
-\cos\beta=-f^{&#39;}_y\cos\gamma \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \Rightarrow \iint_{\Sigma}(\frac{\partial P}{\partial
-z}\mathrm{d}z\mathrm{d}x-\frac{\partial P}{\partial
-y}\mathrm{d}x\mathrm{d}y)&amp;=-\iint_{\Sigma}(\frac{\partial
-P}{\partial z}f^{&#39;}_y\cos\gamma+\frac{\partial P}{\partial
-y}\cos\gamma)\mathrm{d}S\\
-    &amp;=-\iint_{D_{xy}}(\frac{\partial P}{\partial
-z}f^{&#39;}_y+\frac{\partial P}{\partial y})\mathrm{d}x\mathrm{d}y\\
-    &amp;=-\iint_{D_{xy}}(\frac{\partial}{\partial
-y}P[x,y,f(x,y)])\mathrm{d}x\mathrm{d}y\\
-    &amp;=\oint_L P\mathrm{d}x
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \therefore \oint_L
-P\mathrm{d}x+Q\mathrm{d}y+R\mathrm{d}z=\iint_{\Sigma}(\frac{\partial
-R}{\partial y}-\frac{\partial Q}{\partial
-z})\mathrm{d}y\mathrm{d}z+(\frac{\partial P}{\partial z}-\frac{\partial
-R}{\partial x})\mathrm{d}z\mathrm{d}x+(\frac{\partial Q}{\partial
-x}-\frac{\partial P}{\partial y})\mathrm{d}x\mathrm{d}y \]</span></p>
-<h3 id="环流量">环流量</h3>
-<p><span class="math display">\[
-\oint_L\boldsymbol{A}\cdot\boldsymbol{\tau}\mathrm{d}s=\oint_L\boldsymbol{A}\mathrm{d}\boldsymbol{r}=\oint_L
-P\mathrm{d}x+Q\mathrm{d}y+R\mathrm{d}z \]</span></p>
-<h3 id="旋度">旋度</h3>
-<p><span class="math display">\[
-\mathbf{rot}\;\boldsymbol{A}=\nabla\times\boldsymbol{A}=\begin{vmatrix}
-    \boldsymbol{i}&amp;\boldsymbol{j}&amp;\boldsymbol{k}\\
-    \displaystyle\frac{\partial}{\partial
-x}&amp;\displaystyle\frac{\partial}{\partial
-y}&amp;\displaystyle\frac{\partial}{\partial z}\\
-    P&amp;Q&amp;R
-\end{vmatrix} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -1892,6 +1124,154 @@ t, -r\omega^2\sin\omega t) \]</span></p>
       </categories>
   </entry>
   <entry>
+    <title>复数与三角</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E5%A4%8D%E6%95%B0%E4%B8%8E%E4%B8%89%E8%A7%92/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="复数的三角表示">复数的三角表示</h3>
+<p><span class="math display">\[ z = r(\cos\theta +
+\mathrm{i}\sin\theta) \]</span></p>
+<span id="more"></span>
+<h3
+id="复数三角形式的乘除乘方开方运算">复数三角形式的乘除、乘方、开方运算</h3>
+<h4 id="公式">公式</h4>
+<p>对于乘除：模相乘，角相加</p>
+<p><span class="math display">\[ z_{1} * z_{2} = r_{1} *
+r_{2}(\cos(θ_{1} + θ_{2}) + \mathrm{i}\sin(θ_{1} + θ_{2})) \]</span></p>
+<p><span class="math display">\[ \frac{z_1}{z_2} =
+\frac{r_1}{r_2}(\cos(θ_{1} - θ_{2}) + \mathrm{i}\sin(θ_{1} - θ_{2}))
+\]</span></p>
+<p><span class="math display">\[ z^n = r^n(\cos(n\theta) +
+\mathrm{i}\sin(n\theta)) \]</span></p>
+<p><span class="math display">\[ z^{\frac{1}{n}} =
+r^{\frac{1}{n}}(\cos((θ+2kπ)/n) + \mathrm{i}\sin((θ+2kπ)/n))
+\]</span></p>
+<p>模为一时的乘方公式又名棣莫弗公式</p>
+<p>由于开方时，最小正周期2kπ乘的是一个小于1的数，那么它就不再是周期，加上θ后的余弦值也会不同，因此需要在公式中写出。</p>
+<p>但乘方就没有这种问题。</p>
+<h4 id="证明">证明</h4>
+<p>乘除：把两个复数列出来，死算</p>
+<p>乘方开方：数学归纳法</p>
+<h4 id="应用">应用</h4>
+<ol type="1">
+<li>解方程：形如<span class="math inline">\(z^n =
+z_0\)</span>的方程都可通过开方来解</li>
+<li>见<a href="#n倍角公式"><span
+class="math inline">\(\cos(nθ)、\sin(nθ)\)</span></a></li>
+<li>见<a href="#n次方角公式"><span
+class="math inline">\(\cos^nθ、\sin^nθ\)</span></a></li>
+</ol>
+<h4 id="解复数方程的延伸">解复数方程的延伸</h4>
+<p>一个定理：<span class="math inline">\(z^n =
+1\)</span>的各根之和为0</p>
+<h3 id="欧拉公式">欧拉公式</h3>
+<p>连接实数和虚数的公式</p>
+<p><span class="math display">\[ \mathrm{e}^{\mathrm{i}θ} = \cosθ +
+\mathrm{i}\sinθ \]</span></p>
+<h4 id="证明-1">证明</h4>
+<ol type="1">
+<li><p>泰勒展开，把<span
+class="math inline">\(\mathrm{e}^x\)</span>展开成<span
+class="math inline">\(\cos x\)</span>和<span class="math inline">\(\sin
+x\)</span></p></li>
+<li><p>对<span class="math inline">\(e^{iθ}\)</span>求导，求出<span
+class="math inline">\(ie^{iθ}\)</span>，再作图，发现图像为圆，代上圆的参数方程</p></li>
+</ol>
+<h4 id="应用-1">应用</h4>
+<ol type="1">
+<li>复数的新表示方法，非常简便</li>
+</ol>
+<p><span class="math display">\[ z = r\mathrm{e}^{\mathrm{i}θ}
+\]</span></p>
+<ol start="2" type="1">
+<li></li>
+</ol>
+<p><span class="math display">\[ \mathrm{e}^{\mathrm{i}π} + 1 = 0
+\]</span></p>
+<ol start="3" type="1">
+<li>证明负负得正，这件事听起来很扯，但五年级学负数的时候不可能来证明这个</li>
+</ol>
+<p><span class="math display">\[ (-1) * (-1) = \mathrm{e}^{\mathrm{i}π}
+* \mathrm{e}^{\mathrm{i}π} = \mathrm{e}^{\mathrm{i}(π + π)} =
+e^{2π\mathrm{i}} = 1 \]</span></p>
+<h3 id="cosnθsinnθ展开"><span id="n倍角公式"> <span
+class="math inline">\(\cos(nθ)、\sin(nθ)\)</span>展开 </span></h3>
+<p>这里只讲怎么从复数的角度来展开（公式还不会）</p>
+<p><span class="math display">\[ (\cosθ + \mathrm{i}\sinθ)^n = \cos(nθ)
++ \mathrm{i}\sin(nθ) \tag{1} \]</span> <span class="math display">\[
+(\cosθ + \mathrm{i}\sinθ)^n = \cos^nθ +
+C_{n}^1\cos^{n-1}θ\mathrm{i}\sinθ + ... +\mathrm{i}^n\sin^nθ \tag{2}
+\]</span></p>
+<p>将二式的实部和虚部分离，和一式对应起来，再用<span
+class="math inline">\(\sin^2θ+\cos^2θ = 1\)</span>化简即可</p>
+<h3 id="cosnθsinnθ展开-1"><span id="n次方角公式"> <span
+class="math inline">\(\cos^nθ、\sin^nθ\)</span>展开 </span></h3>
+<p><big> n为偶数时: </big></p>
+<p><span class="math display">\[ \cos^nθ =
+\frac{2[C_{n}^0\cos(nθ)+C_{n}^1\cos(n-2)θ+...+C_{n}^{\frac{n}{2}-1}\cos2θ]+C_{n}^\frac{n}{2}}{2^n}
+\]</span></p>
+<p><span class="math display">\[ \sin^nθ =
+\frac{2[C_{n}^0\cos(nθ)-C_{n}^1\cos(n-2)θ+...+(-1)^{\frac{n}{2}-1}C_{n}^{\frac{n}{2}-1}\cos2θ]+(-1)^{\frac{n}{2}}C_{n}^\frac{n}{2}}{2^n(-1)^{\frac{n}{2}}}
+\]</span></p>
+<p><big> n为奇数时: </big></p>
+<p><span class="math display">\[ \cos^nθ =
+\frac{C_{n}^0\cos(nθ)+C_{n}^1\cos(n-2)θ+...+C_{n}^{\frac{n-1}{2}}\cosθ}{2^{n-1}}
+\]</span></p>
+<p><span class="math display">\[ \sin^nθ =
+\frac{C_{n}^0\sin(nθ)-C_{n}^1\sin(n-2)θ+...+(-1)^{\frac{n-1}{2}}C_{n}^{\frac{n-1}{2}}\sinθ}{2^{n-1}(-1)^{\frac{n-1}{2}}}
+\]</span></p>
+<h4 id="证明-2">证明</h4>
+<ol type="1">
+<li>从头推导</li>
+</ol>
+<p>基础公式：</p>
+<p><span class="math display">\[ z = \mathrm{e}^{\mathrm{i}θ}:
+\]</span></p>
+<p><span class="math display">\[ z + \frac{1}{z} = 2\cosθ \]</span></p>
+<p><span class="math display">\[ z - \frac{1}{z} = 2\mathrm{i}\sinθ
+\]</span></p>
+<p><span class="math display">\[ z^n + \frac{1}{z^n} = 2\cos(nθ)
+\]</span></p>
+<p><span class="math display">\[ z^n - \frac{1}{z^n} =
+2\mathrm{i}\sin(nθ) \]</span></p>
+<p>然后：(n为偶数)</p>
+<p><span class="math display">\[ (z + \frac{1}{z})^n = (2\cosθ)^n =
+2^n\cos^nθ \tag{1}\]</span></p>
+<p><span class="math display">\[ (z + \frac{1}{z})^n = C_{n}^0z^n + +
+... +
+C_{n}^{\frac{n}{2}-1}z^2+C_{n}^{\frac{n}{2}}+C_{n}^{\frac{n}{2}+1}\frac{1}{z^2}+...+
+C_{n}^{n}\frac{1}{z^n}\]</span></p>
+<p><span class="math display">\[ (z + \frac{1}{z})^n =
+C_{n}^0*2\cos(nθ)+C_{n}^1*2\cos(n-2)θ+...+C_{n}^{\frac{n}{2}-1}*2\cos2θ
++ C_{n}^{\frac{n}{2}} \tag{2}\]</span></p>
+<p>联立一式二式并化简：</p>
+<p><span class="math display">\[ \cos^nθ =
+\frac{2[C_{n}^0\cos(nθ)+C_{n}^1\cos(n-2)θ+...+C_{n}^{\frac{n}{2}-1}\cos2θ]+C_{n}^\frac{n}{2}}{2^n}
+\]</span></p>
+<p>其他公式也同理</p>
+<ol start="2" type="1">
+<li>万能的数学归纳法</li>
+</ol>
+<h4 id="应用-2">应用</h4>
+<p>求积分</p>
+<p>可以把任意的<span class="math inline">\(\cos^nθ\)</span>或<span
+class="math inline">\(\sin^nθ\)</span>展开成关于θ的一次三角多项式，这样求积分就很方便了</p>
+<p>如求<span class="math inline">\(\int(\sin^4x)dx\)</span>，则</p>
+<p><span class="math display">\[ \int(\sin^4x)\mathrm{d}x =
+\int(\frac{1}{8}\cos4x-\frac{1}{2}\cos2x+\frac{3}{8})\mathrm{d}x
+\]</span></p>
+<p><span class="math display">\[ \int(\sin^4x)\mathrm{d}x =
+\frac{1}{32}\sin4x-\frac{1}{4}\sin2x+\frac{3}{8}x+\mathrm{C}
+\]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
     <title>极坐标系</title>
     <url>/%E6%95%B0%E5%AD%A6/%E6%9E%81%E5%9D%90%E6%A0%87%E7%B3%BB/</url>
     <content><![CDATA[<b>
@@ -1981,6 +1361,375 @@ Case 2 无凹口
 <p><span
 class="math inline">\(\theta\)</span>有两个解，所以图像无凹口</p>
 </details>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>曲线与曲面积分</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E7%BA%BF%E4%B8%8E%E6%9B%B2%E9%9D%A2%E7%A7%AF%E5%88%86/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h2 id="曲线积分">曲线积分</h2>
+<h3 id="对弧长的曲线积分">对弧长的曲线积分</h3>
+<h4 id="定义">定义</h4>
+<p><span class="math display">\[ \int_Lf(x,y)\mathrm{d}s=\lim_{\lambda
+\to 0}\sum_{i=1}^nf(\xi_i,\eta_i)\Delta s_i \]</span></p>
+<span id="more"></span>
+<h4 id="计算">计算</h4>
+<p><span class="math display">\[ \begin{cases}
+    x=\varphi(t)\\
+    y=\psi(t)
+\end{cases},\;t_1\leq t\leq t_2\colon \]</span></p>
+<p><span class="math display">\[
+\int_Lf(x,y)\mathrm{d}s=\int_{t_1}^{t_2}f(\varphi(t),
+\psi(t))\sqrt{(\varphi(t)^{&#39;})^2+(\psi(t)^{&#39;})^2}\mathrm{d}t
+\]</span></p>
+<h3 id="对坐标的曲线积分">对坐标的曲线积分</h3>
+<h4 id="定义-1">定义</h4>
+<p><span class="math display">\[
+\int_L\boldsymbol{F}\mathrm{d}\boldsymbol{r}=\int_LP(x,y)\mathrm{d}x+Q(x,y)\mathrm{d}y
+\]</span></p>
+<h4 id="计算-1">计算</h4>
+<p><span class="math display">\[ \begin{cases}
+    x=\varphi(t)\\
+    y=\psi(t)
+\end{cases},\;t_1\leq t\leq t_2\colon \]</span></p>
+<p><span class="math display">\[
+\int_LP(x,y)\mathrm{d}x+Q(x,y)\mathrm{d}y=\int_{t_1}^{t_2}(P(\varphi(t),
+\psi(t))\varphi^{&#39;}(t)+Q(\varphi(t),
+\psi(t))\psi^{&#39;}(t))\mathrm{d}t \]</span></p>
+<h3 id="两类曲线积分关系">两类曲线积分关系</h3>
+<p><span class="math display">\[ \boldsymbol{\tau}=(\cos\alpha,
+\cos\beta) \]</span></p>
+<p><span class="math display">\[
+\int_L\boldsymbol{A}\mathrm{d}\boldsymbol{r}=\int_L\boldsymbol{A}\cdot\boldsymbol{\tau}\mathrm{d}s
+\]</span></p>
+<h4 id="证明">证明</h4>
+<p><span class="math display">\[ \boldsymbol{r}=(\varphi(t), \psi(t))
+\]</span></p>
+<p><span class="math display">\[
+令\cos\alpha=\frac{\varphi^{&#39;}(t)}{\sqrt{(\varphi^{&#39;}(t))^2+(\psi^{&#39;}(t))^2}},\cos\beta=\frac{\psi^{&#39;}(t)}{\sqrt{(\varphi^{&#39;}(t))^2+(\psi^{&#39;}(t))^2}}
+\]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \int_{L}(P\cos\alpha+Q\cos\beta)\mathrm{d}s&amp;=\int_{L}(P\cos\alpha+Q\cos
+\beta)\sqrt{(\varphi^{&#39;}(t))^2+(\psi^{&#39;}(t))^2}\mathrm{d}t\\
+    &amp;=\int_L (P\varphi^{&#39;}(t)+Q\psi^{&#39;}(t))\mathrm{d}t\\
+    &amp;=\int_L P\mathrm{d}x+Q\mathrm{d}y
+\end{align*} \]</span></p>
+<h3 id="格林公式">格林公式</h3>
+<p><span class="math display">\[ \iint_{D}(\frac{\partial Q}{\partial
+x}-\frac{\partial P}{\partial y})\mathrm{d}x\mathrm{d}y=\oint
+P\mathrm{d}x+Q\mathrm{d}y \]</span></p>
+<h4 id="意义">意义</h4>
+<p><span class="math display">\[
+把关于区域D内一切点的二重积分，转化成了只与区域边界有关的曲线积分
+\]</span></p>
+<h4 id="证明-1">证明</h4>
+<p>把区域D切成很多个小正方形，再对其中每一个的边界求曲线积分，会发现互相重合的积分抵消了，只剩下最外围的一圈。所以对任意区域D边界的曲线积分，就可以把它算成所有正方形的曲线积分元素之和。</p>
+<p><span class="math display">\[ 对于单个正方形M_1M_2M_3M_4\colon
+M_1(a_0,b_0),M_2(a_1,b_0),M_3(a_1,b_1),M_4(a_0,b_1) \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \int_{L_0}P\mathrm{d}x+Q\mathrm{d}y&amp;=\int_{M_1M_2}P\mathrm{d}x+\int_{M_2M_3}Q\mathrm{d}y+\int_{M_3M_4}P\mathrm{d}x+\int_{M_4M_1}Q\mathrm{d}y\\
+    &amp;=\int^{a_1}_{a_0}P(x,b_0)\mathrm{d}x+\int^{b_1}_{b_0}Q(a_1,y)\mathrm{d}y+\int^{a_0}_{a_1}P(x,b_1)\mathrm{d}x+\int^{b_0}_{b_1}Q(a_0,y)\mathrm{d}y\\
+    &amp;=\int^{b_1}_{b_0}[Q(a_1,y)-Q(a_0,y)]\mathrm{d}y-\int^{a_1}_{a_0}[P(x,b_1)-P(x,b_0)]\mathrm{d}x
+\\
+    &amp;=\int^{b_1}_{b_0}[\int^{a_1}_{a_0}\frac{\partial Q}{\partial
+x}\mathrm{d}x]\mathrm{d}y-\int^{a_1}_{a_0}[\int^{b_1}_{b_0}\frac{\partial
+P}{\partial y}\mathrm{d}y]\mathrm{d}x\\
+    &amp;=\iint_{cube}(\frac{\partial Q}{\partial x}-\frac{\partial
+P}{\partial y})\mathrm{d}x\mathrm{d}y
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \therefore
+\oint_LP\mathrm{d}x+Q\mathrm{d}y= \iint_{D}(\frac{\partial Q}{\partial
+x}-\frac{\partial P}{\partial y})\mathrm{d}x\mathrm{d}y \]</span></p>
+<h4 id="应用">应用</h4>
+<h5 id="曲线积分与路径无关条件">曲线积分与路径无关条件</h5>
+<p><span class="math display">\[ \frac{\partial P}{\partial
+y}=\frac{\partial Q}{\partial x} \]</span></p>
+<h6 id="证明-2">证明</h6>
+<p><span class="math display">\[ \int_{L_1}
+P\mathrm{d}x+Q\mathrm{d}y=\int_{L_2} P\mathrm{d}x+Q\mathrm{d}y
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\int_{L_1+\overline{L_2}}P\mathrm{d}x+Q\mathrm{d}y=0 \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\int_{L_1+\overline{L_2}}(\frac{\partial P}{\partial y}-\frac{\partial
+Q}{\partial x})\mathrm{d}x\mathrm{d}y=0 \]</span></p>
+<p><span class="math display">\[ \therefore \frac{\partial P}{\partial
+y}=\frac{\partial Q}{\partial x} \]</span></p>
+<h5 id="全微分求积分">全微分求积分</h5>
+<p><span class="math display">\[
+u(x,y)=P(x,y)\mathrm{d}x+Q(x,y)\mathrm{d}y \]</span></p>
+<p><span class="math display">\[ 条件\colon \frac{\partial P}{\partial
+y}=\frac{\partial Q}{\partial x} \]</span></p>
+<h6 id="积分路线法">积分路线法</h6>
+<p><span class="math display">\[ \begin{align*}
+    u(x,y)&amp;=\int^{(x,y)}_{(x_0,y_0)}P(x,y)\mathrm{d}x+Q(x,y)\mathrm{d}y\\
+    &amp;=\int^{(x,y_0)}_{(x_0,y_0)}P(x,y_0)\mathrm{d}x+\int^{(x,y)}_{(x,y_0)}Q(x,y)\mathrm{d}y
+\end{align*} \]</span></p>
+<h6 id="偏积分法">偏积分法</h6>
+<p><span class="math display">\[ \begin{cases}
+    u=\displaystyle\int P(x,y)\mathrm{d}x+\varphi(y)\\
+    u=\displaystyle\int Q(x,y)\mathrm{d}y+\psi(x)
+\end{cases} \]</span></p>
+<h3 id="曲线积分基本定理">曲线积分基本定理</h3>
+<p><span class="math display">\[ \int_L \nabla
+f\cdot\mathrm{d}\boldsymbol{r}=f(\boldsymbol{r}(b))-f(\boldsymbol{r}(a))
+\]</span></p>
+<h4 id="证明-3">证明</h4>
+<p><span class="math display">\[ 令\boldsymbol{r}=(\varphi(t),
+\psi(t)),\; a\leq t\leq b \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \nabla
+f\cdot\frac{\mathrm{d}\boldsymbol{r}}{\mathrm{d}t}&amp;=(f_x^{&#39;},f_y^{&#39;})\cdot(\varphi^{&#39;}(t),
+\psi^{&#39;}(t))\\
+    &amp;=f_x^{&#39;}\varphi^{&#39;}(t)+f_y^{&#39;}\psi^{&#39;}(t)\\
+    &amp;=\frac{\mathrm{d}f}{\mathrm{d}t}
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \Rightarrow \nabla f\cdot
+\mathrm{d}\boldsymbol{r}=\mathrm{d}f \]</span></p>
+<p><span class="math display">\[ \Rightarrow \int_L \nabla
+f\cdot\mathrm{d}\boldsymbol{r}=\int^{\boldsymbol{r}(b)}_{\boldsymbol{r}(a)}\mathrm{d}f=f(\boldsymbol{r}(b))-f(\boldsymbol{r}(a))
+\]</span></p>
+<h2 id="曲面积分">曲面积分</h2>
+<h3 id="对面积曲面积分">对面积曲面积分</h3>
+<h4 id="定义-2">定义</h4>
+<p><span class="math display">\[
+\iint_{\Sigma}f(x,y,z)\mathrm{d}S=\lim_{\lambda \to
+0}\sum^n_{i=1}f(\xi_i,\eta_i,\zeta_i)\Delta S \]</span></p>
+<h4 id="计算-2">计算</h4>
+<p><span class="math display">\[
+\iint_{\Sigma}f(x,y,z)\mathrm{d}S=\iint_{D_{xy}}f(x,y,z(x,y))\sqrt{1+z_x^{&#39;2}+z_y^{&#39;2}}\mathrm{d}x\mathrm{d}y
+\]</span></p>
+<h3 id="对坐标曲面积分">对坐标曲面积分</h3>
+<h4 id="定义-3">定义</h4>
+<p><span class="math display">\[
+\iint_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}=\iint_{\Sigma}P(x,y,z)\mathrm{d}y\mathrm{d}z+Q(x,y,z)\mathrm{d}z\mathrm{d}x+R(x,y,z)\mathrm{d}x\mathrm{d}y
+\]</span></p>
+<h4 id="计算-3">计算</h4>
+<p><span class="math display">\[
+\iint_{\Sigma}P(x,y,z)\mathrm{d}y\mathrm{d}z=\pm\iint_{D_{yz}}P(x(y,z),y,z)\mathrm{d}y\mathrm{d}z
+\]</span></p>
+<p><span class="math display">\[
+\iint_{\Sigma}Q(x,y,z)\mathrm{d}z\mathrm{d}x=\pm\iint_{D_{xz}}P(x,y(x,z),z)\mathrm{d}z\mathrm{d}x
+\]</span></p>
+<p><span class="math display">\[
+\iint_{\Sigma}R(x,y,z)\mathrm{d}x\mathrm{d}y=\pm\iint_{D_{xy}}P(x,y,z(x,y))\mathrm{d}x\mathrm{d}y
+\]</span></p>
+<h3 id="两类曲面积分关系">两类曲面积分关系</h3>
+<p><span class="math display">\[
+\iint_{\Sigma}\boldsymbol{A}\cdot\boldsymbol{n}\mathrm{d}S=\iint_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}
+\]</span></p>
+<h3 id="高斯公式">高斯公式</h3>
+<p><span class="math display">\[ {\int\kern{-7pt}\int \kern{-24mu}
+\bigcirc}_{\Sigma}P\mathrm{d}y\mathrm{d}z+Q\mathrm{d}z\mathrm{d}x+R\mathrm{d}x\mathrm{d}y=\iiint_{\Omega}(\frac{\partial
+P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial
+z})\mathrm{d}V \]</span></p>
+<p><span class="math display">\[ {\int\kern{-7pt}\int \kern{-24mu}
+\bigcirc}_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}=\iiint_{\Omega}\text{div}\;
+\boldsymbol{A}\mathrm{d}V \]</span></p>
+<h4 id="通量">通量</h4>
+<p><span class="math display">\[
+\Phi=\iint_{\Sigma}\boldsymbol{A}\cdot\boldsymbol{n}\mathrm{d}S=\iint_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}=\iint_{\Sigma}P\mathrm{d}y\mathrm{d}z+Q\mathrm{d}z\mathrm{d}x+R\mathrm{d}x\mathrm{d}y
+\]</span></p>
+<h4 id="散度">散度</h4>
+<p><span class="math display">\[ \text{div}\;
+\boldsymbol{A}=\nabla\cdot\boldsymbol{A}=\frac{\partial P}{\partial
+x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z}
+\]</span></p>
+<h4 id="意义-1">意义</h4>
+<ol type="1">
+<li>指出立体图形边界和内部的关系</li>
+<li>指出通量等于散度</li>
+<li>计算曲面积分时，把三个二重积分转化成了一个三重积分</li>
+</ol>
+<h3 id="证明阿基米德原理">证明阿基米德原理</h3>
+<p><span class="math display">\[ \begin{align*}
+    \boldsymbol{F}&amp;=({\int\kern{-7pt}\int \kern{-24mu} \bigcirc}\rho
+gz\cos\alpha\mathrm{d}S,{\int\kern{-7pt}\int \kern{-24mu} \bigcirc}\rho
+gz\cos\beta\mathrm{d}S,{\int\kern{-7pt}\int \kern{-24mu} \bigcirc}\rho
+gz\cos\gamma\mathrm{d}S)\\
+    &amp;=(0,0,\rho g\iiint_{\Omega}\mathrm{d}V)\\
+    &amp;=(0,0,\rho gV)
+\end{align*} \]</span></p>
+<h2 id="斯托克斯公式">斯托克斯公式</h2>
+<p><span class="math display">\[ \begin{align*}
+    \oint_{L}P\mathrm{d}x+Q\mathrm{d}y+R\mathrm{d}z&amp;=\iint_{\Sigma}\begin{vmatrix}
+        \mathrm{d}y\mathrm{d}z&amp;\mathrm{d}z\mathrm{d}x&amp;\mathrm{d}x\mathrm{d}y\\
+        \displaystyle\frac{\partial}{\partial
+x}&amp;\displaystyle\frac{\partial}{\partial
+y}&amp;\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R\\        
+    \end{vmatrix}\\
+    &amp;=\iint_{\Sigma}\begin{vmatrix}
+        \cos\alpha&amp;\cos\beta&amp;\cos\gamma\\
+        \displaystyle\frac{\partial}{\partial
+x}&amp;\displaystyle\frac{\partial}{\partial
+y}&amp;\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R\\   
+    \end{vmatrix}\mathrm{d}S
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \oint_L
+\boldsymbol{A}\cdot\boldsymbol{\tau}\mathrm{d}s=\iint_{\Sigma}\mathbf{rot}\;\boldsymbol{A}\cdot\boldsymbol{n}\mathrm{d}S
+\]</span></p>
+<h3 id="证明-4">证明</h3>
+<p><span class="math display">\[ \iint_{\Sigma}(\frac{\partial
+P}{\partial z}\mathrm{d}z\mathrm{d}x-\frac{\partial P}{\partial
+y}\mathrm{d}x\mathrm{d}y)=\iint_{\Sigma}(\frac{\partial P}{\partial
+z}\cos\beta-\frac{\partial P}{\partial y}\cos\gamma)\mathrm{d}S
+\]</span></p>
+<p><span class="math display">\[ \because
+\cos\beta=\frac{-f^{&#39;}_y}{\sqrt{1+f^{&#39;2}_x+f^{&#39;2}_y}},\;\cos\gamma=\frac{1}{\sqrt{1+f^{&#39;2}_x+f^{&#39;2}_y}}
+\]</span></p>
+<p><span class="math display">\[ \therefore
+\cos\beta=-f^{&#39;}_y\cos\gamma \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \Rightarrow \iint_{\Sigma}(\frac{\partial P}{\partial
+z}\mathrm{d}z\mathrm{d}x-\frac{\partial P}{\partial
+y}\mathrm{d}x\mathrm{d}y)&amp;=-\iint_{\Sigma}(\frac{\partial
+P}{\partial z}f^{&#39;}_y\cos\gamma+\frac{\partial P}{\partial
+y}\cos\gamma)\mathrm{d}S\\
+    &amp;=-\iint_{D_{xy}}(\frac{\partial P}{\partial
+z}f^{&#39;}_y+\frac{\partial P}{\partial y})\mathrm{d}x\mathrm{d}y\\
+    &amp;=-\iint_{D_{xy}}(\frac{\partial}{\partial
+y}P[x,y,f(x,y)])\mathrm{d}x\mathrm{d}y\\
+    &amp;=\oint_L P\mathrm{d}x
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \therefore \oint_L
+P\mathrm{d}x+Q\mathrm{d}y+R\mathrm{d}z=\iint_{\Sigma}(\frac{\partial
+R}{\partial y}-\frac{\partial Q}{\partial
+z})\mathrm{d}y\mathrm{d}z+(\frac{\partial P}{\partial z}-\frac{\partial
+R}{\partial x})\mathrm{d}z\mathrm{d}x+(\frac{\partial Q}{\partial
+x}-\frac{\partial P}{\partial y})\mathrm{d}x\mathrm{d}y \]</span></p>
+<h3 id="环流量">环流量</h3>
+<p><span class="math display">\[
+\oint_L\boldsymbol{A}\cdot\boldsymbol{\tau}\mathrm{d}s=\oint_L\boldsymbol{A}\mathrm{d}\boldsymbol{r}=\oint_L
+P\mathrm{d}x+Q\mathrm{d}y+R\mathrm{d}z \]</span></p>
+<h3 id="旋度">旋度</h3>
+<p><span class="math display">\[
+\mathbf{rot}\;\boldsymbol{A}=\nabla\times\boldsymbol{A}=\begin{vmatrix}
+    \boldsymbol{i}&amp;\boldsymbol{j}&amp;\boldsymbol{k}\\
+    \displaystyle\frac{\partial}{\partial
+x}&amp;\displaystyle\frac{\partial}{\partial
+y}&amp;\displaystyle\frac{\partial}{\partial z}\\
+    P&amp;Q&amp;R
+\end{vmatrix} \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>某值定理杂烩</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E6%9F%90%E5%80%BC%E5%AE%9A%E7%90%86%E6%9D%82%E7%83%A9/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="极值定理">极值定理</h3>
+<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b], \]</span>
+<span class="math display">\[ \exists c,d\in[a, b], \text{s.t.}\,
+f(c)=f(x)_{min},\,f(d)=f(x)_{max} \]</span></p>
+<span id="more"></span>
+<h3 id="介值定理">介值定理</h3>
+<p><span class="math display">\[ f(x)\in \mathrm{C}[a, b],\, f(a)\neq
+f(b) \]</span></p>
+<p><span class="math display">\[ \forall N\in (f(a), f(b)), \exists c\in
+(a, b), \text{s.t.}\,f(c)=N \]</span></p>
+<h3 id="罗尔中值定理">罗尔中值定理</h3>
+<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b],\,
+f(x)在(a,b)可导,\,f(a)=f(b) \]</span></p>
+<p><span class="math display">\[ \exists c\in(a,b), \text{s.t.}\,
+f^{&#39;}(c)=0 \]</span></p>
+<h4 id="证明">证明</h4>
+<details>
+<summary>
+Case 1 f(x) = f(a)
+</summary>
+<p><span class="math display">\[ \text{Case 1}\colon f(x)=f(a)
+\]</span></p>
+<p><span class="math display">\[ 显然\,\exists c\in(a,b), \text{s.t.}\,
+f^{&#39;}(c)=0 \]</span></p>
+</details>
+<details>
+<summary>
+Case 2 f(x) &gt; f(a)
+</summary>
+<p><span class="math display">\[ \text{Case 2}\colon f(x)&gt;f(a)
+\]</span></p>
+<p><span class="math display">\[ 由极值定理\colon\exists f(x)_{max}
+\]</span></p>
+<p><span class="math display">\[ \therefore \exists c\in(a,b),
+\text{s.t.}\, f^{&#39;}(c)=0 \]</span></p>
+</details>
+<details>
+<summary>
+Case 3 f(x) &lt; f(a)
+</summary>
+<p><span class="math display">\[ \text{Case 3}\colon f(x)&lt;f(a)
+\]</span></p>
+<p><span class="math display">\[ 由极值定理\colon\exists f(x)_{min}
+\]</span></p>
+<p><span class="math display">\[ \therefore \exists c\in(a,b),
+\text{s.t.}\, f^{&#39;}(c)=0 \]</span></p>
+</details>
+<h3 id="拉格朗日中值定理">拉格朗日中值定理</h3>
+<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b],\,
+f(x)在(a,b)可导 \]</span></p>
+<p><span class="math display">\[ \exists c\in(a,b), \text{s.t.}\,
+f^{&#39;}(c)=\frac{f(b)-f(a)}{b-a} \]</span></p>
+<h4 id="证明-1">证明</h4>
+<p><span class="math display">\[ 令g(x)=f(x)-\frac{f(b)-f(a)}{b-a}x
+\]</span></p>
+<p><span class="math display">\[
+g(a)=f(a)-\frac{f(b)-f(a)}{b-a}a=\frac{bf(a)-af(b)}{b-a} \]</span></p>
+<p><span class="math display">\[
+g(b)=f(b)-\frac{f(b)-f(a)}{b-a}b=\frac{bf(a)-af(b)}{b-a} \]</span></p>
+<p><span class="math display">\[ \Rightarrow g(a)=g(b) \]</span></p>
+<p><span class="math display">\[ \Rightarrow \exists c\in(a,b),
+\text{s.t.}\, g^{&#39;}(c)=0 \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+f^{&#39;}(c)-\frac{f(b)-f(a)}{b-a}=0 \]</span></p>
+<p><span class="math display">\[ \therefore \exists c\in(a,b),
+\text{s.t.}\, f^{&#39;}(c)=\frac{f(b)-f(a)}{b-a} \]</span></p>
+<h3 id="柯西中值定理">柯西中值定理</h3>
+<p><span class="math display">\[ f(x),g(x)\in\mathrm{C}[a, b],\,
+f(x)与g(x)在(a,b)可导 \]</span></p>
+<p><span class="math display">\[ \exists \xi\in(a,b), \text{s.t.}\,
+\frac{f^{&#39;}(\xi)}{g^{&#39;}(\xi)}=\frac{f(b)-f(a)}{g(b)-g(a)}
+\,(g^{&#39;}(\xi)\neq 0)\]</span></p>
+<h4 id="证明-2">证明</h4>
+<p><span class="math display">\[ f^{&#39;}(\xi)=\frac{f(b)-f(a)}{b-a}
+\]</span></p>
+<p><span class="math display">\[ g^{&#39;}(\xi)=\frac{g(a)-g(b)}{b-a}
+\]</span></p>
+<p><span class="math display">\[ \therefore
+\frac{f^{&#39;}(\xi)}{g^{&#39;}(\xi)}=\frac{f(b)-f(a)}{g(b)-g(a)}
+\]</span></p>
+<h3 id="泰勒中值定理">泰勒中值定理</h3>
+<p><span
+class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n+R_n(x)
+\]</span></p>
+<p><span class="math display">\[
+R_n(x)=\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1} \;(\xi \in (x,x_0))
+\]</span></p>
+<h4 id="证明-3">证明</h4>
+<p><span class="math display">\[ R_n(x_0)=R_n^{&#39;}(x_0)=\dots
+=R_n^{(n)}(x_0)=0 \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \frac{R_n(x)}{(x-x_0)^{n+1}}&amp;=\frac{R_n(x)-R_n(x_0)}{(x-x_0)^{n+1}-(x_0-x_0)^{n+1}}
+\\
+    &amp;=\frac{R_n^{&#39;}(\xi)}{(n+1)(x-x_0)^n} \\
+    &amp;\dots \\
+    &amp;=\frac{R_n^{(n+1)}(\xi)}{(n+1)!} \\
+    &amp;=\frac{f^{(n+1)}(\xi)}{(n+1)!}
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \therefore
+R_n(x)=\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -2279,119 +2028,6 @@ y_1=4 \]</span></p>
 \infty}[(1+\frac{1}{n})^n\cdot(1+\frac{1}{n})]=\mathrm{e} \]</span></p>
 <p><span class="math display">\[ \therefore \lim_{x\to
 \infty}(1+\frac{1}{x})^x=\mathrm{e} \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>某值定理杂烩</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E6%9F%90%E5%80%BC%E5%AE%9A%E7%90%86%E6%9D%82%E7%83%A9/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="极值定理">极值定理</h3>
-<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b], \]</span>
-<span class="math display">\[ \exists c,d\in[a, b], \text{s.t.}\,
-f(c)=f(x)_{min},\,f(d)=f(x)_{max} \]</span></p>
-<span id="more"></span>
-<h3 id="介值定理">介值定理</h3>
-<p><span class="math display">\[ f(x)\in \mathrm{C}[a, b],\, f(a)\neq
-f(b) \]</span></p>
-<p><span class="math display">\[ \forall N\in (f(a), f(b)), \exists c\in
-(a, b), \text{s.t.}\,f(c)=N \]</span></p>
-<h3 id="罗尔中值定理">罗尔中值定理</h3>
-<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b],\,
-f(x)在(a,b)可导,\,f(a)=f(b) \]</span></p>
-<p><span class="math display">\[ \exists c\in(a,b), \text{s.t.}\,
-f^{&#39;}(c)=0 \]</span></p>
-<h4 id="证明">证明</h4>
-<details>
-<summary>
-Case 1 f(x) = f(a)
-</summary>
-<p><span class="math display">\[ \text{Case 1}\colon f(x)=f(a)
-\]</span></p>
-<p><span class="math display">\[ 显然\,\exists c\in(a,b), \text{s.t.}\,
-f^{&#39;}(c)=0 \]</span></p>
-</details>
-<details>
-<summary>
-Case 2 f(x) &gt; f(a)
-</summary>
-<p><span class="math display">\[ \text{Case 2}\colon f(x)&gt;f(a)
-\]</span></p>
-<p><span class="math display">\[ 由极值定理\colon\exists f(x)_{max}
-\]</span></p>
-<p><span class="math display">\[ \therefore \exists c\in(a,b),
-\text{s.t.}\, f^{&#39;}(c)=0 \]</span></p>
-</details>
-<details>
-<summary>
-Case 3 f(x) &lt; f(a)
-</summary>
-<p><span class="math display">\[ \text{Case 3}\colon f(x)&lt;f(a)
-\]</span></p>
-<p><span class="math display">\[ 由极值定理\colon\exists f(x)_{min}
-\]</span></p>
-<p><span class="math display">\[ \therefore \exists c\in(a,b),
-\text{s.t.}\, f^{&#39;}(c)=0 \]</span></p>
-</details>
-<h3 id="拉格朗日中值定理">拉格朗日中值定理</h3>
-<p><span class="math display">\[ f(x)\in\mathrm{C}[a, b],\,
-f(x)在(a,b)可导 \]</span></p>
-<p><span class="math display">\[ \exists c\in(a,b), \text{s.t.}\,
-f^{&#39;}(c)=\frac{f(b)-f(a)}{b-a} \]</span></p>
-<h4 id="证明-1">证明</h4>
-<p><span class="math display">\[ 令g(x)=f(x)-\frac{f(b)-f(a)}{b-a}x
-\]</span></p>
-<p><span class="math display">\[
-g(a)=f(a)-\frac{f(b)-f(a)}{b-a}a=\frac{bf(a)-af(b)}{b-a} \]</span></p>
-<p><span class="math display">\[
-g(b)=f(b)-\frac{f(b)-f(a)}{b-a}b=\frac{bf(a)-af(b)}{b-a} \]</span></p>
-<p><span class="math display">\[ \Rightarrow g(a)=g(b) \]</span></p>
-<p><span class="math display">\[ \Rightarrow \exists c\in(a,b),
-\text{s.t.}\, g^{&#39;}(c)=0 \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-f^{&#39;}(c)-\frac{f(b)-f(a)}{b-a}=0 \]</span></p>
-<p><span class="math display">\[ \therefore \exists c\in(a,b),
-\text{s.t.}\, f^{&#39;}(c)=\frac{f(b)-f(a)}{b-a} \]</span></p>
-<h3 id="柯西中值定理">柯西中值定理</h3>
-<p><span class="math display">\[ f(x),g(x)\in\mathrm{C}[a, b],\,
-f(x)与g(x)在(a,b)可导 \]</span></p>
-<p><span class="math display">\[ \exists \xi\in(a,b), \text{s.t.}\,
-\frac{f^{&#39;}(\xi)}{g^{&#39;}(\xi)}=\frac{f(b)-f(a)}{g(b)-g(a)}
-\,(g^{&#39;}(\xi)\neq 0)\]</span></p>
-<h4 id="证明-2">证明</h4>
-<p><span class="math display">\[ f^{&#39;}(\xi)=\frac{f(b)-f(a)}{b-a}
-\]</span></p>
-<p><span class="math display">\[ g^{&#39;}(\xi)=\frac{g(a)-g(b)}{b-a}
-\]</span></p>
-<p><span class="math display">\[ \therefore
-\frac{f^{&#39;}(\xi)}{g^{&#39;}(\xi)}=\frac{f(b)-f(a)}{g(b)-g(a)}
-\]</span></p>
-<h3 id="泰勒中值定理">泰勒中值定理</h3>
-<p><span
-class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n+R_n(x)
-\]</span></p>
-<p><span class="math display">\[
-R_n(x)=\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1} \;(\xi \in (x,x_0))
-\]</span></p>
-<h4 id="证明-3">证明</h4>
-<p><span class="math display">\[ R_n(x_0)=R_n^{&#39;}(x_0)=\dots
-=R_n^{(n)}(x_0)=0 \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \frac{R_n(x)}{(x-x_0)^{n+1}}&amp;=\frac{R_n(x)-R_n(x_0)}{(x-x_0)^{n+1}-(x_0-x_0)^{n+1}}
-\\
-    &amp;=\frac{R_n^{&#39;}(\xi)}{(n+1)(x-x_0)^n} \\
-    &amp;\dots \\
-    &amp;=\frac{R_n^{(n+1)}(\xi)}{(n+1)!} \\
-    &amp;=\frac{f^{(n+1)}(\xi)}{(n+1)!}
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \therefore
-R_n(x)=\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -2853,159 +2489,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>读《呐喊》有感</title>
-    <url>/%E8%AF%BB%E5%90%8E%E6%84%9F/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p><b></p>
-<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
-<p></b></p>
-<span id="more"></span>
-<p><b></p>
-<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
-<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
-<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
-<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
-<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
-<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
-<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
-<b>
-<p align="right">
-作于2023年8月
-</p>
-<p></b></p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>读后感</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>空间解析几何</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E7%A9%BA%E9%97%B4%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h2 id="一次">一次</h2>
-<h3 id="空间直线方程">空间直线方程</h3>
-<h4 id="向量方程">向量方程</h4>
-<p><span class="math display">\[
-\boldsymbol{r}=\boldsymbol{a}+t\boldsymbol{b} \]</span></p>
-<p><span class="math display">\[
-(\boldsymbol{r}-\boldsymbol{a})\times\boldsymbol{b}=\boldsymbol{0}
-\]</span></p>
-<span id="more"></span>
-<h4 id="笛卡尔方程">笛卡尔方程</h4>
-<p><span class="math display">\[ \boldsymbol{a}=\begin{pmatrix}
-    x_1\\x_2\\x_3
-\end{pmatrix},\,
-\boldsymbol{b}=\begin{pmatrix}
-    l\\m\\n
-\end{pmatrix} \]</span></p>
-<p><span class="math display">\[
-\frac{x-x_1}{l}=\frac{y-y_1}{m}=\frac{z-z_1}{n}=\lambda \]</span></p>
-<h3 id="空间平面方程">空间平面方程</h3>
-<h4 id="标量方程">标量方程</h4>
-<p><span class="math display">\[ \boldsymbol{r}\cdot\boldsymbol{n}=p
-\]</span></p>
-<h4 id="向量方程-1">向量方程</h4>
-<p><span class="math display">\[
-\boldsymbol{r}=\boldsymbol{a}+\lambda\boldsymbol{b}+\mu\boldsymbol{c}
-\]</span></p>
-<p><span class="math display">\[
-其中\boldsymbol{a}为平面上的点，\boldsymbol{b}和\boldsymbol{c}是向量
-\]</span></p>
-<h4 id="笛卡尔方程-1">笛卡尔方程</h4>
-<p><span class="math display">\[ ax+by+cz+d=0 \]</span></p>
-<h3 id="关系">关系</h3>
-<h4 id="线线">线线</h4>
-<h5 id="共面">共面</h5>
-<p><span class="math display">\[ l_1\colon
-\frac{x-x_1}{l_1}=\frac{y-y_1}{m_1}=\frac{z-z_1}{n_1} \]</span></p>
-<p><span class="math display">\[ l_2\colon
-\frac{x-x_2}{l_2}=\frac{y-y_2}{m_2}=\frac{z-z_2}{n_2} \]</span></p>
-<p><span class="math display">\[ M_1(x_1, y_1, z_1), M_2(x_2, y_2, z_2)
-\]</span></p>
-<p><span class="math display">\[ 充要条件\colon
-\overrightarrow{M_1M_2}\cdot(\boldsymbol{s_1}\times \boldsymbol{s_2})=0
-\]</span></p>
-<h4 id="线面">线面</h4>
-<h5 id="垂直">垂直</h5>
-<p><span class="math display">\[ \boldsymbol{s}=\boldsymbol{n}
-\]</span></p>
-<h5 id="平行">平行</h5>
-<p><span class="math display">\[ \boldsymbol{s}\cdot\boldsymbol{n}=0
-\]</span></p>
-<h4 id="面面">面面</h4>
-<h5 id="垂直-1">垂直</h5>
-<p><span class="math display">\[ \boldsymbol{n_1}\cdot\boldsymbol{n_2}=0
-\]</span></p>
-<h5 id="平行-1">平行</h5>
-<p><span class="math display">\[
-\boldsymbol{n_1}=\lambda\boldsymbol{n_2} \]</span></p>
-<h3 id="夹角">夹角</h3>
-<h4 id="线线夹角">线线夹角</h4>
-<p><span class="math display">\[
-\cos\theta=\bigg|\frac{\boldsymbol{a}\cdot\boldsymbol{b}}{|\boldsymbol{a}||\boldsymbol{b}|}\bigg|
-\]</span></p>
-<h4 id="线面夹角">线面夹角</h4>
-<p><span class="math display">\[
-\sin\theta=\bigg|\frac{\boldsymbol{b}\cdot\boldsymbol{n}}{|\boldsymbol{b}||\boldsymbol{n}|}\bigg|
-\]</span></p>
-<h4 id="面面夹角">面面夹角</h4>
-<p><span class="math display">\[
-\cos\theta=\bigg|\frac{\boldsymbol{n_1}\cdot\boldsymbol{n_2}}{|\boldsymbol{n_1}||\boldsymbol{n_2}|}\bigg|
-\]</span></p>
-<h3 id="异面直线距离">异面直线距离</h3>
-<p><span class="math display">\[
-\boldsymbol{r_1}=\boldsymbol{a}+\lambda\boldsymbol{b},\enspace\boldsymbol{r_2}=\boldsymbol{c}+\mu\boldsymbol{d}\]</span></p>
-<p><span class="math display">\[
-d=\bigg|\frac{(\boldsymbol{a}-\boldsymbol{c})\cdot(\boldsymbol{b}\times\boldsymbol{d})}{|\boldsymbol{b}\times\boldsymbol{d}|}\bigg|
-\]</span></p>
-<h3 id="原点到平面距离">原点到平面距离</h3>
-<p><span class="math display">\[
-\boldsymbol{r}\cdot\hat{\boldsymbol{n}}=d \]</span></p>
-<p><span class="math display">\[
-其中\hat{\boldsymbol{n}}为单位法向量，d为原点到平面距离 \]</span></p>
-<h2 id="二次">二次</h2>
-<h3 id="曲面">曲面</h3>
-<h4 id="椭圆锥面">椭圆锥面</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=z^2
-\]</span></p>
-<h4 id="椭球面">椭球面</h4>
-<p><span class="math display">\[
-\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1 \]</span></p>
-<h4 id="单叶双曲面">单叶双曲面</h4>
-<p><span class="math display">\[
-\frac{x^2}{a^2}+\frac{y^2}{b^2}-\frac{z^2}{c^2}=1 \]</span></p>
-<h4 id="双叶双曲面">双叶双曲面</h4>
-<p><span class="math display">\[
-\frac{x^2}{a^2}-\frac{y^2}{b^2}-\frac{z^2}{c^2}=1 \]</span></p>
-<h4 id="椭圆抛物面">椭圆抛物面</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=z
-\]</span></p>
-<h4 id="双曲抛物面">双曲抛物面</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=z
-\]</span></p>
-<h4 id="椭圆柱面">椭圆柱面</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
-\]</span></p>
-<h4 id="双曲柱面">双曲柱面</h4>
-<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=1
-\]</span></p>
-<h4 id="抛物柱面">抛物柱面</h4>
-<p><span class="math display">\[ x^2=ay \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
     <title>解微分方程</title>
     <url>/%E6%95%B0%E5%AD%A6/%E8%A7%A3%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</url>
     <content><![CDATA[<b>
@@ -3289,6 +2772,128 @@ class="math inline">\(x=\mathrm{e}^u\)</span>代入即可</p>
 <ol start="2" type="1">
 <li><a href="/泰勒展开/#解微分方程">泰勒展开</a></li>
 </ol>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>空间解析几何</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E7%A9%BA%E9%97%B4%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h2 id="一次">一次</h2>
+<h3 id="空间直线方程">空间直线方程</h3>
+<h4 id="向量方程">向量方程</h4>
+<p><span class="math display">\[
+\boldsymbol{r}=\boldsymbol{a}+t\boldsymbol{b} \]</span></p>
+<p><span class="math display">\[
+(\boldsymbol{r}-\boldsymbol{a})\times\boldsymbol{b}=\boldsymbol{0}
+\]</span></p>
+<span id="more"></span>
+<h4 id="笛卡尔方程">笛卡尔方程</h4>
+<p><span class="math display">\[ \boldsymbol{a}=\begin{pmatrix}
+    x_1\\x_2\\x_3
+\end{pmatrix},\,
+\boldsymbol{b}=\begin{pmatrix}
+    l\\m\\n
+\end{pmatrix} \]</span></p>
+<p><span class="math display">\[
+\frac{x-x_1}{l}=\frac{y-y_1}{m}=\frac{z-z_1}{n}=\lambda \]</span></p>
+<h3 id="空间平面方程">空间平面方程</h3>
+<h4 id="标量方程">标量方程</h4>
+<p><span class="math display">\[ \boldsymbol{r}\cdot\boldsymbol{n}=p
+\]</span></p>
+<h4 id="向量方程-1">向量方程</h4>
+<p><span class="math display">\[
+\boldsymbol{r}=\boldsymbol{a}+\lambda\boldsymbol{b}+\mu\boldsymbol{c}
+\]</span></p>
+<p><span class="math display">\[
+其中\boldsymbol{a}为平面上的点，\boldsymbol{b}和\boldsymbol{c}是向量
+\]</span></p>
+<h4 id="笛卡尔方程-1">笛卡尔方程</h4>
+<p><span class="math display">\[ ax+by+cz+d=0 \]</span></p>
+<h3 id="关系">关系</h3>
+<h4 id="线线">线线</h4>
+<h5 id="共面">共面</h5>
+<p><span class="math display">\[ l_1\colon
+\frac{x-x_1}{l_1}=\frac{y-y_1}{m_1}=\frac{z-z_1}{n_1} \]</span></p>
+<p><span class="math display">\[ l_2\colon
+\frac{x-x_2}{l_2}=\frac{y-y_2}{m_2}=\frac{z-z_2}{n_2} \]</span></p>
+<p><span class="math display">\[ M_1(x_1, y_1, z_1), M_2(x_2, y_2, z_2)
+\]</span></p>
+<p><span class="math display">\[ 充要条件\colon
+\overrightarrow{M_1M_2}\cdot(\boldsymbol{s_1}\times \boldsymbol{s_2})=0
+\]</span></p>
+<h4 id="线面">线面</h4>
+<h5 id="垂直">垂直</h5>
+<p><span class="math display">\[ \boldsymbol{s}=\boldsymbol{n}
+\]</span></p>
+<h5 id="平行">平行</h5>
+<p><span class="math display">\[ \boldsymbol{s}\cdot\boldsymbol{n}=0
+\]</span></p>
+<h4 id="面面">面面</h4>
+<h5 id="垂直-1">垂直</h5>
+<p><span class="math display">\[ \boldsymbol{n_1}\cdot\boldsymbol{n_2}=0
+\]</span></p>
+<h5 id="平行-1">平行</h5>
+<p><span class="math display">\[
+\boldsymbol{n_1}=\lambda\boldsymbol{n_2} \]</span></p>
+<h3 id="夹角">夹角</h3>
+<h4 id="线线夹角">线线夹角</h4>
+<p><span class="math display">\[
+\cos\theta=\bigg|\frac{\boldsymbol{a}\cdot\boldsymbol{b}}{|\boldsymbol{a}||\boldsymbol{b}|}\bigg|
+\]</span></p>
+<h4 id="线面夹角">线面夹角</h4>
+<p><span class="math display">\[
+\sin\theta=\bigg|\frac{\boldsymbol{b}\cdot\boldsymbol{n}}{|\boldsymbol{b}||\boldsymbol{n}|}\bigg|
+\]</span></p>
+<h4 id="面面夹角">面面夹角</h4>
+<p><span class="math display">\[
+\cos\theta=\bigg|\frac{\boldsymbol{n_1}\cdot\boldsymbol{n_2}}{|\boldsymbol{n_1}||\boldsymbol{n_2}|}\bigg|
+\]</span></p>
+<h3 id="异面直线距离">异面直线距离</h3>
+<p><span class="math display">\[
+\boldsymbol{r_1}=\boldsymbol{a}+\lambda\boldsymbol{b},\enspace\boldsymbol{r_2}=\boldsymbol{c}+\mu\boldsymbol{d}\]</span></p>
+<p><span class="math display">\[
+d=\bigg|\frac{(\boldsymbol{a}-\boldsymbol{c})\cdot(\boldsymbol{b}\times\boldsymbol{d})}{|\boldsymbol{b}\times\boldsymbol{d}|}\bigg|
+\]</span></p>
+<h3 id="原点到平面距离">原点到平面距离</h3>
+<p><span class="math display">\[
+\boldsymbol{r}\cdot\hat{\boldsymbol{n}}=d \]</span></p>
+<p><span class="math display">\[
+其中\hat{\boldsymbol{n}}为单位法向量，d为原点到平面距离 \]</span></p>
+<h2 id="二次">二次</h2>
+<h3 id="曲面">曲面</h3>
+<h4 id="椭圆锥面">椭圆锥面</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=z^2
+\]</span></p>
+<h4 id="椭球面">椭球面</h4>
+<p><span class="math display">\[
+\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1 \]</span></p>
+<h4 id="单叶双曲面">单叶双曲面</h4>
+<p><span class="math display">\[
+\frac{x^2}{a^2}+\frac{y^2}{b^2}-\frac{z^2}{c^2}=1 \]</span></p>
+<h4 id="双叶双曲面">双叶双曲面</h4>
+<p><span class="math display">\[
+\frac{x^2}{a^2}-\frac{y^2}{b^2}-\frac{z^2}{c^2}=1 \]</span></p>
+<h4 id="椭圆抛物面">椭圆抛物面</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=z
+\]</span></p>
+<h4 id="双曲抛物面">双曲抛物面</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=z
+\]</span></p>
+<h4 id="椭圆柱面">椭圆柱面</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
+\]</span></p>
+<h4 id="双曲柱面">双曲柱面</h4>
+<p><span class="math display">\[ \frac{x^2}{a^2}-\frac{y^2}{b^2}=1
+\]</span></p>
+<h4 id="抛物柱面">抛物柱面</h4>
+<p><span class="math display">\[ x^2=ay \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -3706,6 +3311,45 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>人类需要新青年</title>
+    <url>/%E6%96%87%E8%89%BA/%E4%BA%BA%E7%B1%BB%E9%9C%80%E8%A6%81%E6%96%B0%E9%9D%92%E5%B9%B4/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>人类需要知道供求关系不可能平衡</p>
+<p>人类需要知道万物折中的美妙</p>
+<p>人类需要有个人告诉自己需要什么</p>
+<p>人类需要看到未来的既定样貌</p>
+<p></big></p>
+<span id="more"></span>
+<hr />
+<p><big></p>
+<p>人类需要看见不要命的在街上横冲直撞</p>
+<p>人类需要看见墙上的血红掌印</p>
+<p>人类需要告诉自己自己需要什么</p>
+<p>人类需要往乞丐碗里投上七个硬币</p>
+<hr />
+<p>人类需要新青年</p>
+<p>人类需要在新青年之外的地方看见新青年</p>
+<p>人类需要在文字之外的地方看见新青年</p>
+<p>人类需要在泥地里看见新青年</p>
+<b>
+<p align="right">
+作于2023年12月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>一次睡觉</title>
     <url>/%E6%96%87%E8%89%BA/%E4%B8%80%E6%AC%A1%E7%9D%A1%E8%A7%89/</url>
     <content><![CDATA[<b>
@@ -3743,45 +3387,6 @@ XantC
 <b>
 <p align="right">
 作于2024年4月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>人类需要新青年</title>
-    <url>/%E6%96%87%E8%89%BA/%E4%BA%BA%E7%B1%BB%E9%9C%80%E8%A6%81%E6%96%B0%E9%9D%92%E5%B9%B4/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>人类需要知道供求关系不可能平衡</p>
-<p>人类需要知道万物折中的美妙</p>
-<p>人类需要有个人告诉自己需要什么</p>
-<p>人类需要看到未来的既定样貌</p>
-<p></big></p>
-<span id="more"></span>
-<hr />
-<p><big></p>
-<p>人类需要看见不要命的在街上横冲直撞</p>
-<p>人类需要看见墙上的血红掌印</p>
-<p>人类需要告诉自己自己需要什么</p>
-<p>人类需要往乞丐碗里投上七个硬币</p>
-<hr />
-<p>人类需要新青年</p>
-<p>人类需要在新青年之外的地方看见新青年</p>
-<p>人类需要在文字之外的地方看见新青年</p>
-<p>人类需要在泥地里看见新青年</p>
-<b>
-<p align="right">
-作于2023年12月
 </p>
 <p></b></p>
 </b> </big>
@@ -3910,6 +3515,95 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>你会怎么办</title>
+    <url>/%E6%96%87%E8%89%BA/%E4%BD%A0%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8A%9E/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>你会怎么办</p>
+<p>如果看见自己浸泡在夕阳下橙色的风浪</p>
+<p>看见小颗粒物漫天飞舞无处不在</p>
+<p>看见一只猫趴在阳伞上伸懒腰</p>
+<p>看见一个孩子和一个工人</p>
+<p>如果有一天你突然又感受不到这些了</p>
+<p>不管是因为什么</p>
+<p>你会怎么办</p>
+<p></big> <span id="more"></span></p>
+<p><big></p>
+<p>看见一个驼背老人</p>
+<p>向他多看几眼以表悲悯</p>
+<p>他就突然直起背来</p>
+<p>你会怎么样</p>
+<p>感到沉下游泳池底的空虚吗</p>
+<p>稍微扑腾一下就又回来了</p>
+<p>或者突然有一天</p>
+<p>你瞎了</p>
+<p>聋了</p>
+<p>坐上轮椅</p>
+<p>你又会怎么办</p>
+<hr />
+<p>人的痛苦和欢乐应该一起来到一起离开</p>
+<p>就像包办婚姻的爱人那样</p>
+<p>不情愿又不得已</p>
+<b>
+<p align="right">
+作于2024年5月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>你看看他</title>
+    <url>/%E6%96%87%E8%89%BA/%E4%BD%A0%E7%9C%8B%E7%9C%8B%E4%BB%96/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>一座城市</p>
+<p>一座工厂</p>
+<p>十五岁的单休童工</p>
+<p>工业废料在肠道里穿行</p>
+<p>保护我们的未成年人</p>
+<p>把机遇贴在脑门上</p>
+<p>称呼他们为青年！</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>头上顶着天花板啊</p>
+<p>绿树和标语飘摇过去</p>
+<p>一个上面写着人生是旷野</p>
+<p>一个上面写着君民鱼水情</p>
+<hr />
+<p>狂人们从泥巴里跳出来</p>
+<p>痛骂趴在天花板上的诗人们</p>
+<p>这是我们最伟岸的反抗</p>
+<p>对脏话的尽情选择</p>
+<p>就是我们最大的自由</p>
+<b>
+<p align="right">
+作于2024年5月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>你们值得</title>
     <url>/%E6%96%87%E8%89%BA/%E4%BD%A0%E4%BB%AC%E5%80%BC%E5%BE%97/</url>
     <content><![CDATA[<b>
@@ -3953,63 +3647,6 @@ XantC
 <b>
 <p align="right">
 作于2023年10月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>妈妈我想活到大航海时代</title>
-    <url>/%E6%96%87%E8%89%BA/%E5%A6%88%E5%A6%88%E6%88%91%E6%83%B3%E6%B4%BB%E5%88%B0%E5%A4%A7%E8%88%AA%E6%B5%B7%E6%97%B6%E4%BB%A3/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我是一个每周单休的十五岁童工</p>
-<p>每天只能看见棕黄发黑的天空</p>
-<p>它湛蓝的时候 我在哪呢</p>
-<p>我想去海上看看</p>
-<p>到时我的头上脚下 都会是蓝的</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我们会有很多很多的香料</p>
-<p>肉放上一个月都不会坏</p>
-<p>我们不用再每天担心煤炭</p>
-<p>不用每天购买水果和蔬菜</p>
-<hr />
-<p>妈啊 我昨天晚上做了一个梦</p>
-<p>我梦见亚特兰蒂斯人骑着恐龙打斗</p>
-<hr />
-<p>可是妈妈</p>
-<p>昨天刘老汉刚从房顶上跳下</p>
-<p>手上有被蜡烛烧伤的痕迹</p>
-<p>眼神惊恐又安详</p>
-<hr />
-<p>而且你还说</p>
-<p>我们不会给亚洲人好下场</p>
-<p>我们今后会骑在他们头上打斗</p>
-<p>我们哪敢乱招惹他们</p>
-<p>但就算那些是真的</p>
-<p>我也才十五岁啊</p>
-<hr />
-<p>妈妈</p>
-<p>我能活到大航海时代吗</p>
-<p>妈妈</p>
-<p>我想活到大航海时代</p>
-<hr />
-<p>（孩子吃药了吗）</p>
-<p>（我等会儿会吃的）</p>
-<b>
-<p align="right">
-作于2024年1月 第三次世界大战
 </p>
 <p></b></p>
 </b> </big>
@@ -4071,8 +3708,8 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>你看看他</title>
-    <url>/%E6%96%87%E8%89%BA/%E4%BD%A0%E7%9C%8B%E7%9C%8B%E4%BB%96/</url>
+    <title>嗯</title>
+    <url>/%E6%96%87%E8%89%BA/%E5%97%AF/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -4080,29 +3717,99 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
-<p>一座城市</p>
-<p>一座工厂</p>
-<p>十五岁的单休童工</p>
-<p>工业废料在肠道里穿行</p>
-<p>保护我们的未成年人</p>
-<p>把机遇贴在脑门上</p>
-<p>称呼他们为青年！</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>头上顶着天花板啊</p>
-<p>绿树和标语飘摇过去</p>
-<p>一个上面写着人生是旷野</p>
-<p>一个上面写着君民鱼水情</p>
-<hr />
-<p>狂人们从泥巴里跳出来</p>
-<p>痛骂趴在天花板上的诗人们</p>
-<p>这是我们最伟岸的反抗</p>
-<p>对脏话的尽情选择</p>
-<p>就是我们最大的自由</p>
+<p>不要搞了</p>
+<p>每人每月三千块</p>
+<p>饿死算数</p>
 <b>
 <p align="right">
 作于2024年5月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>天下太平</title>
+    <url>/%E6%96%87%E8%89%BA/%E5%A4%A9%E4%B8%8B%E5%A4%AA%E5%B9%B3/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>广岛原子弹</p>
+<p>庞贝火山</p>
+<p>把我们摆在了同样的位置</p>
+<p>众生终于平等</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>你怎么笑不出来？</p>
+<b>
+<p align="right">
+作于2024年6月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>妈妈我想活到大航海时代</title>
+    <url>/%E6%96%87%E8%89%BA/%E5%A6%88%E5%A6%88%E6%88%91%E6%83%B3%E6%B4%BB%E5%88%B0%E5%A4%A7%E8%88%AA%E6%B5%B7%E6%97%B6%E4%BB%A3/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>我是一个每周单休的十五岁童工</p>
+<p>每天只能看见棕黄发黑的天空</p>
+<p>它湛蓝的时候 我在哪呢</p>
+<p>我想去海上看看</p>
+<p>到时我的头上脚下 都会是蓝的</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>我们会有很多很多的香料</p>
+<p>肉放上一个月都不会坏</p>
+<p>我们不用再每天担心煤炭</p>
+<p>不用每天购买水果和蔬菜</p>
+<hr />
+<p>妈啊 我昨天晚上做了一个梦</p>
+<p>我梦见亚特兰蒂斯人骑着恐龙打斗</p>
+<hr />
+<p>可是妈妈</p>
+<p>昨天刘老汉刚从房顶上跳下</p>
+<p>手上有被蜡烛烧伤的痕迹</p>
+<p>眼神惊恐又安详</p>
+<hr />
+<p>而且你还说</p>
+<p>我们不会给亚洲人好下场</p>
+<p>我们今后会骑在他们头上打斗</p>
+<p>我们哪敢乱招惹他们</p>
+<p>但就算那些是真的</p>
+<p>我也才十五岁啊</p>
+<hr />
+<p>妈妈</p>
+<p>我能活到大航海时代吗</p>
+<p>妈妈</p>
+<p>我想活到大航海时代</p>
+<hr />
+<p>（孩子吃药了吗）</p>
+<p>（我等会儿会吃的）</p>
+<b>
+<p align="right">
+作于2024年1月 第三次世界大战
 </p>
 <p></b></p>
 </b> </big>
@@ -4290,6 +3997,51 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>悬在风里</title>
+    <url>/%E6%96%87%E8%89%BA/%E6%82%AC%E5%9C%A8%E9%A3%8E%E9%87%8C/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>血把骨头泡软</p>
+<p>我们就此悬在风里</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>我不知道明天 脑袋里会想点什么</p>
+<p>全看早上耳机里放的是什么歌</p>
+<p>无所事事的不倒翁</p>
+<p>风一吹就倒 不要</p>
+<hr />
+<p>一阵风吹来</p>
+<p>我们抱着过去 哆哆嗦嗦</p>
+<p>一阵风吹去</p>
+<p>我们抱着未来 焦虑无奈</p>
+<hr />
+<p>现实被丢在风雨里痛哭</p>
+<p>今天和明天没有空隙</p>
+<p>能给自己和他们做点什么</p>
+<p>加油加油上帝保佑</p>
+<hr />
+<p>我看见一个诗人 腿陷在泥地里</p>
+<p>嘴里吐出比春风还软的话语</p>
+<p>加油 加油 上帝保佑</p>
+<b>
+<p align="right">
+作于2024年1月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>感谢大家为社会主义事业做出的卓越贡献</title>
     <url>/%E6%96%87%E8%89%BA/%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E4%B8%BA%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E4%BA%8B%E4%B8%9A%E5%81%9A%E5%87%BA%E7%9A%84%E5%8D%93%E8%B6%8A%E8%B4%A1%E7%8C%AE/</url>
     <content><![CDATA[<b>
@@ -4338,8 +4090,8 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>悬在风里</title>
-    <url>/%E6%96%87%E8%89%BA/%E6%82%AC%E5%9C%A8%E9%A3%8E%E9%87%8C/</url>
+    <title>新鲜的风</title>
+    <url>/%E6%96%87%E8%89%BA/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -4347,32 +4099,25 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
-<p>血把骨头泡软</p>
-<p>我们就此悬在风里</p>
+<p>一股强风吹来</p>
+<p>带着新鲜的味道</p>
+<p>有些人一见那风</p>
+<p>就畏畏缩缩</p>
+<p>将本真塞紧在大衣里</p>
+<p>而无畏无惧、张开双臂的那一群</p>
+<p>逐渐改造、进化</p>
 <p></big> <span id="more"></span></p>
 <hr />
 <p><big></p>
-<p>我不知道明天 脑袋里会想点什么</p>
-<p>全看早上耳机里放的是什么歌</p>
-<p>无所事事的不倒翁</p>
-<p>风一吹就倒 不要</p>
-<hr />
-<p>一阵风吹来</p>
-<p>我们抱着过去 哆哆嗦嗦</p>
-<p>一阵风吹去</p>
-<p>我们抱着未来 焦虑无奈</p>
-<hr />
-<p>现实被丢在风雨里痛哭</p>
-<p>今天和明天没有空隙</p>
-<p>能给自己和他们做点什么</p>
-<p>加油加油上帝保佑</p>
-<hr />
-<p>我看见一个诗人 腿陷在泥地里</p>
-<p>嘴里吐出比春风还软的话语</p>
-<p>加油 加油 上帝保佑</p>
+<p>完全换了一副容貌</p>
+<p>说着听不懂的语言</p>
+<p>传播新习得的真理</p>
+<p>一股风一种模样</p>
+<p>以物喜悲，变化无常</p>
+<p>聚众探讨，世间美好</p>
 <b>
 <p align="right">
-作于2024年1月
+作于2023年2月
 </p>
 <p></b></p>
 </b> </big>
@@ -4436,8 +4181,8 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>新鲜的风</title>
-    <url>/%E6%96%87%E8%89%BA/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
+    <title>歌谣集</title>
+    <url>/%E6%96%87%E8%89%BA/%E6%AD%8C%E8%B0%A3%E9%9B%86/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -4445,25 +4190,85 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
-<p>一股强风吹来</p>
-<p>带着新鲜的味道</p>
-<p>有些人一见那风</p>
-<p>就畏畏缩缩</p>
-<p>将本真塞紧在大衣里</p>
-<p>而无畏无惧、张开双臂的那一群</p>
-<p>逐渐改造、进化</p>
+<ol type="1">
+<li></li>
+</ol>
+<p>又起来了</p>
+<p>人们</p>
+<p>太阳已然升起</p>
+<p>靠着云彩</p>
+<p>面向宇宙晒太阳</p>
+<p>背影潇洒</p>
 <p></big> <span id="more"></span></p>
 <hr />
 <p><big></p>
-<p>完全换了一副容貌</p>
-<p>说着听不懂的语言</p>
-<p>传播新习得的真理</p>
-<p>一股风一种模样</p>
-<p>以物喜悲，变化无常</p>
-<p>聚众探讨，世间美好</p>
+<p>可是地上没有什么人</p>
+<p>看见太阳这样潇洒</p>
+<p>大街上行走的挖掘机</p>
+<p>三三两两聚集的情侣</p>
+<p>都有自己的事情要忙</p>
+<hr />
+<p>他们一个一个地走着</p>
+<p>有的坐上公交地铁</p>
+<p>在平行移动的铁盒子里</p>
+<p>和手上的盒子一起做着冥想</p>
+<p>几秒钟的功夫</p>
+<p>他们来到工地上</p>
+<p>大楼里</p>
+<p>和纸张石头结伴</p>
+<p>继续做着冥想</p>
+<hr />
+<p>什么都没有想</p>
+<p>最好的冥想就是没有意识自己在冥想</p>
+<hr />
+<ol start="2" type="1">
+<li></li>
+</ol>
+<p>天空有的时候</p>
+<p>从这一头到那一头</p>
+<p>都是掺着一点灰色的白</p>
+<p>可能混上一点湿气</p>
+<hr />
+<p>一无所有的天空</p>
+<p>白色还是比蓝色更好</p>
+<hr />
+<p>抬头看天的时候</p>
+<p>一个人静静呆坐</p>
+<p>闭上眼睛</p>
+<p>用呼吸感受世界的时候</p>
+<p>血流好似静止</p>
+<p>或者仅用疲惫的身体和活跃的大脑</p>
+<p>就可以拥抱这一团虚无</p>
+<p>摸不到它</p>
+<p>永远地抱着</p>
+<p>不管物质怎样来来去去</p>
+<p>它就在那里</p>
+<p>它是一切事物的源头</p>
+<hr />
+<p>两个朋友坐在细草上</p>
+<p>身旁大树随风摇晃</p>
+<p>带来冬不拉的声音</p>
+<p>一呼一吸</p>
+<p>不需要言语</p>
+<p>不需要言语</p>
+<hr />
+<ol start="3" type="1">
+<li></li>
+</ol>
+<p>你的眼神就是你的武器</p>
+<p>你的眼神就是你的逃避</p>
+<p>你对一个人一个民族的批判</p>
+<p>一个民族懒得用它来批判你</p>
+<hr />
+<p>白领给蓝领递可乐</p>
+<p>僵硬弯下腰又算什么</p>
+<p>你的眼神已把你抛给世界审判</p>
+<p>又旋即透露不屑</p>
+<hr />
+<p>你或许应该 戴上一副墨镜</p>
 <b>
 <p align="right">
-作于2023年2月
+作于2024年6月
 </p>
 <p></b></p>
 </b> </big>
@@ -4702,6 +4507,84 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>猪和猪肉</title>
+    <url>/%E6%96%87%E8%89%BA/%E7%8C%AA%E5%92%8C%E7%8C%AA%E8%82%89/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>我的手指向一头猪</p>
+<p>说道：</p>
+<p>这是一头猪</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>这句话</p>
+<p>可以用来指代一头猪</p>
+<p>也可以用来指代一个人</p>
+<hr />
+<p>我的手指向几片猪肉</p>
+<p>说道：这是几片猪肉</p>
+<p>这句话指代明确</p>
+<p>比上一句要好</p>
+<hr />
+<p>但是猪肉</p>
+<p>是因为我需要吃饭</p>
+<p>才会变成猪肉</p>
+<p>当吃饱之后</p>
+<p>我看着剩下的几片肉</p>
+<p>它们好似又变回了猪</p>
+<p>从餐桌上跳下</p>
+<p>在泥坑里蹦蹦跳跳</p>
+<p>享受从未变成过猪肉的自然</p>
+<b>
+<p align="right">
+作于2024年4月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>能有多大的力量</title>
+    <url>/%E6%96%87%E8%89%BA/%E8%83%BD%E6%9C%89%E5%A4%9A%E5%A4%A7%E7%9A%84%E5%8A%9B%E9%87%8F/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>一首写给穷人的诗</p>
+<p>就是他们的一生</p>
+<p>一首写给富人的诗</p>
+<p>只是他们的一瞬</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>一首写给垮掉的废人的诗</p>
+<p>垮掉</p>
+<p>就是他们的一切</p>
+<b>
+<p align="right">
+作于2024年6月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>看上去很美</title>
     <url>/%E6%96%87%E8%89%BA/%E7%9C%8B%E4%B8%8A%E5%8E%BB%E5%BE%88%E7%BE%8E/</url>
     <content><![CDATA[<b>
@@ -4751,52 +4634,6 @@ XantC
 <p>大声赞美工地上停留的燕子</p>
 <hr />
 <p>“它刷的一下就飞走了”</p>
-<b>
-<p align="right">
-作于2024年4月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>猪和猪肉</title>
-    <url>/%E6%96%87%E8%89%BA/%E7%8C%AA%E5%92%8C%E7%8C%AA%E8%82%89/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>我的手指向一头猪</p>
-<p>说道：</p>
-<p>这是一头猪</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>这句话</p>
-<p>可以用来指代一头猪</p>
-<p>也可以用来指代一个人</p>
-<hr />
-<p>我的手指向几片猪肉</p>
-<p>说道：这是几片猪肉</p>
-<p>这句话指代明确</p>
-<p>比上一句要好</p>
-<hr />
-<p>但是猪肉</p>
-<p>是因为我需要吃饭</p>
-<p>才会变成猪肉</p>
-<p>当吃饱之后</p>
-<p>我看着剩下的几片肉</p>
-<p>它们好似又变回了猪</p>
-<p>从餐桌上跳下</p>
-<p>在泥坑里蹦蹦跳跳</p>
-<p>享受从未变成过猪肉的自然</p>
 <b>
 <p align="right">
 作于2024年4月
@@ -4862,8 +4699,8 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>过渡</title>
-    <url>/%E6%96%87%E8%89%BA/%E8%BF%87%E6%B8%A1/</url>
+    <title>自导自演</title>
+    <url>/%E6%96%87%E8%89%BA/%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -4871,28 +4708,21 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
-<p>春季是冬季到夏季的过渡</p>
-<p>太阳是月亮到星辰的过渡</p>
-<p>眼神是心灵到外界的过渡</p>
-<p>树木是楼房到楼房的过渡</p>
+<p>从这首诗歌中</p>
+<p>我们能够看出作者对社会的思考</p>
+<p>对现代社会中人的异化的不满</p>
 <p></big> <span id="more"></span></p>
-<hr />
 <p><big></p>
-<p>理想是现实到虚幻的过渡</p>
-<p>成年是天真到坟墓的过渡</p>
-<p>休息是劳动到劳动的过渡</p>
-<p>未来是现在到更久远未来的过渡</p>
-<hr />
-<p>你希望从中得到怎样的安慰？</p>
-<p>还是只需要对未来生活的绝对保证</p>
-<p>但是每一个下一秒都是你的未来</p>
-<p>你的当下在这一秒结束</p>
-<p>又在下一秒重新开始</p>
-<hr />
-<p>你希望得到怎样的安慰？</p>
+<p>对传统诗歌形式的摒弃</p>
+<p>对自己才华入了土或从未出过土的无奈</p>
+<p>对昨天在床上想到的和今天在公交车上想到的句子的混合</p>
+<p>对人们为什么要为了那么一点物质拼死拼活的找不着边的不解与愤怒</p>
+<p>对中文诗歌一行为什么只能写这么短的批驳</p>
+<p>最终构建出了伟大的自指</p>
+<p>乐一乐吧</p>
 <b>
 <p align="right">
-作于2024年4月
+作于2024年5月
 </p>
 <p></b></p>
 </b> </big>
@@ -4903,89 +4733,31 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>伊乔打篮球</title>
-    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E4%BC%8A%E4%B9%94%E6%89%93%E7%AF%AE%E7%90%83/</url>
-    <content><![CDATA[<p><b></p>
-<p>伊乔者，初中足球少将也。既入高中黄旗班，改行篮球，与天涯、炭锑（csb）等诸位共乐。</p>
+    <title>“劝学”新说</title>
+    <url>/%E6%9D%82%E8%B0%88/%E2%80%9C%E5%8A%9D%E5%AD%A6%E2%80%9D%E6%96%B0%E8%AF%B4/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>《劝学》，是两千多年前战国百家争鸣时流传下来的文章，记载着荀子对当时学习问题的朴素认识。在这两千多年来，随着时代的变迁，一些新的学习问题开始涌现，古时劝学的文章也需要后人再来添上几笔了。</p>
 <span id="more"></span>
-<p>伊始，伊乔甚弱，打板之技之出于法治甚远，且善空中折叠，十者中一许也。常三分，“向着夕阳”云云出于口，打板后便入天涯之手。众笑之。</p>
-<p>伊乔尝与梁一队，合攻天、炭及姜。梁便曰：“呜呼！不愿此队友！”而天涯则喜，视其为盟。炭锑亦大呼：“稳也稳也！”实则三对二为四对一乎。伊乔之弱，可知矣。</p>
-<p>然今时之伊乔，非旧日然也。一金曜日（星期五）大败天涯后，便痛定思痛，彻夜未眠，思索投篮之技，且颇有成效。现引某次“三滴血”为例。当日，炭择某地以行三分之术，另天涯之讽于一旁，即进。后者乃伊乔，亦进也，顺风疾呼：“吾非上金耀之我也！”后梁亦进，而天涯败之，遂出局。</p>
-<p>此次三滴血，当溃天涯之不败神话，乃黄旗班之奇迹。然伊乔负滚雪球之责，功当为首。伊乔者，大器晚成也。其平日打板之进亦显此论。</p>
+<p>学习，不言而喻的是一件枯燥的事，而这也正需要我们建立良好、持续的学习源动力。</p>
+<p>源动力的前提是对学习持积极的态度。而如今应试教育的猖獗，恰恰是阻碍其形成的绊脚石之一。这东西从我们记事起就耳濡目染，对它的厌恶自然便会延续到学习身上，以至于分不清两者的区别，甚至当以成绩为宗旨的老师们说到“终身学习”时，自己也会感到胃疼。但其实，应试和学习应该要明确开来。</p>
+<p>学习能让我们按自己期望的方向发展。相信大家都有过这种体验。在学习或者做自己真正喜欢的东西的时候，过程中的一切都是享受的：会为了一点小小的成功而沾沾自喜，不因挫折而放弃，甚至于会主动去锻炼自己薄弱的环节。这种感受，跟看到试卷上一个个消不去的红叉肯定是不同的。学习是一个比应试自由得多、广阔得多的天地。我现在在“劝”的也不是应试，而是学习。</p>
+<p>那么学习的源动力要如何形成呢？这种源动力一定要是真实的，能说服自己的（这从上一段可以看出来一点）。现在有人会受人灌输，从名人传记上随意找来一些“为中华之崛起而读书”的不符合自己思想境界，不能使自己信服的话，这样依靠它学习的时候也不会有什么底气了。我建议的是先从我们自己的爱好，或是梦想的职业中寻找学习的动力。只有个人喜爱的东西，我们才能坚持下去，一直为之学习下去。</p>
+<p>比如美国。他们的教育中不会刻意灌输“学习的目的或意义”，而是给学生们充分的空间发展个性，让他们找到自己努力学习的意义。等到他们长大，在社会中各司其职时，这种源动力更能不断促进他们自我发展，贡献社会了。</p>
+<p>所以我说学习的源动力来源于个人，并不是鼓励大家自私自利，目中无人，而是希望学习的成果在个人身上展现后，能够继续为所在的集体发光发热。这和马克思所说“每个人的自由发展是一切人自由发展的条件”是一样的。</p>
+<p>而仅对于我们眼前的应试，上面的东西也可以利用，也就是要设置一些目标。有时某个学科本身就很合自己胃口，对未来的努力方向也有好处；而对于不那么顺人意的，可以只把它当作进修某个理想专业的必经之路。</p>
+<p>总之，我们在寻找学习内驱力时，要讨好自身。这对于学习或是任何“想要做好”的事都是一样的。而且我们的教育中也要有良好的引导，以及容纳其广泛存在的氛围。有了这些，我们才有可能真正地喜欢上学习，真正地为社会出力，“为人民服务”。</p>
 <b>
 <p align="right">
-XantC
+作于2023年10月
 </p>
-<p></b></p>
 <p></b></p>
 ]]></content>
       <categories>
-        <category>黄旗班史</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>那人</title>
-    <url>/%E6%96%87%E8%89%BA/%E9%82%A3%E4%BA%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>他从小到大 没仔细想过周围的一切</p>
-<p>一些困惑只在悠闲的时候才会出现</p>
-<p>这好像是他天生的诟病</p>
-<p>但能活在空调下 还有什么不乐意</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>他不久就去念书了 成绩特好</p>
-<p>老师同学都说他是个好苗苗</p>
-<p>但反差的是 他最讨厌别人叫他“知识分子”</p>
-<p>因为他总会感到不顺 不知道要怎么回应</p>
-<p>他一特棒的朋友就会马上安慰他</p>
-<p>陪他打游戏 给他说好话</p>
-<p>他心里的苍蝇来回乱窜了</p>
-<hr />
-<p>他很快就上初中了 成绩依然保持稳定</p>
-<p>他有了喜欢的女生和帅气的情敌</p>
-<p>等他俩牵起手来 肚子就一阵绞痛</p>
-<p>他为此消沉了一阵 开始琢磨些什么</p>
-<hr />
-<p>他断定自己并不适合恋爱</p>
-<p>越想越觉得自己只适合学习</p>
-<p>别管这些破事 以后还得吹空调上班呢</p>
-<p>他把手机拿出来开始奋斗</p>
-<hr />
-<p>命运给他推了一首歌 叫“教育机器”</p>
-<p>听得他醍醐灌顶却又心有余悸</p>
-<p>过去做的一切好像突然失去了意义</p>
-<p>因为一个花三分钟就听完了的东西</p>
-<hr />
-<p>这种撕裂的感觉持续撕裂着他</p>
-<p>一直到走上中考的考场</p>
-<p>他九年来奋斗的底气强撑着他</p>
-<p>铃响了 他把卷子交给老师</p>
-<hr />
-<p>他回到家 不知道要干什么 就死盯着那叠书</p>
-<p>心里的苍蝇闷得飞不起来了</p>
-<p>他挑了一本出来 还不肯服输</p>
-<p>他发现他的心灵也被交上去了</p>
-<hr />
-<p>这人终于受不了了 他找到了他的父亲</p>
-<p>他问：“这天怎么他妈这么闷啊”</p>
-<p>“你开个空调不就得了”</p>
-<b>
-<p align="right">
-作于2023年6-7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
+        <category>杂谈</category>
       </categories>
   </entry>
   <entry>
@@ -5076,6 +4848,338 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>那人</title>
+    <url>/%E6%96%87%E8%89%BA/%E9%82%A3%E4%BA%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>他从小到大 没仔细想过周围的一切</p>
+<p>一些困惑只在悠闲的时候才会出现</p>
+<p>这好像是他天生的诟病</p>
+<p>但能活在空调下 还有什么不乐意</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>他不久就去念书了 成绩特好</p>
+<p>老师同学都说他是个好苗苗</p>
+<p>但反差的是 他最讨厌别人叫他“知识分子”</p>
+<p>因为他总会感到不顺 不知道要怎么回应</p>
+<p>他一特棒的朋友就会马上安慰他</p>
+<p>陪他打游戏 给他说好话</p>
+<p>他心里的苍蝇来回乱窜了</p>
+<hr />
+<p>他很快就上初中了 成绩依然保持稳定</p>
+<p>他有了喜欢的女生和帅气的情敌</p>
+<p>等他俩牵起手来 肚子就一阵绞痛</p>
+<p>他为此消沉了一阵 开始琢磨些什么</p>
+<hr />
+<p>他断定自己并不适合恋爱</p>
+<p>越想越觉得自己只适合学习</p>
+<p>别管这些破事 以后还得吹空调上班呢</p>
+<p>他把手机拿出来开始奋斗</p>
+<hr />
+<p>命运给他推了一首歌 叫“教育机器”</p>
+<p>听得他醍醐灌顶却又心有余悸</p>
+<p>过去做的一切好像突然失去了意义</p>
+<p>因为一个花三分钟就听完了的东西</p>
+<hr />
+<p>这种撕裂的感觉持续撕裂着他</p>
+<p>一直到走上中考的考场</p>
+<p>他九年来奋斗的底气强撑着他</p>
+<p>铃响了 他把卷子交给老师</p>
+<hr />
+<p>他回到家 不知道要干什么 就死盯着那叠书</p>
+<p>心里的苍蝇闷得飞不起来了</p>
+<p>他挑了一本出来 还不肯服输</p>
+<p>他发现他的心灵也被交上去了</p>
+<hr />
+<p>这人终于受不了了 他找到了他的父亲</p>
+<p>他问：“这天怎么他妈这么闷啊”</p>
+<p>“你开个空调不就得了”</p>
+<b>
+<p align="right">
+作于2023年6-7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>过渡</title>
+    <url>/%E6%96%87%E8%89%BA/%E8%BF%87%E6%B8%A1/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>春季是冬季到夏季的过渡</p>
+<p>太阳是月亮到星辰的过渡</p>
+<p>眼神是心灵到外界的过渡</p>
+<p>树木是楼房到楼房的过渡</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>理想是现实到虚幻的过渡</p>
+<p>成年是天真到坟墓的过渡</p>
+<p>休息是劳动到劳动的过渡</p>
+<p>未来是现在到更久远未来的过渡</p>
+<hr />
+<p>你希望从中得到怎样的安慰？</p>
+<p>还是只需要对未来生活的绝对保证</p>
+<p>但是每一个下一秒都是你的未来</p>
+<p>你的当下在这一秒结束</p>
+<p>又在下一秒重新开始</p>
+<hr />
+<p>你希望得到怎样的安慰？</p>
+<b>
+<p align="right">
+作于2024年4月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>谈谈迷墙里平克的法西斯式行为</title>
+    <url>/%E6%9D%82%E8%B0%88/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
+Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
+Like Hell”, ”Waiting For The Worms”等等。</p>
+<span id="more"></span>
+<p>Comfortably
+Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
+The
+Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>前卫摇滚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>论“命定”</title>
+    <url>/%E6%9D%82%E8%B0%88/%E8%AE%BA%E2%80%9C%E5%91%BD%E5%AE%9A%E2%80%9D/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p><b></p>
+<p>最近读完了杰克凯鲁亚克的《在路上》。这毕竟是垮掉一代的代表作品，读之前的印象自然是一群颓废青年满美国乱兜，再中间穿插一点“生活真道理”的故事，浪漫得很。但中间主角跟一个姑娘互生爱意，决定成立家庭不久后，又因寒冬与生计而分道扬镳。这让我觉得不太对劲--这本书的真实好像是玩真格的。最后的结局也没让我失望：主角的好哥们狄恩长途跋涉几千公里赶到纽约，只为来看看自己。但他没钱和狄恩一起回旧金山，只能目送他在寒冷的纽约街头走去，身上穿着被虫子咬过的外套。其原型也在凯鲁亚克死前一个月，冻死在了墨西哥2月的铁道边上。其名曰尼尔卡赛迪。</p>
+<p></b></p>
+<span id="more"></span>
+<p><b></p>
+<p>这帮美国文青，在二战后切身感受到战争的惨绝人寰以及冷战的末日氛围，于是撒了疯地在美国大地上寻来找去，希望打破生活的沉寂，趁苏美扔核弹之前把这辈子好好过完。但很明显，凯鲁亚克和卡赛迪最终什么也没有寻得，破罐子破摔的命运依旧落回原处。而对我最具冲击力的，还是飙车爵士乐吸毒的主旋律与悲剧结尾的巨大反差，更会让人感到命运既定，哪吒都是扯屁。</p>
+<p>关于命定论，有一个概念能对其进行论证，叫“拉普拉斯的恶魔”：简单说，若任何事物的状态和运作规律都是已知，那么由于因果论，下一秒它们的状态就可以确定，下下一秒的也可以确定，进而我们的未来就都是确定的。举个例子：在这个理论下，你早饭吃了包子，不是因为你“想”，而是它由大脑的一束脑电波决定，甚至从宇宙大爆炸的那一刻起，这件事就是确定的--今天早上你吃的一定是包子，时间倒流回去也跑不掉。这样一解释，人的自由意志便自动散成一滩渣，都不用社会费老大劲来碾。这种状况，哲学家把它归为“后现代精神危机”。</p>
+<p>国内有张专辑（《冷水浇头》），内页写着这样的话：“在这一切均已被尝试，一切结局都可被观测的‘后’时代，我感到没有方向，无所适从，备受煎熬。”这算是种历史的创伤。三十年河东三十年河西，我们总能从历史里找到当今事件的翻版，进而对结果进行预测，通常会得出“这把死定了”的结论。除了杭天，草东也发出过“我想要说的/前人们都说过了”的感慨。而且如今互联网普及，社会阶层与年龄层的天然隔阂被打破，我们每个人都看到了不应该看到的东西，年纪轻轻就受困于大学毕业了有没有工作，工作能不能稳定到我退休等等。这样的恐惧持续渗透，于是更觉命运已定。</p>
+<p>人类不喜欢确定的未来，但仍对预测未来十分热衷。从原始社会<em>用星星和颧骨来预测命运</em>，到现在天气预报，股市预测，以及大部分的科学都是在干这事。但以我们目前的科技水平，足以被称作拉普拉斯的恶魔吗？我们从没有过准确预测未来的能力。我尽管认同因果律，认同命运是确定的，人类也不可能确定“这就是命运”，不可能明确命运的样貌。你说你觉得你考不上高中，考不进985，人生看不见明天--咱连明天下不下雨都不知道。没准明天阳光明媚晴空万里，你就看见明天了。</p>
+<p>结论已出：命运是确定的，但是人类不能确定命运。感谢上帝让我们的科学没那么发达，给我们的未来留下一点未知。其实人生活的大部分都是已知熟悉的，直到某一天突然一个未知出现，我们再去被迫地适应它，跳进新的已知之中。这样讲，人活着可能就是来探索命运的（有点浪漫，大可不信）。毕竟全部都是已知的生活无聊至极，我们总需要一些惊喜或惊吓；最终在病榻前看完自己命运的全貌，再回到我们来的地方去。地球online，名副其实也。</p>
+<p>在我能活到的年份里，我都不怕有科学家能准确预测未来，他们没这能耐，我未来也不会从事这种工作为之努力。如果有人不信邪，曲线救国，发明了通往未来的时光机器，我会第一个以反人类罪名将其绳之以法，当众枪决。</p>
+<b>
+<p align="right">
+作于2023年12月
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.9.12</title>
+    <url>/%E6%97%A5%E8%AE%B0/2023-9-12/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>听了杭天给迪伦的致敬</p>
+<p>Tomorrow is a long time.</p>
+<b>
+<p align="right">
+作于2023.9.12
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.8.1</title>
+    <url>/%E6%97%A5%E8%AE%B0/2023-8-1/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>我今天才明白，《一块红布》是个永恒的东西。</p>
+<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
+<b>
+<p align="right">
+作于2023.8.1
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>解析力学案例</title>
+    <url>/%E7%89%A9%E7%90%86/%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6%E6%A1%88%E4%BE%8B/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3
+id="与速度垂直的力只改变其速度方向">与速度垂直的力只改变其速度方向</h3>
+<p><span class="math display">\[ 令\boldsymbol{v}_0=(v_{0x},
+v_{0y}),\;\boldsymbol{v}=(\varphi, \psi) \]</span></p>
+<span id="more"></span>
+<p><span class="math display">\[ 则
+\boldsymbol{F}=k(-\psi,\varphi),其中k为随t变化的常数 \]</span></p>
+<p><span class="math display">\[
+\boldsymbol{v^{&#39;}}=\boldsymbol{a}=\frac{k}{m}(-\psi,\varphi)=(\varphi^{&#39;},
+\psi^{&#39;}) \]</span></p>
+<p><span class="math display">\[ \Rightarrow \begin{cases}
+    \displaystyle\varphi^{&#39;}=-\frac{k}{m}\psi\\
+    \displaystyle\psi^{&#39;}=\frac{k}{m}\varphi\\
+\end{cases}\Rightarrow\begin{cases}
+    \displaystyle\varphi=-A\sin\frac{k}{m}t+B\cos\frac{k}{m}t\\
+    \displaystyle\psi=A\cos\frac{k}{m}t+B\sin\frac{k}{m}t
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \because v\, \bigg |_{t=0}=(v_{0x},
+v_{0y}) \]</span></p>
+<p><span class="math display">\[ \therefore A=v_{0y},\;B=v_{0x}
+\]</span></p>
+<p><span class="math display">\[ \therefore
+|\boldsymbol{v}|=\sqrt{\varphi^2+\psi^2}=\sqrt{A^2+B^2}=\sqrt{\boldsymbol{v}_{0x}^2+\boldsymbol{v}_{0y}^2}=|\boldsymbol{v}_0|
+\]</span></p>
+<h3 id="计算向心加速度大小">计算向心加速度大小</h3>
+<p><span class="math display">\[ \boldsymbol{s}=(r\cos\omega t,
+r\sin\omega t) \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\boldsymbol{a}=(-r\omega^2\cos\omega t, -r\omega^2\sin\omega t)
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow |\boldsymbol{a}|=r\omega^2
+\]</span></p>
+]]></content>
+      <categories>
+        <category>物理</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>场与势函数</title>
+    <url>/%E7%89%A9%E7%90%86/%E5%9C%BA%E4%B8%8E%E5%8A%BF%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>这篇可能有问题，但先放在这里</p>
+<p>改写成只关于静电场的案例</p>
+<span id="more"></span>
+<p><span class="math display">\[
+在这种有势函数的讨论环境下，场都是向量场，也就是一个向量值函数
+\]</span></p>
+<p><span class="math display">\[
+设场为\boldsymbol{A}=(P,Q)，势函数为f(x,y) \]</span></p>
+<p><span class="math display">\[
+场有势\iff场上做功与路径无关\iff曲线积分与路径无关\iff
+\boldsymbol{A}=\nabla f，此处f即为势函数 \]</span></p>
+<p><span class="math display">\[ \therefore
+从逻辑上，是先有场函数，再把对应势函数求出来；但把势函数画出来之后，可以清晰看出“势”的感觉
+\]</span></p>
+]]></content>
+      <categories>
+        <category>物理</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>读《呐喊》有感</title>
+    <url>/%E8%AF%BB%E5%90%8E%E6%84%9F/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p><b></p>
+<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
+<p></b></p>
+<span id="more"></span>
+<p><b></p>
+<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
+<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
+<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
+<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
+<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
+<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
+<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
+<b>
+<p align="right">
+作于2023年8月
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>读后感</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>伊乔打篮球</title>
+    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E4%BC%8A%E4%B9%94%E6%89%93%E7%AF%AE%E7%90%83/</url>
+    <content><![CDATA[<p><b></p>
+<p>伊乔者，初中足球少将也。既入高中黄旗班，改行篮球，与天涯、炭锑（csb）等诸位共乐。</p>
+<span id="more"></span>
+<p>伊始，伊乔甚弱，打板之技之出于法治甚远，且善空中折叠，十者中一许也。常三分，“向着夕阳”云云出于口，打板后便入天涯之手。众笑之。</p>
+<p>伊乔尝与梁一队，合攻天、炭及姜。梁便曰：“呜呼！不愿此队友！”而天涯则喜，视其为盟。炭锑亦大呼：“稳也稳也！”实则三对二为四对一乎。伊乔之弱，可知矣。</p>
+<p>然今时之伊乔，非旧日然也。一金曜日（星期五）大败天涯后，便痛定思痛，彻夜未眠，思索投篮之技，且颇有成效。现引某次“三滴血”为例。当日，炭择某地以行三分之术，另天涯之讽于一旁，即进。后者乃伊乔，亦进也，顺风疾呼：“吾非上金耀之我也！”后梁亦进，而天涯败之，遂出局。</p>
+<p>此次三滴血，当溃天涯之不败神话，乃黄旗班之奇迹。然伊乔负滚雪球之责，功当为首。伊乔者，大器晚成也。其平日打板之进亦显此论。</p>
+<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>黄旗班史</category>
+      </categories>
+  </entry>
+  <entry>
     <title>天涯前传</title>
     <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E5%A4%A9%E6%B6%AF%E5%89%8D%E4%BC%A0/</url>
     <content><![CDATA[<p><b></p>
@@ -5136,6 +5240,31 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>睿智称帝刍议</title>
+    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E7%9D%BF%E6%99%BA%E7%A7%B0%E5%B8%9D%E5%88%8D%E8%AE%AE/</url>
+    <content><![CDATA[<p><b></p>
+<p>纵观今之世界，政治见地约分为二：朝鲜之梁派及中原之法派。此海诺之见也，吾以为然。梁派以集体团一为上，法派则以经济发展为上。据法所言，朝鲜甚贫，非社会主义也。而法之道失人之感性，盲目求富亦不可取。</p>
+<span id="more"></span>
+<p>现明二者之弊端，而吾之见乃保皇也。世人肠道：“高一四乃黄旗班”云云。黄旗为何？上也，尊贵也，权力之大集也。自钱、尹等伊始，至今之马，十五年一贯独裁之传统，未曾改也，梁法之奇技淫巧皆不入流。独裁之精髓，乃统一步伐，兼持上之清醒头脑。然人非圣贤，则君何所择？愚认为睿智甚可。</p>
+<p>睿智何许人也？其言行已尽记本纪中，意者尽可查阅。遥想睿智当年，左牵黄右擎苍，谈笑间，泰国公寓灰飞烟灭。此非赵鑫言所致，而睿智也。就政训一事，高一四男郎尽推其为寝室长，且监督其工作，又不失尊敬，如“向寝室长问好”云云。可见，睿智称帝乃民心之所趋，民意之所向。君不敢害其民，民不敢不保其君，此等君民关系，皆出梁法之制远矣。愚以为若睿智一统黄旗班，则取罗之位，指日可待矣。</p>
+<p>此仅吾之愚见，深望黄旗班众人提笔撰文，互通论议。</p>
+<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b>
+<p align="right">
+共和国74年12月30日上
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>黄旗班史</category>
+      </categories>
+  </entry>
+  <entry>
     <title>记2019届三班之梗</title>
     <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E8%AE%B02019%E5%B1%8A%E4%B8%89%E7%8F%AD%E4%B9%8B%E6%A2%97/</url>
     <content><![CDATA[<p><b></p>
@@ -5153,31 +5282,6 @@ XantC
 <b>
 <p align="right">
 XantC
-</p>
-<p></b></p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>黄旗班史</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>睿智称帝刍议</title>
-    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E7%9D%BF%E6%99%BA%E7%A7%B0%E5%B8%9D%E5%88%8D%E8%AE%AE/</url>
-    <content><![CDATA[<p><b></p>
-<p>纵观今之世界，政治见地约分为二：朝鲜之梁派及中原之法派。此海诺之见也，吾以为然。梁派以集体团一为上，法派则以经济发展为上。据法所言，朝鲜甚贫，非社会主义也。而法之道失人之感性，盲目求富亦不可取。</p>
-<span id="more"></span>
-<p>现明二者之弊端，而吾之见乃保皇也。世人肠道：“高一四乃黄旗班”云云。黄旗为何？上也，尊贵也，权力之大集也。自钱、尹等伊始，至今之马，十五年一贯独裁之传统，未曾改也，梁法之奇技淫巧皆不入流。独裁之精髓，乃统一步伐，兼持上之清醒头脑。然人非圣贤，则君何所择？愚认为睿智甚可。</p>
-<p>睿智何许人也？其言行已尽记本纪中，意者尽可查阅。遥想睿智当年，左牵黄右擎苍，谈笑间，泰国公寓灰飞烟灭。此非赵鑫言所致，而睿智也。就政训一事，高一四男郎尽推其为寝室长，且监督其工作，又不失尊敬，如“向寝室长问好”云云。可见，睿智称帝乃民心之所趋，民意之所向。君不敢害其民，民不敢不保其君，此等君民关系，皆出梁法之制远矣。愚以为若睿智一统黄旗班，则取罗之位，指日可待矣。</p>
-<p>此仅吾之愚见，深望黄旗班众人提笔撰文，互通论议。</p>
-<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b>
-<p align="right">
-共和国74年12月30日上
 </p>
 <p></b></p>
 <p></b></p>
