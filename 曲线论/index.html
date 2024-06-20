@@ -27,7 +27,7 @@
 <meta property="og:description" content="XantC   预备知识 坐标变换 笛卡尔坐标系\(\lbrace O;\boldsymbol{i},\boldsymbol{j},\boldsymbol{k}\rbrace\)变换到标架\(\lbrace p; \boldsymbol{e_1}, \boldsymbol{e_2}, \boldsymbol{e_3}\rbrace\)，坐标会从\(q(x,y,z)\)，变为\">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2024-05-29T12:21:37.000Z">
-<meta property="article:modified_time" content="2024-06-04T13:19:34.807Z">
+<meta property="article:modified_time" content="2024-06-16T09:22:32.405Z">
 <meta property="article:author" content="XantC">
 <meta name="twitter:card" content="summary">
 
@@ -139,7 +139,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86"><span class="nav-number">1.</span> <span class="nav-text">预备知识</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%9D%90%E6%A0%87%E5%8F%98%E6%8D%A2"><span class="nav-number">1.1.</span> <span class="nav-text">坐标变换</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%88%9A%E4%BD%93%E8%BF%90%E5%8A%A8"><span class="nav-number">1.2.</span> <span class="nav-text">刚体运动</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%90%91%E9%87%8F%E5%87%A0%E4%BD%95%E5%AE%9A%E7%90%86"><span class="nav-number">2.</span> <span class="nav-text">向量几何定理</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E7%BA%BF%E5%BC%A7%E9%95%BF"><span class="nav-number">3.</span> <span class="nav-text">曲线弧长</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#frenet%E6%A0%87%E6%9E%B6"><span class="nav-number">4.</span> <span class="nav-text">Frenet标架</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E7%BA%BF%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86"><span class="nav-number">5.</span> <span class="nav-text">曲线论基本定理</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86"><span class="nav-number">1.</span> <span class="nav-text">预备知识</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%9D%90%E6%A0%87%E5%8F%98%E6%8D%A2"><span class="nav-number">1.1.</span> <span class="nav-text">坐标变换</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%88%9A%E4%BD%93%E8%BF%90%E5%8A%A8"><span class="nav-number">1.2.</span> <span class="nav-text">刚体运动</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%90%91%E9%87%8F%E5%87%A0%E4%BD%95%E5%AE%9A%E7%90%86"><span class="nav-number">2.</span> <span class="nav-text">向量几何定理</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E7%BA%BF%E5%BC%A7%E9%95%BF"><span class="nav-number">3.</span> <span class="nav-text">曲线弧长</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#frenet%E6%A0%87%E6%9E%B6"><span class="nav-number">4.</span> <span class="nav-text">Frenet标架</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#frenet%E5%85%AC%E5%BC%8F"><span class="nav-number">5.</span> <span class="nav-text">Frenet公式</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E4%BA%9B%E8%AE%A1%E7%AE%97"><span class="nav-number">6.</span> <span class="nav-text">一些计算</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E7%BA%BF%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86"><span class="nav-number">7.</span> <span class="nav-text">曲线论基本定理</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E7%BA%BF%E5%9C%A8%E4%B8%80%E7%82%B9%E7%9A%84%E6%A0%87%E5%87%86%E5%B1%95%E5%BC%80"><span class="nav-number">8.</span> <span class="nav-text">曲线在一点的标准展开</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E7%BA%BF%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB"><span class="nav-number">9.</span> <span class="nav-text">曲线对应关系</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%B9%B3%E9%9D%A2%E6%9B%B2%E7%BA%BF"><span class="nav-number">10.</span> <span class="nav-text">平面曲线</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -152,7 +152,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">78</span>
+          <span class="site-state-item-count">81</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -229,7 +229,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-06-04 21:19:34" itemprop="dateModified" datetime="2024-06-04T21:19:34+08:00">2024-06-04</time>
+      <time title="修改时间：2024-06-16 17:22:32" itemprop="dateModified" datetime="2024-06-16T17:22:32+08:00">2024-06-16</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -279,6 +279,7 @@ class="math inline">\(q(x,y,z)\)</span>，变为<span
 class="math inline">\(q(\widetilde{x}, \widetilde{y},
 \widetilde{z})\)</span></p>
 <p>这里只是坐标系发生变化，点在空间的实际位置没有变化，可以说是换了种表示方法</p>
+<span id="more"></span>
 <p>标架变换描述为<span
 class="math inline">\(\begin{cases}  \vec{Op}=a_1\boldsymbol{i}+a_2\boldsymbol{j}+a_3\boldsymbol{k}\\  \boldsymbol{e_1}=a_{11}\boldsymbol{i}+a_{12}\boldsymbol{j}+a_{13}\boldsymbol{k}\\  \boldsymbol{e_2}=a_{21}\boldsymbol{i}+a_{22}\boldsymbol{j}+a_{23}\boldsymbol{k}\\  \boldsymbol{e_2}=a_{31}\boldsymbol{i}+a_{32}\boldsymbol{j}+a_{33}\boldsymbol{k}\\
 \end{cases}\)</span>， 也可为<span
@@ -307,13 +308,91 @@ class="math inline">\(\widetilde{q}(\widetilde{x}, \widetilde{y},
 \\  \boldsymbol{j} \\  \boldsymbol{k} \end{pmatrix}\)</span></p>
 <h3 id="向量几何定理">向量几何定理</h3>
 <ol type="1">
-<li><p>长度不变</p></li>
-<li><p>方向不变</p></li>
-<li><p>与固定方向垂直</p></li>
+<li>长度不变</li>
 </ol>
+<p><span class="math display">\[ a^{&#39;}(t)\cdot a(t)=0 \]</span></p>
+<ol start="2" type="1">
+<li>方向不变</li>
+</ol>
+<p><span class="math display">\[ a^{&#39;}(t)\times a(t)=0 \]</span></p>
+<ol start="3" type="1">
+<li>与固定方向垂直</li>
+</ol>
+<p><span class="math display">\[ (a,a^{&#39;}(t), a^{&#39;&#39;}(t))=0
+\]</span></p>
 <h3 id="曲线弧长">曲线弧长</h3>
+<p>对于一般的曲线<span class="math inline">\(r(t)\)</span>，有<span
+class="math inline">\(\mathrm{d}s=|r^{&#39;}(t)|\mathrm{d}t\)</span>，因而<span
+class="math inline">\(s(t)=\displaystyle\int_{t_0}^t|r^{&#39;}(t)|\mathrm{d}t\)</span></p>
+<p>由微分式可知，若取曲线参数为<span
+class="math inline">\(s\)</span>，则切向量模恒为1；这能引出很多重要的性质，如二阶导（主法向量）与一阶导（切向量）垂直等。这对于Frenet标架的建立十分重要</p>
 <h3 id="frenet标架">Frenet标架</h3>
+<p>微分几何是把几何图形放置在坐标系内，再利用微积分手段对其进行研究的学科。因而对于同一条曲线，它在不同坐标系（坐标变换）下的参数表示可能会不同；而为了消除这种不同，我们会使用“几何图形的不变量”作为表达曲线的参数，比如弧长。</p>
+<p>使用弧长作参的好处有两个，一个是上文提及的“不变量”性质，第二个就是切向量的模恒定</p>
+<p>切向量的变化程度为曲率，<span
+class="math inline">\(\kappa(s)=\displaystyle|\frac{\mathrm{d}\boldsymbol{\alpha}}{\mathrm{d}s}|\)</span></p>
+<p>由切向量模恒为1，可得<span
+class="math inline">\(\displaystyle\frac{\mathrm{d}\boldsymbol{\alpha}}{\mathrm{d}s}\)</span>与<span
+class="math inline">\(\boldsymbol{\alpha}\)</span>垂直，其单位向量即为主法向量<span
+class="math inline">\(\boldsymbol{\beta}\)</span></p>
+<p>次法向量则为<span
+class="math inline">\(\gamma=\alpha\times\beta\)</span></p>
+<p>于是乎，对于曲线上的每一点<span
+class="math inline">\(\boldsymbol{r}(s_0)\)</span>，都存在一个标架<span
+class="math inline">\({\lbrace
+\boldsymbol{r}(s_0);\boldsymbol{\alpha},\boldsymbol{\beta},\boldsymbol{\gamma}}\rbrace\)</span>，因此曲线的形成可以看做一个点沿一个不断变化的标架运动所成的轨迹</p>
+<h3 id="frenet公式">Frenet公式</h3>
+<p>Frenet公式描述了Frenet标架的运动方式，能帮助我们彻底地了解一条曲线的情况</p>
+<p>与曲线相关的平面：</p>
+<p><span class="math display">\[ 法平面\colon
+(\boldsymbol{X}-\boldsymbol{\alpha}(s))=0 \]</span></p>
+<p><span class="math display">\[ 从切平面\colon
+(\boldsymbol{X}-\boldsymbol{\beta}(s))=0 \]</span></p>
+<p><span class="math display">\[ 密切平面\colon
+(\boldsymbol{X}-\boldsymbol{\gamma}(s))=0 \]</span></p>
+<p>密切平面可以大致理解成“包裹”着曲线的平面，因而它的法向量，也就是<span
+class="math inline">\(\boldsymbol{\gamma}\)</span>的导数，就可以用来描述曲线偏离平面曲线的程度，也就是它扭曲的程度，称为挠率<span
+class="math inline">\(\tau\)</span>，有<span
+class="math inline">\(\boldsymbol{\gamma}^{&#39;}=-\tau\boldsymbol{\beta}\)</span>，<span
+class="math inline">\(\tau=-\boldsymbol{\gamma}^{&#39;}\cdot\boldsymbol{\beta}\)</span></p>
+<p>通过叉乘以及导数运算，可以得到前无古人后无来者的Frenet公式：</p>
+<p><span class="math display">\[ \begin{pmatrix}
+    \boldsymbol{\alpha}^{&#39;}\\
+    \boldsymbol{\beta}^{&#39;}\\
+    \boldsymbol{\gamma}^{&#39;}\\
+\end{pmatrix} =
+\begin{pmatrix}
+    \kappa\boldsymbol{\beta}\\
+    \tau\boldsymbol{\gamma}-\kappa\boldsymbol{\beta}\\
+    -\tau\boldsymbol{\beta}
+\end{pmatrix}=
+\begin{pmatrix}
+    0&amp;\kappa&amp;0\\
+    -\kappa&amp;0&amp;\tau\\
+    0&amp;-\tau&amp;0
+\end{pmatrix}
+\begin{pmatrix}
+    \boldsymbol{\alpha}\\
+    \boldsymbol{\beta}\\
+    \boldsymbol{\gamma}
+\end{pmatrix}\]</span></p>
+<p>至此，一条曲线就可以被真正看做一个点沿一个不断变化的标架运动所成的轨迹了。</p>
+<p>可以发现，公式的系数矩阵中只有曲率与挠率两个量；它们作为一条曲线的不变量，能够完全决定一条曲线的形状，这也正是曲线论基本定理的内容。</p>
+<h3 id="一些计算">一些计算</h3>
+<p>分别对<span
+class="math inline">\(\boldsymbol{r}^{&#39;}(t)=|\boldsymbol{r}^{&#39;}(t)|\boldsymbol{\alpha}(t)\)</span>与<span
+class="math inline">\(\gamma=\displaystyle\frac{\boldsymbol{r}^{&#39;}(t)\times\boldsymbol{r}^{&#39;&#39;}(t)}{|\boldsymbol{r}^{&#39;}(t)\times\boldsymbol{r}^{&#39;&#39;}(t)|}\)</span>求导，可得：</p>
+<p><span class="math display">\[
+\kappa(t)=\frac{|\boldsymbol{r}^{&#39;}(t)\times\boldsymbol{r}^{&#39;&#39;}(t)|}{|\boldsymbol{r}^{&#39;}(t)|^3}
+\]</span></p>
+<p><span class="math display">\[
+\tau(t)=\frac{(\boldsymbol{r}^{&#39;}(t),\boldsymbol{r}^{&#39;&#39;}(t),
+\boldsymbol{r}^{&#39;&#39;&#39;}(t))}{|\boldsymbol{r}^{&#39;}(t)\times\boldsymbol{r}^{&#39;&#39;}(t)|^2}
+\]</span></p>
 <h3 id="曲线论基本定理">曲线论基本定理</h3>
+<h3 id="曲线在一点的标准展开">曲线在一点的标准展开</h3>
+<h3 id="曲线对应关系">曲线对应关系</h3>
+<h3 id="平面曲线">平面曲线</h3>
 
     </div>
 
