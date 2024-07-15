@@ -27,7 +27,7 @@
 <meta property="og:description" content="XantC   预备知识 坐标变换 笛卡尔坐标系\(\lbrace O;\boldsymbol{i},\boldsymbol{j},\boldsymbol{k}\rbrace\)变换到标架\(\lbrace p; \boldsymbol{e_1}, \boldsymbol{e_2}, \boldsymbol{e_3}\rbrace\)，坐标会从\(q(x,y,z)\)，变为\">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2024-05-29T12:21:37.000Z">
-<meta property="article:modified_time" content="2024-06-30T07:17:41.125Z">
+<meta property="article:modified_time" content="2024-07-10T13:37:17.439Z">
 <meta property="article:author" content="XantC">
 <meta name="twitter:card" content="summary">
 
@@ -152,13 +152,13 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">89</span>
+          <span class="site-state-item-count">93</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
           <a href="/categories/">
-        <span class="site-state-item-count">10</span>
+        <span class="site-state-item-count">11</span>
         <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
@@ -229,7 +229,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-06-30 15:17:41" itemprop="dateModified" datetime="2024-06-30T15:17:41+08:00">2024-06-30</time>
+      <time title="修改时间：2024-07-10 21:37:17" itemprop="dateModified" datetime="2024-07-10T21:37:17+08:00">2024-07-10</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -238,6 +238,10 @@
       <span class="post-meta-item-text">分类于</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
           <a href="/categories/%E6%95%B0%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">数学</span></a>
+        </span>
+          ，
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E6%95%B0%E5%AD%A6/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/" itemprop="url" rel="index"><span itemprop="name">微分几何</span></a>
         </span>
     </span>
 
@@ -379,9 +383,104 @@ class="math inline">\(\gamma=\displaystyle\frac{\boldsymbol{r}^{&#39;}(t)\times\
 <p>这个定理说的是：如果一条曲线的曲率和挠率确定，那么它的形状就能确定下来。可以把它理解成是从内蕴几何到外蕴几何的表示。</p>
 <p>正儿八经的定理描述：</p>
 <h3 id="曲线在一点的标准展开">曲线在一点的标准展开</h3>
-<p>在数学上，如果我们能把某个数学对象“展开”，那就意味着我们对它的研究有一定深入。而对曲线的展开而言，唯二重要的只有曲率和挠率（可以再算上初始点和初始切向量）。</p>
+<p>在数学上，如果我们能把某个数学对象“展开”，那就意味着我们对它的研究有一定深入。而对曲线的展开而言，唯二重要的只有曲率和挠率（可以再算上初始标架）。</p>
+<p>利用泰勒公式：</p>
+<p><span class="math display">\[ \begin{align*}
+    \boldsymbol{r}(s)&amp;=\boldsymbol{r}(0)+\boldsymbol{r}^{&#39;}(0)s+\frac{1}{2}\boldsymbol{r}^{&#39;&#39;}(0)s^2+\frac{1}{6}\boldsymbol{r}^{&#39;&#39;&#39;}(0)s^3
+\\
+    &amp;=\boldsymbol{r}(0)+\boldsymbol{\alpha}(0)s+\frac{1}{2}\kappa\boldsymbol{\beta}s^2+\frac{1}{6}(-\kappa^2\boldsymbol{\alpha}+\kappa^{&#39;}\boldsymbol{\beta}+\kappa\tau\boldsymbol{\gamma})s^3\\
+    &amp;=\boldsymbol{r}(0)+(s-\frac{1}{6}k^2s^3)\boldsymbol{\alpha}+(\frac{1}{2}\kappa
+s^2+\frac{1}{6}\kappa^{&#39;}s^3)\boldsymbol{\beta}+\frac{1}{6}\kappa\tau
+s^3 \boldsymbol{\gamma}
+\end{align*} \]</span></p>
+<p>如果把初始标架设为笛卡尔坐标系，则<span
+class="math inline">\(s=0\)</span>处的参数方程为：</p>
+<p><span class="math display">\[ \begin{cases}
+    x=s-\frac{1}{6}\kappa^2s^3\\
+    y=\frac{1}{2}\kappa s^2+\frac{1}{6}\kappa^{&#39;}s^3\\
+    z=\frac{1}{6}\kappa\tau s^3
+\end{cases} \]</span></p>
 <h3 id="曲线对应关系">曲线对应关系</h3>
+<p>对应关系，就是曲线<span
+class="math inline">\(\boldsymbol{r_1}=\boldsymbol{r_1}(t)\)</span>和<span
+class="math inline">\(\boldsymbol{r_2}=\boldsymbol{r_2}(u)\)</span>之间，存在参数的对应<span
+class="math inline">\(u=u(t)\)</span>，使得两曲线参数都为<span
+class="math inline">\(t\)</span>，就是一个曲线对应了。之后曲面的参数变换也和这大差不差</p>
+<p>接下来的内容都是一些对应关系的实例，我这里只讲渐伸线和渐缩线，它们是一个对子：</p>
+<p>如果在曲线<span class="math inline">\(C_1\)</span>与<span
+class="math inline">\(C_2\)</span>的对应点上，<span
+class="math inline">\(C_1\)</span>的切线都是<span
+class="math inline">\(C_2\)</span>的法线，则称<span
+class="math inline">\(C_2\)</span>为<span
+class="math inline">\(C_1\)</span>的渐伸线，<span
+class="math inline">\(C_1\)</span>是<span
+class="math inline">\(C_2\)</span>的渐缩线</p>
+<p><span class="math display">\[ 渐伸线\colon
+\boldsymbol{r}=\boldsymbol{r}(s)+(c-s)\boldsymbol{\alpha}(s)
+\]</span></p>
+<p><span class="math display">\[ 渐缩线\colon
+\boldsymbol{r}=\boldsymbol{r}(s)+\frac{1}{\kappa}\boldsymbol{\beta}-\frac{1}{\kappa}\tan\int\tau\mathrm{d}s\,\boldsymbol{\gamma}
+\]</span></p>
+<details>
+<summary>
+渐伸线推导
+</summary>
+<p>设曲线<span class="math inline">\(C_1\)</span>为<span
+class="math inline">\(\boldsymbol{r}=\boldsymbol{r}(s)\)</span>，它的渐伸线为<span
+class="math inline">\(\boldsymbol{r_1}=\boldsymbol{r}(s)+\boldsymbol{\alpha}(s)t(s)\)</span></p>
+<p><span class="math display">\[ \begin{align*}
+    求导得\boldsymbol{r_1}^{&#39;}&amp;=\boldsymbol{\alpha}(s)+\kappa\boldsymbol{\beta}t+\boldsymbol{\alpha}t^{&#39;}\\
+    &amp;=(1+t^{&#39;})\boldsymbol{\alpha}+\kappa t\boldsymbol{\beta}
+\end{align*}
+\]</span></p>
+<p>由渐伸线的定义：<span
+class="math inline">\(\boldsymbol{r_1}\)</span>的法线就是<span
+class="math inline">\(\boldsymbol{r}\)</span>的切线，则<span
+class="math inline">\(\boldsymbol{r_1}^{&#39;}\)</span>与<span
+class="math inline">\(\boldsymbol{\alpha}\)</span>垂直，点积为0：</p>
+<p><span class="math display">\[ \boldsymbol{r_1}^{&#39;}\cdot
+\boldsymbol{\alpha}=(1+t^{&#39;})=0 \]</span></p>
+<p><span class="math display">\[ \Rightarrow t=c-s \]</span></p>
+<p><span class="math display">\[ \therefore
+\boldsymbol{r_1}=\boldsymbol{r}(s)+(c-s)\boldsymbol{\alpha}(s)
+\]</span></p>
+</details>
+<details>
+<summary>
+渐缩线推导
+</summary>
+<p>设曲线<span class="math inline">\(C_1\)</span>为<span
+class="math inline">\(\boldsymbol{r}=\boldsymbol{r}(s)\)</span>，它的渐伸线为<span
+class="math inline">\(\boldsymbol{r_1}=\boldsymbol{r}(s)+\lambda(s)\boldsymbol{\beta}+\mu(s)\boldsymbol{\gamma}\)</span></p>
+<p><span class="math display">\[ \begin{align*}
+    求导得\boldsymbol{r_1}^{&#39;}&amp;=\boldsymbol{\alpha}+\lambda^{&#39;}\boldsymbol{\beta}+\lambda(\tau
+\boldsymbol{\gamma}-\kappa\boldsymbol{\alpha})+\mu^{&#39;}\boldsymbol{\gamma}-\mu\tau\boldsymbol{\beta}\\
+    &amp;=(1-\lambda\kappa)\boldsymbol{\alpha}+(\lambda^{&#39;}-\mu\tau)\beta+(\mu^{&#39;}+\lambda\tau)\boldsymbol{\gamma}\\
+\end{align*} \]</span></p>
+<p>由渐缩线的定义：<span
+class="math inline">\(\boldsymbol{r_1}\)</span>的切线就是<span
+class="math inline">\(\boldsymbol{r}\)</span>的法线，则<span
+class="math inline">\(\boldsymbol{r_1}^{&#39;}\)</span>与<span
+class="math inline">\(\lambda\boldsymbol{\beta}+\mu\boldsymbol{\gamma}\)</span>平行，叉乘为0：</p>
+<p><span class="math display">\[ \begin{align*}
+    \boldsymbol{r_1}^{&#39;}\times(\lambda\boldsymbol{\beta}+\mu\boldsymbol{\gamma})=\;&amp;(\mu\lambda^{&#39;}-\lambda\mu^{&#39;}-\lambda^2\tau-\mu^2\tau)\boldsymbol{\alpha}\\
+    &amp;-\mu(1-\lambda\kappa)\beta\\
+    &amp;+\lambda(1-\lambda\kappa)\boldsymbol{\gamma}
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \Rightarrow \begin{cases}
+    1-\lambda\kappa=0\\
+    \displaystyle\tau=\frac{\mu\lambda^{&#39;}-\lambda\mu^{&#39;}}{\lambda^2+\mu^2}
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \Rightarrow \begin{cases}
+    \displaystyle\lambda=\frac{1}{\kappa}\\
+    \displaystyle\mu=-\frac{1}{\kappa}\tan\int\tau\mathrm{d}s
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \therefore
+\boldsymbol{r_1}=\boldsymbol{r}(s)+\frac{1}{\kappa}\boldsymbol{\beta}-\frac{1}{\kappa}\tan\int\tau\mathrm{d}s\,\boldsymbol{\gamma}
+\]</span></p>
+</details>
 <h3 id="平面曲线">平面曲线</h3>
+<p>（我有时觉得，曲线论可以先从平面曲线开始讲起，因为这是曲线挠率为0的特殊情况，我们的讨论对象只有曲率。之后，我们可以想象一条平面曲线所在平面的弯曲，使得只有某点标架周围的一小部分还在平面--也就是密切平面内。这样理解挠率可能更加形象。）</p>
 
     </div>
 

@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 6.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"allenxantc.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.17.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"style":null,"show_result":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"changyan","storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+
+    <meta name="description" content="XantC   外形式（外积）是什么？ 外形式，是定义在向量空间\(V\)上的满足反交换乘法的多重线性函数，即\(f\in \bigwedge^nV^*\)，它输入n个向量，输出一个实数，形如\(\varphi\, \mathrm{d}x\wedge\mathrm{d}y\wedge\mathrm{d}z\wedge\cdots\) 这句话不是严格定义，但非常精辟，我接下来将">
+<meta property="og:type" content="article">
+<meta property="og:title" content="外微分">
+<meta property="og:url" content="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E5%A4%96%E5%BE%AE%E5%88%86/index.html">
+<meta property="og:site_name" content="XantC的博客">
+<meta property="og:description" content="XantC   外形式（外积）是什么？ 外形式，是定义在向量空间\(V\)上的满足反交换乘法的多重线性函数，即\(f\in \bigwedge^nV^*\)，它输入n个向量，输出一个实数，形如\(\varphi\, \mathrm{d}x\wedge\mathrm{d}y\wedge\mathrm{d}z\wedge\cdots\) 这句话不是严格定义，但非常精辟，我接下来将">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2024-07-10T10:56:44.000Z">
+<meta property="article:modified_time" content="2024-07-14T23:59:01.493Z">
+<meta property="article:author" content="XantC">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E5%A4%96%E5%BE%AE%E5%88%86/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E5%A4%96%E5%BE%AE%E5%88%86/","path":"数学/外微分/","title":"外微分"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>外微分 | XantC的博客</title>
+  
+
+
+
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<style>.darkmode--activated{--body-bg-color:#282828;--content-bg-color:#333;--card-bg-color:#555;--text-color:#ccc;--blockquote-color:#bbb;--link-color:#ccc;--link-hover-color:#eee;--brand-color:#ddd;--brand-hover-color:#ddd;--table-row-odd-bg-color:#282828;--table-row-hover-bg-color:#363636;--menu-item-bg-color:#555;--btn-default-bg:#222;--btn-default-color:#ccc;--btn-default-border-color:#555;--btn-default-hover-bg:#666;--btn-default-hover-color:#ccc;--btn-default-hover-border-color:#666;--highlight-background:#282b2e;--highlight-foreground:#a9b7c6;--highlight-gutter-background:#34393d;--highlight-gutter-foreground:#9ca9b6}.darkmode--activated img{opacity:.75}.darkmode--activated img:hover{opacity:.9}.darkmode--activated code{color:#69dbdc;background:0 0}button.darkmode-toggle{z-index:9999}.darkmode-ignore,img{display:flex!important}.beian img{display:inline-block!important}</style></head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">XantC的博客</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">The Power of The Powerless 去看看欧盟域名有没有申请成功！</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li><li class="menu-item menu-item-guestbook"><a href="/guestbook/" rel="section"><i class="fa fa-book fa-fw"></i>留言板</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%A4%96%E5%BD%A2%E5%BC%8F%E5%A4%96%E7%A7%AF%E6%98%AF%E4%BB%80%E4%B9%88"><span class="nav-number">1.</span> <span class="nav-text">外形式（外积）是什么？</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#%E4%B8%80%E6%AC%A1%E5%A4%96%E5%BD%A2%E5%BC%8F"><span class="nav-number">1.1.</span> <span class="nav-text">一次外形式</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#r%E6%AC%A1%E5%A4%96%E5%BD%A2%E5%BC%8F"><span class="nav-number">1.2.</span> <span class="nav-text">\(r\)次外形式</span></a></li></ol></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%A4%96%E5%BE%AE%E5%88%86%E6%98%AF%E4%BB%80%E4%B9%88"><span class="nav-number">2.</span> <span class="nav-text">外微分是什么？</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E5%A4%96%E5%BE%AE%E5%88%86"><span class="nav-number">3.</span> <span class="nav-text">为什么需要外微分？</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%92%8C%E6%B4%BB%E5%8A%A8%E6%A0%87%E6%9E%B6%E7%9A%84%E5%85%B3%E7%B3%BB"><span class="nav-number">4.</span> <span class="nav-text">和活动标架的关系</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">XantC</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">93</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">11</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="cc-license animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" class="cc-opacity" rel="noopener" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/creativecommons-vocabulary/2020.11.3/assets/license_badges/small/by_nc_sa.svg" alt="Creative Commons"></a>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E5%A4%96%E5%BE%AE%E5%88%86/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="XantC">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="外微分 | XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          外微分
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2024-07-10 18:56:44" itemprop="dateCreated datePublished" datetime="2024-07-10T18:56:44+08:00">2024-07-10</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2024-07-15 07:59:01" itemprop="dateModified" datetime="2024-07-15T07:59:01+08:00">2024-07-15</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E6%95%B0%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">数学</span></a>
+        </span>
+          ，
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E6%95%B0%E5%AD%A6/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/" itemprop="url" rel="index"><span itemprop="name">微分几何</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h4 id="外形式外积是什么">外形式（外积）是什么？</h4>
+<p>外形式，是定义在向量空间<span
+class="math inline">\(V\)</span>上的满足反交换乘法的多重线性函数，即<span
+class="math inline">\(f\in
+\bigwedge^nV^*\)</span>，它输入n个向量，输出一个实数，形如<span
+class="math inline">\(\varphi\,
+\mathrm{d}x\wedge\mathrm{d}y\wedge\mathrm{d}z\wedge\cdots\)</span></p>
+<p>这句话不是严格定义，但非常精辟，我接下来将详细解释。</p>
+<span id="more"></span>
+<h5 id="一次外形式">一次外形式</h5>
+<p>首先，对于一个基向量为<span class="math inline">\(\lbrace
+\boldsymbol{e_i}\rbrace\)</span>的向量空间<span
+class="math inline">\(V\)</span>，如果有一个定义在向量空间<span
+class="math inline">\(V\)</span>上的一般线性函数，即输入一个n维向量<span
+class="math inline">\(\boldsymbol{x}\)</span>，并输出实数的函数<span
+class="math inline">\(f\)</span>，就可以把它定义成<span
+class="math inline">\(f\colon V\rightarrow
+\mathbb{R}\)</span>。而如果我们又定义了一组可以“求向量在基向量上分量”的函数，叫做<span
+class="math inline">\(e^i\)</span>，满足<span
+class="math inline">\(e^i(\boldsymbol{x})=x_i\)</span>，那么它自己就是一个线性函数<span
+class="math inline">\(f\)</span>。更重要的是，这些函数可以被当成一组新的基底<span
+class="math inline">\(\lbrace e^i
+\rbrace\)</span>，而任意的线性函数<span
+class="math inline">\(f\)</span>，都可以表示这些基底的线性组合。我们把<span
+class="math inline">\(\lbrace e^i\rbrace\)</span>命名为<span
+class="math inline">\(V\)</span>的对偶空间<span
+class="math inline">\(V^{*}\)</span>的基底，也叫对偶基底。</p>
+<p>举个例子。微分几何中，我们知道<span
+class="math inline">\(\mathrm{d}\boldsymbol{r}=\boldsymbol{r}_u\mathrm{d}u+\boldsymbol{r}_v\mathrm{d}v\)</span>。这是曲面在某一点的切平面，是一个以<span
+class="math inline">\(\lbrace
+\boldsymbol{r}_u,\boldsymbol{r}_v\rbrace\)</span>为基向量的二维向量空间<span
+class="math inline">\(V\)</span>，它的对偶空间<span
+class="math inline">\(V^{*}\)</span>的基底是<span
+class="math inline">\(\lbrace
+\mathrm{d}u,\mathrm{d}v\rbrace\)</span>。大家可以在纸上画一张图感受一下。需要强调的是，这个切向量式子本身<strong>并不是</strong>一个外形式，它是上文的“任意向量<span
+class="math inline">\(\boldsymbol{x}\)</span>”。因为它吐出的是向量，不是实数。本式的外形式只有<span
+class="math inline">\(\mathrm{d}u\)</span>和<span
+class="math inline">\(\mathrm{d}v\)</span>两个，也就是它的基底本身。</p>
+<p>现在详细解释函数<span
+class="math inline">\(f\)</span>“输入一个向量，吐出一个实数的含义”，这一般是教材里没有详细解释的部分，但对于深刻理解外微分却十分重要。我这里拿内积举个例子；我把外形式<span
+class="math inline">\(\mathrm{d}u\)</span>显式地表示出来：<span
+class="math inline">\(\mathrm{d}u=\mathrm{d}\boldsymbol{r}\cdot\boldsymbol{r}_u\)</span>。在这里，<span
+class="math inline">\(\mathrm{d}\boldsymbol{r}\)</span>作为自变量向量，与偏导数点乘后得到了实数分量。这正是一个<strong>拿进一个向量，吐出实数</strong>的实例，也就是作点积！大家想想，在向量空间<span
+class="math inline">\(V\)</span>中求向量<span
+class="math inline">\(\boldsymbol{x}\)</span>的分量<span
+class="math inline">\(x_i\)</span>，通过点积来求也是非常正常且合理的想法。</p>
+<p>而且，这也能解释为什么在活动标架中，外形式大多被用在标架向量的组合系数里，比如<span
+class="math inline">\(\mathrm{d}\boldsymbol{r}=\omega^1\boldsymbol{e_1}+\omega^2\boldsymbol{e_2}\)</span>，我们可以得到<span
+class="math inline">\(\omega_1=\mathrm{d}\boldsymbol{r}\cdot\boldsymbol{e_1}\)</span>。因而<span
+class="math inline">\(\omega_1\)</span>是拿进向量<span
+class="math inline">\(\boldsymbol{e_1}\)</span>，吐出实数的线性函数，而这样的线性函数又必定是<span
+class="math inline">\(\lbrace
+\mathrm{d}u,\mathrm{d}v\rbrace\)</span>的线性组合。这决定了外形式的形态，也明确了<span
+class="math inline">\(\omega_1\)</span>就是一个外形式！</p>
+<p>现在做一下总结。所谓外形式，<strong>形式上</strong>就是对偶基底（那些微分们）的线性组合；<strong>内涵上</strong>就是把向量处理成实数的函数。</p>
+<p>用数学语言来描述，就是：</p>
+<p><span class="math display">\[
+A\mathrm{d}u+b\mathrm{d}v=f(\mathrm{d}\boldsymbol{r}) \]</span></p>
+<p>而所谓的“把向量处理成实数的函数”也不是什么很玄乎的内容。比如作内积，或是通过叉乘的绝对值来求面积，都是这类函数的实例，它们也都能表示成外微分的形式。（！！！）</p>
+<p>这也为“微分”概念赋予了新的理解，微分<span
+class="math inline">\(\mathrm{d}u,\mathrm{d}v\)</span>从此从多元微积分中的积分的对立面，偏导数的附属品，升级成为了向量的线性函数的基底。</p>
+<h5 id="r次外形式"><span class="math inline">\(r\)</span>次外形式</h5>
+<p>我用多元积分学的内容来导入：</p>
+<p>式子<span
+class="math inline">\(\omega=P\mathrm{d}x+Q\mathrm{d}y\)</span>，是处理二维空间里的一个向量<span
+class="math inline">\(\boldsymbol{x}\)</span>，并返回实数的函数。尽管它是定义在二维笛卡尔坐标系里的，却承担着一维的含义。（毕竟会被用于计算曲线积分）那从斯托克斯公式（或者格林）来看，我们知道这个曲线积分可以转换为曲面积分，也就是进行一个<strong>升维</strong>。那这要怎么用外形式来表示呢？我们要怎么在二维空间里定义一个式子，使得它具有二维的含义？</p>
+<p>这就是外形式开头所说“多重”线性函数的意义。正常为了得到这个多重，我们需要定义张量积，再说到反对称化运算，才能说到外积，我这里就简单过一遍。张量积是用来做升维的运算，一个拿2个向量的函数<span
+class="math inline">\(f\)</span>和一个拿3个向量的<span
+class="math inline">\(g\)</span>作张量积，得到的<span
+class="math inline">\(f\otimes
+g\)</span>就是<strong>依次</strong>拿这5个向量的函数，其结果为两个实数函数之积。反对称化是为了得到<span
+class="math inline">\(\mathrm{d}x\wedge\mathrm{d}y=-\mathrm{d}y\wedge\mathrm{d}x\)</span>的性质，同时也能让外积运算尽量和行列式靠拢。（其实后者在本质上更为重要）</p>
+<p>外积定义如下：（方括号为反对称化运算）</p>
+<p><span class="math display">\[ f\wedge g=\frac{(r+s)!}{r!s!}[f\otimes
+g] \]</span></p>
+<p>对于一个<span
+class="math inline">\(r\)</span>次外形式，我们定义它是在空间<span
+class="math inline">\(\bigwedge^rV^*\)</span>上的，它的基底是<span
+class="math inline">\(\lbrace e^{j_1}\wedge e^{j_2}\wedge \cdots\wedge
+e^{j_n},1\leq j_1&lt;\cdots&lt;j_n\leq
+n\rbrace\)</span>。但是我们也可以直接把外形式理解成<span
+class="math inline">\(f\colon V\times \cdots \times V\rightarrow
+\mathbb{R}\)</span>的函数。因为前者正是后者的特殊情形，而且这更能保留外形式“向量映射到实数”的特征。</p>
+<p>在定义新空间的时候，我们用到了外积符号<span
+class="math inline">\(\wedge\)</span>，现在来好好说道说道它。由于它运算上的反对称性，很多人把它跟行列式，跟向量叉乘作类比，其实它的几何意义确实如此。我们拿二次微分式<span
+class="math inline">\(\mathrm{d}x\wedge\mathrm{d}y\)</span>来说明，它实际上是<span
+class="math inline">\(\omega=\mathrm{d}x\wedge\mathrm{d}y(\boldsymbol{x_1},\boldsymbol{x_2})\)</span>，再根据外积的定义以及张量积和反对称化的算法（这一块可以省略），可以得到：</p>
+<p><span
+class="math display">\[\mathrm{d}x\wedge\mathrm{d}y(\boldsymbol{x_1},\boldsymbol{x_2})=\begin{vmatrix}
+    (\boldsymbol{x_1})_x&amp;(\boldsymbol{x_2})_x\\
+    (\boldsymbol{x_1})_y&amp;(\boldsymbol{x_2})_y
+\end{vmatrix}\]</span></p>
+<p>其中<span
+class="math inline">\((\boldsymbol{x})_x\)</span>指的是向量在<span
+class="math inline">\(x\)</span>轴方向上的分量。容易发现，这个外积正好是<span
+class="math inline">\(\boldsymbol{x_1},\boldsymbol{x_2}\)</span>的行列式，也就是它们所长成平行四边形的面积！一个<strong>二次</strong>外形式，就是拿进<strong>两个</strong>二维向量，并返回一个带有向量长成面积的实数函数。</p>
+<p>从中我们也可以看出一些其他的东西。比如在二维空间里，我们可以定义两种次数的外形式：一个是<span
+class="math inline">\(P\mathrm{d}u+Q\mathrm{d}v\)</span>，一个是<span
+class="math inline">\(A\mathrm{d}u\wedge\mathrm{d}v\)</span>。前者可以用来算曲线积分，后者则是曲面积分；不同次外微分的区别也是在处理的对象上，一次处理一维的东西，二次处理二维的东西。而且这个维度也不可能超过空间本身的维度。</p>
+<p>这也可以一举拓到<span
+class="math inline">\(r\)</span>次的情形。一个<strong>r次</strong>外形式，就是拿进<strong>r个</strong>n维向量，并返回一个带有向量长成面积的实数函数。其中要保证<span
+class="math inline">\(r&lt;n\)</span>。</p>
+<p>总结一下。所谓外形式做外积，就是在<strong>升维度</strong>，这不是指向量空间本身的维度，而是<strong>所处理对象</strong>的维度（在三维里，我们可以处理一次的曲线积分，二次的曲面积分，三次的三重积分）。外形式所对应的维度有多少，它拿进的向量也就有多少。</p>
+<h4 id="外微分是什么">外微分是什么？</h4>
+<p>先上定义：</p>
+<p><span class="math display">\[ \omega=\varphi_{i_1\cdots
+i_n}\mathrm{d}u^{i_1}\wedge\cdots\wedge\mathrm{d}u^{i_n} \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \mathrm{d}\omega&amp;=\mathrm{d}\varphi_{i_1\cdots
+i_n}\wedge\mathrm{d}u^{i_1}\wedge\cdots\wedge\mathrm{d}u^{i_n}\\
+    &amp;=\frac{\partial \varphi_{i_1\cdots i_n}}{\partial
+\mathrm{d}u^j}\mathrm{d}u^j\wedge\mathrm{d}u^{i_1}\wedge\cdots\wedge\mathrm{d}u^{i_n}
+\end{align*} \]</span></p>
+<p>我认为定义里的第一行比较重要。做外微分，就是把微分之前的系数做一次微分，再和后面的微分做外积，非常符合做微分的直观想象。但如果要再理解一步的话，可以看看斯托克斯公式：</p>
+<p><span class="math display">\[ \int_{\partial D}\omega=\int_D
+\mathrm{d}\omega \]</span></p>
+<p>上式是说，在区域的边缘做积分，相当于在区域内部做外微分的积分。这点出了外形式与其外微分的关系：在区域一段边缘上的外形式，与区域内部外形式的外微分，大体可以理解成同一个东西。而且“区域”与“边缘”之间相差一个维度，这与<span
+class="math inline">\(r\)</span>次外形式中所讲的“外积能够升维”相贴合。毕竟外微分在某种程度上就是外积。</p>
+<h4 id="为什么需要外微分">为什么需要外微分？</h4>
+<p>这是由于原先微分的局限性。外微分之前的微分，并没有解释“微分乘以微分”的含义，顶多是能够作为面积或者体积元素，而且求曲面积分时的定向也不能通过式子本身直接确定，需要人工瞪几眼才行。除此之外，它也没有说明“微分的微分”的含义。你现在要把<span
+class="math inline">\(\mathrm{d}\boldsymbol{r}=\boldsymbol{r_u}\mathrm{d}u+\boldsymbol{r_v}\mathrm{d}v\)</span>再微分一次，那肯定是非常奇怪的事情。</p>
+<p>但现在的我们已经全副武装。我们把微分乘以微分，以及微分的微分，都进行了定义。这是以对外形式的全新理解为基础，从而构建起的一套全新的体系。</p>
+<h4 id="和活动标架的关系">和活动标架的关系</h4>
+<p>对于活动标架而言，如果我们想在曲面上也建立一套像Frenet标架一样好用的，只用求导和几何关系就可以解决问题的标架，那么我们必须要用到微分。因为曲线的参数只有一个，而曲面有两个，我们不可能每一个标架向量都有两个偏导式，这样过于麻烦。（从推自然标架的时候就可见一斑）而函数微分可以把它所有自变量的微分全部写在一个式子里。更牛逼的是，标架还允许其依赖于<strong>任意</strong>个参数！</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>原作者： </strong>XantC
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E5%A4%96%E5%BE%AE%E5%88%86/" title="外微分">https://allenxantc.github.io/数学/外微分/</a>
+  </li>
+  <li class="post-copyright-license">
+      <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/%E4%B8%80%E4%B8%AA%E4%BA%BA%20%E6%88%96%E8%80%85%E4%B8%A4%E4%B8%AA%E4%BA%BA/" rel="prev" title="一个人 或者两个人">
+                  <i class="fa fa-chevron-left"></i> 一个人 或者两个人
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/%E6%95%B0%E5%AD%A6/%E6%B4%BB%E5%8A%A8%E6%A0%87%E6%9E%B6/" rel="next" title="活动标架">
+                  活动标架 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="lv-container" data-id="city" data-uid="MTAyMC81OTk2MS8zNjQyNA=="></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2024</span>
+    <span class="with-love">
+      <i class="fa fa-user"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">XantC</span>
+  </div>
+  <div class="powered-by">由 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.6.0/pjax.min.js" integrity="sha256-vxLn1tSKWD4dqbMRyv940UYw4sXgMtYcK6reefzZrao=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","mhchem":true,"js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
+
+
+<script src="https://unpkg.com/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+
+<script>
+var options = {
+  bottom: '64px',
+  right: '32px',
+  left: 'unset',
+  time: '0.5s',
+  mixColor: 'transparent',
+  backgroundColor: 'transparent',
+  buttonColorDark: '#100f2c',
+  buttonColorLight: '#fff',
+  saveInCookies: false,
+  label: '🌓',
+  autoMatchOsTheme: false
+}
+const darkmode = new Darkmode(options);
+window.darkmode = darkmode;
+darkmode.showWidget();
+</script>
+<script src="/js/third-party/comments/livere.js"></script>
+
+</body>
+</html>
