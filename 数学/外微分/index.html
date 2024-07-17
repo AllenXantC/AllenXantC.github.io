@@ -27,7 +27,7 @@
 <meta property="og:description" content="XantC   外形式（外积）是什么？ 外形式，是定义在向量空间\(V\)上的满足反交换乘法的多重线性函数，即\(f\in \bigwedge^nV^*\)，它输入n个向量，输出一个实数，形如\(\varphi\, \mathrm{d}x\wedge\mathrm{d}y\wedge\mathrm{d}z\wedge\cdots\) 这句话不是严格定义，但非常精辟，我接下来将">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2024-07-10T10:56:44.000Z">
-<meta property="article:modified_time" content="2024-07-14T23:59:01.493Z">
+<meta property="article:modified_time" content="2024-07-15T10:50:41.244Z">
 <meta property="article:author" content="XantC">
 <meta name="twitter:card" content="summary">
 
@@ -229,7 +229,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-07-15 07:59:01" itemprop="dateModified" datetime="2024-07-15T07:59:01+08:00">2024-07-15</time>
+      <time title="修改时间：2024-07-15 18:50:41" itemprop="dateModified" datetime="2024-07-15T18:50:41+08:00">2024-07-15</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -298,7 +298,7 @@ class="math inline">\(\boldsymbol{x}\)</span>”。因为它吐出的是向量�
 class="math inline">\(\mathrm{d}u\)</span>和<span
 class="math inline">\(\mathrm{d}v\)</span>两个，也就是它的基底本身。</p>
 <p>现在详细解释函数<span
-class="math inline">\(f\)</span>“输入一个向量，吐出一个实数的含义”，这一般是教材里没有详细解释的部分，但对于深刻理解外微分却十分重要。我这里拿内积举个例子；我把外形式<span
+class="math inline">\(f\)</span>“输入一个向量，吐出一个实数的含义”。我这里拿内积举个例子；我把外形式<span
 class="math inline">\(\mathrm{d}u\)</span>显式地表示出来：<span
 class="math inline">\(\mathrm{d}u=\mathrm{d}\boldsymbol{r}\cdot\boldsymbol{r}_u\)</span>。在这里，<span
 class="math inline">\(\mathrm{d}\boldsymbol{r}\)</span>作为自变量向量，与偏导数点乘后得到了实数分量。这正是一个<strong>拿进一个向量，吐出实数</strong>的实例，也就是作点积！大家想想，在向量空间<span
@@ -307,12 +307,12 @@ class="math inline">\(\boldsymbol{x}\)</span>的分量<span
 class="math inline">\(x_i\)</span>，通过点积来求也是非常正常且合理的想法。</p>
 <p>而且，这也能解释为什么在活动标架中，外形式大多被用在标架向量的组合系数里，比如<span
 class="math inline">\(\mathrm{d}\boldsymbol{r}=\omega^1\boldsymbol{e_1}+\omega^2\boldsymbol{e_2}\)</span>，我们可以得到<span
-class="math inline">\(\omega_1=\mathrm{d}\boldsymbol{r}\cdot\boldsymbol{e_1}\)</span>。因而<span
+class="math inline">\(\omega^1=\mathrm{d}\boldsymbol{r}\cdot\boldsymbol{e_1}\)</span>。因而<span
 class="math inline">\(\omega_1\)</span>是拿进向量<span
 class="math inline">\(\boldsymbol{e_1}\)</span>，吐出实数的线性函数，而这样的线性函数又必定是<span
 class="math inline">\(\lbrace
 \mathrm{d}u,\mathrm{d}v\rbrace\)</span>的线性组合。这决定了外形式的形态，也明确了<span
-class="math inline">\(\omega_1\)</span>就是一个外形式！</p>
+class="math inline">\(\omega^1\)</span>就是一个外形式！</p>
 <p>现在做一下总结。所谓外形式，<strong>形式上</strong>就是对偶基底（那些微分们）的线性组合；<strong>内涵上</strong>就是把向量处理成实数的函数。</p>
 <p>用数学语言来描述，就是：</p>
 <p><span class="math display">\[
