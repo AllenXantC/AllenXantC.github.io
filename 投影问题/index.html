@@ -19,27 +19,27 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"allenxantc.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.17.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"style":null,"show_result":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"changyan","storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="XantC   曲面论基本定理 前言 “曲面论基本定理”，具体来说可以被分成“曲面论唯一性定理”和“曲面论存在性定理”两件事情。唯一性定理说的是第一第二基本形式相同的两个曲面可以通过刚体运动来重合，也就是说“第一第二基本形式唯一确定一张曲面”；存在性定理说的是满足一定相容性条件的两个二次微分式，能够作为一个曲面的第一第二基本形式，进而形成一个曲面。 这两个定理分别对应了曲面的两">
+    <meta name="description" content="XantC   向量到平面投影 对于一向量\(\boldsymbol{a}\)，其到以\(\boldsymbol{n}\)为法向量的平面的投影，为： \[ Prj&#x3D;\boldsymbol{a}-(\boldsymbol{a}\cdot\boldsymbol{n})\boldsymbol{n} \]">
 <meta property="og:type" content="article">
-<meta property="og:title" content="曲面论基本定理">
-<meta property="og:url" content="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E9%9D%A2%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86/index.html">
+<meta property="og:title" content="投影问题">
+<meta property="og:url" content="https://allenxantc.github.io/%E6%8A%95%E5%BD%B1%E9%97%AE%E9%A2%98/index.html">
 <meta property="og:site_name" content="XantC的博客">
-<meta property="og:description" content="XantC   曲面论基本定理 前言 “曲面论基本定理”，具体来说可以被分成“曲面论唯一性定理”和“曲面论存在性定理”两件事情。唯一性定理说的是第一第二基本形式相同的两个曲面可以通过刚体运动来重合，也就是说“第一第二基本形式唯一确定一张曲面”；存在性定理说的是满足一定相容性条件的两个二次微分式，能够作为一个曲面的第一第二基本形式，进而形成一个曲面。 这两个定理分别对应了曲面的两">
+<meta property="og:description" content="XantC   向量到平面投影 对于一向量\(\boldsymbol{a}\)，其到以\(\boldsymbol{n}\)为法向量的平面的投影，为： \[ Prj&#x3D;\boldsymbol{a}-(\boldsymbol{a}\cdot\boldsymbol{n})\boldsymbol{n} \]">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2024-06-26T08:11:31.000Z">
-<meta property="article:modified_time" content="2024-07-10T14:07:28.937Z">
+<meta property="article:published_time" content="2024-07-22T13:08:33.000Z">
+<meta property="article:modified_time" content="2024-07-24T00:25:45.642Z">
 <meta property="article:author" content="XantC">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E9%9D%A2%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86/">
+<link rel="canonical" href="https://allenxantc.github.io/%E6%8A%95%E5%BD%B1%E9%97%AE%E9%A2%98/">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E9%9D%A2%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86/","path":"数学/曲面论基本定理/","title":"曲面论基本定理"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/%E6%8A%95%E5%BD%B1%E9%97%AE%E9%A2%98/","path":"投影问题/","title":"投影问题"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>曲面论基本定理 | XantC的博客</title>
+<title>投影问题 | XantC的博客</title>
   
 
 
@@ -139,7 +139,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E9%9D%A2%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86"><span class="nav-number">1.</span> <span class="nav-text">曲面论基本定理</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%89%8D%E8%A8%80"><span class="nav-number">1.1.</span> <span class="nav-text">前言</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%88%BB%E7%94%BB%E8%87%AA%E7%84%B6%E6%A0%87%E6%9E%B6%E5%9C%BA%E7%9A%84%E8%BF%90%E5%8A%A8"><span class="nav-number">1.2.</span> <span class="nav-text">刻画自然标架场的运动</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%9B%B2%E9%9D%A2%E8%AE%BA%E5%94%AF%E4%B8%80%E6%80%A7%E5%AE%9A%E7%90%86"><span class="nav-number">1.3.</span> <span class="nav-text">曲面论唯一性定理</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#gauss-codazzi%E6%96%B9%E7%A8%8B%E6%9B%B2%E9%9D%A2%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86"><span class="nav-number">1.4.</span> <span class="nav-text">Gauss-Codazzi方程（曲面论基本定理）</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%9B%B2%E9%9D%A2%E8%AE%BA%E5%AD%98%E5%9C%A8%E6%80%A7%E5%AE%9A%E7%90%86"><span class="nav-number">1.5.</span> <span class="nav-text">曲面论存在性定理</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BC%A0%E9%87%8F%E8%AE%A1%E7%AE%97"><span class="nav-number">2.</span> <span class="nav-text">张量计算</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#einstein%E5%92%8C%E5%BC%8F%E7%BA%A6%E5%AE%9A%E5%B0%8F%E8%B4%B4%E5%A3%AB"><span class="nav-number">2.1.</span> <span class="nav-text">Einstein和式约定小贴士</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%BC%A0%E9%87%8F%E8%AE%A1%E7%AE%97%E9%87%8D%E8%A6%81%E5%85%AC%E5%BC%8F%E6%80%BB%E7%BB%93"><span class="nav-number">2.2.</span> <span class="nav-text">张量计算重要公式总结</span></a></li></ol></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%90%91%E9%87%8F%E5%88%B0%E5%B9%B3%E9%9D%A2%E6%8A%95%E5%BD%B1"><span class="nav-number">1.</span> <span class="nav-text">向量到平面投影</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%BA%BF%E6%80%A7%E6%8A%95%E5%BD%B1"><span class="nav-number">2.</span> <span class="nav-text">线性投影</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E7%BA%BF%E5%88%B0%E5%B9%B3%E9%9D%A2%E6%8A%95%E5%BD%B1"><span class="nav-number">3.</span> <span class="nav-text">曲线到平面投影</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -193,7 +193,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E9%9D%A2%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86/">
+    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E6%8A%95%E5%BD%B1%E9%97%AE%E9%A2%98/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -206,12 +206,12 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="曲面论基本定理 | XantC的博客">
+      <meta itemprop="name" content="投影问题 | XantC的博客">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          曲面论基本定理
+          投影问题
         </h1>
 
         <div class="post-meta-container">
@@ -222,14 +222,14 @@
       </span>
       <span class="post-meta-item-text">发表于</span>
 
-      <time title="创建时间：2024-06-26 16:11:31" itemprop="dateCreated datePublished" datetime="2024-06-26T16:11:31+08:00">2024-06-26</time>
+      <time title="创建时间：2024-07-22 21:08:33" itemprop="dateCreated datePublished" datetime="2024-07-22T21:08:33+08:00">2024-07-22</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-07-10 22:07:28" itemprop="dateModified" datetime="2024-07-10T22:07:28+08:00">2024-07-10</time>
+      <time title="修改时间：2024-07-24 08:25:45" itemprop="dateModified" datetime="2024-07-24T08:25:45+08:00">2024-07-24</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -238,10 +238,6 @@
       <span class="post-meta-item-text">分类于</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
           <a href="/categories/%E6%95%B0%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">数学</span></a>
-        </span>
-          ，
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E6%95%B0%E5%AD%A6/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/" itemprop="url" rel="index"><span itemprop="name">微分几何</span></a>
         </span>
     </span>
 
@@ -259,107 +255,74 @@
 XantC
 </p>
 <p></b></p>
-<h3 id="曲面论基本定理">曲面论基本定理</h3>
-<h4 id="前言">前言</h4>
-<p>“曲面论基本定理”，具体来说可以被分成“曲面论唯一性定理”和“曲面论存在性定理”两件事情。唯一性定理说的是第一第二基本形式相同的两个曲面可以通过刚体运动来重合，也就是说“第一第二基本形式唯一确定一张曲面”；存在性定理说的是满足一定相容性条件的两个二次微分式，能够作为一个曲面的第一第二基本形式，进而形成一个曲面。</p>
-<p>这两个定理分别对应了曲面的两个本质内容，一个是自然标架场的运动公式（证明唯一性定理），一个是Gauss-Codazzi方程，也叫曲面论基本方程（证明存在性定理）</p>
+<h3 id="向量到平面投影">向量到平面投影</h3>
+<p>对于一向量<span
+class="math inline">\(\boldsymbol{a}\)</span>，其到以<span
+class="math inline">\(\boldsymbol{n}\)</span>为法向量的平面的投影，为：</p>
+<p><span class="math display">\[
+Prj=\boldsymbol{a}-(\boldsymbol{a}\cdot\boldsymbol{n})\boldsymbol{n}
+\]</span></p>
 <span id="more"></span>
-<h4 id="刻画自然标架场的运动">刻画自然标架场的运动</h4>
-<p>自然标架场运动公式为：</p>
-<p><span class="math display">\[ \begin{cases}
-    \displaystyle\frac{\partial\boldsymbol{r}}{\partial
-u^{\alpha}}=\boldsymbol{r}_\alpha\\
-    \displaystyle\frac{\partial\boldsymbol{r_\alpha}}{\partial
-u^{\beta}}=\boldsymbol{\Gamma}^{\gamma}_{\alpha\beta}\boldsymbol{r_\gamma}+b_{\alpha\beta}\boldsymbol{n}\\
-    \displaystyle\frac{\partial\boldsymbol{n}}{\partial
-u^{\beta}}=-b^\gamma_\beta\boldsymbol{r}_\gamma
-\end{cases} \]</span></p>
-<h4 id="曲面论唯一性定理">曲面论唯一性定理</h4>
-<p>内容：第一第二基本形式唯一确定一张曲面</p>
-<p>证法：构造标架向量相减后做内积的函数，然后求偏导证明函数为0，得到标架处处相同，再构造函数证明<span
-class="math inline">\(\boldsymbol{r}\)</span>本身相同</p>
-<h4
-id="gauss-codazzi方程曲面论基本定理">Gauss-Codazzi方程（曲面论基本定理）</h4>
-<p>研究第一第二基本形式<span
-class="math inline">\(\varphi=g_{\alpha\beta}\mathrm{d}u^\alpha\mathrm{d}u^\beta\)</span>和<span
-class="math inline">\(\psi=b_{\alpha\beta}\mathrm{d}u^\alpha\mathrm{d}u^\beta\)</span>的内在关系，也就是相容性条件。</p>
-<p>由求偏导与自变量顺序无关：</p>
-<p><span class="math display">\[ \begin{cases}
-    \displaystyle\frac{\partial}{\partial u^\beta}\frac{\partial
-\boldsymbol{r}_\alpha}{\partial u^\gamma}=\frac{\partial}{\partial
-u^\gamma}\frac{\partial \boldsymbol{r}_\alpha}{\partial u^\beta}\\
-    \displaystyle\frac{\partial}{\partial u^\beta}\frac{\partial
-\boldsymbol{n}}{\partial u^\gamma}=\frac{\partial}{\partial
-u^\gamma}\frac{\partial \boldsymbol{n}}{\partial u^\beta}\\
-\end{cases} \]</span></p>
-<p>代入运动公式：</p>
-<p><span class="math display">\[ \begin{cases}
-    \displaystyle \frac{\partial}{\partial
-u^\beta}(\Gamma^\delta_{\alpha\gamma}\boldsymbol{r}_\delta+b_{\alpha\gamma}\boldsymbol{n})=\frac{\partial}{\partial
-u^\gamma}(\Gamma^\delta_{\alpha\beta}\boldsymbol{r}_\delta+b_{\alpha\beta}\boldsymbol{n})\\
-    \displaystyle\frac{\partial}{\partial
-u^\beta}b^\delta_\beta\boldsymbol{r}_\delta=\frac{\partial}{\partial
-u^\gamma}b^\delta_\gamma\boldsymbol{r}_\delta
-\end{cases} \]</span></p>
-<p>求偏导后，可以一一对应得到三条方程：</p>
-<p><span class="math display">\[ \begin{cases}
-    \displaystyle\frac{\partial}{\partial
-u^\gamma}\Gamma^\delta_{\alpha\beta}-\frac{\partial}{\partial
-u^\beta}\Gamma^\delta_{\alpha\gamma}+\Gamma^\eta_{\alpha\beta}\Gamma^\delta_{\eta\gamma}-\Gamma^\eta_{\alpha\gamma}\Gamma^\delta_{\eta\beta}=b_{\alpha\beta}b^\delta_\gamma-b_{\alpha\gamma}b^\delta_\gamma\\
-    \displaystyle\frac{\partial b_{\alpha\beta}}{\partial
-u^\gamma}-\frac{\partial b_{\alpha\gamma}}{\partial
-u^\beta}=\Gamma^\delta_{\alpha\gamma}b_{\delta\beta}-\Gamma^\delta_{\alpha\beta}b_{\delta\gamma}\\
-    \displaystyle\frac{\partial b^\alpha_\beta}{\partial
-u^\gamma}-\frac{\partial b^\alpha_\gamma}{\partial
-u^\beta}=-\Gamma^\alpha_{\eta\gamma}b^\eta_\beta+\Gamma^\alpha_{\eta\beta}b^\eta_\gamma
-\end{cases} \]</span></p>
-<p>后两个方程其实是等价的，被称为<strong>Codazzi方程</strong>。而对第一个方程（<strong>Gauss方程</strong>），如果我们令</p>
+<h3 id="线性投影">线性投影</h3>
+<p>这类问题是把“一个向量”投影到“一个矩阵的列空间”上的，可以看作是上一部分的推广。而此时原向量和投影向量的差，是垂直与矩阵的列空间，也就是在它的左零空间里的。如果我们设一个<span
+class="math inline">\(n=r\)</span>的矩阵为<span
+class="math inline">\(A\)</span>，投影向量满足<span
+class="math inline">\(p=A\bar{x}\)</span>，则有<span
+class="math inline">\(A^{\mathrm{T}}(\boldsymbol{b}-A\bar{x})=0\)</span></p>
+<p>所以：</p>
 <p><span class="math display">\[
-R^\delta_{\alpha\beta\gamma}=\frac{\partial}{\partial
-u^\gamma}\Gamma^\delta_{\alpha\beta}-\frac{\partial}{\partial
-\beta}\Gamma^\delta_{\alpha\gamma}+\Gamma^\eta_{\alpha\beta}\Gamma^\delta_{\eta\gamma}-\Gamma^\eta_{\alpha\gamma}\Gamma^\delta_{\eta\beta}
-\]</span></p>
-<p>其中<span
-class="math inline">\(R^\delta_{\alpha\beta\gamma}\)</span>称作<strong>Riemann记号</strong>，则方程变为：</p>
+A^{\mathrm{T}}A\bar{x}=A^{\mathrm{T}}\boldsymbol{b} \]</span></p>
+<p>由于<span
+class="math inline">\(A^{\mathrm{T}}A\)</span>可逆，我们就可以直接求解这个矩阵方程，然后得到{x}$。</p>
+<p>如果想要再进一步得到对于<span
+class="math inline">\(C(A)\)</span>的投影矩阵（也就是直接作用于目标向量<span
+class="math inline">\(b\)</span>的矩阵），我们可以：</p>
 <p><span class="math display">\[
-R^\delta_{\alpha\beta\gamma}=b_{\alpha\beta}b^\delta_\gamma-b_{\alpha\gamma}b^\delta_\gamma
+\bar{x}=(A^{\mathrm{T}}A)^{-1}A^{\mathrm{T}}\boldsymbol{b} \]</span></p>
+<p><span class="math display">\[ \because
+p=P\boldsymbol{b}=A(A^{\mathrm{T}}A)^{-1}A^{\mathrm{T}}\boldsymbol{b}
 \]</span></p>
-<p>即</p>
+<p><span class="math display">\[ \therefore
+P=A(A^{\mathrm{T}}A)^{-1}A^{\mathrm{T}} \]</span></p>
+<h3 id="曲线到平面投影">曲线到平面投影</h3>
+<p>在研究曲线到平面投影的时候，我们可能担心不同位置的平面是否会导致投影曲线的不同（特别是平面插在曲线里上下移动的时候），但其实这与位置无关。我目前还不会用说理的办法来解释，于是使用代数。</p>
+<p>如果我们使用向量值函数来表示曲线，即<span
+class="math inline">\(\boldsymbol{r}(t)=(x(t),y(t),z(t))\)</span>（此处不能把曲线的不变量作为参数，比如弧长，它在做投影之后肯定会变），那么原曲线切向量的投影必定和投影曲线的切向量同向（单位切向量相等）。</p>
+<p>我们设原曲线为<span class="math inline">\(\boldsymbol{r_0}(t)=(x(t),
+y(t),z(t))\)</span>，投影曲线为<span
+class="math inline">\(\boldsymbol{r_1}(t)\)</span>，则有：</p>
+<p><span class="math display">\[ \begin{align*}
+    \boldsymbol{r_1}^{&#39;}&amp;=k*Prj(\boldsymbol{r_0}^{&#39;})\\
+    &amp;=k\,(\boldsymbol{r_0}^{&#39;}-(\boldsymbol{r_0}^{&#39;}\cdot\boldsymbol{n})\boldsymbol{n})\\
+    &amp;=k(\boldsymbol{r_0}^{&#39;}-(\boldsymbol{r_0}\cdot
+\boldsymbol{n})^{&#39;}\boldsymbol{n})
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\boldsymbol{r_1}=k(\boldsymbol{r_0}-(\boldsymbol{r_0}\cdot\boldsymbol{n}+c_0)\boldsymbol{n})+\boldsymbol{e_0}
+\]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    0&amp;=(\boldsymbol{r_1}-\boldsymbol{r_0})\times\boldsymbol{n}\\
+    &amp;=((k-1)\boldsymbol{r_0}-k(\boldsymbol{r_0}\cdot\boldsymbol{n}+c_0)\boldsymbol{n}+\boldsymbol{e_0})\times\boldsymbol{n}\\
+    &amp;=((k-1)\boldsymbol{r_0}+\boldsymbol{e_0})\times\boldsymbol{n}\\
+\end{align*} \]</span></p>
 <p><span class="math display">\[
-R_{\alpha\delta\beta\gamma}=b_{\alpha\beta}b_{\delta\gamma}-b_{\alpha\gamma}b_{\delta\beta}
+令(k-1)\boldsymbol{r_0}+\boldsymbol{e_0}=\mu\boldsymbol{n} \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \Rightarrow
+\boldsymbol{r_1}&amp;=((k-1)\boldsymbol{r_0}+\boldsymbol{e_0})+(\boldsymbol{r_0}-k(\boldsymbol{r_0}\cdot
+\boldsymbol{n})\boldsymbol{n})\\
+    &amp;=\boldsymbol{r_0}+(\mu-k(\boldsymbol{r_0}\cdot\boldsymbol{n}+c_0))\boldsymbol{n}\\
+    &amp;=\boldsymbol{r_0}+(k\boldsymbol{r_0}\cdot\boldsymbol{n}+c_0)\boldsymbol{n}\\
+\end{align*}\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\boldsymbol{r_1}^{&#39;}=\boldsymbol{r_0}^{&#39;}\Rightarrow k=1
 \]</span></p>
-<p>再由Riemann记号的对称性，以及对Codazzi方程的试验，可知这两个含字母的方程实际上只涵盖三个方程，也就是真正的<strong>Gauss-Codazzi方程</strong>：</p>
-<p><span class="math display">\[ \begin{cases}
-    R_{1212}=b_{11}b_{22}-(b_{12})^2\\
-    \displaystyle\frac{\partial b_{11}}{\partial u^2}-\frac{\partial
-b_{12}}{\partial
-u^1}=-b_{2\gamma}\Gamma^\gamma_{11}+b_{1\gamma}\Gamma^\gamma_{12}\\
-    \displaystyle\frac{\partial b_{21}}{\partial u^2}-\frac{\partial
-b_{22}}{\partial
-u^1}=-b_{2\gamma}\Gamma^\gamma_{21}+b_{1\gamma}\Gamma^\gamma_{22}\\
-\end{cases} \]</span></p>
-<h4 id="曲面论存在性定理">曲面论存在性定理</h4>
-<p>以上是从“已知曲面”来分析“二次微分式”，接下来倒着推，推导曲面的存在性定理。思路就是利用Gauss-Codazzi方程作为条件，求解运动公式的偏微分方程，再构造函数来证明得到的标架满足<span
-class="math inline">\(\boldsymbol{r_\alpha}\cdot\boldsymbol{r_\beta}=g_{\alpha\beta}\)</span>，二者与法向量垂直，法向量模为1；也就是一些自然标架场的特征。</p>
-<h3 id="张量计算">张量计算</h3>
-<h4 id="einstein和式约定小贴士">Einstein和式约定小贴士</h4>
-<p>在和式约定那兵荒马乱的希腊字母中，我将其分为两类字母：一类是要表示的“目标变量”，一类是只用于标记求和的“求和变量”（学名叫做“哑指标”）。</p>
-<p>在一个单项式中，哑指标可以进行随意变化。</p>
-<p>在一个单项式中，一个指标不可以出现三次及以上，不然会导向一些可怕的结果。（比如硬着头皮求<span
-class="math inline">\(\displaystyle\frac{\partial
-g^{\alpha\beta}}{\partial u^\gamma}\)</span>）</p>
-<p>在进行运算时，需要时刻注意式子里的求和变量，要尽量去简化哑指标的个数，以窥探式子的真面貌，看起来也更简洁。</p>
-<h4 id="张量计算重要公式总结">张量计算重要公式总结</h4>
-<p><span class="math display">\[ \begin{cases}
-    b^\gamma_\beta=b_{\beta\xi}g^{\xi\gamma},\;
-b_{\gamma\beta}=b^\xi_\beta g_{\xi\gamma}\\
-    \Gamma^\gamma_{\alpha\beta}=\Gamma_{\xi\alpha\beta} g^{\xi\gamma},\;
-\Gamma_{\gamma\alpha\beta}=\Gamma^\xi_{\alpha\beta} g_{\xi\gamma}\\
-    \displaystyle \frac{\partial g_{\alpha\beta}}{\partial
-u^\gamma}=\Gamma_{\alpha\beta\gamma}+\Gamma_{\beta\alpha\gamma}\\
-    \displaystyle \frac{\partial g^{\alpha\beta}}{\partial
-u^\gamma}=-g^{\alpha\delta}\Gamma^\beta_{\delta\gamma}-g^{\beta\delta}\Gamma^\alpha_{\delta\gamma}
-\end{cases} \]</span></p>
+<p><span class="math display">\[ \therefore
+\boldsymbol{r_1}=\boldsymbol{r_0}+(\boldsymbol{r_0}\cdot\boldsymbol{n}+c_0)\boldsymbol{n}
+\]</span></p>
+<p>根据最后的式子，我们可以看出投影曲线的确与平面本身的位置无关。而由于常数<span
+class="math inline">\(c_0\)</span>的存在，我们得到的其实是一组垂直于曲面法向量的曲线；<span
+class="math inline">\(c_0\)</span>则负责这些曲线之间的平移。</p>
 
     </div>
 
@@ -377,7 +340,7 @@ u^\gamma}=-g^{\alpha\delta}\Gamma^\beta_{\delta\gamma}-g^{\beta\delta}\Gamma^\al
   </li>
   <li class="post-copyright-link">
       <strong>本文链接：</strong>
-      <a href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E9%9D%A2%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86/" title="曲面论基本定理">https://allenxantc.github.io/数学/曲面论基本定理/</a>
+      <a href="https://allenxantc.github.io/%E6%8A%95%E5%BD%B1%E9%97%AE%E9%A2%98/" title="投影问题">https://allenxantc.github.io/投影问题/</a>
   </li>
   <li class="post-copyright-license">
       <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
@@ -390,14 +353,11 @@ u^\gamma}=-g^{\alpha\delta}\Gamma^\beta_{\delta\gamma}-g^{\beta\delta}\Gamma^\al
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/%E4%B9%8C%E6%89%98%E9%82%A6%E5%88%B0%E6%9D%A5%E7%9A%84%E5%89%8D%E4%B8%80%E5%A4%A9/" rel="prev" title="乌托邦到来的前一天">
-                  <i class="fa fa-chevron-left"></i> 乌托邦到来的前一天
+                <a href="/%E5%A4%9C%E6%99%9A/" rel="prev" title="夜晚">
+                  <i class="fa fa-chevron-left"></i> 夜晚
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/%E6%9B%B2%E9%9D%A2%E8%AE%BA/" rel="next" title="曲面论">
-                  曲面论 <i class="fa fa-chevron-right"></i>
-                </a>
             </div>
           </div>
     </footer>
