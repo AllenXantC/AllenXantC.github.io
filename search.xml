@@ -1,46 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>一个人 或者两个人</title>
-    <url>/%E4%B8%80%E4%B8%AA%E4%BA%BA%20%E6%88%96%E8%80%85%E4%B8%A4%E4%B8%AA%E4%BA%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>2008年2月8日的某一个时刻</p>
-<p>两个孩子同时降生</p>
-<p>一个从肚子里出来就嚎啕大哭</p>
-<p>家人们围着他 给他取了名字</p>
-<hr />
-<p>另一个空间</p>
-<p>那个孩子和他哭得同样响</p>
-<p>接生婆把他递给床上的母亲</p>
-<p>这位母亲</p>
-<p>她一脸愁容</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<hr />
-<p>他会想</p>
-<p>自己的生活会不会变糟</p>
-<p>但不会去想</p>
-<p>他的未来 有没有可能更好</p>
-<b>
-<p align="right">
-作于2024年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
     <title>一个人死后</title>
     <url>/%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%AD%BB%E5%90%8E/</url>
     <content><![CDATA[<b>
@@ -78,6 +38,46 @@ XantC
 <b>
 <p align="right">
 作于2024年6月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>一个人 或者两个人</title>
+    <url>/%E4%B8%80%E4%B8%AA%E4%BA%BA%20%E6%88%96%E8%80%85%E4%B8%A4%E4%B8%AA%E4%BA%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>2008年2月8日的某一个时刻</p>
+<p>两个孩子同时降生</p>
+<p>一个从肚子里出来就嚎啕大哭</p>
+<p>家人们围着他 给他取了名字</p>
+<hr />
+<p>另一个空间</p>
+<p>那个孩子和他哭得同样响</p>
+<p>接生婆把他递给床上的母亲</p>
+<p>这位母亲</p>
+<p>她一脸愁容</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<hr />
+<p>他会想</p>
+<p>自己的生活会不会变糟</p>
+<p>但不会去想</p>
+<p>他的未来 有没有可能更好</p>
+<b>
+<p align="right">
+作于2024年7月
 </p>
 <p></b></p>
 </b> </big>
@@ -159,6 +159,22 @@ XantC
 ]]></content>
       <categories>
         <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>奇异值分解</title>
+    <url>/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>解释为什么<span class="math inline">\(\mathrm{tr}(A^\mathrm{T}A)=\sum
+\sigma_i^2=\sum a_{ij}^2\)</span>（在书P379T10）</p>
+]]></content>
+      <categories>
+        <category>数学</category>
+        <category>线性代数</category>
       </categories>
   </entry>
   <entry>
@@ -285,6 +301,33 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>完形填空</title>
+    <url>/%E5%AE%8C%E5%BD%A2%E5%A1%AB%E7%A9%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>你感觉你实在受不了了</p>
+<p>只有躺到床上才是清醒的</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<b>
+<p align="right">
+作于2024年7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>我看不清</title>
     <url>/%E6%88%91%E7%9C%8B%E4%B8%8D%E6%B8%85/</url>
     <content><![CDATA[<b>
@@ -320,33 +363,6 @@ XantC
 <b>
 <p align="right">
 作于2024年8月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>完形填空</title>
-    <url>/%E5%AE%8C%E5%BD%A2%E5%A1%AB%E7%A9%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>你感觉你实在受不了了</p>
-<p>只有躺到床上才是清醒的</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<b>
-<p align="right">
-作于2024年7月
 </p>
 <p></b></p>
 </b> </big>
@@ -449,6 +465,109 @@ class="math inline">\(c_0\)</span>则负责这些曲线之间的平移。</p>
 ]]></content>
       <categories>
         <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>无题（3）</title>
+    <url>/%E6%97%A0%E9%A2%98%EF%BC%883%EF%BC%89/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p><b> <big></p>
+<p>城市里的孩子不认识星星</p>
+<p>白领的皮鞋没有见过脚印</p>
+<p>我们的名字里不包括我们对自己的期望</p>
+<p>时间长河中的更多时候都刻在冰冷的墓碑上</p>
+<p></big> <span id="more"></span></p>
+<p><br></p>
+<p><big></p>
+<p>它们一步一步地</p>
+<p>揣着油条和豆浆</p>
+<p>向前方 慢慢地走着</p>
+<b>
+<p align="right">
+作于2024年8月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>无从学起</title>
+    <url>/%E6%97%A0%E4%BB%8E%E5%AD%A6%E8%B5%B7/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p><b> <big></p>
+<p>树在清晨顺手甩掉的枯叶</p>
+<p>可能仍是绿的</p>
+<p>他用捆在一起的</p>
+<p>十年前的枝条或化石</p>
+<p>给它们一片一片地扫在一起</p>
+<p>和人们丢下的瓶子罐子</p>
+<p>激动 压制 和一地的沉默</p>
+<p>扫进同一块无人关心的地方</p>
+<p>慢慢地培育</p>
+<p>慢慢长出</p>
+<p>我们脸上 满脸的讽刺</p>
+<p></big> <span id="more"></span></p>
+<p><br></p>
+<p><big></p>
+<p>有时做的累了</p>
+<p>他要么刷刷手机</p>
+<p>要么四处看看几眼</p>
+<p>有时视线转到</p>
+<p>转到一块黑色的破布 跪在地上</p>
+<p>他呆滞了一会</p>
+<p>也没有什么话能说 没有</p>
+<p>可能只是单纯地移开视线</p>
+<p>另去端详一些 值得端详的事物</p>
+<p><br></p>
+<p>他们作为一个群体</p>
+<p>有时甚至会像一个个体那样盯着远方</p>
+<p>你可以说他看见了大厦看见了人</p>
+<p>也可以说他什么都没有看见</p>
+<p>一株疲惫的野草</p>
+<p>发出空洞的眼神</p>
+<p>让周围匆匆走过的</p>
+<p>自由的醉翁</p>
+<p>感觉无从学起</p>
+<p><br></p>
+<p>而这眼神</p>
+<p>我们都早已习得</p>
+<p>早已习得</p>
+<b>
+<p align="right">
+作于2024年8月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>曲面论</title>
+    <url>/%E6%9B%B2%E9%9D%A2%E8%AE%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+        <category>微分几何</category>
       </categories>
   </entry>
   <entry>
@@ -688,20 +807,6 @@ class="math inline">\(\lambda\boldsymbol{\beta}+\mu\boldsymbol{\gamma}\)</span>�
       </categories>
   </entry>
   <entry>
-    <title>曲面论</title>
-    <url>/%E6%9B%B2%E9%9D%A2%E8%AE%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-        <category>微分几何</category>
-      </categories>
-  </entry>
-  <entry>
     <title>游荡在时代之外</title>
     <url>/%E6%B8%B8%E8%8D%A1%E5%9C%A8%E6%97%B6%E4%BB%A3%E4%B9%8B%E5%A4%96/</url>
     <content><![CDATA[<b>
@@ -847,17 +952,27 @@ XantC
 <p>里</p>
 <p><br></p>
 <p>有一个人站着</p>
-<p>让你感觉很陌生</p>
+<p>开始的时候看起来赏心悦目</p>
+<p>慢慢变得有些扭曲</p>
+<p>让你感到陌生</p>
 <p><br></p>
 <p>比任何初次碰面的人还要陌生</p>
-<p>因为你觉得</p>
-<p>世界上除你以外没有一个人会长成这个样子</p>
-<p>所以无法产生任何印象</p>
-<p>但他可是你呀</p>
+<p>因为世界上除你以外没有一个人会长成这个样子</p>
+<p>无法接受看见一张这样的脸</p>
+<p>无法对之产生任何印象</p>
+<p>但他</p>
+<p>可是你呀</p>
 <p><br></p>
-<p>人可能不需要也不关心知道自己长成什么样</p>
-<p>更不用关心别人长成什么样</p>
-<p>我想消灭化妆品消灭整型手术刀</p>
+<p>不管多么善察人心</p>
+<p>看到这张嘴脸</p>
+<p>都会哑然失声</p>
+<p><br></p>
+<p>人能够看见自己这件事情 也是蛮奇怪的</p>
+<p>我仍然没法全身心地认同它</p>
+<p>向内审查哪会看见自己的脸啊</p>
+<p>这是不应该的</p>
+<p><br></p>
+<p>不应该有脸</p>
 <b>
 <p align="right">
 作于2024年8月
@@ -869,6 +984,93 @@ XantC
       <categories>
         <category>文艺</category>
       </categories>
+  </entry>
+  <entry>
+    <title>限于口头</title>
+    <url>/%E9%99%90%E4%BA%8E%E5%8F%A3%E5%A4%B4/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p><b> <big></p>
+<p>行动</p>
+<p></big> <span id="more"></span></p>
+<p><br></p>
+<p><big></p>
+<p>是最激进的一种理论</p>
+<p><br></p>
+<p>行动</p>
+<p><br></p>
+<p>是一首标致的诗</p>
+<p>一件私人财产</p>
+<p>一个丑角</p>
+<p><br></p>
+<p>你现在所听到的</p>
+<p>就是这样一种东西</p>
+<p><br></p>
+<p>热血</p>
+<p>只有蒸发的命运</p>
+<p>模糊了所有人的视线</p>
+<p>水汽的背后</p>
+<p>那个软弱的标准</p>
+<p>与相关联的一切</p>
+<p>躲躲藏藏</p>
+<p><br></p>
+<p>你可以试着</p>
+<p>把这个胆小鬼找出来</p>
+<p><br></p>
+<p>把这一页纸撕下来</p>
+<p>死后烧给我的坟头吧</p>
+<p>但也并没有什么用处</p>
+<p><br></p>
+<p>（走了）</p>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>谈《孤独的人是可耻的》</title>
+    <url>/%E5%90%AC%E5%90%8E%E6%84%9F/%E8%B0%88%E3%80%8A%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84%E3%80%8B/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>最初，我想用写《黑梦》听后感的结构化方式来写《孤独》，但很快发现写不下去，拖了两个月才从头开始。我觉得这是因为每篇歌词挨个做诗词鉴赏很枯燥，而且我也不擅长分析曲。所以就决定把我印象深刻的部分单独写下来，别写听后感也整个八股文了。</p>
+<span id="more"></span>
+<h3 id="蚂蚁没问题">蚂蚁没问题</h3>
+<p>《蚂蚁蚂蚁》这张专辑里我最喜欢的一首歌，我曾拿它感动哭过一位emo的同志。</p>
+<p>此曲也使我明白了艺术欣赏的方式。</p>
+<p>最初听到“看一看我的理想还埋在土里”时，我总感觉楚哥是在讽刺这些没有理想的人，又觉得用雷鬼这种欢快的节奏来反讽，貌似有点太腹黑了。于是到知乎上一搜，却发现张楚说过:</p>
+<blockquote>
+<p>“我就是喜欢一种特别天然的、无拘无束的东西......所以就写了这么一首歌”。</p>
+</blockquote>
+<p>原来，“没有理想”，在楚哥的乌托邦里并不是什么大事，重要的是能够每天听着收音机，请朋友吃西瓜皮，这就够了。而对我而言，我也因此对乌托邦有了自己明确的想象，明白了艺术欣赏本质是观众和创作者的交流，交流成功，才能达到共鸣。</p>
+<h3 id="女性主义">女性主义</h3>
+<p>在摇滚乐，乃至整个音乐中，这个主题我只在楚哥这里见到过。</p>
+<p>专辑里主要有两首歌与这相关：《和大伙去乘凉》和《赵小姐》。它们是我女性主义的启蒙。</p>
+<p>据B站up主范筒老师所说，张楚从不把自己摆在审视者的角度，而是和他所描写的群体站在一起。这使他能敏锐地点出女性的困境，提出的愿景也充满了亲切。</p>
+<p>像在《和大伙去乘凉》中，张楚唱道：</p>
+<blockquote>
+<p>我可以回去用肥皂把手再洗干净/可我不能去找个姑娘来洗净头脑/姑娘/不该是肥皂/姑娘/不该是肥皂</p>
+</blockquote>
+<p>这句话能有很多种解读：比如物化女性、对爱人的责任等。但由于我自己的经历，以及习惯把看到听到的东西的意义拔高，我更倾向于后一种分析，对这句话的理解也超出了尊重女性，还引申到了对爱情的理解上。希望以后真能做到负尽责任。</p>
+<h3 id="张楚的文风">张楚的“文风”</h3>
+<p>虽然我写过的歌词一类的东西还很少，但我的“文风”还是主要受了崔健和张楚的影响。形式上像崔健，张楚则让我的每句话都包含着含义（读起来也着实累人）。</p>
+<p>这张专辑里的张楚很擅长保持听众的兴趣。他会给歌曲起一些“摸不清要唱啥”的名字，像“孤独的人是可耻的”、“厕所和床”；也会在作品开头用新奇的句子“阳光下我的脸突然被什么亲吻，这温暖的感受差点儿送了我的命”。</p>
+<p>第二，表达上也兼收并蓄。其实好的专辑，好的歌曲，都会把心思放在雕琢情绪的起伏上。</p>
+<p>如《苍蝇》里，开场的口琴模拟了苍蝇嗡嗡的叫声，吸引起观众兴趣。之后，张楚缓慢唱出“苍蝇”能吃饱饭，心里却依旧空旷的苦衷；以及它为爱所困，感到越来越无力的麻木。苍蝇的叫声继续行进，突然停歇后再跟上鼓点，情绪渲染至高峰，张楚便爆发出了苍蝇们痛恨身边熟悉的一切，想要改变却无能为力的纠结情感。</p>
+<h3 id="总结">总结</h3>
+<p>这张专辑囊括了一个人年轻的时候，脑子里能想到的所有东西。所以说，张楚对现在的我而言就像个亲切的同龄朋友，他想的东西比我深刻的多，热情也比我强烈。我和众多听众一起琢磨着其中的内涵，一起跟着他唱“前面是光明的大道”，真他妈的幸福。</p>
+]]></content>
+      <categories>
+        <category>听后感</category>
+      </categories>
+      <tags>
+        <tag>中国摇滚乐</tag>
+      </tags>
   </entry>
   <entry>
     <title>《黑梦》听后感</title>
@@ -956,46 +1158,54 @@ href="#分母为二次式或根号下二次式">分母为二次式或根号下�
       </categories>
   </entry>
   <entry>
-    <title>谈《孤独的人是可耻的》</title>
-    <url>/%E5%90%AC%E5%90%8E%E6%84%9F/%E8%B0%88%E3%80%8A%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84%E3%80%8B/</url>
+    <title>三角导数与积分公式</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<p>最初，我想用写《黑梦》听后感的结构化方式来写《孤独》，但很快发现写不下去，拖了两个月才从头开始。我觉得这是因为每篇歌词挨个做诗词鉴赏很枯燥，而且我也不擅长分析曲。所以就决定把我印象深刻的部分单独写下来，别写听后感也整个八股文了。</p>
+<h3 id="导数">导数</h3>
+<h4 id="三角">三角</h4>
+<p><span class="math display">\[ (\sin x)^{&#39;}=\cos x \]</span></p>
+<p><span class="math display">\[ (\cos x)^{&#39;}=-\sin x \]</span></p>
 <span id="more"></span>
-<h3 id="蚂蚁没问题">蚂蚁没问题</h3>
-<p>《蚂蚁蚂蚁》这张专辑里我最喜欢的一首歌，我曾拿它感动哭过一位emo的同志。</p>
-<p>此曲也使我明白了艺术欣赏的方式。</p>
-<p>最初听到“看一看我的理想还埋在土里”时，我总感觉楚哥是在讽刺这些没有理想的人，又觉得用雷鬼这种欢快的节奏来反讽，貌似有点太腹黑了。于是到知乎上一搜，却发现张楚说过:</p>
-<blockquote>
-<p>“我就是喜欢一种特别天然的、无拘无束的东西......所以就写了这么一首歌”。</p>
-</blockquote>
-<p>原来，“没有理想”，在楚哥的乌托邦里并不是什么大事，重要的是能够每天听着收音机，请朋友吃西瓜皮，这就够了。而对我而言，我也因此对乌托邦有了自己明确的想象，明白了艺术欣赏本质是观众和创作者的交流，交流成功，才能达到共鸣。</p>
-<h3 id="女性主义">女性主义</h3>
-<p>在摇滚乐，乃至整个音乐中，这个主题我只在楚哥这里见到过。</p>
-<p>专辑里主要有两首歌与这相关：《和大伙去乘凉》和《赵小姐》。它们是我女性主义的启蒙。</p>
-<p>据B站up主范筒老师所说，张楚从不把自己摆在审视者的角度，而是和他所描写的群体站在一起。这使他能敏锐地点出女性的困境，提出的愿景也充满了亲切。</p>
-<p>像在《和大伙去乘凉》中，张楚唱道：</p>
-<blockquote>
-<p>我可以回去用肥皂把手再洗干净/可我不能去找个姑娘来洗净头脑/姑娘/不该是肥皂/姑娘/不该是肥皂</p>
-</blockquote>
-<p>这句话能有很多种解读：比如物化女性、对爱人的责任等。但由于我自己的经历，以及习惯把看到听到的东西的意义拔高，我更倾向于后一种分析，对这句话的理解也超出了尊重女性，还引申到了对爱情的理解上。希望以后真能做到负尽责任。</p>
-<h3 id="张楚的文风">张楚的“文风”</h3>
-<p>虽然我写过的歌词一类的东西还很少，但我的“文风”还是主要受了崔健和张楚的影响。形式上像崔健，张楚则让我的每句话都包含着含义（读起来也着实累人）。</p>
-<p>这张专辑里的张楚很擅长保持听众的兴趣。他会给歌曲起一些“摸不清要唱啥”的名字，像“孤独的人是可耻的”、“厕所和床”；也会在作品开头用新奇的句子“阳光下我的脸突然被什么亲吻，这温暖的感受差点儿送了我的命”。</p>
-<p>第二，表达上也兼收并蓄。其实好的专辑，好的歌曲，都会把心思放在雕琢情绪的起伏上。</p>
-<p>如《苍蝇》里，开场的口琴模拟了苍蝇嗡嗡的叫声，吸引起观众兴趣。之后，张楚缓慢唱出“苍蝇”能吃饱饭，心里却依旧空旷的苦衷；以及它为爱所困，感到越来越无力的麻木。苍蝇的叫声继续行进，突然停歇后再跟上鼓点，情绪渲染至高峰，张楚便爆发出了苍蝇们痛恨身边熟悉的一切，想要改变却无能为力的纠结情感。</p>
-<h3 id="总结">总结</h3>
-<p>这张专辑囊括了一个人年轻的时候，脑子里能想到的所有东西。所以说，张楚对现在的我而言就像个亲切的同龄朋友，他想的东西比我深刻的多，热情也比我强烈。我和众多听众一起琢磨着其中的内涵，一起跟着他唱“前面是光明的大道”，真他妈的幸福。</p>
+<p><span class="math display">\[ (\tan x)^{&#39;}=\sec^2x \]</span></p>
+<p><span class="math display">\[ (\cot x)^{&#39;}=-\csc^2x \]</span></p>
+<p><span class="math display">\[ (\sec x)^{&#39;}=\sec x\tan x
+\]</span></p>
+<p><span class="math display">\[ (\csc x)^{&#39;}=-\csc x\cot x
+\]</span></p>
+<h4 id="反三角">反三角</h4>
+<p><span class="math display">\[ (\arcsin
+x)^{&#39;}=\frac{1}{\sqrt{1-x^2}} \]</span></p>
+<p><span class="math display">\[ (\arccos
+x)^{&#39;}=-\frac{1}{\sqrt{1-x^2}} \]</span></p>
+<p><span class="math display">\[ (\arctan x)^{&#39;}=\frac{1}{1+x^2}
+\]</span></p>
+<h3 id="积分">积分</h3>
+<h4 id="三角-1">三角</h4>
+<p><span class="math display">\[ \int \sin x\mathrm{d}x=-\cos
+x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \cos x\mathrm{d}x=\sin
+x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \tan x\mathrm{d}x=-ln|\cos
+x|+\mathrm{C}=ln|\sec x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \cot x\mathrm{d}x=ln|\sin
+x|+\mathrm{C}=-ln|\csc x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \sec x\mathrm{d}x=ln|\sec x+\tan
+x|+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \csc x\mathrm{d}x=-ln|\csc x+\cot
+x|+\mathrm{C} \]</span></p>
+<h4 id="反三角-1">反三角</h4>
+<p><span class="math display">\[ \int
+\frac{1}{\sqrt{1-x^2}}\mathrm{d}x=\arcsin x+\mathrm{C} \]</span></p>
+<p><span class="math display">\[ \int \frac{1}{1+x^2}\mathrm{d}x=\arctan
+x+\mathrm{C} \]</span></p>
 ]]></content>
       <categories>
-        <category>听后感</category>
+        <category>数学</category>
       </categories>
-      <tags>
-        <tag>中国摇滚乐</tag>
-      </tags>
   </entry>
   <entry>
     <title>傅里叶级数</title>
@@ -1097,56 +1307,6 @@ x}{l}-i\sin\frac{n\pi x}{l})\mathrm{d}x\\
       </categories>
   </entry>
   <entry>
-    <title>三角导数与积分公式</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E4%B8%89%E8%A7%92%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="导数">导数</h3>
-<h4 id="三角">三角</h4>
-<p><span class="math display">\[ (\sin x)^{&#39;}=\cos x \]</span></p>
-<p><span class="math display">\[ (\cos x)^{&#39;}=-\sin x \]</span></p>
-<span id="more"></span>
-<p><span class="math display">\[ (\tan x)^{&#39;}=\sec^2x \]</span></p>
-<p><span class="math display">\[ (\cot x)^{&#39;}=-\csc^2x \]</span></p>
-<p><span class="math display">\[ (\sec x)^{&#39;}=\sec x\tan x
-\]</span></p>
-<p><span class="math display">\[ (\csc x)^{&#39;}=-\csc x\cot x
-\]</span></p>
-<h4 id="反三角">反三角</h4>
-<p><span class="math display">\[ (\arcsin
-x)^{&#39;}=\frac{1}{\sqrt{1-x^2}} \]</span></p>
-<p><span class="math display">\[ (\arccos
-x)^{&#39;}=-\frac{1}{\sqrt{1-x^2}} \]</span></p>
-<p><span class="math display">\[ (\arctan x)^{&#39;}=\frac{1}{1+x^2}
-\]</span></p>
-<h3 id="积分">积分</h3>
-<h4 id="三角-1">三角</h4>
-<p><span class="math display">\[ \int \sin x\mathrm{d}x=-\cos
-x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \cos x\mathrm{d}x=\sin
-x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \tan x\mathrm{d}x=-ln|\cos
-x|+\mathrm{C}=ln|\sec x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \cot x\mathrm{d}x=ln|\sin
-x|+\mathrm{C}=-ln|\csc x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \sec x\mathrm{d}x=ln|\sec x+\tan
-x|+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \csc x\mathrm{d}x=-ln|\csc x+\cot
-x|+\mathrm{C} \]</span></p>
-<h4 id="反三角-1">反三角</h4>
-<p><span class="math display">\[ \int
-\frac{1}{\sqrt{1-x^2}}\mathrm{d}x=\arcsin x+\mathrm{C} \]</span></p>
-<p><span class="math display">\[ \int \frac{1}{1+x^2}\mathrm{d}x=\arctan
-x+\mathrm{C} \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
     <title>伽马函数</title>
     <url>/%E6%95%B0%E5%AD%A6/%E4%BC%BD%E9%A9%AC%E5%87%BD%E6%95%B0/</url>
     <content><![CDATA[<b>
@@ -1165,6 +1325,99 @@ x^n\mathrm{e}^xdx=f(x)\mathrm{e}^x-f^{&#39;}(x)\mathrm{e}^x+f^{&#39;&#39;}(x)\ma
 <li><p>分部积分法</p></li>
 <li><p>数学归纳法</p></li>
 </ol>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>向量叉乘</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E5%90%91%E9%87%8F%E5%8F%89%E4%B9%98/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="定义">定义</h3>
+<h4 id="几何定义">几何定义</h4>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta\hat{\boldsymbol{n}}
+\]</span></p>
+<p><span class="math display">\[
+其中\hat{\boldsymbol{n}}是垂直于\boldsymbol{a}、\boldsymbol{b}所在平面的单位向量，用右手螺旋定则确定方向
+\]</span></p>
+<span id="more"></span>
+<h4 id="代数定义">代数定义</h4>
+<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
+    a_1\\
+    a_2\\
+    a_3
+\end{bmatrix}, \,
+\boldsymbol{b}=\begin{bmatrix}
+    b_1\\
+    b_2\\
+    b_3
+\end{bmatrix}
+\]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=\begin{vmatrix}
+    \boldsymbol{i} &amp;&amp; \boldsymbol{j} &amp;&amp; \boldsymbol{k}\\
+    a_1 &amp;&amp; a_2 &amp;&amp; a_3 \\
+    b_1 &amp;&amp; b_2 &amp;&amp; b_3\\
+\end{vmatrix} =
+\boldsymbol{i}\begin{vmatrix}
+    a_2&amp;&amp;a_3\\b_2&amp;&amp;b_3
+\end{vmatrix}-
+\boldsymbol{j}\begin{vmatrix}
+    a_1&amp;&amp;a_3\\b_1&amp;&amp;b_3
+\end{vmatrix}+
+\boldsymbol{k}\begin{vmatrix}
+    a_1&amp;&amp;a_2\\b_1&amp;&amp;b_2
+\end{vmatrix} \]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\times\boldsymbol{b}=(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}
+\]</span></p>
+<h5 id="推导">推导</h5>
+<p><span class="math display">\[ \begin{align*}
+    \boldsymbol{a}\times\boldsymbol{b}=&amp;(a_1\boldsymbol{i}+a_2\boldsymbol{j}+a_3\boldsymbol{k})\times(b_1\boldsymbol{i}+b_2\boldsymbol{j}+b_3\boldsymbol{k})\\
+    =&amp;(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}\\
+\end{align*} \]</span></p>
+<h3 id="意义">意义</h3>
+<h4 id="几何意义">几何意义</h4>
+<p><span class="math display">\[
+|\boldsymbol{a}\times\boldsymbol{b}|=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+S_{\Delta}=\frac{1}{2}|\boldsymbol{a}\times\boldsymbol{b}|\,,S_{\text{平四}}=|\boldsymbol{a}\times\boldsymbol{b}|
+\]</span></p>
+<h3 id="混合积">混合积</h3>
+<h4 id="定义-1">定义</h4>
+<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
+    a_1\\
+    a_2\\
+    a_3
+\end{bmatrix}, \,
+\boldsymbol{b}=\begin{bmatrix}
+    b_1\\
+    b_2\\
+    b_3
+\end{bmatrix}, \,
+\boldsymbol{c}=\begin{bmatrix}
+    c_1\\
+    c_2\\
+    c_3
+\end{bmatrix}
+\]</span></p>
+<p><span class="math display">\[
+\boldsymbol{a}\cdot(\boldsymbol{b}\times\boldsymbol{c})=\begin{vmatrix}
+    a_1&amp;&amp;a_2&amp;&amp;a_3\\
+    b_1&amp;&amp;b_2&amp;&amp;b_3\\
+    c_1&amp;&amp;c_2&amp;&amp;c_3\\
+\end{vmatrix} \]</span></p>
+<h4 id="几何意义-1">几何意义</h4>
+<p><span class="math display">\[
+表示\boldsymbol{a}、\boldsymbol{b}、\boldsymbol{c}构成的平行六面体的体积
+\]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -1344,99 +1597,6 @@ a)，则T=4(m-a) \]</span></p>
 <p><span class="math display">\[ \Rightarrow 2n-(2n-f(x))=f(4m-4a+x)
 \]</span></p>
 <p><span class="math display">\[ \therefore f[4(m-a)+x]=f(x)
-\]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>向量叉乘</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E5%90%91%E9%87%8F%E5%8F%89%E4%B9%98/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="定义">定义</h3>
-<h4 id="几何定义">几何定义</h4>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta\hat{\boldsymbol{n}}
-\]</span></p>
-<p><span class="math display">\[
-其中\hat{\boldsymbol{n}}是垂直于\boldsymbol{a}、\boldsymbol{b}所在平面的单位向量，用右手螺旋定则确定方向
-\]</span></p>
-<span id="more"></span>
-<h4 id="代数定义">代数定义</h4>
-<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
-    a_1\\
-    a_2\\
-    a_3
-\end{bmatrix}, \,
-\boldsymbol{b}=\begin{bmatrix}
-    b_1\\
-    b_2\\
-    b_3
-\end{bmatrix}
-\]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=\begin{vmatrix}
-    \boldsymbol{i} &amp;&amp; \boldsymbol{j} &amp;&amp; \boldsymbol{k}\\
-    a_1 &amp;&amp; a_2 &amp;&amp; a_3 \\
-    b_1 &amp;&amp; b_2 &amp;&amp; b_3\\
-\end{vmatrix} =
-\boldsymbol{i}\begin{vmatrix}
-    a_2&amp;&amp;a_3\\b_2&amp;&amp;b_3
-\end{vmatrix}-
-\boldsymbol{j}\begin{vmatrix}
-    a_1&amp;&amp;a_3\\b_1&amp;&amp;b_3
-\end{vmatrix}+
-\boldsymbol{k}\begin{vmatrix}
-    a_1&amp;&amp;a_2\\b_1&amp;&amp;b_2
-\end{vmatrix} \]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\times\boldsymbol{b}=(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}
-\]</span></p>
-<h5 id="推导">推导</h5>
-<p><span class="math display">\[ \begin{align*}
-    \boldsymbol{a}\times\boldsymbol{b}=&amp;(a_1\boldsymbol{i}+a_2\boldsymbol{j}+a_3\boldsymbol{k})\times(b_1\boldsymbol{i}+b_2\boldsymbol{j}+b_3\boldsymbol{k})\\
-    =&amp;(a_2b_3-a_3b_2)\boldsymbol{i}+(a_3b_1-a_1b_3)\boldsymbol{j}+(a_1b_2-a_2b_1)\boldsymbol{k}\\
-\end{align*} \]</span></p>
-<h3 id="意义">意义</h3>
-<h4 id="几何意义">几何意义</h4>
-<p><span class="math display">\[
-|\boldsymbol{a}\times\boldsymbol{b}|=|\boldsymbol{a}||\boldsymbol{b}|\sin\theta
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow
-S_{\Delta}=\frac{1}{2}|\boldsymbol{a}\times\boldsymbol{b}|\,,S_{\text{平四}}=|\boldsymbol{a}\times\boldsymbol{b}|
-\]</span></p>
-<h3 id="混合积">混合积</h3>
-<h4 id="定义-1">定义</h4>
-<p><span class="math display">\[ \boldsymbol{a}=\begin{bmatrix}
-    a_1\\
-    a_2\\
-    a_3
-\end{bmatrix}, \,
-\boldsymbol{b}=\begin{bmatrix}
-    b_1\\
-    b_2\\
-    b_3
-\end{bmatrix}, \,
-\boldsymbol{c}=\begin{bmatrix}
-    c_1\\
-    c_2\\
-    c_3
-\end{bmatrix}
-\]</span></p>
-<p><span class="math display">\[
-\boldsymbol{a}\cdot(\boldsymbol{b}\times\boldsymbol{c})=\begin{vmatrix}
-    a_1&amp;&amp;a_2&amp;&amp;a_3\\
-    b_1&amp;&amp;b_2&amp;&amp;b_3\\
-    c_1&amp;&amp;c_2&amp;&amp;c_3\\
-\end{vmatrix} \]</span></p>
-<h4 id="几何意义-1">几何意义</h4>
-<p><span class="math display">\[
-表示\boldsymbol{a}、\boldsymbol{b}、\boldsymbol{c}构成的平行六面体的体积
 \]</span></p>
 ]]></content>
       <categories>
@@ -1671,6 +1831,144 @@ class="math inline">\(\sin^nθ\)</span>展开成关于θ的一次三角多项式
 ]]></content>
       <categories>
         <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>外微分</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E5%A4%96%E5%BE%AE%E5%88%86/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h4 id="外形式外积是什么">外形式（外积）是什么？</h4>
+<p>外形式，是定义在向量空间<span
+class="math inline">\(V\)</span>上的满足反交换乘法的多重线性函数，即<span
+class="math inline">\(f\in
+\bigwedge^nV^*\)</span>，它输入n个向量，输出一个实数，形如<span
+class="math inline">\(\varphi\,
+\mathrm{d}x\wedge\mathrm{d}y\wedge\mathrm{d}z\wedge\cdots\)</span></p>
+<p>这句话不是严格定义，但非常精辟，我接下来将详细解释。</p>
+<span id="more"></span>
+<h5 id="一次外形式">一次外形式</h5>
+<p>首先，对于一个基向量为<span class="math inline">\(\lbrace
+\boldsymbol{e_i}\rbrace\)</span>的向量空间<span
+class="math inline">\(V\)</span>，如果有一个定义在向量空间<span
+class="math inline">\(V\)</span>上的一般线性函数，即输入一个n维向量<span
+class="math inline">\(\boldsymbol{x}\)</span>，并输出实数的函数<span
+class="math inline">\(f\)</span>，就可以把它定义成<span
+class="math inline">\(f\colon V\rightarrow
+\mathbb{R}\)</span>。而如果我们又定义了一组可以“求向量在基向量上分量”的函数，叫做<span
+class="math inline">\(e^i\)</span>，满足<span
+class="math inline">\(e^i(\boldsymbol{x})=x_i\)</span>，那么它自己就是一个线性函数<span
+class="math inline">\(f\)</span>。更重要的是，这些函数可以被当成一组新的基底<span
+class="math inline">\(\lbrace e^i
+\rbrace\)</span>，而任意的线性函数<span
+class="math inline">\(f\)</span>，都可以表示这些基底的线性组合。我们把<span
+class="math inline">\(\lbrace e^i\rbrace\)</span>命名为<span
+class="math inline">\(V\)</span>的对偶空间<span
+class="math inline">\(V^{*}\)</span>的基底，也叫对偶基底。</p>
+<p>举个例子。微分几何中，我们知道<span
+class="math inline">\(\mathrm{d}\boldsymbol{r}=\boldsymbol{r}_u\mathrm{d}u+\boldsymbol{r}_v\mathrm{d}v\)</span>。这是曲面在某一点的切平面，是一个以<span
+class="math inline">\(\lbrace
+\boldsymbol{r}_u,\boldsymbol{r}_v\rbrace\)</span>为基向量的二维向量空间<span
+class="math inline">\(V\)</span>，它的对偶空间<span
+class="math inline">\(V^{*}\)</span>的基底是<span
+class="math inline">\(\lbrace
+\mathrm{d}u,\mathrm{d}v\rbrace\)</span>。大家可以在纸上画一张图感受一下。需要强调的是，这个切向量式子本身<strong>并不是</strong>一个外形式，它是上文的“任意向量<span
+class="math inline">\(\boldsymbol{x}\)</span>”。因为它吐出的是向量，不是实数。本式的外形式只有<span
+class="math inline">\(\mathrm{d}u\)</span>和<span
+class="math inline">\(\mathrm{d}v\)</span>两个，也就是它的基底本身。</p>
+<p>现在详细解释函数<span
+class="math inline">\(f\)</span>“输入一个向量，吐出一个实数的含义”。我这里拿内积举个例子；我把外形式<span
+class="math inline">\(\mathrm{d}u\)</span>显式地表示出来：<span
+class="math inline">\(\mathrm{d}u=\mathrm{d}\boldsymbol{r}\cdot\boldsymbol{r}_u\)</span>。在这里，<span
+class="math inline">\(\mathrm{d}\boldsymbol{r}\)</span>作为自变量向量，与偏导数点乘后得到了实数分量。这正是一个<strong>拿进一个向量，吐出实数</strong>的实例，也就是作点积！大家想想，在向量空间<span
+class="math inline">\(V\)</span>中求向量<span
+class="math inline">\(\boldsymbol{x}\)</span>的分量<span
+class="math inline">\(x_i\)</span>，通过点积来求也是非常正常且合理的想法。</p>
+<p>而且，这也能解释为什么在活动标架中，外形式大多被用在标架向量的组合系数里，比如<span
+class="math inline">\(\mathrm{d}\boldsymbol{r}=\omega^1\boldsymbol{e_1}+\omega^2\boldsymbol{e_2}\)</span>，我们可以得到<span
+class="math inline">\(\omega^1=\mathrm{d}\boldsymbol{r}\cdot\boldsymbol{e_1}\)</span>。因而<span
+class="math inline">\(\omega_1\)</span>是拿进向量<span
+class="math inline">\(\boldsymbol{e_1}\)</span>，吐出实数的线性函数，而这样的线性函数又必定是<span
+class="math inline">\(\lbrace
+\mathrm{d}u,\mathrm{d}v\rbrace\)</span>的线性组合。这决定了外形式的形态，也明确了<span
+class="math inline">\(\omega^1\)</span>就是一个外形式！</p>
+<p>现在做一下总结。所谓外形式，<strong>形式上</strong>就是对偶基底（那些微分们）的线性组合；<strong>内涵上</strong>就是把向量处理成实数的函数。</p>
+<p>用数学语言来描述，就是：</p>
+<p><span class="math display">\[
+A\mathrm{d}u+b\mathrm{d}v=f(\mathrm{d}\boldsymbol{r}) \]</span></p>
+<p>而所谓的“把向量处理成实数的函数”也不是什么很玄乎的内容。比如作内积，或是通过叉乘的绝对值来求面积，都是这类函数的实例，它们也都能表示成外微分的形式。（！！！）</p>
+<p>这也为“微分”概念赋予了新的理解，微分<span
+class="math inline">\(\mathrm{d}u,\mathrm{d}v\)</span>从此从多元微积分中的积分的对立面，偏导数的附属品，升级成为了向量的线性函数的基底。</p>
+<h5 id="r次外形式"><span class="math inline">\(r\)</span>次外形式</h5>
+<p>我用多元积分学的内容来导入：</p>
+<p>式子<span
+class="math inline">\(\omega=P\mathrm{d}x+Q\mathrm{d}y\)</span>，是处理二维空间里的一个向量<span
+class="math inline">\(\boldsymbol{x}\)</span>，并返回实数的函数。尽管它是定义在二维笛卡尔坐标系里的，却承担着一维的含义（毕竟会被用于计算曲线积分）。那从斯托克斯公式（或者格林）来看，我们知道这个曲线积分可以转换为曲面积分，也就是进行一个<strong>升维</strong>。那这要怎么用外形式来表示呢？我们要怎么在二维空间里定义一个式子，使得它具有二维的含义？</p>
+<p>这就是外形式开头所说“多重”线性函数的意义。正常为了得到这个多重，我们需要定义张量积，再说到反对称化运算，才能说到外积，我这里就简单过一遍。张量积是用来做升维的运算，一个拿2个向量的函数<span
+class="math inline">\(f\)</span>和一个拿3个向量的<span
+class="math inline">\(g\)</span>作张量积，得到的<span
+class="math inline">\(f\otimes
+g\)</span>就是<strong>依次</strong>拿这5个向量的函数，其结果为两个实数函数之积。反对称化是为了得到<span
+class="math inline">\(\mathrm{d}x\wedge\mathrm{d}y=-\mathrm{d}y\wedge\mathrm{d}x\)</span>的性质，同时也能让外积运算尽量和行列式靠拢。（其实后者在本质上更为重要）</p>
+<p>外积定义如下：（方括号为反对称化运算）</p>
+<p><span class="math display">\[ f\wedge g=\frac{(r+s)!}{r!s!}[f\otimes
+g] \]</span></p>
+<p>对于一个<span
+class="math inline">\(r\)</span>次外形式，我们定义它是在空间<span
+class="math inline">\(\bigwedge^rV^*\)</span>上的，它的基底是<span
+class="math inline">\(\lbrace e^{j_1}\wedge e^{j_2}\wedge \cdots\wedge
+e^{j_n},1\leq j_1&lt;\cdots&lt;j_n\leq
+n\rbrace\)</span>。但是我们也可以直接把外形式理解成<span
+class="math inline">\(f\colon V\times \cdots \times V\rightarrow
+\mathbb{R}\)</span>的函数。因为前者正是后者的特殊情形，而且这更能保留外形式“向量映射到实数”的特征。</p>
+<p>在定义新空间的时候，我们用到了外积符号<span
+class="math inline">\(\wedge\)</span>，现在来好好说道说道它。由于它运算上的反对称性，很多人把它跟行列式，跟向量叉乘作类比，其实它的几何意义确实如此。我们拿二次微分式<span
+class="math inline">\(\mathrm{d}x\wedge\mathrm{d}y\)</span>来说明，它实际上是<span
+class="math inline">\(\omega=\mathrm{d}x\wedge\mathrm{d}y(\boldsymbol{x_1},\boldsymbol{x_2})\)</span>，再根据外积的定义以及张量积和反对称化的算法（这一块可以省略），可以得到：</p>
+<p><span
+class="math display">\[\mathrm{d}x\wedge\mathrm{d}y(\boldsymbol{x_1},\boldsymbol{x_2})=\begin{vmatrix}
+    (\boldsymbol{x_1})_x&amp;(\boldsymbol{x_2})_x\\
+    (\boldsymbol{x_1})_y&amp;(\boldsymbol{x_2})_y
+\end{vmatrix}\]</span></p>
+<p>其中<span
+class="math inline">\((\boldsymbol{x})_x\)</span>指的是向量在<span
+class="math inline">\(x\)</span>轴方向上的分量。容易发现，这个外积正好是<span
+class="math inline">\(\boldsymbol{x_1},\boldsymbol{x_2}\)</span>的行列式，也就是它们所长成平行四边形的面积！一个<strong>二次</strong>外形式，就是拿进<strong>两个</strong>二维向量，并返回一个带有向量长成面积的实数函数。</p>
+<p>从中我们也可以看出一些其他的东西。比如在二维空间里，我们可以定义两种次数的外形式：一个是<span
+class="math inline">\(P\mathrm{d}u+Q\mathrm{d}v\)</span>，一个是<span
+class="math inline">\(A\mathrm{d}u\wedge\mathrm{d}v\)</span>。前者可以用来算曲线积分，后者则是曲面积分；不同次外微分的区别也是在处理的对象上，一次处理一维的东西，二次处理二维的东西。而且这个维度也不可能超过空间本身的维度。</p>
+<p>这也可以一举拓到<span
+class="math inline">\(r\)</span>次的情形。一个<strong>r次</strong>外形式，就是拿进<strong>r个</strong>n维向量，并返回一个带有向量长成面积的实数函数。其中要保证<span
+class="math inline">\(r&lt;n\)</span>。</p>
+<p>总结一下。所谓外形式做外积，就是在<strong>升维度</strong>，这不是指向量空间本身的维度，而是<strong>所处理对象</strong>的维度（在三维里，我们可以处理一次的曲线积分，二次的曲面积分，三次的三重积分）。外形式所对应的维度有多少，它拿进的向量也就有多少。</p>
+<h4 id="外微分是什么">外微分是什么？</h4>
+<p>先上定义：</p>
+<p><span class="math display">\[ \omega=\varphi_{i_1\cdots
+i_n}\mathrm{d}u^{i_1}\wedge\cdots\wedge\mathrm{d}u^{i_n} \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \mathrm{d}\omega&amp;=\mathrm{d}\varphi_{i_1\cdots
+i_n}\wedge\mathrm{d}u^{i_1}\wedge\cdots\wedge\mathrm{d}u^{i_n}\\
+    &amp;=\frac{\partial \varphi_{i_1\cdots i_n}}{\partial
+\mathrm{d}u^j}\mathrm{d}u^j\wedge\mathrm{d}u^{i_1}\wedge\cdots\wedge\mathrm{d}u^{i_n}
+\end{align*} \]</span></p>
+<p>我认为定义里的第一行比较重要。做外微分，就是把微分之前的系数做一次微分，再和后面的微分做外积，非常符合做微分的直观想象。但如果要再理解一步的话，可以看看斯托克斯公式：</p>
+<p><span class="math display">\[ \int_{\partial D}\omega=\int_D
+\mathrm{d}\omega \]</span></p>
+<p>上式是说，在区域的边缘做积分，相当于在区域内部做外微分的积分。这点出了外形式与其外微分的关系：在区域一段边缘上的外形式，与区域内部外形式的外微分，大体可以理解成同一个东西。而且“区域”与“边缘”之间相差一个维度，这与<span
+class="math inline">\(r\)</span>次外形式中所讲的“外积能够升维”相贴合。毕竟外微分在某种程度上就是外积。</p>
+<h4 id="为什么需要外微分">为什么需要外微分？</h4>
+<p>这是由于原先微分的局限性。外微分之前的微分，并没有解释“微分乘以微分”的含义，顶多是能够作为面积或者体积元素，而且求曲面积分时的定向也不能通过式子本身直接确定，需要人工瞪几眼才行。除此之外，它也没有说明“微分的微分”的含义。你现在要把<span
+class="math inline">\(\mathrm{d}\boldsymbol{r}=\boldsymbol{r_u}\mathrm{d}u+\boldsymbol{r_v}\mathrm{d}v\)</span>再微分一次，那肯定是非常奇怪的事情。</p>
+<p>但现在的我们已经全副武装。我们把微分乘以微分，以及微分的微分，都进行了定义。这是以对外形式的全新理解为基础，从而构建起的一套全新的体系。</p>
+<h4 id="和活动标架的关系">和活动标架的关系</h4>
+<p>对于活动标架而言，如果我们想在曲面上也建立一套像Frenet标架一样好用的，只用求导和几何关系就可以解决问题的标架，那么我们必须要用到微分。因为曲线的参数只有一个，而曲面有两个，我们不可能每一个标架向量都有两个偏导式，这样过于麻烦。（从推自然标架的时候就可见一斑）而函数微分可以把它所有自变量的微分全部写在一个式子里。更重要的是，标架还允许其依赖于<strong>任意</strong>个参数。</p>
+]]></content>
+      <categories>
+        <category>数学</category>
+        <category>微分几何</category>
       </categories>
   </entry>
   <entry>
@@ -1968,137 +2266,114 @@ t, -r\omega^2\sin\omega t) \]</span></p>
       </categories>
   </entry>
   <entry>
-    <title>外微分</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E5%A4%96%E5%BE%AE%E5%88%86/</url>
+    <title>曲面论基本定理</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E9%9D%A2%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<h4 id="外形式外积是什么">外形式（外积）是什么？</h4>
-<p>外形式，是定义在向量空间<span
-class="math inline">\(V\)</span>上的满足反交换乘法的多重线性函数，即<span
-class="math inline">\(f\in
-\bigwedge^nV^*\)</span>，它输入n个向量，输出一个实数，形如<span
-class="math inline">\(\varphi\,
-\mathrm{d}x\wedge\mathrm{d}y\wedge\mathrm{d}z\wedge\cdots\)</span></p>
-<p>这句话不是严格定义，但非常精辟，我接下来将详细解释。</p>
+<h3 id="曲面论基本定理">曲面论基本定理</h3>
+<h4 id="前言">前言</h4>
+<p>“曲面论基本定理”，具体来说可以被分成“曲面论唯一性定理”和“曲面论存在性定理”两件事情。唯一性定理说的是第一第二基本形式相同的两个曲面可以通过刚体运动来重合，也就是说“第一第二基本形式唯一确定一张曲面”；存在性定理说的是满足一定相容性条件的两个二次微分式，能够作为一个曲面的第一第二基本形式，进而形成一个曲面。</p>
+<p>这两个定理分别对应了曲面的两个本质内容，一个是自然标架场的运动公式（证明唯一性定理），一个是Gauss-Codazzi方程，也叫曲面论基本方程（证明存在性定理）</p>
 <span id="more"></span>
-<h5 id="一次外形式">一次外形式</h5>
-<p>首先，对于一个基向量为<span class="math inline">\(\lbrace
-\boldsymbol{e_i}\rbrace\)</span>的向量空间<span
-class="math inline">\(V\)</span>，如果有一个定义在向量空间<span
-class="math inline">\(V\)</span>上的一般线性函数，即输入一个n维向量<span
-class="math inline">\(\boldsymbol{x}\)</span>，并输出实数的函数<span
-class="math inline">\(f\)</span>，就可以把它定义成<span
-class="math inline">\(f\colon V\rightarrow
-\mathbb{R}\)</span>。而如果我们又定义了一组可以“求向量在基向量上分量”的函数，叫做<span
-class="math inline">\(e^i\)</span>，满足<span
-class="math inline">\(e^i(\boldsymbol{x})=x_i\)</span>，那么它自己就是一个线性函数<span
-class="math inline">\(f\)</span>。更重要的是，这些函数可以被当成一组新的基底<span
-class="math inline">\(\lbrace e^i
-\rbrace\)</span>，而任意的线性函数<span
-class="math inline">\(f\)</span>，都可以表示这些基底的线性组合。我们把<span
-class="math inline">\(\lbrace e^i\rbrace\)</span>命名为<span
-class="math inline">\(V\)</span>的对偶空间<span
-class="math inline">\(V^{*}\)</span>的基底，也叫对偶基底。</p>
-<p>举个例子。微分几何中，我们知道<span
-class="math inline">\(\mathrm{d}\boldsymbol{r}=\boldsymbol{r}_u\mathrm{d}u+\boldsymbol{r}_v\mathrm{d}v\)</span>。这是曲面在某一点的切平面，是一个以<span
-class="math inline">\(\lbrace
-\boldsymbol{r}_u,\boldsymbol{r}_v\rbrace\)</span>为基向量的二维向量空间<span
-class="math inline">\(V\)</span>，它的对偶空间<span
-class="math inline">\(V^{*}\)</span>的基底是<span
-class="math inline">\(\lbrace
-\mathrm{d}u,\mathrm{d}v\rbrace\)</span>。大家可以在纸上画一张图感受一下。需要强调的是，这个切向量式子本身<strong>并不是</strong>一个外形式，它是上文的“任意向量<span
-class="math inline">\(\boldsymbol{x}\)</span>”。因为它吐出的是向量，不是实数。本式的外形式只有<span
-class="math inline">\(\mathrm{d}u\)</span>和<span
-class="math inline">\(\mathrm{d}v\)</span>两个，也就是它的基底本身。</p>
-<p>现在详细解释函数<span
-class="math inline">\(f\)</span>“输入一个向量，吐出一个实数的含义”。我这里拿内积举个例子；我把外形式<span
-class="math inline">\(\mathrm{d}u\)</span>显式地表示出来：<span
-class="math inline">\(\mathrm{d}u=\mathrm{d}\boldsymbol{r}\cdot\boldsymbol{r}_u\)</span>。在这里，<span
-class="math inline">\(\mathrm{d}\boldsymbol{r}\)</span>作为自变量向量，与偏导数点乘后得到了实数分量。这正是一个<strong>拿进一个向量，吐出实数</strong>的实例，也就是作点积！大家想想，在向量空间<span
-class="math inline">\(V\)</span>中求向量<span
-class="math inline">\(\boldsymbol{x}\)</span>的分量<span
-class="math inline">\(x_i\)</span>，通过点积来求也是非常正常且合理的想法。</p>
-<p>而且，这也能解释为什么在活动标架中，外形式大多被用在标架向量的组合系数里，比如<span
-class="math inline">\(\mathrm{d}\boldsymbol{r}=\omega^1\boldsymbol{e_1}+\omega^2\boldsymbol{e_2}\)</span>，我们可以得到<span
-class="math inline">\(\omega^1=\mathrm{d}\boldsymbol{r}\cdot\boldsymbol{e_1}\)</span>。因而<span
-class="math inline">\(\omega_1\)</span>是拿进向量<span
-class="math inline">\(\boldsymbol{e_1}\)</span>，吐出实数的线性函数，而这样的线性函数又必定是<span
-class="math inline">\(\lbrace
-\mathrm{d}u,\mathrm{d}v\rbrace\)</span>的线性组合。这决定了外形式的形态，也明确了<span
-class="math inline">\(\omega^1\)</span>就是一个外形式！</p>
-<p>现在做一下总结。所谓外形式，<strong>形式上</strong>就是对偶基底（那些微分们）的线性组合；<strong>内涵上</strong>就是把向量处理成实数的函数。</p>
-<p>用数学语言来描述，就是：</p>
+<h4 id="刻画自然标架场的运动">刻画自然标架场的运动</h4>
+<p>自然标架场运动公式为：</p>
+<p><span class="math display">\[ \begin{cases}
+    \displaystyle\frac{\partial\boldsymbol{r}}{\partial
+u^{\alpha}}=\boldsymbol{r}_\alpha\\
+    \displaystyle\frac{\partial\boldsymbol{r_\alpha}}{\partial
+u^{\beta}}=\boldsymbol{\Gamma}^{\gamma}_{\alpha\beta}\boldsymbol{r_\gamma}+b_{\alpha\beta}\boldsymbol{n}\\
+    \displaystyle\frac{\partial\boldsymbol{n}}{\partial
+u^{\beta}}=-b^\gamma_\beta\boldsymbol{r}_\gamma
+\end{cases} \]</span></p>
+<h4 id="曲面论唯一性定理">曲面论唯一性定理</h4>
+<p>内容：第一第二基本形式唯一确定一张曲面</p>
+<p>证法：构造标架向量相减后做内积的函数，然后求偏导证明函数为0，得到标架处处相同，再构造函数证明<span
+class="math inline">\(\boldsymbol{r}\)</span>本身相同</p>
+<h4
+id="gauss-codazzi方程曲面论基本定理">Gauss-Codazzi方程（曲面论基本定理）</h4>
+<p>研究第一第二基本形式<span
+class="math inline">\(\varphi=g_{\alpha\beta}\mathrm{d}u^\alpha\mathrm{d}u^\beta\)</span>和<span
+class="math inline">\(\psi=b_{\alpha\beta}\mathrm{d}u^\alpha\mathrm{d}u^\beta\)</span>的内在关系，也就是相容性条件。</p>
+<p>由求偏导与自变量顺序无关：</p>
+<p><span class="math display">\[ \begin{cases}
+    \displaystyle\frac{\partial}{\partial u^\beta}\frac{\partial
+\boldsymbol{r}_\alpha}{\partial u^\gamma}=\frac{\partial}{\partial
+u^\gamma}\frac{\partial \boldsymbol{r}_\alpha}{\partial u^\beta}\\
+    \displaystyle\frac{\partial}{\partial u^\beta}\frac{\partial
+\boldsymbol{n}}{\partial u^\gamma}=\frac{\partial}{\partial
+u^\gamma}\frac{\partial \boldsymbol{n}}{\partial u^\beta}\\
+\end{cases} \]</span></p>
+<p>代入运动公式：</p>
+<p><span class="math display">\[ \begin{cases}
+    \displaystyle \frac{\partial}{\partial
+u^\beta}(\Gamma^\delta_{\alpha\gamma}\boldsymbol{r}_\delta+b_{\alpha\gamma}\boldsymbol{n})=\frac{\partial}{\partial
+u^\gamma}(\Gamma^\delta_{\alpha\beta}\boldsymbol{r}_\delta+b_{\alpha\beta}\boldsymbol{n})\\
+    \displaystyle\frac{\partial}{\partial
+u^\beta}b^\delta_\beta\boldsymbol{r}_\delta=\frac{\partial}{\partial
+u^\gamma}b^\delta_\gamma\boldsymbol{r}_\delta
+\end{cases} \]</span></p>
+<p>求偏导后，可以一一对应得到三条方程：</p>
+<p><span class="math display">\[ \begin{cases}
+    \displaystyle\frac{\partial}{\partial
+u^\gamma}\Gamma^\delta_{\alpha\beta}-\frac{\partial}{\partial
+u^\beta}\Gamma^\delta_{\alpha\gamma}+\Gamma^\eta_{\alpha\beta}\Gamma^\delta_{\eta\gamma}-\Gamma^\eta_{\alpha\gamma}\Gamma^\delta_{\eta\beta}=b_{\alpha\beta}b^\delta_\gamma-b_{\alpha\gamma}b^\delta_\gamma\\
+    \displaystyle\frac{\partial b_{\alpha\beta}}{\partial
+u^\gamma}-\frac{\partial b_{\alpha\gamma}}{\partial
+u^\beta}=\Gamma^\delta_{\alpha\gamma}b_{\delta\beta}-\Gamma^\delta_{\alpha\beta}b_{\delta\gamma}\\
+    \displaystyle\frac{\partial b^\alpha_\beta}{\partial
+u^\gamma}-\frac{\partial b^\alpha_\gamma}{\partial
+u^\beta}=-\Gamma^\alpha_{\eta\gamma}b^\eta_\beta+\Gamma^\alpha_{\eta\beta}b^\eta_\gamma
+\end{cases} \]</span></p>
+<p>后两个方程其实是等价的，被称为<strong>Codazzi方程</strong>。而对第一个方程（<strong>Gauss方程</strong>），如果我们令</p>
 <p><span class="math display">\[
-A\mathrm{d}u+b\mathrm{d}v=f(\mathrm{d}\boldsymbol{r}) \]</span></p>
-<p>而所谓的“把向量处理成实数的函数”也不是什么很玄乎的内容。比如作内积，或是通过叉乘的绝对值来求面积，都是这类函数的实例，它们也都能表示成外微分的形式。（！！！）</p>
-<p>这也为“微分”概念赋予了新的理解，微分<span
-class="math inline">\(\mathrm{d}u,\mathrm{d}v\)</span>从此从多元微积分中的积分的对立面，偏导数的附属品，升级成为了向量的线性函数的基底。</p>
-<h5 id="r次外形式"><span class="math inline">\(r\)</span>次外形式</h5>
-<p>我用多元积分学的内容来导入：</p>
-<p>式子<span
-class="math inline">\(\omega=P\mathrm{d}x+Q\mathrm{d}y\)</span>，是处理二维空间里的一个向量<span
-class="math inline">\(\boldsymbol{x}\)</span>，并返回实数的函数。尽管它是定义在二维笛卡尔坐标系里的，却承担着一维的含义（毕竟会被用于计算曲线积分）。那从斯托克斯公式（或者格林）来看，我们知道这个曲线积分可以转换为曲面积分，也就是进行一个<strong>升维</strong>。那这要怎么用外形式来表示呢？我们要怎么在二维空间里定义一个式子，使得它具有二维的含义？</p>
-<p>这就是外形式开头所说“多重”线性函数的意义。正常为了得到这个多重，我们需要定义张量积，再说到反对称化运算，才能说到外积，我这里就简单过一遍。张量积是用来做升维的运算，一个拿2个向量的函数<span
-class="math inline">\(f\)</span>和一个拿3个向量的<span
-class="math inline">\(g\)</span>作张量积，得到的<span
-class="math inline">\(f\otimes
-g\)</span>就是<strong>依次</strong>拿这5个向量的函数，其结果为两个实数函数之积。反对称化是为了得到<span
-class="math inline">\(\mathrm{d}x\wedge\mathrm{d}y=-\mathrm{d}y\wedge\mathrm{d}x\)</span>的性质，同时也能让外积运算尽量和行列式靠拢。（其实后者在本质上更为重要）</p>
-<p>外积定义如下：（方括号为反对称化运算）</p>
-<p><span class="math display">\[ f\wedge g=\frac{(r+s)!}{r!s!}[f\otimes
-g] \]</span></p>
-<p>对于一个<span
-class="math inline">\(r\)</span>次外形式，我们定义它是在空间<span
-class="math inline">\(\bigwedge^rV^*\)</span>上的，它的基底是<span
-class="math inline">\(\lbrace e^{j_1}\wedge e^{j_2}\wedge \cdots\wedge
-e^{j_n},1\leq j_1&lt;\cdots&lt;j_n\leq
-n\rbrace\)</span>。但是我们也可以直接把外形式理解成<span
-class="math inline">\(f\colon V\times \cdots \times V\rightarrow
-\mathbb{R}\)</span>的函数。因为前者正是后者的特殊情形，而且这更能保留外形式“向量映射到实数”的特征。</p>
-<p>在定义新空间的时候，我们用到了外积符号<span
-class="math inline">\(\wedge\)</span>，现在来好好说道说道它。由于它运算上的反对称性，很多人把它跟行列式，跟向量叉乘作类比，其实它的几何意义确实如此。我们拿二次微分式<span
-class="math inline">\(\mathrm{d}x\wedge\mathrm{d}y\)</span>来说明，它实际上是<span
-class="math inline">\(\omega=\mathrm{d}x\wedge\mathrm{d}y(\boldsymbol{x_1},\boldsymbol{x_2})\)</span>，再根据外积的定义以及张量积和反对称化的算法（这一块可以省略），可以得到：</p>
-<p><span
-class="math display">\[\mathrm{d}x\wedge\mathrm{d}y(\boldsymbol{x_1},\boldsymbol{x_2})=\begin{vmatrix}
-    (\boldsymbol{x_1})_x&amp;(\boldsymbol{x_2})_x\\
-    (\boldsymbol{x_1})_y&amp;(\boldsymbol{x_2})_y
-\end{vmatrix}\]</span></p>
+R^\delta_{\alpha\beta\gamma}=\frac{\partial}{\partial
+u^\gamma}\Gamma^\delta_{\alpha\beta}-\frac{\partial}{\partial
+\beta}\Gamma^\delta_{\alpha\gamma}+\Gamma^\eta_{\alpha\beta}\Gamma^\delta_{\eta\gamma}-\Gamma^\eta_{\alpha\gamma}\Gamma^\delta_{\eta\beta}
+\]</span></p>
 <p>其中<span
-class="math inline">\((\boldsymbol{x})_x\)</span>指的是向量在<span
-class="math inline">\(x\)</span>轴方向上的分量。容易发现，这个外积正好是<span
-class="math inline">\(\boldsymbol{x_1},\boldsymbol{x_2}\)</span>的行列式，也就是它们所长成平行四边形的面积！一个<strong>二次</strong>外形式，就是拿进<strong>两个</strong>二维向量，并返回一个带有向量长成面积的实数函数。</p>
-<p>从中我们也可以看出一些其他的东西。比如在二维空间里，我们可以定义两种次数的外形式：一个是<span
-class="math inline">\(P\mathrm{d}u+Q\mathrm{d}v\)</span>，一个是<span
-class="math inline">\(A\mathrm{d}u\wedge\mathrm{d}v\)</span>。前者可以用来算曲线积分，后者则是曲面积分；不同次外微分的区别也是在处理的对象上，一次处理一维的东西，二次处理二维的东西。而且这个维度也不可能超过空间本身的维度。</p>
-<p>这也可以一举拓到<span
-class="math inline">\(r\)</span>次的情形。一个<strong>r次</strong>外形式，就是拿进<strong>r个</strong>n维向量，并返回一个带有向量长成面积的实数函数。其中要保证<span
-class="math inline">\(r&lt;n\)</span>。</p>
-<p>总结一下。所谓外形式做外积，就是在<strong>升维度</strong>，这不是指向量空间本身的维度，而是<strong>所处理对象</strong>的维度（在三维里，我们可以处理一次的曲线积分，二次的曲面积分，三次的三重积分）。外形式所对应的维度有多少，它拿进的向量也就有多少。</p>
-<h4 id="外微分是什么">外微分是什么？</h4>
-<p>先上定义：</p>
-<p><span class="math display">\[ \omega=\varphi_{i_1\cdots
-i_n}\mathrm{d}u^{i_1}\wedge\cdots\wedge\mathrm{d}u^{i_n} \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \mathrm{d}\omega&amp;=\mathrm{d}\varphi_{i_1\cdots
-i_n}\wedge\mathrm{d}u^{i_1}\wedge\cdots\wedge\mathrm{d}u^{i_n}\\
-    &amp;=\frac{\partial \varphi_{i_1\cdots i_n}}{\partial
-\mathrm{d}u^j}\mathrm{d}u^j\wedge\mathrm{d}u^{i_1}\wedge\cdots\wedge\mathrm{d}u^{i_n}
-\end{align*} \]</span></p>
-<p>我认为定义里的第一行比较重要。做外微分，就是把微分之前的系数做一次微分，再和后面的微分做外积，非常符合做微分的直观想象。但如果要再理解一步的话，可以看看斯托克斯公式：</p>
-<p><span class="math display">\[ \int_{\partial D}\omega=\int_D
-\mathrm{d}\omega \]</span></p>
-<p>上式是说，在区域的边缘做积分，相当于在区域内部做外微分的积分。这点出了外形式与其外微分的关系：在区域一段边缘上的外形式，与区域内部外形式的外微分，大体可以理解成同一个东西。而且“区域”与“边缘”之间相差一个维度，这与<span
-class="math inline">\(r\)</span>次外形式中所讲的“外积能够升维”相贴合。毕竟外微分在某种程度上就是外积。</p>
-<h4 id="为什么需要外微分">为什么需要外微分？</h4>
-<p>这是由于原先微分的局限性。外微分之前的微分，并没有解释“微分乘以微分”的含义，顶多是能够作为面积或者体积元素，而且求曲面积分时的定向也不能通过式子本身直接确定，需要人工瞪几眼才行。除此之外，它也没有说明“微分的微分”的含义。你现在要把<span
-class="math inline">\(\mathrm{d}\boldsymbol{r}=\boldsymbol{r_u}\mathrm{d}u+\boldsymbol{r_v}\mathrm{d}v\)</span>再微分一次，那肯定是非常奇怪的事情。</p>
-<p>但现在的我们已经全副武装。我们把微分乘以微分，以及微分的微分，都进行了定义。这是以对外形式的全新理解为基础，从而构建起的一套全新的体系。</p>
-<h4 id="和活动标架的关系">和活动标架的关系</h4>
-<p>对于活动标架而言，如果我们想在曲面上也建立一套像Frenet标架一样好用的，只用求导和几何关系就可以解决问题的标架，那么我们必须要用到微分。因为曲线的参数只有一个，而曲面有两个，我们不可能每一个标架向量都有两个偏导式，这样过于麻烦。（从推自然标架的时候就可见一斑）而函数微分可以把它所有自变量的微分全部写在一个式子里。更重要的是，标架还允许其依赖于<strong>任意</strong>个参数。</p>
+class="math inline">\(R^\delta_{\alpha\beta\gamma}\)</span>称作<strong>Riemann记号</strong>，则方程变为：</p>
+<p><span class="math display">\[
+R^\delta_{\alpha\beta\gamma}=b_{\alpha\beta}b^\delta_\gamma-b_{\alpha\gamma}b^\delta_\gamma
+\]</span></p>
+<p>即</p>
+<p><span class="math display">\[
+R_{\alpha\delta\beta\gamma}=b_{\alpha\beta}b_{\delta\gamma}-b_{\alpha\gamma}b_{\delta\beta}
+\]</span></p>
+<p>再由Riemann记号的对称性，以及对Codazzi方程的试验，可知这两个含字母的方程实际上只涵盖三个方程，也就是真正的<strong>Gauss-Codazzi方程</strong>：</p>
+<p><span class="math display">\[ \begin{cases}
+    R_{1212}=b_{11}b_{22}-(b_{12})^2\\
+    \displaystyle\frac{\partial b_{11}}{\partial u^2}-\frac{\partial
+b_{12}}{\partial
+u^1}=-b_{2\gamma}\Gamma^\gamma_{11}+b_{1\gamma}\Gamma^\gamma_{12}\\
+    \displaystyle\frac{\partial b_{21}}{\partial u^2}-\frac{\partial
+b_{22}}{\partial
+u^1}=-b_{2\gamma}\Gamma^\gamma_{21}+b_{1\gamma}\Gamma^\gamma_{22}\\
+\end{cases} \]</span></p>
+<h4 id="曲面论存在性定理">曲面论存在性定理</h4>
+<p>以上是从“已知曲面”来分析“二次微分式”，接下来倒着推，推导曲面的存在性定理。思路就是利用Gauss-Codazzi方程作为条件，求解运动公式的偏微分方程，再构造函数来证明得到的标架满足<span
+class="math inline">\(\boldsymbol{r_\alpha}\cdot\boldsymbol{r_\beta}=g_{\alpha\beta}\)</span>，二者与法向量垂直，法向量模为1；也就是一些自然标架场的特征。</p>
+<h3 id="张量计算">张量计算</h3>
+<h4 id="einstein和式约定小贴士">Einstein和式约定小贴士</h4>
+<p>在和式约定那兵荒马乱的希腊字母中，我将其分为两类字母：一类是要表示的“目标变量”，一类是只用于标记求和的“求和变量”（学名叫做“哑指标”）。</p>
+<p>在一个单项式中，哑指标可以进行随意变化。</p>
+<p>在一个单项式中，一个指标不可以出现三次及以上，不然会导向一些可怕的结果。（比如硬着头皮求<span
+class="math inline">\(\displaystyle\frac{\partial
+g^{\alpha\beta}}{\partial u^\gamma}\)</span>）</p>
+<p>在进行运算时，需要时刻注意式子里的求和变量，要尽量去简化哑指标的个数，以窥探式子的真面貌，看起来也更简洁。</p>
+<h4 id="张量计算重要公式总结">张量计算重要公式总结</h4>
+<p><span class="math display">\[ \begin{cases}
+    b^\gamma_\beta=b_{\beta\xi}g^{\xi\gamma},\;
+b_{\gamma\beta}=b^\xi_\beta g_{\xi\gamma}\\
+    \Gamma^\gamma_{\alpha\beta}=\Gamma_{\xi\alpha\beta} g^{\xi\gamma},\;
+\Gamma_{\gamma\alpha\beta}=\Gamma^\xi_{\alpha\beta} g_{\xi\gamma}\\
+    \displaystyle \frac{\partial g_{\alpha\beta}}{\partial
+u^\gamma}=\Gamma_{\alpha\beta\gamma}+\Gamma_{\beta\alpha\gamma}\\
+    \displaystyle \frac{\partial g^{\alpha\beta}}{\partial
+u^\gamma}=-g^{\alpha\delta}\Gamma^\beta_{\delta\gamma}-g^{\beta\delta}\Gamma^\alpha_{\delta\gamma}
+\end{cases} \]</span></p>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -2359,121 +2634,6 @@ y}&amp;\displaystyle\frac{\partial}{\partial z}\\
 ]]></content>
       <categories>
         <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>曲面论基本定理</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E9%9D%A2%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="曲面论基本定理">曲面论基本定理</h3>
-<h4 id="前言">前言</h4>
-<p>“曲面论基本定理”，具体来说可以被分成“曲面论唯一性定理”和“曲面论存在性定理”两件事情。唯一性定理说的是第一第二基本形式相同的两个曲面可以通过刚体运动来重合，也就是说“第一第二基本形式唯一确定一张曲面”；存在性定理说的是满足一定相容性条件的两个二次微分式，能够作为一个曲面的第一第二基本形式，进而形成一个曲面。</p>
-<p>这两个定理分别对应了曲面的两个本质内容，一个是自然标架场的运动公式（证明唯一性定理），一个是Gauss-Codazzi方程，也叫曲面论基本方程（证明存在性定理）</p>
-<span id="more"></span>
-<h4 id="刻画自然标架场的运动">刻画自然标架场的运动</h4>
-<p>自然标架场运动公式为：</p>
-<p><span class="math display">\[ \begin{cases}
-    \displaystyle\frac{\partial\boldsymbol{r}}{\partial
-u^{\alpha}}=\boldsymbol{r}_\alpha\\
-    \displaystyle\frac{\partial\boldsymbol{r_\alpha}}{\partial
-u^{\beta}}=\boldsymbol{\Gamma}^{\gamma}_{\alpha\beta}\boldsymbol{r_\gamma}+b_{\alpha\beta}\boldsymbol{n}\\
-    \displaystyle\frac{\partial\boldsymbol{n}}{\partial
-u^{\beta}}=-b^\gamma_\beta\boldsymbol{r}_\gamma
-\end{cases} \]</span></p>
-<h4 id="曲面论唯一性定理">曲面论唯一性定理</h4>
-<p>内容：第一第二基本形式唯一确定一张曲面</p>
-<p>证法：构造标架向量相减后做内积的函数，然后求偏导证明函数为0，得到标架处处相同，再构造函数证明<span
-class="math inline">\(\boldsymbol{r}\)</span>本身相同</p>
-<h4
-id="gauss-codazzi方程曲面论基本定理">Gauss-Codazzi方程（曲面论基本定理）</h4>
-<p>研究第一第二基本形式<span
-class="math inline">\(\varphi=g_{\alpha\beta}\mathrm{d}u^\alpha\mathrm{d}u^\beta\)</span>和<span
-class="math inline">\(\psi=b_{\alpha\beta}\mathrm{d}u^\alpha\mathrm{d}u^\beta\)</span>的内在关系，也就是相容性条件。</p>
-<p>由求偏导与自变量顺序无关：</p>
-<p><span class="math display">\[ \begin{cases}
-    \displaystyle\frac{\partial}{\partial u^\beta}\frac{\partial
-\boldsymbol{r}_\alpha}{\partial u^\gamma}=\frac{\partial}{\partial
-u^\gamma}\frac{\partial \boldsymbol{r}_\alpha}{\partial u^\beta}\\
-    \displaystyle\frac{\partial}{\partial u^\beta}\frac{\partial
-\boldsymbol{n}}{\partial u^\gamma}=\frac{\partial}{\partial
-u^\gamma}\frac{\partial \boldsymbol{n}}{\partial u^\beta}\\
-\end{cases} \]</span></p>
-<p>代入运动公式：</p>
-<p><span class="math display">\[ \begin{cases}
-    \displaystyle \frac{\partial}{\partial
-u^\beta}(\Gamma^\delta_{\alpha\gamma}\boldsymbol{r}_\delta+b_{\alpha\gamma}\boldsymbol{n})=\frac{\partial}{\partial
-u^\gamma}(\Gamma^\delta_{\alpha\beta}\boldsymbol{r}_\delta+b_{\alpha\beta}\boldsymbol{n})\\
-    \displaystyle\frac{\partial}{\partial
-u^\beta}b^\delta_\beta\boldsymbol{r}_\delta=\frac{\partial}{\partial
-u^\gamma}b^\delta_\gamma\boldsymbol{r}_\delta
-\end{cases} \]</span></p>
-<p>求偏导后，可以一一对应得到三条方程：</p>
-<p><span class="math display">\[ \begin{cases}
-    \displaystyle\frac{\partial}{\partial
-u^\gamma}\Gamma^\delta_{\alpha\beta}-\frac{\partial}{\partial
-u^\beta}\Gamma^\delta_{\alpha\gamma}+\Gamma^\eta_{\alpha\beta}\Gamma^\delta_{\eta\gamma}-\Gamma^\eta_{\alpha\gamma}\Gamma^\delta_{\eta\beta}=b_{\alpha\beta}b^\delta_\gamma-b_{\alpha\gamma}b^\delta_\gamma\\
-    \displaystyle\frac{\partial b_{\alpha\beta}}{\partial
-u^\gamma}-\frac{\partial b_{\alpha\gamma}}{\partial
-u^\beta}=\Gamma^\delta_{\alpha\gamma}b_{\delta\beta}-\Gamma^\delta_{\alpha\beta}b_{\delta\gamma}\\
-    \displaystyle\frac{\partial b^\alpha_\beta}{\partial
-u^\gamma}-\frac{\partial b^\alpha_\gamma}{\partial
-u^\beta}=-\Gamma^\alpha_{\eta\gamma}b^\eta_\beta+\Gamma^\alpha_{\eta\beta}b^\eta_\gamma
-\end{cases} \]</span></p>
-<p>后两个方程其实是等价的，被称为<strong>Codazzi方程</strong>。而对第一个方程（<strong>Gauss方程</strong>），如果我们令</p>
-<p><span class="math display">\[
-R^\delta_{\alpha\beta\gamma}=\frac{\partial}{\partial
-u^\gamma}\Gamma^\delta_{\alpha\beta}-\frac{\partial}{\partial
-\beta}\Gamma^\delta_{\alpha\gamma}+\Gamma^\eta_{\alpha\beta}\Gamma^\delta_{\eta\gamma}-\Gamma^\eta_{\alpha\gamma}\Gamma^\delta_{\eta\beta}
-\]</span></p>
-<p>其中<span
-class="math inline">\(R^\delta_{\alpha\beta\gamma}\)</span>称作<strong>Riemann记号</strong>，则方程变为：</p>
-<p><span class="math display">\[
-R^\delta_{\alpha\beta\gamma}=b_{\alpha\beta}b^\delta_\gamma-b_{\alpha\gamma}b^\delta_\gamma
-\]</span></p>
-<p>即</p>
-<p><span class="math display">\[
-R_{\alpha\delta\beta\gamma}=b_{\alpha\beta}b_{\delta\gamma}-b_{\alpha\gamma}b_{\delta\beta}
-\]</span></p>
-<p>再由Riemann记号的对称性，以及对Codazzi方程的试验，可知这两个含字母的方程实际上只涵盖三个方程，也就是真正的<strong>Gauss-Codazzi方程</strong>：</p>
-<p><span class="math display">\[ \begin{cases}
-    R_{1212}=b_{11}b_{22}-(b_{12})^2\\
-    \displaystyle\frac{\partial b_{11}}{\partial u^2}-\frac{\partial
-b_{12}}{\partial
-u^1}=-b_{2\gamma}\Gamma^\gamma_{11}+b_{1\gamma}\Gamma^\gamma_{12}\\
-    \displaystyle\frac{\partial b_{21}}{\partial u^2}-\frac{\partial
-b_{22}}{\partial
-u^1}=-b_{2\gamma}\Gamma^\gamma_{21}+b_{1\gamma}\Gamma^\gamma_{22}\\
-\end{cases} \]</span></p>
-<h4 id="曲面论存在性定理">曲面论存在性定理</h4>
-<p>以上是从“已知曲面”来分析“二次微分式”，接下来倒着推，推导曲面的存在性定理。思路就是利用Gauss-Codazzi方程作为条件，求解运动公式的偏微分方程，再构造函数来证明得到的标架满足<span
-class="math inline">\(\boldsymbol{r_\alpha}\cdot\boldsymbol{r_\beta}=g_{\alpha\beta}\)</span>，二者与法向量垂直，法向量模为1；也就是一些自然标架场的特征。</p>
-<h3 id="张量计算">张量计算</h3>
-<h4 id="einstein和式约定小贴士">Einstein和式约定小贴士</h4>
-<p>在和式约定那兵荒马乱的希腊字母中，我将其分为两类字母：一类是要表示的“目标变量”，一类是只用于标记求和的“求和变量”（学名叫做“哑指标”）。</p>
-<p>在一个单项式中，哑指标可以进行随意变化。</p>
-<p>在一个单项式中，一个指标不可以出现三次及以上，不然会导向一些可怕的结果。（比如硬着头皮求<span
-class="math inline">\(\displaystyle\frac{\partial
-g^{\alpha\beta}}{\partial u^\gamma}\)</span>）</p>
-<p>在进行运算时，需要时刻注意式子里的求和变量，要尽量去简化哑指标的个数，以窥探式子的真面貌，看起来也更简洁。</p>
-<h4 id="张量计算重要公式总结">张量计算重要公式总结</h4>
-<p><span class="math display">\[ \begin{cases}
-    b^\gamma_\beta=b_{\beta\xi}g^{\xi\gamma},\;
-b_{\gamma\beta}=b^\xi_\beta g_{\xi\gamma}\\
-    \Gamma^\gamma_{\alpha\beta}=\Gamma_{\xi\alpha\beta} g^{\xi\gamma},\;
-\Gamma_{\gamma\alpha\beta}=\Gamma^\xi_{\alpha\beta} g_{\xi\gamma}\\
-    \displaystyle \frac{\partial g_{\alpha\beta}}{\partial
-u^\gamma}=\Gamma_{\alpha\beta\gamma}+\Gamma_{\beta\alpha\gamma}\\
-    \displaystyle \frac{\partial g^{\alpha\beta}}{\partial
-u^\gamma}=-g^{\alpha\delta}\Gamma^\beta_{\delta\gamma}-g^{\beta\delta}\Gamma^\alpha_{\delta\gamma}
-\end{cases} \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-        <category>微分几何</category>
       </categories>
   </entry>
   <entry>
@@ -2983,6 +3143,120 @@ R_n(x)=\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1} \]</span></p>
       </categories>
   </entry>
   <entry>
+    <title>泰勒展开</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E6%B3%B0%E5%8B%92%E5%B1%95%E5%BC%80/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="公式">公式</h3>
+<p><span class="math inline">\(f(x)\)</span>在<span
+class="math inline">\(x=x_0\)</span>处展开：</p>
+<p><span
+class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n
+\tag{1}\]</span></p>
+<p><span
+class="math display">\[f(x+x_0)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}x^n
+\tag{2}\]</span></p>
+<p><span class="math inline">\(x_0=0\)</span>
+时的公式，被称作麦克劳林公式</p>
+<span id="more"></span>
+<h3 id="解释">解释</h3>
+<p>在<span
+class="math inline">\(x=x_0\)</span>处展开的意义：能用尽量少的项来表示某点的函数值，简便计算</p>
+<h3 id="收敛域">收敛域</h3>
+<p><span class="math display">\[ \text{if}\;x\in D,\;\lim_{x\to \infty}
+R_n(x)=0  \]</span></p>
+<h3 id="证明">证明</h3>
+<p>假设<span
+class="math inline">\(f(x)\)</span>可以表示成一个多项式函数：</p>
+<p><span class="math display">\[ f(x)=a_0+a_1x+a_2x^2+\dots+a_nx^n+\dots
+\]</span></p>
+<p><span class="math display">\[  \begin{align*}
+    则\colon\enspace
+f^{&#39;}(x)&amp;=a_1+2a_2x+3a_3x^2+\dots+na_nx^{n-1}+\dots \\
+    f^{&#39;&#39;}(x)&amp;=2a_2+6a_3x+12a_4x^2+\dots+n(n-1)a_nx^{n-2}+\dots
+\\
+    ......
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \therefore f(0)=a_0,\
+f^{&#39;}(0)=a_1,\ f^{&#39;&#39;}(0)=2a_2,\
+f^{&#39;&#39;&#39;}(0)=6a_3...\]</span></p>
+<p><span class="math display">\[ \therefore a_0=\frac{f(0)}{0!},\
+a_1=\frac{f^{&#39;}(0)}{1!},\ a_2=\frac{f^{&#39;&#39;}(0)}{2!},\
+a_3=\frac{f^{&#39;&#39;&#39;}(0)}{3!}... \]</span></p>
+<p><span class="math display">\[
+f(x)=\frac{f(0)}{0!}+\frac{f^{&#39;}(0)}{1!}x+\frac{f^{&#39;&#39;}(0)}{2!}x^2+\frac{f^{&#39;&#39;&#39;}(0)}{3!}x^3...
+\]</span></p>
+<p><span class="math display">\[ \therefore
+f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(0)}{n!}x^n \]</span></p>
+<p>以上是函数在<span
+class="math inline">\(x=0\)</span>处展开的情况，而在<span
+class="math inline">\(x=x_0\)</span>处展开就是：</p>
+<p><span
+class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n
+\]</span></p>
+<h3 id="应用">应用</h3>
+<h4 id="新的公式">新的公式</h4>
+<p><span class="math display">\[
+\mathrm{e}^x=1+x+\frac{x^2}{2!}+\frac{x^3}{3!}+\dots+\frac{x^n}{n!}+\dots\enspace(x\in\mathbb{R})
+\]</span></p>
+<p><span class="math display">\[
+\ln(x+1)=x-\frac{x^2}{2}+\frac{x^3}{3}+\dots+\frac{(-1)^{n-1}x^n}{n}+\dots\enspace(-1&lt;x\leq1)
+\]</span></p>
+<p><span class="math display">\[ \sin
+x=x-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+\dots+\frac{(-1)^nx^{2n+1}}{(2n+1)!}+\dots\enspace(x\in\mathbb{R})
+\]</span></p>
+<p><span class="math display">\[ \cos
+x=1-\frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}+\dots+\frac{(-1)^nx^{2n}}{(2n)!}+\dots\enspace(x\in\mathbb{R})
+\]</span></p>
+<p><span class="math display">\[
+(1+x)^m=1+mx+\frac{m(m-1)}{2!}x^2+\dots+\frac{m(m-1)(m-2)\dots(m-n+1)}{n!}x^n+\dots(-1&lt;x&lt;1)
+\]</span></p>
+<h4 id="能够用来简便计算">能够用来简便计算</h4>
+<p><span class="math display">\[\begin{align*}
+    \mathrm{e.g.} \enspace
+    \mathrm{e}&amp;=1+1+\frac{1}{2!}+\frac{1}{3!}+\dots+\frac{1}{n!}+\dots
+\\
+    \mathrm{sin\frac{\pi}{3}}&amp;=\frac{\pi}{3}-\frac{(\frac{\pi}{3})^3}{3!}+\frac{(\frac{\pi}{3})^5}{5!}+\dots+\frac{(-1)^n(\frac{\pi}{3})^{2n+1}}{(2n+1)!}+\dots
+\end{align*}\]</span></p>
+<h4 id="互相组合形成新公式">互相组合，形成新公式</h4>
+<p><span class="math display">\[ \begin{align*}
+    \mathrm{e.g.} \enspace
+    \mathrm{e}^{\sin x}&amp;\approx \mathrm{e}^{(x-\frac{x^3}{3!})}\\
+    &amp;\approx \mathrm{e}^x*\mathrm{e}^{-\frac{x^3}{3!}} \\
+    &amp;\approx
+(1+x+\frac{x^2}{2}+\frac{x^3}{6}+\frac{x^4}{24})*[1+(-\frac{x^3}{6})] \\
+    &amp;\approx 1+x+\frac{x^2}{2}-\frac{x^4}{8}
+\end{align*} \]</span></p>
+<h4 id="解微分方程">解微分方程</h4>
+<p>考虑泰勒展开的另一种表示方法：</p>
+<p><span
+class="math display">\[y=y_0+\frac{y^{&#39;}(x_0)}{1!}x+\frac{y^{&#39;&#39;}(x_0)}{2!}x^2+...\]</span></p>
+<p>可以发现，如果知道了初值<span
+class="math inline">\(x_0\)</span>和对应的<span
+class="math inline">\(y_0\)</span>，以及包含着<span
+class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}x}\)</span>的微分方程，就可以把接下来<span
+class="math inline">\(x_0\)</span>的二阶导数、三阶导数等等都表示出来，进而得到<span
+class="math inline">\(y\)</span>的级数解</p>
+<h4 id="newton-raphson-方法">Newton-Raphson 方法</h4>
+<p>这个方法可用于求方程的近似数值解</p>
+<p>取泰勒展开前两项：</p>
+<p><span class="math display">\[ f(x)=f(x_0)+f^{&#39;}(x_0)(x-x_0)
+\]</span></p>
+<p><span class="math display">\[ 当f(x)=0时\colon\enspace
+f(x_0)+f^{&#39;}(x_0)(x-x_0)=0 \]</span></p>
+<p><span class="math display">\[ \therefore
+x=x_0-\frac{f(x_0)}{f^{&#39;}(x_0)} \]</span></p>
+<p><span class="math display">\[
+即x_{n+1}=x_n-\frac{f(x_n)}{f^{&#39;}(x_n)} \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
     <title>正定矩阵</title>
     <url>/%E6%95%B0%E5%AD%A6/%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5/</url>
     <content><![CDATA[<b>
@@ -2992,6 +3266,7 @@ XantC
 <p></b></p>
 <p>通过Strang的线代书，我深切意识到数学里的很多东西都可以用线代来做。太恐怖了。</p>
 <h3 id="正定矩阵的五个等价条件">正定矩阵的五个等价条件</h3>
+<p>我把特征值皆为正值作为正定矩阵的定义，由此推出它的另外四个充要条件，得到五个等价的条件。</p>
 <span id="more"></span>
 <h3 id="怎么处理正定矩阵的分解问题">怎么处理正定矩阵的分解问题？</h3>
 <p>一种是在对角线写上每个平方项的系数，然后剩余位置对应地写上其余二次项的一半。</p>
@@ -3126,120 +3401,6 @@ y\frac{\mathrm{d}s}{\mathrm{d}x} \]</span></p>
       </categories>
   </entry>
   <entry>
-    <title>泰勒展开</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E6%B3%B0%E5%8B%92%E5%B1%95%E5%BC%80/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="公式">公式</h3>
-<p><span class="math inline">\(f(x)\)</span>在<span
-class="math inline">\(x=x_0\)</span>处展开：</p>
-<p><span
-class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n
-\tag{1}\]</span></p>
-<p><span
-class="math display">\[f(x+x_0)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}x^n
-\tag{2}\]</span></p>
-<p><span class="math inline">\(x_0=0\)</span>
-时的公式，被称作麦克劳林公式</p>
-<span id="more"></span>
-<h3 id="解释">解释</h3>
-<p>在<span
-class="math inline">\(x=x_0\)</span>处展开的意义：能用尽量少的项来表示某点的函数值，简便计算</p>
-<h3 id="收敛域">收敛域</h3>
-<p><span class="math display">\[ \text{if}\;x\in D,\;\lim_{x\to \infty}
-R_n(x)=0  \]</span></p>
-<h3 id="证明">证明</h3>
-<p>假设<span
-class="math inline">\(f(x)\)</span>可以表示成一个多项式函数：</p>
-<p><span class="math display">\[ f(x)=a_0+a_1x+a_2x^2+\dots+a_nx^n+\dots
-\]</span></p>
-<p><span class="math display">\[  \begin{align*}
-    则\colon\enspace
-f^{&#39;}(x)&amp;=a_1+2a_2x+3a_3x^2+\dots+na_nx^{n-1}+\dots \\
-    f^{&#39;&#39;}(x)&amp;=2a_2+6a_3x+12a_4x^2+\dots+n(n-1)a_nx^{n-2}+\dots
-\\
-    ......
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \therefore f(0)=a_0,\
-f^{&#39;}(0)=a_1,\ f^{&#39;&#39;}(0)=2a_2,\
-f^{&#39;&#39;&#39;}(0)=6a_3...\]</span></p>
-<p><span class="math display">\[ \therefore a_0=\frac{f(0)}{0!},\
-a_1=\frac{f^{&#39;}(0)}{1!},\ a_2=\frac{f^{&#39;&#39;}(0)}{2!},\
-a_3=\frac{f^{&#39;&#39;&#39;}(0)}{3!}... \]</span></p>
-<p><span class="math display">\[
-f(x)=\frac{f(0)}{0!}+\frac{f^{&#39;}(0)}{1!}x+\frac{f^{&#39;&#39;}(0)}{2!}x^2+\frac{f^{&#39;&#39;&#39;}(0)}{3!}x^3...
-\]</span></p>
-<p><span class="math display">\[ \therefore
-f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(0)}{n!}x^n \]</span></p>
-<p>以上是函数在<span
-class="math inline">\(x=0\)</span>处展开的情况，而在<span
-class="math inline">\(x=x_0\)</span>处展开就是：</p>
-<p><span
-class="math display">\[f(x)=\sum_{n=0}^{+\infty}\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n
-\]</span></p>
-<h3 id="应用">应用</h3>
-<h4 id="新的公式">新的公式</h4>
-<p><span class="math display">\[
-\mathrm{e}^x=1+x+\frac{x^2}{2!}+\frac{x^3}{3!}+\dots+\frac{x^n}{n!}+\dots\enspace(x\in\mathbb{R})
-\]</span></p>
-<p><span class="math display">\[
-\ln(x+1)=x-\frac{x^2}{2}+\frac{x^3}{3}+\dots+\frac{(-1)^{n-1}x^n}{n}+\dots\enspace(-1&lt;x\leq1)
-\]</span></p>
-<p><span class="math display">\[ \sin
-x=x-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+\dots+\frac{(-1)^nx^{2n+1}}{(2n+1)!}+\dots\enspace(x\in\mathbb{R})
-\]</span></p>
-<p><span class="math display">\[ \cos
-x=1-\frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}+\dots+\frac{(-1)^nx^{2n}}{(2n)!}+\dots\enspace(x\in\mathbb{R})
-\]</span></p>
-<p><span class="math display">\[
-(1+x)^m=1+mx+\frac{m(m-1)}{2!}x^2+\dots+\frac{m(m-1)(m-2)\dots(m-n+1)}{n!}x^n+\dots(-1&lt;x&lt;1)
-\]</span></p>
-<h4 id="能够用来简便计算">能够用来简便计算</h4>
-<p><span class="math display">\[\begin{align*}
-    \mathrm{e.g.} \enspace
-    \mathrm{e}&amp;=1+1+\frac{1}{2!}+\frac{1}{3!}+\dots+\frac{1}{n!}+\dots
-\\
-    \mathrm{sin\frac{\pi}{3}}&amp;=\frac{\pi}{3}-\frac{(\frac{\pi}{3})^3}{3!}+\frac{(\frac{\pi}{3})^5}{5!}+\dots+\frac{(-1)^n(\frac{\pi}{3})^{2n+1}}{(2n+1)!}+\dots
-\end{align*}\]</span></p>
-<h4 id="互相组合形成新公式">互相组合，形成新公式</h4>
-<p><span class="math display">\[ \begin{align*}
-    \mathrm{e.g.} \enspace
-    \mathrm{e}^{\sin x}&amp;\approx \mathrm{e}^{(x-\frac{x^3}{3!})}\\
-    &amp;\approx \mathrm{e}^x*\mathrm{e}^{-\frac{x^3}{3!}} \\
-    &amp;\approx
-(1+x+\frac{x^2}{2}+\frac{x^3}{6}+\frac{x^4}{24})*[1+(-\frac{x^3}{6})] \\
-    &amp;\approx 1+x+\frac{x^2}{2}-\frac{x^4}{8}
-\end{align*} \]</span></p>
-<h4 id="解微分方程">解微分方程</h4>
-<p>考虑泰勒展开的另一种表示方法：</p>
-<p><span
-class="math display">\[y=y_0+\frac{y^{&#39;}(x_0)}{1!}x+\frac{y^{&#39;&#39;}(x_0)}{2!}x^2+...\]</span></p>
-<p>可以发现，如果知道了初值<span
-class="math inline">\(x_0\)</span>和对应的<span
-class="math inline">\(y_0\)</span>，以及包含着<span
-class="math inline">\(\frac{\mathrm{d}y}{\mathrm{d}x}\)</span>的微分方程，就可以把接下来<span
-class="math inline">\(x_0\)</span>的二阶导数、三阶导数等等都表示出来，进而得到<span
-class="math inline">\(y\)</span>的级数解</p>
-<h4 id="newton-raphson-方法">Newton-Raphson 方法</h4>
-<p>这个方法可用于求方程的近似数值解</p>
-<p>取泰勒展开前两项：</p>
-<p><span class="math display">\[ f(x)=f(x_0)+f^{&#39;}(x_0)(x-x_0)
-\]</span></p>
-<p><span class="math display">\[ 当f(x)=0时\colon\enspace
-f(x_0)+f^{&#39;}(x_0)(x-x_0)=0 \]</span></p>
-<p><span class="math display">\[ \therefore
-x=x_0-\frac{f(x_0)}{f^{&#39;}(x_0)} \]</span></p>
-<p><span class="math display">\[
-即x_{n+1}=x_n-\frac{f(x_n)}{f^{&#39;}(x_n)} \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
     <title>活动标架</title>
     <url>/%E6%95%B0%E5%AD%A6/%E6%B4%BB%E5%8A%A8%E6%A0%87%E6%9E%B6/</url>
     <content><![CDATA[<b>
@@ -3302,6 +3463,264 @@ class="math inline">\(\omega^i_j=-\omega^j_i,\,\omega^i_i=0\)</span>。</p>
       <categories>
         <category>数学</category>
         <category>微分几何</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>特征值与特征向量</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E7%89%B9%E5%BE%81%E5%80%BC%E4%B8%8E%E7%89%B9%E5%BE%81%E5%90%91%E9%87%8F/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="为何需要特征值和特征向量">为何需要特征值和特征向量？</h3>
+<p>我们知道，矩阵可以用来表示一个线性变换，它的列向量决定着变换后<strong>列空间</strong>的基底。而矩阵的特征向量，也就是在变换前后方向不变的向量，决定的则是这个<strong>变换</strong>本身的基底。</p>
+<span id="more"></span>
+<p>如果我们的运气足够好，得到了<span
+class="math inline">\(n\)</span>个线性无关的特征向量，那我们就可以把变换后的结果表示成特征向量的线性组合。因为此时特征向量构成的矩阵是满秩的，其线性组合将打满整个空间。而借助于特征向量本身的性质，我们的运算将非常方便与自然。</p>
+<p>比如在二维空间中，我们有<span
+class="math inline">\(\boldsymbol{x}=c_1\boldsymbol{x_1}+c_2\boldsymbol{x_2}\)</span>，则<span
+class="math inline">\(A\boldsymbol{x}=c_1A\boldsymbol{x_1}+c_2A\boldsymbol{x_2}=c_1\lambda_1\boldsymbol{x_1}+c_2\lambda_2\boldsymbol{x_2}\)</span></p>
+<p>Very beautiful.</p>
+<h3 id="对角化">对角化</h3>
+<p>我刚才说特征向量决定了矩阵变换本身的基底，于是一些人就想着把矩阵分解成以特征向量为基底的形式，也就是矩阵的对角化。但这件事只能用在特征向量线性无关的时候来做，因为需要用到特征向量矩阵的逆。</p>
+<p>根据特征向量的定义，我们可以得到：</p>
+<p><span class="math display">\[ AX=X\Lambda \]</span></p>
+<p>其中<span class="math inline">\(X\)</span>是特征向量的矩阵，<span
+class="math inline">\(\Lambda\)</span>是以特征值为对角线的对角矩阵，两个的顺序应该一一对应。这个式子其实是适用于一切方阵的（不管它的特征值是否为虚）。真正的对角化是把<span
+class="math inline">\(A\)</span>独立地写出来，这就必须要求特征向量之间线性无关：</p>
+<p><span class="math display">\[ A=X\Lambda X^{-1} \]</span></p>
+<p>这个东西厉害在哪呢？它解决了矩阵次方的问题。这时的乘方会有一个非常简洁的式子：<span
+class="math inline">\(A^n=X\Lambda^n
+X^{-1}\)</span>。它也表明一个矩阵乘方后，其特征值乘方，特征向量保持不变。</p>
+<h4 id="特征向量线性无关的条件">特征向量线性无关的条件</h4>
+<p>特征向量线性无关<span
+class="math inline">\(\iff\)</span>特征值互不相等。</p>
+<p>这里拿二维矩阵来做证明。</p>
+<p><span class="math display">\[
+对方程\,c_1\boldsymbol{x}_1+c_2\boldsymbol{x}_2=0\colon \]</span></p>
+<p><span class="math display">\[ \begin{cases}
+    c_1\lambda_1\boldsymbol{x_1}+c_2\lambda_1\boldsymbol{x_2}=0\\
+    c_1\lambda_1\boldsymbol{x_1}+c_2\lambda_2\boldsymbol{x_2}=0
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+c_2(\lambda_1-\lambda_2)\boldsymbol{x_2}=0 \]</span></p>
+<p><span class="math display">\[ \because \lambda_1\neq \lambda_2
+\]</span></p>
+<p><span class="math display">\[ \therefore c_2=0 \]</span></p>
+<p><span class="math display">\[ 同理\, c_i=0 \]</span></p>
+<h3 id="两类特殊矩阵">两类特殊矩阵</h3>
+<p>这两类矩阵的特殊之处，在于它们的对角化和特征值（也许还有其他的）。</p>
+<h4 id="对称矩阵">对称矩阵</h4>
+<h5 id="对角化-1">对角化</h5>
+<p>实对阵矩阵一定能被对角化为<span class="math inline">\(S=Q\Lambda
+Q^T\)</span>的形式，也就是说它的<strong>特征向量互相正交</strong>。</p>
+<p><span class="math display">\[ S=Q\Lambda
+Q^{-1}=S^{\mathrm{T}}=(Q^{\mathrm{T}})^{-1}\Lambda Q^{\mathrm{T}}
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\Lambda=(Q^{\mathrm{T}}Q)\Lambda(Q^{\mathrm{T}}Q)^{-1} \]</span></p>
+<p><span class="math display">\[ \therefore Q^{\mathrm{T}}Q=I
+\]</span></p>
+<h6
+id="为什么对称矩阵一定能被对角化">为什么对称矩阵一定能被对角化？</h6>
+<p>刚才是以“对角化可行”为前提，得到它的特征向量互相正交。而这个前提本身也需要证明。</p>
+<p>除单位矩阵外的对称矩阵天生地拥有线性无关的特征向量。我这里用两种途径来解释。</p>
+<ol type="1">
+<li>二维矩阵：</li>
+</ol>
+<p><span class="math display">\[ S=\begin{bmatrix}
+    a&amp;b\\b&amp;c
+\end{bmatrix} \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\lambda^2-(a+c)\lambda+(ac-b^2)=0 \]</span></p>
+<p><span class="math display">\[ \Delta =
+(a+c)^2-4(ac-b^2)=4b^2+(a-c)^2=0 \]</span></p>
+<p>若特征值相等，则<span class="math inline">\(b=0,\, a=c,\,
+S=aI\)</span></p>
+<p>所以一般情况下二维矩阵的特征值都不相等。</p>
+<ol start="2" type="1">
+<li>一般证明：</li>
+</ol>
+<p>一般证明又可以分成两类情况：1. 特征值互不相同，2.
+存在重复特征值。</p>
+<details>
+<summary>
+Case 1 特征值互不相同
+</summary>
+<p>我们绕过对角化的形式，通过直接证明对称矩阵的特征向量垂直，来得到他们线性无关。</p>
+<p><span class="math display">\[ \because\begin{cases}
+    S\boldsymbol{x_1}=\lambda_1\boldsymbol{x_1}\\
+    S\boldsymbol{x_2}=\lambda_2\boldsymbol{x_2}
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \therefore
+(S\boldsymbol{x_1})^{\mathrm{T}}\boldsymbol{x_2}&amp;=\boldsymbol{x_1}^{\mathrm{T}}S^{\mathrm{T}}\boldsymbol{x_2}=\lambda_2\boldsymbol{x_1}^{\mathrm{T}}\boldsymbol{x_2}\\
+    &amp;=\lambda_1\boldsymbol{x_1}^{\mathrm{T}}\boldsymbol{x_2}
+\end{align*} \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+(\lambda_1-\lambda_2)\boldsymbol{x_1}^{\mathrm{T}}\boldsymbol{x_2}=0
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\boldsymbol{x_1}^{\mathrm{T}}\boldsymbol{x_2}=0 \]</span></p>
+<p><span class="math display">\[ for \;
+c_1\boldsymbol{x_1}+c_2\boldsymbol{x_2}=0\colon \]</span></p>
+<p><span class="math display">\[ \begin{cases}
+    \boldsymbol{x_1}^{\mathrm{T}}(c_1\boldsymbol{x_1}+c_2\boldsymbol{x_2})=c_1=0\\
+    \boldsymbol{x_2}^{\mathrm{T}}(c_1\boldsymbol{x_1}+c_2\boldsymbol{x_2})=c_2=0\\
+\end{cases} \]</span></p>
+<p>所以特征向量线性无关。</p>
+</details>
+<details>
+<summary>
+Case 2 存在重复特征值
+</summary>
+<p>此处我们需要用到舒尔定理，即每个方阵都可以分解为<span
+class="math inline">\(QTQ^\mathrm{T}\)</span>的形式（其中<span
+class="math inline">\(T\)</span>为上三角形方阵）。它的证明可见<a
+href="/数学/舒尔定理证明">舒尔定理证明</a>。</p>
+<p>既然这样，我们接下来的任务就是去证<span
+class="math inline">\(T=\Lambda\)</span>，也就是一个对角矩阵了。这非常的简单：</p>
+<p><span class="math display">\[
+S=QTQ^\mathrm{T}=S^\mathrm{T}=QT^\mathrm{T}Q^\mathrm{T} \]</span></p>
+<p><span class="math display">\[ \Rightarrow T=T^\mathrm{T}
+\]</span></p>
+<p><span class="math display">\[ \therefore T=\Lambda \]</span></p>
+</details>
+<h5 id="特征值">特征值</h5>
+<p>实对称矩阵的特征值都是<strong>实数</strong>。</p>
+<p>假设特征值存在虚数，则设<span
+class="math inline">\(\lambda=a+b\mathrm{i}\)</span>，则有<span
+class="math inline">\(\bar{\lambda}=a-b\mathrm{i}\)</span></p>
+<p><span class="math display">\[ \begin{cases}
+    S\boldsymbol{x}=\lambda\boldsymbol{x}\\
+    S\boldsymbol{\bar{\boldsymbol{x}}}=\bar{\lambda}\bar{\boldsymbol{x}}\\
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \Rightarrow\begin{cases}
+    \bar{\boldsymbol{x}}^{\mathrm{T}}S\boldsymbol{x}=\lambda\bar{\boldsymbol{x}}^{\mathrm{T}}\boldsymbol{x}\\
+    \bar{\boldsymbol{x}}^{\mathrm{T}}S\boldsymbol{x}=\bar{\lambda}\bar{\boldsymbol{x}}^{\mathrm{T}}\boldsymbol{x}
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \therefore
+(\lambda-\bar{\lambda})\bar{\boldsymbol{x}}^{\mathrm{T}}\boldsymbol{x}=0
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow \lambda=\bar{\lambda}
+\]</span></p>
+<p><span class="math display">\[ \therefore \lambda\in \mathbb{R}
+\]</span></p>
+<h4 id="反对称矩阵">反对称矩阵</h4>
+<p>（在xTAx的地方提一下描述曲线运动方程的矩阵为何都是反对称）</p>
+<h5 id="对角化-2">对角化</h5>
+<p>实反对称矩阵可以被对角化为<span class="math inline">\(A=Q\Lambda
+\bar{Q}^{\mathrm{T}}\)</span>的形式</p>
+<h5 id="特征值-1">特征值</h5>
+<p>实对称矩阵的特征值都是纯虚数。</p>
+<p><span class="math display">\[ \begin{cases}
+    A\boldsymbol{x}=\lambda\boldsymbol{x}\\
+    A\bar{\boldsymbol{x}}=\bar{\lambda}\bar{\boldsymbol{x}}\\
+\end{cases} \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\bar{\boldsymbol{x}}^\mathrm{T}A^\mathrm{T}x=\bar{\lambda}\bar{\boldsymbol{x}}^T\boldsymbol{x}
+\]</span></p>
+<p><span class="math display">\[ \Rightarrow
+-\lambda\bar{\boldsymbol{x}}^\mathrm{T}\boldsymbol{x}=\bar{\lambda}\bar{\boldsymbol{x}}^\mathrm{T}\boldsymbol{x}
+\]</span></p>
+<p><span class="math display">\[
+(\lambda+\bar{\lambda})\bar{\boldsymbol{x}}^T\boldsymbol{x}=0
+\]</span></p>
+<p><span class="math display">\[ \therefore \lambda+\bar{\lambda}=0
+\]</span></p>
+<h5 id="正交性">正交性</h5>
+<p>对于任意实向量，<span
+class="math inline">\(\boldsymbol{x}^\mathrm{T}A\boldsymbol{x}=0\)</span>。</p>
+<p><span class="math display">\[
+命\boldsymbol{v}=\boldsymbol{x}^\mathrm{T}A\boldsymbol{x}\colon
+\]</span></p>
+<p><span class="math display">\[
+\boldsymbol{v}^\mathrm{T}=\boldsymbol{x}^\mathrm{T}A^\mathrm{T}\boldsymbol{x}=-\boldsymbol{x}^\mathrm{T}A\boldsymbol{x}=-\boldsymbol{v}
+\]</span></p>
+<p><span class="math display">\[ \because \boldsymbol{v} \in \mathbb{R}
+\]</span></p>
+<p><span class="math display">\[ \therefore
+v=\boldsymbol{x}^\mathrm{T}A\boldsymbol{x}=0 \]</span></p>
+<h3 id="应用">应用</h3>
+<h4 id="处理递推">处理递推</h4>
+<p>矩阵的乘方，可以理解为“不断对一个对象进行同一个线性变换”；这能帮助我们解决递推问题，其中就有非常传统与经典的斐波那契数列。而且斐波那契的递推公式本身就是一个线性变换（加法），所以使用矩阵十分合适。</p>
+<p>把斐波那契写成：</p>
+<p><span class="math display">\[ \begin{align*}
+     F_{k+2}&amp;=F_{k+1}+F_{k} \\
+     F_{k+1}&amp;=F_{k+1}
+\end{align*} \Rightarrow
+\begin{bmatrix}
+    F_{k+2}\\
+    F_{k+1}
+\end{bmatrix}=
+\begin{bmatrix}
+    1&amp;1\\1&amp;0
+\end{bmatrix}
+\begin{bmatrix}
+    F_{k+1}\\F_{k}
+\end{bmatrix}\]</span></p>
+<p><span class="math display">\[ 令\boldsymbol{u}_k=\begin{bmatrix}
+    F_{k+1}\\F_{k}
+\end{bmatrix},\,\boldsymbol{u}_0=\begin{bmatrix}
+    1\\0
+\end{bmatrix}\Rightarrow \boldsymbol{u}_{k+1}=\begin{bmatrix}
+    1&amp;1\\1&amp;0
+\end{bmatrix}\boldsymbol{u}_{k}=\begin{bmatrix}
+    1&amp;1\\1&amp;0
+\end{bmatrix}^{k=1}\boldsymbol{u}_0 \]</span></p>
+<p><span class="math display">\[ \Rightarrow
+\boldsymbol{u}_{k}=\begin{bmatrix}
+    1&amp;1\\1&amp;0
+\end{bmatrix}^k\boldsymbol{u}_0 \]</span></p>
+<p><span class="math display">\[ \because \begin{bmatrix}
+    1&amp;1\\1&amp;0
+\end{bmatrix}=\frac{1}{\sqrt{5}}\begin{bmatrix}
+    \frac{1+\sqrt{5}}{2}&amp;\frac{1-\sqrt{5}}{2}\\
+    1&amp;1\
+\end{bmatrix}\begin{bmatrix}
+    \frac{1+\sqrt{5}}{2}&amp;0\\ 0&amp;\frac{1-\sqrt{5}}{2}
+\end{bmatrix}\begin{bmatrix}
+    1&amp;\frac{\sqrt{5}-1}{2}\\-1&amp;\frac{1+\sqrt{5}}{2}
+\end{bmatrix} \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \therefore \begin{bmatrix}
+    1&amp;1\\1&amp;0
+\end{bmatrix}^k=&amp;
+    \frac{1}{\sqrt{5}}\begin{bmatrix}
+    \frac{1+\sqrt{5}}{2}&amp;\frac{1-\sqrt{5}}{2}\\
+    1&amp;1\
+\end{bmatrix}\begin{bmatrix}
+    \frac{1+\sqrt{5}}{2}&amp;0\\ 0&amp;\frac{1-\sqrt{5}}{2}
+\end{bmatrix}^k\begin{bmatrix}
+    1&amp;\frac{\sqrt{5}-1}{2}\\-1&amp;\frac{1+\sqrt{5}}{2}
+\end{bmatrix}\\
+    =&amp;
+    \frac{1}{\sqrt{5}}\begin{bmatrix}
+        \lambda_1^{k+1}-\lambda_2^{k+1}&amp;\lambda_1^k-\lambda_2^k\\
+        \lambda_1^k-\lambda_2^k&amp;\lambda_1^{k-1}-\lambda_2^{k-1}
+    \end{bmatrix}
+\end{align*} \]</span></p>
+<p><span class="math display">\[ (\lambda_1=\frac{1+\sqrt{5}}{2},\;
+\lambda_2=\frac{1-\sqrt{5}}{2}) \]</span></p>
+<p><span class="math display">\[ \therefore
+F_{k}=\frac{1}{\sqrt{5}}(\lambda_1^{k}-\lambda_2^{k}) \]</span></p>
+<h4 id="矩阵运算的推广">矩阵运算的推广</h4>
+<p>为了把矩阵的性质挖透，一些数学家尝试在运算上进行推广，比如把它放在指数上，把它放在对数里，放在三角里，看看它算出来是个什么东西。这一招数在解线性微分方程组时是非常有用的。（其实应该是先在解方程组的时候做一些推测，再做的推广）</p>
+<p>我们运算的核心是泰勒公式，因为它把各种运算写成了多项式函数，而矩阵的乘方又是很容易的（特别在对角化之后）。我在这里只说下指数运算的情况。</p>
+<p><span class="math display">\[ \begin{align*}
+    \mathrm{e}^{A}&amp;=I+A+\frac{1}{2}A^2+\frac{1}{6}A^3+\cdots\\
+    &amp;=I+X\Lambda X^{-1}+\frac{1}{2}X\Lambda^2
+X^{-1}+\frac{1}{6}X\Lambda^3 X^{-1}+\cdots\\
+    &amp;=X[I+\Lambda+\frac{1}{2}\Lambda^2+\frac{1}{6}\Lambda^3+\cdots]X^{-1}\\
+    &amp;=X\mathrm{e}^\Lambda X^{-1}
+\end{align*} \]</span></p>
+<p>就是这样。关于怎么拿它解线性微分方程组，可以去看我的另一篇东西：<a
+href="/数学/用线性代数解线性微分方程组.md">用线性代数解微分方程组</a></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+        <category>线性代数</category>
       </categories>
   </entry>
   <entry>
@@ -3535,6 +3954,177 @@ class="math inline">\(f_i^{&#39;}=\Sigma c_{ij}f_j\)</span>：</p>
 \end{bmatrix} \]</span></p>
 <p>把它化成矩阵之后，这就又变成了向量变化率与向量本身呈线性的方程问题，可以很快解决。</p>
 <p>Ps：我有过把n阶微分方程化为矩阵来算的想法，实际试了之后发现问题出在一元n次方程（特征值）难以求解上面；从这里可以看出微分方程和代数方程之间的一点联系。</p>
+]]></content>
+      <categories>
+        <category>数学</category>
+        <category>线性代数</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>积分关系公式汇总</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E7%A7%AF%E5%88%86%E5%85%B3%E7%B3%BB%E5%85%AC%E5%BC%8F%E6%B1%87%E6%80%BB/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="格林公式">格林公式</h3>
+<p><span class="math display">\[
+联系曲线积分与二重积分\colon  \]</span></p>
+<p><span class="math display">\[
+\oint_LP\mathrm{d}x+Q\mathrm{d}y=\iint_D (\frac{\partial Q}{\partial
+x}-\frac{\partial P}{\partial y})\mathrm{d}x\mathrm{d}y \]</span></p>
+<span id="more"></span>
+<h3 id="高斯公式">高斯公式</h3>
+<p><span class="math display">\[ 联系曲面积分与三重积分\colon
+\]</span></p>
+<p><span class="math display">\[ {\int\kern{-7pt}\int \kern{-24mu}
+\bigcirc}_{\Sigma}P\mathrm{d}y\mathrm{d}z+Q\mathrm{d}z\mathrm{d}x+R\mathrm{d}x\mathrm{d}y=\iiint_{\Omega}(\frac{\partial
+P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial
+z})\mathrm{d}V \]</span></p>
+<p><span class="math display">\[ {\int\kern{-7pt}\int \kern{-24mu}
+\bigcirc}_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}=\iiint_{\Omega}\text{div}\;
+\boldsymbol{A}\mathrm{d}V \]</span></p>
+<h4 id="通量与散度">通量与散度</h4>
+<p><span class="math display">\[ 通量是 {\int\kern{-7pt}\int
+\kern{-24mu}
+\bigcirc}_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}，则\text{div}\;\boldsymbol{A}为单位通量，即散度
+\]</span></p>
+<p><span class="math display">\[
+\text{div}\;\boldsymbol{A}=\nabla\cdot\boldsymbol{A}=\frac{\partial
+P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial
+z} \]</span></p>
+<h3 id="斯托克斯公式">斯托克斯公式</h3>
+<p><span class="math display">\[ 联系曲线积分与曲面积分\colon
+\]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \oint_L
+P\mathrm{d}x+Q\mathrm{d}y+R\mathrm{d}z&amp;=\iint_{\Sigma}\begin{vmatrix}
+        \mathrm{d}y\mathrm{d}z&amp;\mathrm{d}z\mathrm{d}x&amp;\mathrm{d}x\mathrm{d}y\\
+        \displaystyle\frac{\partial}{\partial x}&amp;
+\displaystyle\frac{\partial}{\partial y}&amp;
+\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R
+    \end{vmatrix}\\
+    &amp;=\iint_{\Sigma}\begin{vmatrix}
+        \cos\alpha&amp;\cos\beta&amp;\cos\gamma\\
+        \displaystyle\frac{\partial}{\partial x}&amp;
+\displaystyle\frac{\partial}{\partial y}&amp;
+\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R
+    \end{vmatrix}\mathrm{d}S\\
+\end{align*} \]</span></p>
+<p><span class="math display">\[
+\oint_{L}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{r}=\iint_{\Sigma}\mathbf{rot}\;\boldsymbol{A}\cdot\boldsymbol{n}\mathrm{d}S
+\]</span></p>
+<p><span class="math display">\[ 格林公式是斯托克斯公式在二维的弱化
+\]</span></p>
+<h4 id="环流量与旋度">环流量与旋度</h4>
+<p><span class="math display">\[ 环流量是
+\oint_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{r}，则\begin{vmatrix}
+    \boldsymbol{i}&amp;\boldsymbol{j}&amp;\boldsymbol{k}\\
+        \displaystyle\frac{\partial}{\partial x}&amp;
+\displaystyle\frac{\partial}{\partial y}&amp;
+\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R
+\end{vmatrix}为单位环流量，即旋度 \]</span></p>
+<p><span class="math display">\[
+\mathbf{rot}\;\boldsymbol{A}=\nabla\times\boldsymbol{A}=\begin{vmatrix}
+    \boldsymbol{i}&amp;\boldsymbol{j}&amp;\boldsymbol{k}\\
+        \displaystyle\frac{\partial}{\partial x}&amp;
+\displaystyle\frac{\partial}{\partial y}&amp;
+\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R
+\end{vmatrix} \]</span></p>
+<h3 id="物理量">物理量</h3>
+<p><span class="math display">\[ 梯度\colon
+\mathbf{grad}\;\boldsymbol{A}= \nabla\boldsymbol{A} \]</span></p>
+<p><span class="math display">\[ 散度\colon
+\text{div}\;\boldsymbol{A}=\nabla\cdot\boldsymbol{A} \]</span></p>
+<p><span class="math display">\[ 旋度\colon
+\mathbf{rot}\;\boldsymbol{A}=\nabla\times\boldsymbol{A} \]</span></p>
+<h3 id="三个公式的统一">三个公式的统一</h3>
+<h4 id="外积">外积</h4>
+<p><span class="math display">\[
+为了让计算本身能够自动导出积分方向（正负），定义外积\colon \]</span></p>
+<p><span class="math display">\[
+\mathrm{d}x\wedge\mathrm{d}y=-\mathrm{d}y\wedge\mathrm{d}x \]</span></p>
+<p><span class="math display">\[
+\mathrm{d}x\wedge(\mathrm{d}y+\mathrm{d}z)=\mathrm{d}x\wedge\mathrm{d}y+\mathrm{d}x\wedge\mathrm{d}z
+\]</span></p>
+<p><span class="math display">\[
+(\mathrm{d}x\wedge\mathrm{d}y)\wedge\mathrm{d}z=\mathrm{d}x\wedge(\mathrm{d}y\wedge\mathrm{d}z)
+\]</span></p>
+<p><span class="math display">\[
+|\mathrm{d}x\wedge\mathrm{d}y|=\mathrm{d}x\mathrm{d}y \]</span></p>
+<h4 id="外微分">外微分</h4>
+<p><span class="math display">\[ \omega_0=f \]</span></p>
+<p><span class="math display">\[
+\omega_1=P\mathrm{d}x+Q\mathrm{d}y+R\mathrm{d}z \]</span></p>
+<p><span class="math display">\[
+\omega_2=A\mathrm{d}x\wedge\mathrm{d}y+B\mathrm{d}y\wedge\mathrm{d}z+C\mathrm{d}z\wedge\mathrm{d}x
+\]</span></p>
+<p><span class="math display">\[
+\omega_3=F\mathrm{d}x\wedge\mathrm{d}y\wedge\mathrm{d}z \]</span></p>
+<h5 id="计算案例">计算案例</h5>
+<p><span class="math display">\[ 当做全微分计算\colon \]</span></p>
+<p><span class="math display">\[ \begin{align*}
+    \mathrm{d}\omega_1&amp;=\mathrm{d}(P\mathrm{d}x+Q\mathrm{d}y)\\
+    &amp;=\frac{\partial P}{\partial
+x}\mathrm{d}x\wedge\mathrm{d}x+\frac{\partial P}{\partial
+y}\mathrm{d}y\wedge\mathrm{d}x+\frac{\partial Q}{\partial
+x}\mathrm{d}x\wedge\mathrm{d}y+\frac{\partial Q}{\partial
+x}\mathrm{d}y\wedge\mathrm{d}y\\
+    &amp;=(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial
+y})\mathrm{d}x\wedge\mathrm{d}y
+\end{align*} \]</span></p>
+<p><span class="math display">\[  \]</span></p>
+<h4 id="统一公式">统一公式</h4>
+<p><span class="math display">\[ \int_{\partial D}\omega=\int_D
+\mathrm{d}\omega \]</span></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.8.1</title>
+    <url>/%E6%97%A5%E8%AE%B0/2023-8-1/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>我今天才明白，《一块红布》是个永恒的东西。</p>
+<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
+<b>
+<p align="right">
+作于2023.8.1
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>舒尔定理证明</title>
+    <url>/%E6%95%B0%E5%AD%A6/%E8%88%92%E5%B0%94%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>舒尔定理：每个方阵都可以分解为<span
+class="math inline">\(QTQ^\mathrm{T}\)</span>的形式，其中<span
+class="math inline">\(Q\)</span>为正交矩阵，<span
+class="math inline">\(T\)</span>为上三角形方阵。</p>
+<p>我们的思路是使用一次递推和一次数学归纳法：前者是为了证明方阵大小<span
+class="math inline">\(n=k\)</span>时满足舒尔定理，递推的部分用于证明<span
+class="math inline">\(T\)</span>为上三角形；第二次是为了证明从<span
+class="math inline">\(n=k\)</span>成立可以推得<span
+class="math inline">\(n=k+1\)</span>成立，进而舒尔定理对于所有方阵都成立。换句话说，我们的第一步是让某个方阵向比它小的方向看，第二步再让他往大的看。</p>
+<span id="more"></span>
 ]]></content>
       <categories>
         <category>数学</category>
@@ -3831,131 +4421,8 @@ class="math inline">\(x=\mathrm{e}^u\)</span>代入即可</p>
       </categories>
   </entry>
   <entry>
-    <title>积分关系公式汇总</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E7%A7%AF%E5%88%86%E5%85%B3%E7%B3%BB%E5%85%AC%E5%BC%8F%E6%B1%87%E6%80%BB/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="格林公式">格林公式</h3>
-<p><span class="math display">\[
-联系曲线积分与二重积分\colon  \]</span></p>
-<p><span class="math display">\[
-\oint_LP\mathrm{d}x+Q\mathrm{d}y=\iint_D (\frac{\partial Q}{\partial
-x}-\frac{\partial P}{\partial y})\mathrm{d}x\mathrm{d}y \]</span></p>
-<span id="more"></span>
-<h3 id="高斯公式">高斯公式</h3>
-<p><span class="math display">\[ 联系曲面积分与三重积分\colon
-\]</span></p>
-<p><span class="math display">\[ {\int\kern{-7pt}\int \kern{-24mu}
-\bigcirc}_{\Sigma}P\mathrm{d}y\mathrm{d}z+Q\mathrm{d}z\mathrm{d}x+R\mathrm{d}x\mathrm{d}y=\iiint_{\Omega}(\frac{\partial
-P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial
-z})\mathrm{d}V \]</span></p>
-<p><span class="math display">\[ {\int\kern{-7pt}\int \kern{-24mu}
-\bigcirc}_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}=\iiint_{\Omega}\text{div}\;
-\boldsymbol{A}\mathrm{d}V \]</span></p>
-<h4 id="通量与散度">通量与散度</h4>
-<p><span class="math display">\[ 通量是 {\int\kern{-7pt}\int
-\kern{-24mu}
-\bigcirc}_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{S}，则\text{div}\;\boldsymbol{A}为单位通量，即散度
-\]</span></p>
-<p><span class="math display">\[
-\text{div}\;\boldsymbol{A}=\nabla\cdot\boldsymbol{A}=\frac{\partial
-P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial
-z} \]</span></p>
-<h3 id="斯托克斯公式">斯托克斯公式</h3>
-<p><span class="math display">\[ 联系曲线积分与曲面积分\colon
-\]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \oint_L
-P\mathrm{d}x+Q\mathrm{d}y+R\mathrm{d}z&amp;=\iint_{\Sigma}\begin{vmatrix}
-        \mathrm{d}y\mathrm{d}z&amp;\mathrm{d}z\mathrm{d}x&amp;\mathrm{d}x\mathrm{d}y\\
-        \displaystyle\frac{\partial}{\partial x}&amp;
-\displaystyle\frac{\partial}{\partial y}&amp;
-\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R
-    \end{vmatrix}\\
-    &amp;=\iint_{\Sigma}\begin{vmatrix}
-        \cos\alpha&amp;\cos\beta&amp;\cos\gamma\\
-        \displaystyle\frac{\partial}{\partial x}&amp;
-\displaystyle\frac{\partial}{\partial y}&amp;
-\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R
-    \end{vmatrix}\mathrm{d}S\\
-\end{align*} \]</span></p>
-<p><span class="math display">\[
-\oint_{L}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{r}=\iint_{\Sigma}\mathbf{rot}\;\boldsymbol{A}\cdot\boldsymbol{n}\mathrm{d}S
-\]</span></p>
-<p><span class="math display">\[ 格林公式是斯托克斯公式在二维的弱化
-\]</span></p>
-<h4 id="环流量与旋度">环流量与旋度</h4>
-<p><span class="math display">\[ 环流量是
-\oint_{\Sigma}\boldsymbol{A}\cdot\mathrm{d}\boldsymbol{r}，则\begin{vmatrix}
-    \boldsymbol{i}&amp;\boldsymbol{j}&amp;\boldsymbol{k}\\
-        \displaystyle\frac{\partial}{\partial x}&amp;
-\displaystyle\frac{\partial}{\partial y}&amp;
-\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R
-\end{vmatrix}为单位环流量，即旋度 \]</span></p>
-<p><span class="math display">\[
-\mathbf{rot}\;\boldsymbol{A}=\nabla\times\boldsymbol{A}=\begin{vmatrix}
-    \boldsymbol{i}&amp;\boldsymbol{j}&amp;\boldsymbol{k}\\
-        \displaystyle\frac{\partial}{\partial x}&amp;
-\displaystyle\frac{\partial}{\partial y}&amp;
-\displaystyle\frac{\partial}{\partial z}\\P&amp;Q&amp;R
-\end{vmatrix} \]</span></p>
-<h3 id="物理量">物理量</h3>
-<p><span class="math display">\[ 梯度\colon
-\mathbf{grad}\;\boldsymbol{A}= \nabla\boldsymbol{A} \]</span></p>
-<p><span class="math display">\[ 散度\colon
-\text{div}\;\boldsymbol{A}=\nabla\cdot\boldsymbol{A} \]</span></p>
-<p><span class="math display">\[ 旋度\colon
-\mathbf{rot}\;\boldsymbol{A}=\nabla\times\boldsymbol{A} \]</span></p>
-<h3 id="三个公式的统一">三个公式的统一</h3>
-<h4 id="外积">外积</h4>
-<p><span class="math display">\[
-为了让计算本身能够自动导出积分方向（正负），定义外积\colon \]</span></p>
-<p><span class="math display">\[
-\mathrm{d}x\wedge\mathrm{d}y=-\mathrm{d}y\wedge\mathrm{d}x \]</span></p>
-<p><span class="math display">\[
-\mathrm{d}x\wedge(\mathrm{d}y+\mathrm{d}z)=\mathrm{d}x\wedge\mathrm{d}y+\mathrm{d}x\wedge\mathrm{d}z
-\]</span></p>
-<p><span class="math display">\[
-(\mathrm{d}x\wedge\mathrm{d}y)\wedge\mathrm{d}z=\mathrm{d}x\wedge(\mathrm{d}y\wedge\mathrm{d}z)
-\]</span></p>
-<p><span class="math display">\[
-|\mathrm{d}x\wedge\mathrm{d}y|=\mathrm{d}x\mathrm{d}y \]</span></p>
-<h4 id="外微分">外微分</h4>
-<p><span class="math display">\[ \omega_0=f \]</span></p>
-<p><span class="math display">\[
-\omega_1=P\mathrm{d}x+Q\mathrm{d}y+R\mathrm{d}z \]</span></p>
-<p><span class="math display">\[
-\omega_2=A\mathrm{d}x\wedge\mathrm{d}y+B\mathrm{d}y\wedge\mathrm{d}z+C\mathrm{d}z\wedge\mathrm{d}x
-\]</span></p>
-<p><span class="math display">\[
-\omega_3=F\mathrm{d}x\wedge\mathrm{d}y\wedge\mathrm{d}z \]</span></p>
-<h5 id="计算案例">计算案例</h5>
-<p><span class="math display">\[ 当做全微分计算\colon \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \mathrm{d}\omega_1&amp;=\mathrm{d}(P\mathrm{d}x+Q\mathrm{d}y)\\
-    &amp;=\frac{\partial P}{\partial
-x}\mathrm{d}x\wedge\mathrm{d}x+\frac{\partial P}{\partial
-y}\mathrm{d}y\wedge\mathrm{d}x+\frac{\partial Q}{\partial
-x}\mathrm{d}x\wedge\mathrm{d}y+\frac{\partial Q}{\partial
-x}\mathrm{d}y\wedge\mathrm{d}y\\
-    &amp;=(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial
-y})\mathrm{d}x\wedge\mathrm{d}y
-\end{align*} \]</span></p>
-<p><span class="math display">\[  \]</span></p>
-<h4 id="统一公式">统一公式</h4>
-<p><span class="math display">\[ \int_{\partial D}\omega=\int_D
-\mathrm{d}\omega \]</span></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.8.1</title>
-    <url>/%E6%97%A5%E8%AE%B0/2023-8-1/</url>
+    <title>2023.9.12</title>
+    <url>/%E6%97%A5%E8%AE%B0/2023-9-12/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -3963,11 +4430,11 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
-<p>我今天才明白，《一块红布》是个永恒的东西。</p>
-<p>对于大多人无脑蔑视主旋律的现在，这歌是很有意义的。</p>
+<p>听了杭天给迪伦的致敬</p>
+<p>Tomorrow is a long time.</p>
 <b>
 <p align="right">
-作于2023.8.1
+作于2023.9.12
 </p>
 <p></b></p>
 </b> </big>
@@ -3975,251 +4442,6 @@ XantC
 ]]></content>
       <categories>
         <category>日记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>特征值与特征向量</title>
-    <url>/%E6%95%B0%E5%AD%A6/%E7%89%B9%E5%BE%81%E5%80%BC%E4%B8%8E%E7%89%B9%E5%BE%81%E5%90%91%E9%87%8F/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<h3 id="为何需要特征值和特征向量">为何需要特征值和特征向量？</h3>
-<p>我们知道，矩阵可以用来表示一个线性变换，它的列向量决定着变换后<strong>列空间</strong>的基底。而矩阵的特征向量，也就是在变换前后方向不变的向量，决定的则是这个<strong>变换</strong>本身的基底。</p>
-<span id="more"></span>
-<p>如果我们的运气足够好，得到了<span
-class="math inline">\(n\)</span>个线性无关的特征向量，那我们就可以把变换后的结果表示成特征向量的线性组合。因为此时特征向量构成的矩阵是满秩的，其线性组合将打满整个空间。而借助于特征向量本身的性质，我们的运算将非常方便与自然。</p>
-<p>比如在二维空间中，我们有<span
-class="math inline">\(\boldsymbol{x}=c_1\boldsymbol{x_1}+c_2\boldsymbol{x_2}\)</span>，则<span
-class="math inline">\(A\boldsymbol{x}=c_1A\boldsymbol{x_1}+c_2A\boldsymbol{x_2}=c_1\lambda_1\boldsymbol{x_1}+c_2\lambda_2\boldsymbol{x_2}\)</span></p>
-<p>Very beautiful.</p>
-<h3 id="对角化">对角化</h3>
-<p>我刚才说特征向量决定了矩阵变换本身的基底，于是一些人就想着把矩阵分解成以特征向量为基底的形式，也就是矩阵的对角化。但这件事只能用在特征向量线性无关的时候来做，因为需要用到特征向量矩阵的逆。</p>
-<p>根据特征向量的定义，我们可以得到：</p>
-<p><span class="math display">\[ AX=X\Lambda \]</span></p>
-<p>其中<span class="math inline">\(X\)</span>是特征向量的矩阵，<span
-class="math inline">\(\Lambda\)</span>是以特征值为对角线的对角矩阵，两个的顺序应该一一对应。这个式子其实是适用于一切方阵的（不管它的特征值是否为虚）。真正的对角化是把<span
-class="math inline">\(A\)</span>独立地写出来，这就必须要求特征向量之间线性无关：</p>
-<p><span class="math display">\[ A=X\Lambda X^{-1} \]</span></p>
-<p>这个东西厉害在哪呢？它解决了矩阵次方的问题。这时的乘方会有一个非常简洁的式子：<span
-class="math inline">\(A^n=X\Lambda^n
-X^{-1}\)</span>。它也表明一个矩阵乘方后，其特征值乘方，特征向量保持不变。</p>
-<h4 id="特征向量线性无关的条件">特征向量线性无关的条件</h4>
-<p>特征向量线性无关<span
-class="math inline">\(\iff\)</span>特征值互不相等。</p>
-<p>这里拿二维矩阵来做证明。</p>
-<p><span class="math display">\[
-对方程\,c_1\boldsymbol{x}_1+c_2\boldsymbol{x}_2=0\colon \]</span></p>
-<p><span class="math display">\[ \begin{cases}
-    c_1\lambda_1\boldsymbol{x_1}+c_2\lambda_1\boldsymbol{x_2}=0\\
-    c_1\lambda_1\boldsymbol{x_1}+c_2\lambda_2\boldsymbol{x_2}=0
-\end{cases} \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-c_2(\lambda_1-\lambda_2)\boldsymbol{x_2}=0 \]</span></p>
-<p><span class="math display">\[ \because \lambda_1\neq \lambda_2
-\]</span></p>
-<p><span class="math display">\[ \therefore c_2=0 \]</span></p>
-<p><span class="math display">\[ 同理\, c_i=0 \]</span></p>
-<h3 id="两类特殊矩阵">两类特殊矩阵</h3>
-<p>这两类矩阵的特殊之处，在于它们的对角化和特征值（也许还有其他的）。</p>
-<h4 id="对称矩阵">对称矩阵</h4>
-<h5 id="对角化-1">对角化</h5>
-<p>实对阵矩阵一定能被对角化为<span class="math inline">\(S=Q\Lambda
-Q^T\)</span>的形式，也就是说它的<strong>特征向量互相正交</strong>。</p>
-<p><span class="math display">\[ S=Q\Lambda
-Q^{-1}=S^{\mathrm{T}}=(Q^{\mathrm{T}})^{-1}\Lambda Q^{\mathrm{T}}
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\Lambda=(Q^{\mathrm{T}}Q)\Lambda(Q^{\mathrm{T}}Q)^{-1} \]</span></p>
-<p><span class="math display">\[ \therefore Q^{\mathrm{T}}Q=I
-\]</span></p>
-<h6
-id="为什么对称矩阵一定能被对角化">为什么对称矩阵一定能被对角化？</h6>
-<p>刚才是以“对角化可行”为前提，得到它的特征向量互相正交。而这个前提本身也需要证明。</p>
-<p>除单位矩阵外的对称矩阵天生地拥有线性无关的特征向量。我这里用两种途径来解释。</p>
-<ol type="1">
-<li>二维矩阵：</li>
-</ol>
-<p><span class="math display">\[ S=\begin{bmatrix}
-    a&amp;b\\b&amp;c
-\end{bmatrix} \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\lambda^2-(a+c)\lambda+(ac-b^2)=0 \]</span></p>
-<p><span class="math display">\[ \Delta =
-(a+c)^2-4(ac-b^2)=4b^2+(a-c)^2=0 \]</span></p>
-<p>若特征值相等，则<span class="math inline">\(b=0,\, a=c,\,
-S=aI\)</span></p>
-<p>所以一般情况下二维矩阵的特征值都不相等。</p>
-<ol start="2" type="1">
-<li>一般证明：</li>
-</ol>
-<p>我们绕过对角化的形式，通过直接证明对称矩阵的特征向量垂直，来得到他们线性无关。</p>
-<p><span class="math display">\[ \because\begin{cases}
-    S\boldsymbol{x_1}=\lambda_1\boldsymbol{x_1}\\
-    S\boldsymbol{x_2}=\lambda_2\boldsymbol{x_2}
-\end{cases} \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \therefore
-(S\boldsymbol{x_1})^{\mathrm{T}}\boldsymbol{x_2}&amp;=\boldsymbol{x_1}^{\mathrm{T}}S^{\mathrm{T}}\boldsymbol{x_2}=\lambda_2\boldsymbol{x_1}^{\mathrm{T}}\boldsymbol{x_2}\\
-    &amp;=\lambda_1\boldsymbol{x_1}^{\mathrm{T}}\boldsymbol{x_2}
-\end{align*} \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-(\lambda_1-\lambda_2)\boldsymbol{x_1}^{\mathrm{T}}\boldsymbol{x_2}=0
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow\lambda_1=\lambda_2\;
-\mathrm{or}\; \boldsymbol{x_1}^{\mathrm{T}}\boldsymbol{x_2}=0
-\]</span></p>
-<p><span class="math display">\[ if\; \lambda_1=\lambda_2\colon
-\]</span></p>
-<p><span class="math display">\[ 随便选几个线性无关的向量作为特征向量
-\]</span></p>
-<p><span class="math display">\[ 则 S=X(\lambda_1I) X^{-1}=\lambda_1 I
-\]</span></p>
-<p>单位矩阵的情况比较特殊，我们可以把它从“对称矩阵皆可对角化”的范围里除名。</p>
-<p><span class="math display">\[ \therefore
-\boldsymbol{x_1}^{\mathrm{T}}\boldsymbol{x_2}=0 \]</span></p>
-<p><span class="math display">\[ for \;
-c_1\boldsymbol{x_1}+c_2\boldsymbol{x_2}=0\colon \]</span></p>
-<p><span class="math display">\[ \begin{cases}
-    \boldsymbol{x_1}^{\mathrm{T}}(c_1\boldsymbol{x_1}+c_2\boldsymbol{x_2})=c_1=0\\
-    \boldsymbol{x_2}^{\mathrm{T}}(c_1\boldsymbol{x_1}+c_2\boldsymbol{x_2})=c_2=0\\
-\end{cases} \]</span></p>
-<p>所以特征向量线性无关。</p>
-<h5 id="特征值">特征值</h5>
-<p>实对称矩阵的特征值都是<strong>实数</strong>。</p>
-<p>假设特征值存在虚数，则设<span
-class="math inline">\(\lambda=a+b\mathrm{i}\)</span>，则有<span
-class="math inline">\(\bar{\lambda}=a-b\mathrm{i}\)</span></p>
-<p><span class="math display">\[ \begin{cases}
-    S\boldsymbol{x}=\lambda\boldsymbol{x}\\
-    S\boldsymbol{\bar{\boldsymbol{x}}}=\bar{\lambda}\bar{\boldsymbol{x}}\\
-\end{cases} \]</span></p>
-<p><span class="math display">\[ \Rightarrow\begin{cases}
-    \bar{\boldsymbol{x}}^{\mathrm{T}}S\boldsymbol{x}=\lambda\bar{\boldsymbol{x}}^{\mathrm{T}}\boldsymbol{x}\\
-    \bar{\boldsymbol{x}}^{\mathrm{T}}S\boldsymbol{x}=\bar{\lambda}\bar{\boldsymbol{x}}^{\mathrm{T}}\boldsymbol{x}
-\end{cases} \]</span></p>
-<p><span class="math display">\[ \therefore
-(\lambda-\bar{\lambda})\bar{\boldsymbol{x}}^{\mathrm{T}}\boldsymbol{x}=0
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow \lambda=\bar{\lambda}
-\]</span></p>
-<p><span class="math display">\[ \therefore \lambda\in \mathbb{R}
-\]</span></p>
-<h4 id="反对称矩阵">反对称矩阵</h4>
-<p>（在xTAx的地方提一下描述曲线运动方程的矩阵为何都是反对称）</p>
-<h5 id="对角化-2">对角化</h5>
-<p>实反对称矩阵可以被对角化为<span class="math inline">\(A=Q\Lambda
-\bar{Q}^{\mathrm{T}}\)</span>的形式</p>
-<h5 id="特征值-1">特征值</h5>
-<p>实对称矩阵的特征值都是纯虚数。</p>
-<p><span class="math display">\[ \begin{cases}
-    A\boldsymbol{x}=\lambda\boldsymbol{x}\\
-    A\bar{\boldsymbol{x}}=\bar{\lambda}\bar{\boldsymbol{x}}\\
-\end{cases} \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\bar{\boldsymbol{x}}^\mathrm{T}A^\mathrm{T}x=\bar{\lambda}\bar{\boldsymbol{x}}^T\boldsymbol{x}
-\]</span></p>
-<p><span class="math display">\[ \Rightarrow
--\lambda\bar{\boldsymbol{x}}^\mathrm{T}\boldsymbol{x}=\bar{\lambda}\bar{\boldsymbol{x}}^\mathrm{T}\boldsymbol{x}
-\]</span></p>
-<p><span class="math display">\[
-(\lambda+\bar{\lambda})\bar{\boldsymbol{x}}^T\boldsymbol{x}=0
-\]</span></p>
-<p><span class="math display">\[ \therefore \lambda+\bar{\lambda}=0
-\]</span></p>
-<h5 id="正交性">正交性</h5>
-<p>对于任意实向量，<span
-class="math inline">\(\boldsymbol{x}^\mathrm{T}A\boldsymbol{x}=0\)</span>。</p>
-<p><span class="math display">\[
-命\boldsymbol{v}=\boldsymbol{x}^\mathrm{T}A\boldsymbol{x}\colon
-\]</span></p>
-<p><span class="math display">\[
-\boldsymbol{v}^\mathrm{T}=\boldsymbol{x}^\mathrm{T}A^\mathrm{T}\boldsymbol{x}=-\boldsymbol{x}^\mathrm{T}A\boldsymbol{x}=-\boldsymbol{v}
-\]</span></p>
-<p><span class="math display">\[ \because \boldsymbol{v} \in \mathbb{R}
-\]</span></p>
-<p><span class="math display">\[ \therefore
-v=\boldsymbol{x}^\mathrm{T}A\boldsymbol{x}=0 \]</span></p>
-<h3 id="应用">应用</h3>
-<h4 id="处理递推">处理递推</h4>
-<p>矩阵的乘方，可以理解为“不断对一个对象进行同一个线性变换”；这能帮助我们解决递推问题，其中就有非常传统与经典的斐波那契数列。而且斐波那契的递推公式本身就是一个线性变换（加法），所以使用矩阵十分合适。</p>
-<p>把斐波那契写成：</p>
-<p><span class="math display">\[ \begin{align*}
-     F_{k+2}&amp;=F_{k+1}+F_{k} \\
-     F_{k+1}&amp;=F_{k+1}
-\end{align*} \Rightarrow
-\begin{bmatrix}
-    F_{k+2}\\
-    F_{k+1}
-\end{bmatrix}=
-\begin{bmatrix}
-    1&amp;1\\1&amp;0
-\end{bmatrix}
-\begin{bmatrix}
-    F_{k+1}\\F_{k}
-\end{bmatrix}\]</span></p>
-<p><span class="math display">\[ 令\boldsymbol{u}_k=\begin{bmatrix}
-    F_{k+1}\\F_{k}
-\end{bmatrix},\,\boldsymbol{u}_0=\begin{bmatrix}
-    1\\0
-\end{bmatrix}\Rightarrow \boldsymbol{u}_{k+1}=\begin{bmatrix}
-    1&amp;1\\1&amp;0
-\end{bmatrix}\boldsymbol{u}_{k}=\begin{bmatrix}
-    1&amp;1\\1&amp;0
-\end{bmatrix}^{k=1}\boldsymbol{u}_0 \]</span></p>
-<p><span class="math display">\[ \Rightarrow
-\boldsymbol{u}_{k}=\begin{bmatrix}
-    1&amp;1\\1&amp;0
-\end{bmatrix}^k\boldsymbol{u}_0 \]</span></p>
-<p><span class="math display">\[ \because \begin{bmatrix}
-    1&amp;1\\1&amp;0
-\end{bmatrix}=\frac{1}{\sqrt{5}}\begin{bmatrix}
-    \frac{1+\sqrt{5}}{2}&amp;\frac{1-\sqrt{5}}{2}\\
-    1&amp;1\
-\end{bmatrix}\begin{bmatrix}
-    \frac{1+\sqrt{5}}{2}&amp;0\\ 0&amp;\frac{1-\sqrt{5}}{2}
-\end{bmatrix}\begin{bmatrix}
-    1&amp;\frac{\sqrt{5}-1}{2}\\-1&amp;\frac{1+\sqrt{5}}{2}
-\end{bmatrix} \]</span></p>
-<p><span class="math display">\[ \begin{align*}
-    \therefore \begin{bmatrix}
-    1&amp;1\\1&amp;0
-\end{bmatrix}^k=&amp;
-    \frac{1}{\sqrt{5}}\begin{bmatrix}
-    \frac{1+\sqrt{5}}{2}&amp;\frac{1-\sqrt{5}}{2}\\
-    1&amp;1\
-\end{bmatrix}\begin{bmatrix}
-    \frac{1+\sqrt{5}}{2}&amp;0\\ 0&amp;\frac{1-\sqrt{5}}{2}
-\end{bmatrix}^k\begin{bmatrix}
-    1&amp;\frac{\sqrt{5}-1}{2}\\-1&amp;\frac{1+\sqrt{5}}{2}
-\end{bmatrix}\\
-    =&amp;
-    \frac{1}{\sqrt{5}}\begin{bmatrix}
-        \lambda_1^{k+1}-\lambda_2^{k+1}&amp;\lambda_1^k-\lambda_2^k\\
-        \lambda_1^k-\lambda_2^k&amp;\lambda_1^{k-1}-\lambda_2^{k-1}
-    \end{bmatrix}
-\end{align*} \]</span></p>
-<p><span class="math display">\[ (\lambda_1=\frac{1+\sqrt{5}}{2},\;
-\lambda_2=\frac{1-\sqrt{5}}{2}) \]</span></p>
-<p><span class="math display">\[ \therefore
-F_{k}=\frac{1}{\sqrt{5}}(\lambda_1^{k}-\lambda_2^{k}) \]</span></p>
-<h4 id="矩阵运算的推广">矩阵运算的推广</h4>
-<p>为了把矩阵的性质挖透，一些数学家尝试在运算上进行推广，比如把它放在指数上，把它放在对数里，放在三角里，看看它算出来是个什么东西。这一招数在解线性微分方程组时是非常有用的。（其实应该是先在解方程组的时候做一些推测，再做的推广）</p>
-<p>我们运算的核心是泰勒公式，因为它把各种运算写成了多项式函数，而矩阵的乘方又是很容易的（特别在对角化之后）。我在这里只说下指数运算的情况。</p>
-<p><span class="math display">\[ \begin{align*}
-    \mathrm{e}^{A}&amp;=I+A+\frac{1}{2}A^2+\frac{1}{6}A^3+\cdots\\
-    &amp;=I+X\Lambda X^{-1}+\frac{1}{2}X\Lambda^2
-X^{-1}+\frac{1}{6}X\Lambda^3 X^{-1}+\cdots\\
-    &amp;=X[I+\Lambda+\frac{1}{2}\Lambda^2+\frac{1}{6}\Lambda^3+\cdots]X^{-1}\\
-    &amp;=X\mathrm{e}^\Lambda X^{-1}
-\end{align*} \]</span></p>
-<p>就是这样。关于怎么拿它解线性微分方程组，可以去看我的另一篇东西：<a
-href="/数学/用线性代数解线性微分方程组.md">用线性代数解微分方程组</a></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-        <category>线性代数</category>
       </categories>
   </entry>
   <entry>
@@ -4416,27 +4638,33 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>2023.9.12</title>
-    <url>/%E6%97%A5%E8%AE%B0/2023-9-12/</url>
+    <title>论“命定”</title>
+    <url>/%E6%9D%82%E8%B0%88/%E8%AE%BA%E2%80%9C%E5%91%BD%E5%AE%9A%E2%80%9D/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<b> <big>
-<center>
-<p>听了杭天给迪伦的致敬</p>
-<p>Tomorrow is a long time.</p>
+<p><b></p>
+<p>最近读完了杰克凯鲁亚克的《在路上》。这毕竟是垮掉一代的代表作品，读之前的印象自然是一群颓废青年满美国乱兜，再中间穿插一点“生活真道理”的故事，浪漫得很。但中间主角跟一个姑娘互生爱意，决定成立家庭不久后，又因寒冬与生计而分道扬镳。这让我觉得不太对劲--这本书的真实好像是玩真格的。最后的结局也没让我失望：主角的好哥们狄恩长途跋涉几千公里赶到纽约，只为来看看自己。但他没钱和狄恩一起回旧金山，只能目送他在寒冷的纽约街头走去，身上穿着被虫子咬过的外套。其原型也在凯鲁亚克死前一个月，冻死在了墨西哥2月的铁道边上。其名曰尼尔卡赛迪。</p>
+<p></b></p>
+<span id="more"></span>
+<p><b></p>
+<p>这帮美国文青，在二战后切身感受到战争的惨绝人寰以及冷战的末日氛围，于是撒了疯地在美国大地上寻来找去，希望打破生活的沉寂，趁苏美扔核弹之前把这辈子好好过完。但很明显，凯鲁亚克和卡赛迪最终什么也没有寻得，破罐子破摔的命运依旧落回原处。而对我最具冲击力的，还是飙车爵士乐吸毒的主旋律与悲剧结尾的巨大反差，更会让人感到命运既定，哪吒都是扯屁。</p>
+<p>关于命定论，有一个概念能对其进行论证，叫“拉普拉斯的恶魔”：简单说，若任何事物的状态和运作规律都是已知，那么由于因果论，下一秒它们的状态就可以确定，下下一秒的也可以确定，进而我们的未来就都是确定的。举个例子：在这个理论下，你早饭吃了包子，不是因为你“想”，而是它由大脑的一束脑电波决定，甚至从宇宙大爆炸的那一刻起，这件事就是确定的--今天早上你吃的一定是包子，时间倒流回去也跑不掉。这样一解释，人的自由意志便自动散成一滩渣，都不用社会费老大劲来碾。这种状况，哲学家把它归为“后现代精神危机”。</p>
+<p>国内有张专辑（《冷水浇头》），内页写着这样的话：“在这一切均已被尝试，一切结局都可被观测的‘后’时代，我感到没有方向，无所适从，备受煎熬。”这算是种历史的创伤。三十年河东三十年河西，我们总能从历史里找到当今事件的翻版，进而对结果进行预测，通常会得出“这把死定了”的结论。除了杭天，草东也发出过“我想要说的/前人们都说过了”的感慨。而且如今互联网普及，社会阶层与年龄层的天然隔阂被打破，我们每个人都看到了不应该看到的东西，年纪轻轻就受困于大学毕业了有没有工作，工作能不能稳定到我退休等等。这样的恐惧持续渗透，于是更觉命运已定。</p>
+<p>人类不喜欢确定的未来，但仍对预测未来十分热衷。从原始社会<em>用星星和颧骨来预测命运</em>，到现在天气预报，股市预测，以及大部分的科学都是在干这事。但以我们目前的科技水平，足以被称作拉普拉斯的恶魔吗？我们从没有过准确预测未来的能力。我尽管认同因果律，认同命运是确定的，人类也不可能确定“这就是命运”，不可能明确命运的样貌。你说你觉得你考不上高中，考不进985，人生看不见明天--咱连明天下不下雨都不知道。没准明天阳光明媚晴空万里，你就看见明天了。</p>
+<p>结论已出：命运是确定的，但是人类不能确定命运。感谢上帝让我们的科学没那么发达，给我们的未来留下一点未知。其实人生活的大部分都是已知熟悉的，直到某一天突然一个未知出现，我们再去被迫地适应它，跳进新的已知之中。这样讲，人活着可能就是来探索命运的（有点浪漫，大可不信）。毕竟全部都是已知的生活无聊至极，我们总需要一些惊喜或惊吓；最终在病榻前看完自己命运的全貌，再回到我们来的地方去。地球online，名副其实也。</p>
+<p>在我能活到的年份里，我都不怕有科学家能准确预测未来，他们没这能耐，我未来也不会从事这种工作为之努力。如果有人不信邪，曲线救国，发明了通往未来的时光机器，我会第一个以反人类罪名将其绳之以法，当众枪决。</p>
 <b>
 <p align="right">
-作于2023.9.12
+作于2023年12月
 </p>
 <p></b></p>
-</b> </big>
-</center>
+<p></b></p>
 ]]></content>
       <categories>
-        <category>日记</category>
+        <category>杂谈</category>
       </categories>
   </entry>
   <entry>
@@ -4463,6 +4691,30 @@ class="math inline">\(\displaystyle-\frac{Gm_0}{r}\)</span>，这也正是引力
       <categories>
         <category>物理</category>
       </categories>
+  </entry>
+  <entry>
+    <title>谈谈迷墙里平克的法西斯式行为</title>
+    <url>/%E6%9D%82%E8%B0%88/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
+Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
+Like Hell”, ”Waiting For The Worms”等等。</p>
+<span id="more"></span>
+<p>Comfortably
+Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
+The
+Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>前卫摇滚</tag>
+      </tags>
   </entry>
   <entry>
     <title>解析力学案例</title>
@@ -4508,60 +4760,6 @@ r\sin\omega t) \]</span></p>
       <categories>
         <category>物理</category>
       </categories>
-  </entry>
-  <entry>
-    <title>论“命定”</title>
-    <url>/%E6%9D%82%E8%B0%88/%E8%AE%BA%E2%80%9C%E5%91%BD%E5%AE%9A%E2%80%9D/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p><b></p>
-<p>最近读完了杰克凯鲁亚克的《在路上》。这毕竟是垮掉一代的代表作品，读之前的印象自然是一群颓废青年满美国乱兜，再中间穿插一点“生活真道理”的故事，浪漫得很。但中间主角跟一个姑娘互生爱意，决定成立家庭不久后，又因寒冬与生计而分道扬镳。这让我觉得不太对劲--这本书的真实好像是玩真格的。最后的结局也没让我失望：主角的好哥们狄恩长途跋涉几千公里赶到纽约，只为来看看自己。但他没钱和狄恩一起回旧金山，只能目送他在寒冷的纽约街头走去，身上穿着被虫子咬过的外套。其原型也在凯鲁亚克死前一个月，冻死在了墨西哥2月的铁道边上。其名曰尼尔卡赛迪。</p>
-<p></b></p>
-<span id="more"></span>
-<p><b></p>
-<p>这帮美国文青，在二战后切身感受到战争的惨绝人寰以及冷战的末日氛围，于是撒了疯地在美国大地上寻来找去，希望打破生活的沉寂，趁苏美扔核弹之前把这辈子好好过完。但很明显，凯鲁亚克和卡赛迪最终什么也没有寻得，破罐子破摔的命运依旧落回原处。而对我最具冲击力的，还是飙车爵士乐吸毒的主旋律与悲剧结尾的巨大反差，更会让人感到命运既定，哪吒都是扯屁。</p>
-<p>关于命定论，有一个概念能对其进行论证，叫“拉普拉斯的恶魔”：简单说，若任何事物的状态和运作规律都是已知，那么由于因果论，下一秒它们的状态就可以确定，下下一秒的也可以确定，进而我们的未来就都是确定的。举个例子：在这个理论下，你早饭吃了包子，不是因为你“想”，而是它由大脑的一束脑电波决定，甚至从宇宙大爆炸的那一刻起，这件事就是确定的--今天早上你吃的一定是包子，时间倒流回去也跑不掉。这样一解释，人的自由意志便自动散成一滩渣，都不用社会费老大劲来碾。这种状况，哲学家把它归为“后现代精神危机”。</p>
-<p>国内有张专辑（《冷水浇头》），内页写着这样的话：“在这一切均已被尝试，一切结局都可被观测的‘后’时代，我感到没有方向，无所适从，备受煎熬。”这算是种历史的创伤。三十年河东三十年河西，我们总能从历史里找到当今事件的翻版，进而对结果进行预测，通常会得出“这把死定了”的结论。除了杭天，草东也发出过“我想要说的/前人们都说过了”的感慨。而且如今互联网普及，社会阶层与年龄层的天然隔阂被打破，我们每个人都看到了不应该看到的东西，年纪轻轻就受困于大学毕业了有没有工作，工作能不能稳定到我退休等等。这样的恐惧持续渗透，于是更觉命运已定。</p>
-<p>人类不喜欢确定的未来，但仍对预测未来十分热衷。从原始社会<em>用星星和颧骨来预测命运</em>，到现在天气预报，股市预测，以及大部分的科学都是在干这事。但以我们目前的科技水平，足以被称作拉普拉斯的恶魔吗？我们从没有过准确预测未来的能力。我尽管认同因果律，认同命运是确定的，人类也不可能确定“这就是命运”，不可能明确命运的样貌。你说你觉得你考不上高中，考不进985，人生看不见明天--咱连明天下不下雨都不知道。没准明天阳光明媚晴空万里，你就看见明天了。</p>
-<p>结论已出：命运是确定的，但是人类不能确定命运。感谢上帝让我们的科学没那么发达，给我们的未来留下一点未知。其实人生活的大部分都是已知熟悉的，直到某一天突然一个未知出现，我们再去被迫地适应它，跳进新的已知之中。这样讲，人活着可能就是来探索命运的（有点浪漫，大可不信）。毕竟全部都是已知的生活无聊至极，我们总需要一些惊喜或惊吓；最终在病榻前看完自己命运的全貌，再回到我们来的地方去。地球online，名副其实也。</p>
-<p>在我能活到的年份里，我都不怕有科学家能准确预测未来，他们没这能耐，我未来也不会从事这种工作为之努力。如果有人不信邪，曲线救国，发明了通往未来的时光机器，我会第一个以反人类罪名将其绳之以法，当众枪决。</p>
-<b>
-<p align="right">
-作于2023年12月
-</p>
-<p></b></p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>谈谈迷墙里平克的法西斯式行为</title>
-    <url>/%E6%9D%82%E8%B0%88/%E8%BF%B7%E5%A2%99%E9%87%8C%E5%B9%B3%E5%85%8B%E7%9A%84%E6%B3%95%E8%A5%BF%E6%96%AF%E5%BC%8F%E8%A1%8C%E4%B8%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p>我认为The Show Must Go On的“Show”是指“人生”，所以后面“In The
-Flesh”里面Pink说要粉丝看看自己的立场，其实是想给普罗大众看看自己的一辈子，但又想要报复，于是才会后面“Run
-Like Hell”, ”Waiting For The Worms”等等。</p>
-<span id="more"></span>
-<p>Comfortably
-Numb及之后的剧情脑补：Pink被打了一针，被经纪人推去表演，但他把自己锁在了厕所之类的地方（这就是In
-The
-Flesh里面说Pink在酒店的原因），开始在脑子里妄想反革命，报复社会（由于医生打的那一针）。在一声Stop后，他又突然悔改，开始审判自己，推翻了墙。</p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>前卫摇滚</tag>
-      </tags>
   </entry>
   <entry>
     <title>21st Century Education Machine</title>
@@ -4615,37 +4813,6 @@ machine.</p>
 ]]></content>
       <categories>
         <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>读《呐喊》有感</title>
-    <url>/%E8%AF%BB%E5%90%8E%E6%84%9F/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p><b></p>
-<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
-<p></b></p>
-<span id="more"></span>
-<p><b></p>
-<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
-<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
-<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
-<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
-<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
-<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
-<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
-<b>
-<p align="right">
-作于2023年8月
-</p>
-<p></b></p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>读后感</category>
       </categories>
   </entry>
   <entry>
@@ -4710,6 +4877,57 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>一些关于水的比喻</title>
+    <url>/%E6%96%87%E8%89%BA/%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8E%E6%B0%B4%E7%9A%84%E6%AF%94%E5%96%BB/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<ol type="1">
+<li></li>
+</ol>
+<p>一群文艺青年</p>
+<p>和一些其他名字的青年</p>
+<p>排成方队 手拉着手向海岸走去</p>
+<p>他们一齐跳下 引发一场海啸</p>
+<p>又自顾自地爬出来</p>
+<p>就当被命运涮过一遍了</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<ol start="2" type="1">
+<li></li>
+</ol>
+<p>下大雨了</p>
+<p>一个环卫工坐在公交车站的座位上</p>
+<p>刷着手机</p>
+<p>之后雨下大了</p>
+<p>篷子突然塌下来</p>
+<hr />
+<ol start="3" type="1">
+<li></li>
+</ol>
+<p>大雪纷纷</p>
+<p>气压低迷</p>
+<p>我独自坐在屋子里面</p>
+<p>想着屋外大雪纷纷</p>
+<p>屋内气压低迷</p>
+<b>
+<p align="right">
+作于2024年4月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>一次睡觉</title>
     <url>/%E6%96%87%E8%89%BA/%E4%B8%80%E6%AC%A1%E7%9D%A1%E8%A7%89/</url>
     <content><![CDATA[<b>
@@ -4757,8 +4975,8 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>一些关于水的比喻</title>
-    <url>/%E6%96%87%E8%89%BA/%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8E%E6%B0%B4%E7%9A%84%E6%AF%94%E5%96%BB/</url>
+    <title>一首歌</title>
+    <url>/%E6%96%87%E8%89%BA/%E4%B8%80%E9%A6%96%E6%AD%8C/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -4766,38 +4984,22 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
-<ol type="1">
-<li></li>
-</ol>
-<p>一群文艺青年</p>
-<p>和一些其他名字的青年</p>
-<p>排成方队 手拉着手向海岸走去</p>
-<p>他们一齐跳下 引发一场海啸</p>
-<p>又自顾自地爬出来</p>
-<p>就当被命运涮过一遍了</p>
+<p>一首歌响起</p>
+<p>就没有中途结束的可能</p>
 <p></big> <span id="more"></span></p>
 <hr />
 <p><big></p>
-<ol start="2" type="1">
-<li></li>
-</ol>
-<p>下大雨了</p>
-<p>一个环卫工坐在公交车站的座位上</p>
-<p>刷着手机</p>
-<p>之后雨下大了</p>
-<p>篷子突然塌下来</p>
-<hr />
-<ol start="3" type="1">
-<li></li>
-</ol>
-<p>大雪纷纷</p>
-<p>气压低迷</p>
-<p>我独自坐在屋子里面</p>
-<p>想着屋外大雪纷纷</p>
-<p>屋内气压低迷</p>
+<p>我们就把自己的情感</p>
+<p>放在歌者的路上</p>
+<p>走上一遍吧</p>
+<p>给他踏踏实了</p>
+<p>也许会长出点东西出来</p>
+<p>我们就能安心地趴在上面</p>
+<p>和大地说话</p>
+<p>用呼吸交流</p>
 <b>
 <p align="right">
-作于2024年4月
+作于2024年6月
 </p>
 <p></b></p>
 </b> </big>
@@ -4878,6 +5080,51 @@ nowhere.</p>
 <b>
 <p align="right">
 作于2023年6月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>不可知激发出最大的赞美</title>
+    <url>/%E6%96%87%E8%89%BA/%E4%B8%8D%E5%8F%AF%E7%9F%A5%E6%BF%80%E5%8F%91%E5%87%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E8%B5%9E%E7%BE%8E/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>人们在路上走</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>想象一下这个场景</p>
+<p>这件事本身就很美好</p>
+<hr />
+<p>尽管大家都在注视前方 不相互对视一眼</p>
+<p>但他们一定皆有所思</p>
+<p>就像一个活人</p>
+<p>沉浸在同一个情绪中</p>
+<p>很美好</p>
+<p>像我一样</p>
+<p>对大街上的其他所有人和景物表达着无边的赞扬</p>
+<p>哎呀</p>
+<p>而我的朋友却不会去这样想</p>
+<hr />
+<p>人类是一种伟大的生物</p>
+<p>乃至于穷苦的人</p>
+<p>和精神空虚的人</p>
+<p>都是一样的伟大</p>
+<hr />
+<p>因为我不知道他们的空虚</p>
+<b>
+<p align="right">
+作于2024年6月
 </p>
 <p></b></p>
 </b> </big>
@@ -4975,86 +5222,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>一首歌</title>
-    <url>/%E6%96%87%E8%89%BA/%E4%B8%80%E9%A6%96%E6%AD%8C/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>一首歌响起</p>
-<p>就没有中途结束的可能</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我们就把自己的情感</p>
-<p>放在歌者的路上</p>
-<p>走上一遍吧</p>
-<p>给他踏踏实了</p>
-<p>也许会长出点东西出来</p>
-<p>我们就能安心地趴在上面</p>
-<p>和大地说话</p>
-<p>用呼吸交流</p>
-<b>
-<p align="right">
-作于2024年6月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>不可知激发出最大的赞美</title>
-    <url>/%E6%96%87%E8%89%BA/%E4%B8%8D%E5%8F%AF%E7%9F%A5%E6%BF%80%E5%8F%91%E5%87%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E8%B5%9E%E7%BE%8E/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>人们在路上走</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>想象一下这个场景</p>
-<p>这件事本身就很美好</p>
-<hr />
-<p>尽管大家都在注视前方 不相互对视一眼</p>
-<p>但他们一定皆有所思</p>
-<p>就像一个活人</p>
-<p>沉浸在同一个情绪中</p>
-<p>很美好</p>
-<p>像我一样</p>
-<p>对大街上的其他所有人和景物表达着无边的赞扬</p>
-<p>哎呀</p>
-<p>而我的朋友却不会去这样想</p>
-<hr />
-<p>人类是一种伟大的生物</p>
-<p>乃至于穷苦的人</p>
-<p>和精神空虚的人</p>
-<p>都是一样的伟大</p>
-<hr />
-<p>因为我不知道他们的空虚</p>
-<b>
-<p align="right">
-作于2024年6月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
     <title>你会怎么办</title>
     <url>/%E6%96%87%E8%89%BA/%E4%BD%A0%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8A%9E/</url>
     <content><![CDATA[<b>
@@ -5092,6 +5259,59 @@ XantC
 <b>
 <p align="right">
 作于2024年5月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>你们值得</title>
+    <url>/%E6%96%87%E8%89%BA/%E4%BD%A0%E4%BB%AC%E5%80%BC%E5%BE%97/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>你们值得麦子</p>
+<p>你们值得明天</p>
+<p>你们值得拥有这一切</p>
+<p>拥有和未曾拥有过的一切</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>你们值得幸福</p>
+<p>当然也值得受苦</p>
+<p>你们的努力都应该有结果</p>
+<p>就像不顾原因的小学课本宣传的那样</p>
+<hr />
+<p>你们不需要做成了什么事 就开始赞美人民</p>
+<p>可以试着当一把人类</p>
+<p>不要说自己就是被剥削的</p>
+<p>你们都值得这一切</p>
+<hr />
+<p>你们这些穿着工装裤 看着远处房顶上</p>
+<p>别人家花圃的人</p>
+<p>鲜花和树木就在你们脚边</p>
+<p>挖掘机和情侣就在你们周围</p>
+<hr />
+<p>你们值得开车去个随便什么地方</p>
+<p>寻找自己或是生计</p>
+<p>你们值得在街上闲逛无所事事</p>
+<p>只要还能够随心写首诗</p>
+<hr />
+<p>你们值得高涨的麦子</p>
+<p>你们值得鲜活的明天</p>
+<p>你们值得这一切</p>
+<p>你们值得</p>
+<b>
+<p align="right">
+作于2023年10月
 </p>
 <p></b></p>
 </b> </big>
@@ -5167,8 +5387,8 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>你们值得</title>
-    <url>/%E6%96%87%E8%89%BA/%E4%BD%A0%E4%BB%AC%E5%80%BC%E5%BE%97/</url>
+    <title>假期生活不能入诗</title>
+    <url>/%E6%96%87%E8%89%BA/%E5%81%87%E6%9C%9F%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E5%85%A5%E8%AF%97/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -5176,40 +5396,37 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
-<p>你们值得麦子</p>
-<p>你们值得明天</p>
-<p>你们值得拥有这一切</p>
-<p>拥有和未曾拥有过的一切</p>
+<p>假期生活不能入诗</p>
+<p>因为这不是生活</p>
+<p>沉底的我向我自己发表演讲</p>
 <p></big> <span id="more"></span></p>
 <hr />
 <p><big></p>
-<p>你们值得幸福</p>
-<p>当然也值得受苦</p>
-<p>你们的努力都应该有结果</p>
-<p>就像不顾原因的小学课本宣传的那样</p>
-<hr />
-<p>你们不需要做成了什么事 就开始赞美人民</p>
-<p>可以试着当一把人类</p>
-<p>不要说自己就是被剥削的</p>
-<p>你们都值得这一切</p>
-<hr />
-<p>你们这些穿着工装裤 看着远处房顶上</p>
-<p>别人家花圃的人</p>
-<p>鲜花和树木就在你们脚边</p>
-<p>挖掘机和情侣就在你们周围</p>
-<hr />
-<p>你们值得开车去个随便什么地方</p>
-<p>寻找自己或是生计</p>
-<p>你们值得在街上闲逛无所事事</p>
-<p>只要还能够随心写首诗</p>
-<hr />
-<p>你们值得高涨的麦子</p>
-<p>你们值得鲜活的明天</p>
-<p>你们值得这一切</p>
-<p>你们值得</p>
+<p>我的时间应随心跳流逝</p>
+<p>空间随身体展开</p>
 <b>
 <p align="right">
-作于2023年10月
+作于2024年7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>升国旗奏国歌</title>
+    <url>/%E6%96%87%E8%89%BA/%E5%8D%87%E5%9B%BD%E6%97%97%E5%A5%8F%E5%9B%BD%E6%AD%8C/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b>
+<p align="right">
+作于2024年6月
 </p>
 <p></b></p>
 </b> </big>
@@ -5280,6 +5497,57 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>唯物主义哲学</title>
+    <url>/%E6%96%87%E8%89%BA/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>伟人 每个时代都有</p>
+<p>除了自己所在的时代</p>
+<p>每个时代都有敬仰的伟人</p>
+<p>但没有一个时代敬仰真正的人</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>厨房的肥皂裂成两半</p>
+<p>门前的大路修了半年</p>
+<p>城市的高楼一片荒芜</p>
+<p>塑料袋里的纸花一提就走</p>
+<hr />
+<p>劳工奴隶不值得怜悯</p>
+<p>因为生产关系适应生产力</p>
+<hr />
+<p>社会的希望在青年的身上</p>
+<p>青年的希望在更年轻的身上</p>
+<p>我这时代的伟人都在哪呢</p>
+<p>新时代的人血馒头赞美鲁迅</p>
+<hr />
+<p>咖啡店的白发老头神情淡漠</p>
+<p>吱呀呀地盯着桌子上的手机</p>
+<p>旁边那人朝着哪儿看呢</p>
+<p>菜单 大街 还是天空</p>
+<hr />
+<p>天上从没有过飞鸟</p>
+<p>因为没有人抬头向上望</p>
+<p>唯物没给唯心留地方</p>
+<p>因为没有人抬头向上望</p>
+<b>
+<p align="right">
+作于2023年11月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>你看看他</title>
     <url>/%E6%96%87%E8%89%BA/%E4%BD%A0%E7%9C%8B%E7%9C%8B%E4%BB%96/</url>
     <content><![CDATA[<b>
@@ -5322,56 +5590,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>假期生活不能入诗</title>
-    <url>/%E6%96%87%E8%89%BA/%E5%81%87%E6%9C%9F%E7%94%9F%E6%B4%BB%E4%B8%8D%E8%83%BD%E5%85%A5%E8%AF%97/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>假期生活不能入诗</p>
-<p>因为这不是生活</p>
-<p>沉底的我向我自己发表演讲</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>我的时间应随心跳流逝</p>
-<p>空间随身体展开</p>
-<b>
-<p align="right">
-作于2024年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>升国旗奏国歌</title>
-    <url>/%E6%96%87%E8%89%BA/%E5%8D%87%E5%9B%BD%E6%97%97%E5%A5%8F%E5%9B%BD%E6%AD%8C/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b>
-<p align="right">
-作于2024年6月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
     <title>嗯</title>
     <url>/%E6%96%87%E8%89%BA/%E5%97%AF/</url>
     <content><![CDATA[<b>
@@ -5387,57 +5605,6 @@ XantC
 <b>
 <p align="right">
 作于2024年5月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>唯物主义哲学</title>
-    <url>/%E6%96%87%E8%89%BA/%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>伟人 每个时代都有</p>
-<p>除了自己所在的时代</p>
-<p>每个时代都有敬仰的伟人</p>
-<p>但没有一个时代敬仰真正的人</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>厨房的肥皂裂成两半</p>
-<p>门前的大路修了半年</p>
-<p>城市的高楼一片荒芜</p>
-<p>塑料袋里的纸花一提就走</p>
-<hr />
-<p>劳工奴隶不值得怜悯</p>
-<p>因为生产关系适应生产力</p>
-<hr />
-<p>社会的希望在青年的身上</p>
-<p>青年的希望在更年轻的身上</p>
-<p>我这时代的伟人都在哪呢</p>
-<p>新时代的人血馒头赞美鲁迅</p>
-<hr />
-<p>咖啡店的白发老头神情淡漠</p>
-<p>吱呀呀地盯着桌子上的手机</p>
-<p>旁边那人朝着哪儿看呢</p>
-<p>菜单 大街 还是天空</p>
-<hr />
-<p>天上从没有过飞鸟</p>
-<p>因为没有人抬头向上望</p>
-<p>唯物没给唯心留地方</p>
-<p>因为没有人抬头向上望</p>
-<b>
-<p align="right">
-作于2023年11月
 </p>
 <p></b></p>
 </b> </big>
@@ -5539,14 +5706,13 @@ XantC
 XantC
 </p>
 <p></b></p>
-<b> <big>
-<center>
+<p><b> <big></p>
 <p>我的记忆</p>
 <p>流向宇宙尽头的一棵树</p>
 <p>作为一片新叶</p>
 <p>被挂上枝头</p>
 <p></big> <span id="more"></span></p>
-<hr />
+<p><br></p>
 <p><big></p>
 <p>这树是宇宙的历史</p>
 <p>这颗星球上所有的生命</p>
@@ -5558,7 +5724,7 @@ XantC
 <p>如果你愿意花一点心思</p>
 <p>（尽管一些历史</p>
 <p>在同乡或异乡人的口中已无从知晓）</p>
-<hr />
+<p><br></p>
 <p>几个世纪之后</p>
 <p>一个人可能在梦中</p>
 <p>看见一片叶子上</p>
@@ -5568,8 +5734,7 @@ XantC
 作于2024年8月
 </p>
 <p></b></p>
-</b> </big>
-</center>
+<p></b> </big></p>
 ]]></content>
       <categories>
         <category>文艺</category>
@@ -5798,6 +5963,44 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>新鲜的风</title>
+    <url>/%E6%96%87%E8%89%BA/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>一股强风吹来</p>
+<p>带着新鲜的味道</p>
+<p>有些人一见那风</p>
+<p>就畏畏缩缩</p>
+<p>将本真塞紧在大衣里</p>
+<p>而无畏无惧、张开双臂的那一群</p>
+<p>逐渐改造、进化</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>完全换了一副容貌</p>
+<p>说着听不懂的语言</p>
+<p>传播新习得的真理</p>
+<p>一股风一种模样</p>
+<p>以物喜悲，变化无常</p>
+<p>聚众探讨，世间美好</p>
+<b>
+<p align="right">
+作于2023年2月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>感谢大家为社会主义事业做出的卓越贡献</title>
     <url>/%E6%96%87%E8%89%BA/%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E4%B8%BA%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E4%BA%8B%E4%B8%9A%E5%81%9A%E5%87%BA%E7%9A%84%E5%8D%93%E8%B6%8A%E8%B4%A1%E7%8C%AE/</url>
     <content><![CDATA[<b>
@@ -5895,6 +6098,28 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>无题（2）</title>
+    <url>/%E6%96%87%E8%89%BA/%E6%97%A0%E9%A2%98%EF%BC%882%EF%BC%89/</url>
+    <content><![CDATA[<p align="right">
+XantC
+</p>
+<b> <big>
+<center>
+<p>安静</p>
+<p>冥想</p>
+<p>躺在床上</p>
+<p>上海 没有月亮</p>
+<p align="right">
+作于2024年7月
+</p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>无题</title>
     <url>/%E6%96%87%E8%89%BA/%E6%97%A0%E9%A2%98/</url>
     <content><![CDATA[<b>
@@ -5938,66 +6163,6 @@ XantC
 <b>
 <p align="right">
 作于2024年4月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>无题（2）</title>
-    <url>/%E6%96%87%E8%89%BA/%E6%97%A0%E9%A2%98%EF%BC%882%EF%BC%89/</url>
-    <content><![CDATA[<p align="right">
-XantC
-</p>
-<b> <big>
-<center>
-<p>安静</p>
-<p>冥想</p>
-<p>躺在床上</p>
-<p>上海 没有月亮</p>
-<p align="right">
-作于2024年7月
-</p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>新鲜的风</title>
-    <url>/%E6%96%87%E8%89%BA/%E6%96%B0%E9%B2%9C%E7%9A%84%E9%A3%8E/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>一股强风吹来</p>
-<p>带着新鲜的味道</p>
-<p>有些人一见那风</p>
-<p>就畏畏缩缩</p>
-<p>将本真塞紧在大衣里</p>
-<p>而无畏无惧、张开双臂的那一群</p>
-<p>逐渐改造、进化</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>完全换了一副容貌</p>
-<p>说着听不懂的语言</p>
-<p>传播新习得的真理</p>
-<p>一股风一种模样</p>
-<p>以物喜悲，变化无常</p>
-<p>聚众探讨，世间美好</p>
-<b>
-<p align="right">
-作于2023年2月
 </p>
 <p></b></p>
 </b> </big>
@@ -6107,78 +6272,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>泥巴</title>
-    <url>/%E6%96%87%E8%89%BA/%E6%B3%A5%E5%B7%B4/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<p align="right">
-——这是一个荒诞的喜剧
-</p>
-<p></b> </big></p>
-<b> <big>
-<p align="right">
-这是一个俗气的悲剧
-</p>
-<p></b> </big></p>
-<b> <big>
-<center>
-<p>几万年前</p>
-<p>女娲用绳子甩着泥巴</p>
-<p>甩出了我们人类</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>几万年后</p>
-<p>如今的人类又找回了身为泥巴的自尊</p>
-<p>无情接受他人的塑造</p>
-<p>也无情实施着对他人的塑造</p>
-<hr />
-<p>就比如说你的恋人吧</p>
-<p>你大可以把它当做一滩可塑性极强的泥</p>
-<p>在委屈的时候拿出来作为挡箭牌</p>
-<p>在孤单的时候拿出来安慰生殖器</p>
-<p>而对方也可以一样</p>
-<hr />
-<p>你知道这一切最妙的是什么吗</p>
-<p>就是泥巴不自知为泥巴</p>
-<p>而自知的或是躲进了地下室</p>
-<p>或是学会了精准回避自知的瞬间</p>
-<p>再继续干着泥巴的勾当</p>
-<hr />
-<p>还有一些更精明的</p>
-<p>开始在人类的尸体上铺满泥巴</p>
-<p>将其建成一个变化自如趾高气扬的泥塑</p>
-<p>让剩下的都看着它望而却步 低头下跪</p>
-<p>膝盖一凉了吧？</p>
-<hr />
-<p>如果你觉得你已战胜这一切</p>
-<p>已经把泥巴全部洗掉 变回了人类</p>
-<p>那他们又会塞给你一个只有五个字的名字</p>
-<p>你可以叫怀疑主义者 经验主义者</p>
-<p>或是资本主义者 社会主义者</p>
-<p>你于是再次失去了自己的名字</p>
-<hr />
-<p>咳咳咳</p>
-<p>其实我们有一个共同的名字</p>
-<p>我们叫做泥巴</p>
-<p>我们叫做现代公民</p>
-<b>
-<p align="right">
-作于2024年3月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
     <title>炭</title>
     <url>/%E6%96%87%E8%89%BA/%E7%82%AD/</url>
     <content><![CDATA[<b>
@@ -6242,26 +6335,68 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>爬上去</title>
-    <url>/%E6%96%87%E8%89%BA/%E7%88%AC%E4%B8%8A%E5%8E%BB/</url>
+    <title>泥巴</title>
+    <url>/%E6%96%87%E8%89%BA/%E6%B3%A5%E5%B7%B4/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
 <b> <big>
+<p align="right">
+——这是一个荒诞的喜剧
+</p>
+<p></b> </big></p>
+<b> <big>
+<p align="right">
+这是一个俗气的悲剧
+</p>
+<p></b> </big></p>
+<b> <big>
 <center>
-<p>一只小虫</p>
-<p>奋力爬上一片树叶</p>
-<p>之后绕圈啃食</p>
-<p>这就像一只悬挂在宇宙中</p>
-<p>前肢拉着地球的羊</p>
-<p>一蹬腿</p>
-<p>就从虚空爬上一片草原</p>
-<p>从此低头吃草</p>
+<p>几万年前</p>
+<p>女娲用绳子甩着泥巴</p>
+<p>甩出了我们人类</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>几万年后</p>
+<p>如今的人类又找回了身为泥巴的自尊</p>
+<p>无情接受他人的塑造</p>
+<p>也无情实施着对他人的塑造</p>
+<hr />
+<p>就比如说你的恋人吧</p>
+<p>你大可以把它当做一滩可塑性极强的泥</p>
+<p>在委屈的时候拿出来作为挡箭牌</p>
+<p>在孤单的时候拿出来安慰生殖器</p>
+<p>而对方也可以一样</p>
+<hr />
+<p>你知道这一切最妙的是什么吗</p>
+<p>就是泥巴不自知为泥巴</p>
+<p>而自知的或是躲进了地下室</p>
+<p>或是学会了精准回避自知的瞬间</p>
+<p>再继续干着泥巴的勾当</p>
+<hr />
+<p>还有一些更精明的</p>
+<p>开始在人类的尸体上铺满泥巴</p>
+<p>将其建成一个变化自如趾高气扬的泥塑</p>
+<p>让剩下的都看着它望而却步 低头下跪</p>
+<p>膝盖一凉了吧？</p>
+<hr />
+<p>如果你觉得你已战胜这一切</p>
+<p>已经把泥巴全部洗掉 变回了人类</p>
+<p>那他们又会塞给你一个只有五个字的名字</p>
+<p>你可以叫怀疑主义者 经验主义者</p>
+<p>或是资本主义者 社会主义者</p>
+<p>你于是再次失去了自己的名字</p>
+<hr />
+<p>咳咳咳</p>
+<p>其实我们有一个共同的名字</p>
+<p>我们叫做泥巴</p>
+<p>我们叫做现代公民</p>
 <b>
 <p align="right">
-作于2024年6月
+作于2024年3月
 </p>
 <p></b></p>
 </b> </big>
@@ -6356,6 +6491,36 @@ XantC
 <b>
 <p align="right">
 作于2023年6月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>爬上去</title>
+    <url>/%E6%96%87%E8%89%BA/%E7%88%AC%E4%B8%8A%E5%8E%BB/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>一只小虫</p>
+<p>奋力爬上一片树叶</p>
+<p>之后绕圈啃食</p>
+<p>这就像一只悬挂在宇宙中</p>
+<p>前肢拉着地球的羊</p>
+<p>一蹬腿</p>
+<p>就从虚空爬上一片草原</p>
+<p>从此低头吃草</p>
+<b>
+<p align="right">
+作于2024年6月
 </p>
 <p></b></p>
 </b> </big>
@@ -6505,72 +6670,6 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>眼睛</title>
-    <url>/%E6%96%87%E8%89%BA/%E7%9C%BC%E7%9D%9B/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<big>
-<p align="right">
-——意识宽慰道“这不重要”
-</p>
-<p align="right">
-物质哈哈大笑
-</p>
-<p></b></p>
-<b>
-<center>
-<p>你在这里坐了一天</p>
-<p>坐了一天</p>
-<p>盯着眼前的地方 已经很久了</p>
-<p>你突然发现自己</p>
-<p>能够看见</p>
-<p>惊奇得像刚刚获得身体的胎儿</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>上一秒或许是个瞎子</p>
-<hr />
-<p>有一天晚上 一座火炮</p>
-<p>用淋血的炮弹轰开你的胸口</p>
-<p>你只疼了一阵</p>
-<p>它留下一只内翻的眼睛</p>
-<p>和一颗心</p>
-<p>小时候拿来互相投掷的石头</p>
-<p>你现在已经不疼了</p>
-<p>胸口的洞依然敞开</p>
-<hr />
-<p>让你感到踹不过气</p>
-<p>别再坐着了</p>
-<p>快到楼顶去透透气</p>
-<p>趁你还拥有眼睛</p>
-<hr />
-<p>这里还是闷的</p>
-<p>你手搭着护栏</p>
-<p>上头已经黑了</p>
-<p>向下看</p>
-<p>很高 地上的人</p>
-<p>来来往往</p>
-<p>看起来很小</p>
-<p>你端详了一会儿</p>
-<hr />
-<p>然后狠狠踩了他们一脚</p>
-<p>咬着牙</p>
-<p>下楼去</p>
-<b>
-<p align="right">
-作于2024年7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
     <title>能有多大的力量</title>
     <url>/%E6%96%87%E8%89%BA/%E8%83%BD%E6%9C%89%E5%A4%9A%E5%A4%A7%E7%9A%84%E5%8A%9B%E9%87%8F/</url>
     <content><![CDATA[<b>
@@ -6638,6 +6737,47 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>过渡</title>
+    <url>/%E6%96%87%E8%89%BA/%E8%BF%87%E6%B8%A1/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>眼神是心灵到外界的过渡</p>
+<p>雨水是城市到乡村的过渡</p>
+<p>树木是楼房到楼房的过渡</p>
+<p>春季是冬季到夏季的过渡</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>理想是现实到虚幻的过渡</p>
+<p>成年是天真到坟墓的过渡</p>
+<p>休息是劳动到劳动的过渡</p>
+<p>未来是现在到更久远未来的过渡</p>
+<hr />
+<p>你希望从中得到怎样的安慰？</p>
+<p>还是只需要对未来生活的绝对保证</p>
+<p>但是每一个下一秒都是你的未来</p>
+<p>你的当下在这一秒结束</p>
+<p>又在下一秒重新开始</p>
+<hr />
+<p>你希望得到怎样的安慰？</p>
+<b>
+<p align="right">
+作于2024年4月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
     <title>跳</title>
     <url>/%E6%96%87%E8%89%BA/%E8%B7%B3/</url>
     <content><![CDATA[<b>
@@ -6660,6 +6800,71 @@ XantC
 作于2024年8月
 </p>
 <p></b></p>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>那人</title>
+    <url>/%E6%96%87%E8%89%BA/%E9%82%A3%E4%BA%BA/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<b> <big>
+<center>
+<p>他从小到大 没仔细想过周围的一切</p>
+<p>一些困惑只在悠闲的时候才会出现</p>
+<p>这好像是他天生的诟病</p>
+<p>但能活在空调下 还有什么不乐意</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>他不久就去念书了 成绩特好</p>
+<p>老师同学都说他是个好苗苗</p>
+<p>但反差的是 他最讨厌别人叫他“知识分子”</p>
+<p>因为他总会感到不顺 不知道要怎么回应</p>
+<p>他一特棒的朋友就会马上安慰他</p>
+<p>陪他打游戏 给他说好话</p>
+<p>他心里的苍蝇来回乱窜了</p>
+<hr />
+<p>他很快就上初中了 成绩依然保持稳定</p>
+<p>他有了喜欢的女生和帅气的情敌</p>
+<p>等他俩牵起手来 肚子就一阵绞痛</p>
+<p>他为此消沉了一阵 开始琢磨些什么</p>
+<hr />
+<p>他断定自己并不适合恋爱</p>
+<p>越想越觉得自己只适合学习</p>
+<p>别管这些破事 以后还得吹空调上班呢</p>
+<p>他把手机拿出来开始奋斗</p>
+<hr />
+<p>命运给他推了一首歌 叫“教育机器”</p>
+<p>听得他醍醐灌顶却又心有余悸</p>
+<p>过去做的一切好像突然失去了意义</p>
+<p>因为一个花三分钟就听完了的东西</p>
+<hr />
+<p>这种撕裂的感觉持续撕裂着他</p>
+<p>一直到走上中考的考场</p>
+<p>他九年来奋斗的底气强撑着他</p>
+<p>铃响了 他把卷子交给老师</p>
+<hr />
+<p>他回到家 不知道要干什么 就死盯着那叠书</p>
+<p>心里的苍蝇闷得飞不起来了</p>
+<p>他挑了一本出来 还不肯服输</p>
+<p>他发现他的心灵也被交上去了</p>
+<hr />
+<p>这人终于受不了了 他找到了他的父亲</p>
+<p>他问：“这天怎么他妈这么闷啊”</p>
+<p>“你开个空调不就得了”</p>
+<b>
+<p align="right">
+作于2023年6-7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
 ]]></content>
       <categories>
         <category>文艺</category>
@@ -6753,8 +6958,8 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>过渡</title>
-    <url>/%E6%96%87%E8%89%BA/%E8%BF%87%E6%B8%A1/</url>
+    <title>随感</title>
+    <url>/%E6%96%87%E8%89%BA/%E9%9A%8F%E6%84%9F/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
@@ -6762,28 +6967,21 @@ XantC
 <p></b></p>
 <b> <big>
 <center>
-<p>眼神是心灵到外界的过渡</p>
-<p>雨水是城市到乡村的过渡</p>
-<p>树木是楼房到楼房的过渡</p>
-<p>春季是冬季到夏季的过渡</p>
+<p>那些从不休息的工作狂</p>
+<p>总觉得他们的心都是死的</p>
+<p>特别是搞共产的人</p>
+<p>也许是对专政本身的浅薄印象</p>
+<p>给人一种他们不能写诗的感觉</p>
 <p></big> <span id="more"></span></p>
 <hr />
 <p><big></p>
-<p>理想是现实到虚幻的过渡</p>
-<p>成年是天真到坟墓的过渡</p>
-<p>休息是劳动到劳动的过渡</p>
-<p>未来是现在到更久远未来的过渡</p>
-<hr />
-<p>你希望从中得到怎样的安慰？</p>
-<p>还是只需要对未来生活的绝对保证</p>
-<p>但是每一个下一秒都是你的未来</p>
-<p>你的当下在这一秒结束</p>
-<p>又在下一秒重新开始</p>
-<hr />
-<p>你希望得到怎样的安慰？</p>
+<p>但是想到毛</p>
+<p>想到金斯堡</p>
+<p>"America I'm reading Marx"</p>
+<p>又好像不是这样</p>
 <b>
 <p align="right">
-作于2024年4月
+作于2024年7月
 </p>
 <p></b></p>
 </b> </big>
@@ -6832,123 +7030,34 @@ XantC
       </categories>
   </entry>
   <entry>
-    <title>随感</title>
-    <url>/%E6%96%87%E8%89%BA/%E9%9A%8F%E6%84%9F/</url>
+    <title>读《呐喊》有感</title>
+    <url>/%E8%AF%BB%E5%90%8E%E6%84%9F/%E8%AF%BB%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E6%9C%89%E6%84%9F/</url>
     <content><![CDATA[<b>
 <p align="right">
 XantC
 </p>
 <p></b></p>
-<b> <big>
-<center>
-<p>那些从不休息的工作狂</p>
-<p>总觉得他们的心都是死的</p>
-<p>特别是搞共产的人</p>
-<p>也许是对专政本身的浅薄印象</p>
-<p>给人一种他们不能写诗的感觉</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>但是想到毛</p>
-<p>想到金斯堡</p>
-<p>"America I'm reading Marx"</p>
-<p>又好像不是这样</p>
-<b>
-<p align="right">
-作于2024年7月
-</p>
+<p><b></p>
+<p>《呐喊》，是鲁迅同志出版的第一部白话小说集，也是中国的第一部白话短篇小说集。关于它的文化意义、写作手法一类的东西，从它初版的100多年来都说遍了。所以我想单纯谈谈自己对其中一些文章的感想。</p>
 <p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>那人</title>
-    <url>/%E6%96%87%E8%89%BA/%E9%82%A3%E4%BA%BA/</url>
-    <content><![CDATA[<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<b> <big>
-<center>
-<p>他从小到大 没仔细想过周围的一切</p>
-<p>一些困惑只在悠闲的时候才会出现</p>
-<p>这好像是他天生的诟病</p>
-<p>但能活在空调下 还有什么不乐意</p>
-<p></big> <span id="more"></span></p>
-<hr />
-<p><big></p>
-<p>他不久就去念书了 成绩特好</p>
-<p>老师同学都说他是个好苗苗</p>
-<p>但反差的是 他最讨厌别人叫他“知识分子”</p>
-<p>因为他总会感到不顺 不知道要怎么回应</p>
-<p>他一特棒的朋友就会马上安慰他</p>
-<p>陪他打游戏 给他说好话</p>
-<p>他心里的苍蝇来回乱窜了</p>
-<hr />
-<p>他很快就上初中了 成绩依然保持稳定</p>
-<p>他有了喜欢的女生和帅气的情敌</p>
-<p>等他俩牵起手来 肚子就一阵绞痛</p>
-<p>他为此消沉了一阵 开始琢磨些什么</p>
-<hr />
-<p>他断定自己并不适合恋爱</p>
-<p>越想越觉得自己只适合学习</p>
-<p>别管这些破事 以后还得吹空调上班呢</p>
-<p>他把手机拿出来开始奋斗</p>
-<hr />
-<p>命运给他推了一首歌 叫“教育机器”</p>
-<p>听得他醍醐灌顶却又心有余悸</p>
-<p>过去做的一切好像突然失去了意义</p>
-<p>因为一个花三分钟就听完了的东西</p>
-<hr />
-<p>这种撕裂的感觉持续撕裂着他</p>
-<p>一直到走上中考的考场</p>
-<p>他九年来奋斗的底气强撑着他</p>
-<p>铃响了 他把卷子交给老师</p>
-<hr />
-<p>他回到家 不知道要干什么 就死盯着那叠书</p>
-<p>心里的苍蝇闷得飞不起来了</p>
-<p>他挑了一本出来 还不肯服输</p>
-<p>他发现他的心灵也被交上去了</p>
-<hr />
-<p>这人终于受不了了 他找到了他的父亲</p>
-<p>他问：“这天怎么他妈这么闷啊”</p>
-<p>“你开个空调不就得了”</p>
-<b>
-<p align="right">
-作于2023年6-7月
-</p>
-<p></b></p>
-</b> </big>
-</center>
-]]></content>
-      <categories>
-        <category>文艺</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>伊乔打篮球</title>
-    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E4%BC%8A%E4%B9%94%E6%89%93%E7%AF%AE%E7%90%83/</url>
-    <content><![CDATA[<p><b></p>
-<p>伊乔者，初中足球少将也。既入高中黄旗班，改行篮球，与天涯、炭锑（csb）等诸位共乐。</p>
 <span id="more"></span>
-<p>伊始，伊乔甚弱，打板之技之出于法治甚远，且善空中折叠，十者中一许也。常三分，“向着夕阳”云云出于口，打板后便入天涯之手。众笑之。</p>
-<p>伊乔尝与梁一队，合攻天、炭及姜。梁便曰：“呜呼！不愿此队友！”而天涯则喜，视其为盟。炭锑亦大呼：“稳也稳也！”实则三对二为四对一乎。伊乔之弱，可知矣。</p>
-<p>然今时之伊乔，非旧日然也。一金曜日（星期五）大败天涯后，便痛定思痛，彻夜未眠，思索投篮之技，且颇有成效。现引某次“三滴血”为例。当日，炭择某地以行三分之术，另天涯之讽于一旁，即进。后者乃伊乔，亦进也，顺风疾呼：“吾非上金耀之我也！”后梁亦进，而天涯败之，遂出局。</p>
-<p>此次三滴血，当溃天涯之不败神话，乃黄旗班之奇迹。然伊乔负滚雪球之责，功当为首。伊乔者，大器晚成也。其平日打板之进亦显此论。</p>
+<p><b></p>
+<p>《狂人日记》是我其中最喜欢的一篇。内容是讲了一个精神迫害狂，以为周围的人都密谋着要“吃”他，自己感到激愤，便劝说他们从善。劝诫失败后，自己只能呐喊几声“救救孩子”，到某地做官去了。</p>
+<p>这篇文章比较晦涩，所以可解读的空间就很大。比如“吃人”两个字，在这十几页纸里出现过三四十次，却没有明说“吃人”到底指什么。这其实是个很宽泛的事情，在鲁迅的不同作品里也有不同的体现。在迫害狂眼里，这就是实打实地要吃掉自己（我认为这是他臆想的，因为没有吃人的动机）。但在他人眼里，这只是拿眼神盯着他，排挤他，只因他“把古久先生的陈年流水簿子，踹了一脚。”但他们看到狂人踢簿子，反抗封建体制之后，并没有去想过为什么他要踢，踢了簿子意味着什么，等等。他们只是无意识地引用了过去他人告诉给自己的知识与观念，再将此直接应用于狂人之上。在被传输思想时就没有动脑子想过，碰见狂人后也更不会思考了。</p>
+<p>这也正印证了小说中的一句话：“凡事总须研究，才会明白”。</p>
+<p>所以我觉得，狂人发“狂”的原因不是一句“封建礼教的‘吃人’本质”就能概括的，而是被旁人逼出来的。他勇于反抗体制，但被他人歧视，落下心疾后，总以为他人要吃掉自己，进而更成了个“狂人”。</p>
+<p>那在鲁迅写下这篇文章一百多年后的现在，还有没有狂人呢？我认为一定是有的。因为像我上面说的，狂人不只是指反抗传统、反抗体制的人；往大了讲，更是指有了自己想法，却被大众一味否定的人。这类人无论在什么年代都是存在的，都值得我们尊重。</p>
+<p>再来说另一篇《故乡》。这里面写得最突出的就是闰土的转变：他的圆脸从紫色变成了灰黄，手从红活圆实变得粗笨开裂。而最令人心痛寒噤的还是那一句句“老爷”。我尽管还是在水生和宏儿的年纪，但也不由得害怕我的朋友进入社会后，会不会也变成这样子了。</p>
+<p>幸好，鲁迅同志在文末还是给出了一些希望。他说：“希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，便也成了路。”鲁迅也用他自己的方式，把希望铺成了一条光明大道。他提笔，大声呐喊，唤醒熟睡的人民，和他们一起奋力推倒那没有窗户的铁屋……</p>
 <b>
 <p align="right">
-XantC
+作于2023年8月
 </p>
 <p></b></p>
 <p></b></p>
 ]]></content>
       <categories>
-        <category>黄旗班史</category>
+        <category>读后感</category>
       </categories>
   </entry>
   <entry>
@@ -6985,6 +7094,121 @@ XantC
       </categories>
   </entry>
   <entry>
+    <title>伊乔打篮球</title>
+    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E4%BC%8A%E4%B9%94%E6%89%93%E7%AF%AE%E7%90%83/</url>
+    <content><![CDATA[<p><b></p>
+<p>伊乔者，初中足球少将也。既入高中黄旗班，改行篮球，与天涯、炭锑（csb）等诸位共乐。</p>
+<span id="more"></span>
+<p>伊始，伊乔甚弱，打板之技之出于法治甚远，且善空中折叠，十者中一许也。常三分，“向着夕阳”云云出于口，打板后便入天涯之手。众笑之。</p>
+<p>伊乔尝与梁一队，合攻天、炭及姜。梁便曰：“呜呼！不愿此队友！”而天涯则喜，视其为盟。炭锑亦大呼：“稳也稳也！”实则三对二为四对一乎。伊乔之弱，可知矣。</p>
+<p>然今时之伊乔，非旧日然也。一金曜日（星期五）大败天涯后，便痛定思痛，彻夜未眠，思索投篮之技，且颇有成效。现引某次“三滴血”为例。当日，炭择某地以行三分之术，另天涯之讽于一旁，即进。后者乃伊乔，亦进也，顺风疾呼：“吾非上金耀之我也！”后梁亦进，而天涯败之，遂出局。</p>
+<p>此次三滴血，当溃天涯之不败神话，乃黄旗班之奇迹。然伊乔负滚雪球之责，功当为首。伊乔者，大器晚成也。其平日打板之进亦显此论。</p>
+<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>黄旗班史</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>眼睛</title>
+    <url>/%E6%96%87%E8%89%BA/%E7%9C%BC%E7%9D%9B/</url>
+    <content><![CDATA[<b>
+<p align="right">
+XantC
+</p>
+<big>
+<p align="right">
+——意识宽慰道“这不重要”
+</p>
+<p align="right">
+物质哈哈大笑
+</p>
+<p></b></p>
+<b>
+<center>
+<p>你在这里坐了一天</p>
+<p>坐了一天</p>
+<p>盯着眼前的地方 已经很久了</p>
+<p>你突然发现自己</p>
+<p>能够看见</p>
+<p>惊奇得像刚刚获得身体的胎儿</p>
+<p></big> <span id="more"></span></p>
+<hr />
+<p><big></p>
+<p>上一秒或许是个瞎子</p>
+<hr />
+<p>有一天晚上 一座火炮</p>
+<p>用淋血的炮弹轰开你的胸口</p>
+<p>你只疼了一阵</p>
+<p>它留下一只内翻的眼睛</p>
+<p>和一颗心</p>
+<p>小时候拿来互相投掷的石头</p>
+<p>你现在已经不疼了</p>
+<p>胸口的洞依然敞开</p>
+<hr />
+<p>让你感到踹不过气</p>
+<p>别再坐着了</p>
+<p>快到楼顶去透透气</p>
+<p>趁你还拥有眼睛</p>
+<hr />
+<p>这里还是闷的</p>
+<p>你手搭着护栏</p>
+<p>上头已经黑了</p>
+<p>向下看</p>
+<p>很高 地上的人</p>
+<p>来来往往</p>
+<p>看起来很小</p>
+<p>你端详了一会儿</p>
+<hr />
+<p>然后狠狠踩了他们一脚</p>
+<p>咬着牙</p>
+<p>下楼去</p>
+<b>
+<p align="right">
+作于2024年7月
+</p>
+<p></b></p>
+</b> </big>
+</center>
+]]></content>
+      <categories>
+        <category>文艺</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>天涯前传</title>
+    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E5%A4%A9%E6%B6%AF%E5%89%8D%E4%BC%A0/</url>
+    <content><![CDATA[<p><b></p>
+<p>天涯者，伊乔怀胎十月之仙丹贵物也，却错投凡胎，化为草民，弗及其父伊乔之五子真人之一毫，惜也。然及其生产之日，只得一青烟拂过其股，乃抱头痛哭耳。（故由二者门第之殊，曰天涯之传为世家，伊乔之传为列传也；望周知耳。）</p>
+<span id="more"></span>
+<p>天涯之前传者，取时于明。当时中原既入阿拉伯之手，且大帝初立东厂，以行监督保定之务。</p>
+<p>天涯既为农民世家，每日耕耘于田中也。然此子或由原世之因（圣人之子），甚喜书经，常向亲友述其平日所阅，如《本纪》等各类佳作，不在话下。一日，天涯耕田休憩，与左右述睿智称帝之史，恰会大帝民间巡逻，闻天涯之声尖似太监（自行脑补），颇有入东厂行职之潜能，且了如《睿智本纪》于指掌，亦善专科知识也，故邀其入，任记史文官。天涯闻之甚惊，而后欣然应允；其意为撰文于《本纪》，以功立千秋也。</p>
+<p>七日后，天涯辞别其生食父母，毅然入京（入东厂之预备工作，不必多叙）。然及其穿长袍，得笔墨，盘坐与席上时，其长（管理文官的人）予其一表，列每日将撰之事之概况。</p>
+<p>天涯异之，问曰：“毋吾等自定所撰之事乎？”</p>
+<p>对曰：“弗必，大帝谋之耳。”</p>
+<p>天涯默然，后曰：“《本纪》亦由此撰得？”</p>
+<p>曰：“非然也，而何？则已，而又何伤？亦记史而得银钱也已矣，势必强乎田中也！”</p>
+<p>天涯以为有理，却心中如鲠不畅；又思既许大帝之邀，去亦不可，故只得提笔撰文。</p>
+<p>找到五子真人，发现他只是一个看起来很穷的穿破衣服的人</p>
+<p>然二次投胎之时，惊见其上一童子之身，且四周高楼林立，是以入二十一世纪，建青之黄旗班也，明代之事皆为过往。后十八岁行冠礼（成年），继祖上之六亩田地，复耕于田中也。故命此篇为：天涯前传。</p>
+<p>炭锑有诗云：天涯错命博利禄，忽明五子。只愿青山田野间。</p>
+<b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>黄旗班史</category>
+      </categories>
+  </entry>
+  <entry>
     <title>睿智称帝刍议</title>
     <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E7%9D%BF%E6%99%BA%E7%A7%B0%E5%B8%9D%E5%88%8D%E8%AE%AE/</url>
     <content><![CDATA[<p><b></p>
@@ -7001,6 +7225,32 @@ XantC
 <b>
 <p align="right">
 共和国74年12月30日上
+</p>
+<p></b></p>
+<p></b></p>
+]]></content>
+      <categories>
+        <category>黄旗班史</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>记2019届三班之梗</title>
+    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E8%AE%B02019%E5%B1%8A%E4%B8%89%E7%8F%AD%E4%B9%8B%E6%A2%97/</url>
+    <content><![CDATA[<p><b></p>
+<p>梗，校园生活之不可或缺者，故亦造梗人也。而欲论三班之梗文化，必论三班之造梗人。世人肠道：中原圣人两个半，一孔、一王、半曾；而吾则曰：三班造梗人两个半，一柏、一池、半鼎。三班四年，大可分为此两个半各统天下之时期。柏离后，鼎为王；鼎离后，池为王。绝时，三班造梗人仅剩池一，呜呼！</p>
+<span id="more"></span>
+<p>现以时间之序，叙我三班之梗。</p>
+<p>万物初始，生柏衫。此乃三班文化之创始者也，其功有：立“阿钱”之名，传生殖系统相关之内容，创三班科学院，同炭锑建立《晚间联播》等。其中，当以“阿钱”之立为首；此号传三班四年，深入民心，称钱者皆谓此号。而后之“阿荆”、“天涯哥”云云，与之比则皆为二等，可谓地下（虽言此，“天涯哥”仍应大力推广）。其二，乃ZBA联赛也。柏开三班国民运动篮球之先河，虽不及一班之足，亦闻名年级，尝大败四班。炭亦于柏毙二年春，扩联赛至一张（一班张弛）、二李（二班李子睿），继其遗志，实“联”之义。柏衫之行甚多，不可言尽焉。</p>
+<p>奇者，以上皆行于二年之中也。柏大逝于共和国72年，成福建上空一幽魂。此后，鼎便称三班之梗王，其能诚早现于柏之时。而其为拍案叫绝者，称池为太监也。</p>
+<p>实言，柏毙后，三班之梗便显多元融合之态，鼎、池乃择外梗入之大将也。鼎有“坚如磐石”：以生殖系统曰钟离之技，妙哉。而人民教师之张超，则为宋所引，池所扬。且不忘减轻之师，融为“三大人民教师”：曾、张、朱。池所著豪诗《金发颂》，则记金发语录浑然于一体，乃百年难得之佳作也。意者可寻于附录。</p>
+<p>除造梗人两个半所创，民间之梗亦值一谈。如宋，常引曾“你们三班怎么这么蠢呢”之语；祝凭一绿本，记志军使粗鄙之语之次数；杨创“国色天香”等等。</p>
+<p>三班梗甚多，不可尽记于一篇，然则有累赘拗口之势。故停笔，另其余于吾等之心，待多年后偶然忆起，乐亦无穷也。</p>
+<p>附录：</p>
+<p>《金发颂》文/池
+老师是个笨老师/难题要花半小时/做题方法特别chuo/欢迎大家来反驳/讨厌复杂的计算/审题不清骂活该/seewo不会就叹气/耳朵不灵听不清/减肥非常的失败/强颜欢笑掩无奈/挺着肚子开讲堂/每当下课就拖堂/试问老师是何人/闽南一只猪脚饭</p>
+<b>
+<p align="right">
+XantC
 </p>
 <p></b></p>
 <p></b></p>
@@ -7070,60 +7320,6 @@ XantC
 <p align="right">
 作于2023年12月
 </p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>黄旗班史</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>天涯前传</title>
-    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E5%A4%A9%E6%B6%AF%E5%89%8D%E4%BC%A0/</url>
-    <content><![CDATA[<p><b></p>
-<p>天涯者，伊乔怀胎十月之仙丹贵物也，却错投凡胎，化为草民，弗及其父伊乔之五子真人之一毫，惜也。然及其生产之日，只得一青烟拂过其股，乃抱头痛哭耳。（故由二者门第之殊，曰天涯之传为世家，伊乔之传为列传也；望周知耳。）</p>
-<span id="more"></span>
-<p>天涯之前传者，取时于明。当时中原既入阿拉伯之手，且大帝初立东厂，以行监督保定之务。</p>
-<p>天涯既为农民世家，每日耕耘于田中也。然此子或由原世之因（圣人之子），甚喜书经，常向亲友述其平日所阅，如《本纪》等各类佳作，不在话下。一日，天涯耕田休憩，与左右述睿智称帝之史，恰会大帝民间巡逻，闻天涯之声尖似太监（自行脑补），颇有入东厂行职之潜能，且了如《睿智本纪》于指掌，亦善专科知识也，故邀其入，任记史文官。天涯闻之甚惊，而后欣然应允；其意为撰文于《本纪》，以功立千秋也。</p>
-<p>七日后，天涯辞别其生食父母，毅然入京（入东厂之预备工作，不必多叙）。然及其穿长袍，得笔墨，盘坐与席上时，其长（管理文官的人）予其一表，列每日将撰之事之概况。</p>
-<p>天涯异之，问曰：“毋吾等自定所撰之事乎？”</p>
-<p>对曰：“弗必，大帝谋之耳。”</p>
-<p>天涯默然，后曰：“《本纪》亦由此撰得？”</p>
-<p>曰：“非然也，而何？则已，而又何伤？亦记史而得银钱也已矣，势必强乎田中也！”</p>
-<p>天涯以为有理，却心中如鲠不畅；又思既许大帝之邀，去亦不可，故只得提笔撰文。</p>
-<p>找到五子真人，发现他只是一个看起来很穷的穿破衣服的人</p>
-<p>然二次投胎之时，惊见其上一童子之身，且四周高楼林立，是以入二十一世纪，建青之黄旗班也，明代之事皆为过往。后十八岁行冠礼（成年），继祖上之六亩田地，复耕于田中也。故命此篇为：天涯前传。</p>
-<p>炭锑有诗云：天涯错命博利禄，忽明五子。只愿青山田野间。</p>
-<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p></b></p>
-]]></content>
-      <categories>
-        <category>黄旗班史</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>记2019届三班之梗</title>
-    <url>/%E9%BB%84%E6%97%97%E7%8F%AD%E5%8F%B2%E8%AE%B0/%E8%AE%B02019%E5%B1%8A%E4%B8%89%E7%8F%AD%E4%B9%8B%E6%A2%97/</url>
-    <content><![CDATA[<p><b></p>
-<p>梗，校园生活之不可或缺者，故亦造梗人也。而欲论三班之梗文化，必论三班之造梗人。世人肠道：中原圣人两个半，一孔、一王、半曾；而吾则曰：三班造梗人两个半，一柏、一池、半鼎。三班四年，大可分为此两个半各统天下之时期。柏离后，鼎为王；鼎离后，池为王。绝时，三班造梗人仅剩池一，呜呼！</p>
-<span id="more"></span>
-<p>现以时间之序，叙我三班之梗。</p>
-<p>万物初始，生柏衫。此乃三班文化之创始者也，其功有：立“阿钱”之名，传生殖系统相关之内容，创三班科学院，同炭锑建立《晚间联播》等。其中，当以“阿钱”之立为首；此号传三班四年，深入民心，称钱者皆谓此号。而后之“阿荆”、“天涯哥”云云，与之比则皆为二等，可谓地下（虽言此，“天涯哥”仍应大力推广）。其二，乃ZBA联赛也。柏开三班国民运动篮球之先河，虽不及一班之足，亦闻名年级，尝大败四班。炭亦于柏毙二年春，扩联赛至一张（一班张弛）、二李（二班李子睿），继其遗志，实“联”之义。柏衫之行甚多，不可言尽焉。</p>
-<p>奇者，以上皆行于二年之中也。柏大逝于共和国72年，成福建上空一幽魂。此后，鼎便称三班之梗王，其能诚早现于柏之时。而其为拍案叫绝者，称池为太监也。</p>
-<p>实言，柏毙后，三班之梗便显多元融合之态，鼎、池乃择外梗入之大将也。鼎有“坚如磐石”：以生殖系统曰钟离之技，妙哉。而人民教师之张超，则为宋所引，池所扬。且不忘减轻之师，融为“三大人民教师”：曾、张、朱。池所著豪诗《金发颂》，则记金发语录浑然于一体，乃百年难得之佳作也。意者可寻于附录。</p>
-<p>除造梗人两个半所创，民间之梗亦值一谈。如宋，常引曾“你们三班怎么这么蠢呢”之语；祝凭一绿本，记志军使粗鄙之语之次数；杨创“国色天香”等等。</p>
-<p>三班梗甚多，不可尽记于一篇，然则有累赘拗口之势。故停笔，另其余于吾等之心，待多年后偶然忆起，乐亦无穷也。</p>
-<p>附录：</p>
-<p>《金发颂》文/池
-老师是个笨老师/难题要花半小时/做题方法特别chuo/欢迎大家来反驳/讨厌复杂的计算/审题不清骂活该/seewo不会就叹气/耳朵不灵听不清/减肥非常的失败/强颜欢笑掩无奈/挺着肚子开讲堂/每当下课就拖堂/试问老师是何人/闽南一只猪脚饭</p>
-<b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
 <p></b></p>
 ]]></content>
       <categories>
