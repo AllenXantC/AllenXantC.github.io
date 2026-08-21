@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 8.1.2">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha256-VHqXKFhhMxcpubYf9xiWdCiojEbY9NexQ4jh8AxbvcM=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"allenxantc.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.29.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12,"onmobile":false},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":true,"style":null,"show_result":true},"fold":{"enable":false,"height":500},"language":false,"highlight_theme":"normal"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"changyan","storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"top_n_per_article":1,"unescape":false,"preload":false,"trigger":"auto"}}</script><script src="/js/config.js" defer></script>
+
+    <meta name="description" content="亥姆霍兹定理保证了矢量场在特定条件下（矢量场在无穷远处比1&#x2F;r更快趋于0，它的散度和旋度在无穷远处比1&#x2F;r2更快趋于0），可被分解为一个无旋场（梯度场）和一个无散场（旋度场）。 F &#x3D; −∇ϕ + ∇ × W">
+<meta property="og:type" content="article">
+<meta property="og:title" content="亥姆霍兹定理">
+<meta property="og:url" content="https://allenxantc.github.io/%E7%89%A9%E7%90%86/%E4%BA%A5%E5%A7%86%E9%9C%8D%E5%85%B9%E5%AE%9A%E7%90%86/index.html">
+<meta property="og:site_name" content="XantC的博客">
+<meta property="og:description" content="亥姆霍兹定理保证了矢量场在特定条件下（矢量场在无穷远处比1&#x2F;r更快趋于0，它的散度和旋度在无穷远处比1&#x2F;r2更快趋于0），可被分解为一个无旋场（梯度场）和一个无散场（旋度场）。 F &#x3D; −∇ϕ + ∇ × W">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://allenxantc.github.io/pic/%E4%BA%A5%E5%A7%86%E9%9C%8D%E5%85%B9%E5%AE%9A%E7%90%86/%E5%BE%AE%E5%88%86%E7%AE%97%E5%AD%90.png">
+<meta property="article:published_time" content="2025-03-08T12:12:35.000Z">
+<meta property="article:modified_time" content="2026-08-20T06:36:46.318Z">
+<meta property="article:author" content="XantC">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://allenxantc.github.io/pic/%E4%BA%A5%E5%A7%86%E9%9C%8D%E5%85%B9%E5%AE%9A%E7%90%86/%E5%BE%AE%E5%88%86%E7%AE%97%E5%AD%90.png">
+
+
+<link rel="canonical" href="https://allenxantc.github.io/%E7%89%A9%E7%90%86/%E4%BA%A5%E5%A7%86%E9%9C%8D%E5%85%B9%E5%AE%9A%E7%90%86/">
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/%E7%89%A9%E7%90%86/%E4%BA%A5%E5%A7%86%E9%9C%8D%E5%85%B9%E5%AE%9A%E7%90%86/","path":"物理/亥姆霍兹定理/","title":"亥姆霍兹定理"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>亥姆霍兹定理 | XantC的博客</title>
+  
+
+
+
+
+
+
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.6.0/pjax.min.js" integrity="sha256-vxLn1tSKWD4dqbMRyv940UYw4sXgMtYcK6reefzZrao=" crossorigin="anonymous" defer></script>
+<script src="/js/utils.js" defer></script><script src="/js/motion.js" defer></script><script src="/js/sidebar.js" defer></script><script src="/js/next-boot.js" defer></script><script src="/js/pjax.js" defer></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.5.0/search.js" integrity="sha256-xFC6PJ82SL9b3WkGjFavNiA9gm5z6UBxWPiu4CYjptg=" crossorigin="anonymous" defer></script>
+<script src="/js/third-party/search/local-search.js" defer></script>
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","display_overflow":"scroll","mhchem":true,"js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/4.1.3/tex-mml-chtml.js","integrity":"sha256-ihPtDDm7pTmSF9ViEsItlvsrBTsNkz0MOXMchzOwCQw="}}</script>
+<script src="/js/third-party/math/mathjax.js" defer></script>
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<style>.darkmode--activated{--body-bg-color:#282828;--content-bg-color:#333;--card-bg-color:#555;--text-color:#ccc;--blockquote-color:#bbb;--link-color:#ccc;--link-hover-color:#eee;--brand-color:#ddd;--brand-hover-color:#ddd;--table-row-odd-bg-color:#282828;--table-row-hover-bg-color:#363636;--menu-item-bg-color:#555;--btn-default-bg:#222;--btn-default-color:#ccc;--btn-default-border-color:#555;--btn-default-hover-bg:#666;--btn-default-hover-color:#ccc;--btn-default-hover-border-color:#666;--highlight-background:#282b2e;--highlight-foreground:#a9b7c6;--highlight-gutter-background:#34393d;--highlight-gutter-foreground:#9ca9b6}.darkmode--activated img{opacity:.75}.darkmode--activated img:hover{opacity:.9}.darkmode--activated code{color:#69dbdc;background:0 0}</style></head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">XantC的博客</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">The Power of The Powerless</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li><li class="menu-item menu-item-guestbook"><a href="/guestbook/" rel="section"><i class="fa fa-book fa-fw"></i>留言板</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+      <div class="search-header">
+        <span class="search-icon">
+          <i class="fa fa-search"></i>
+        </span>
+        <div class="search-input-container">
+          <input autocomplete="off" autocapitalize="off" maxlength="80"
+                placeholder="搜索..." spellcheck="false"
+                type="search" class="search-input">
+        </div>
+        <span class="popup-btn-close" role="button">
+          <i class="fa fa-times-circle"></i>
+        </span>
+      </div>
+      <div class="search-result-container">
+        <div class="search-result-icon">
+          <i class="fa fa-spinner fa-pulse fa-5x"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%8E%A8%E5%AF%BC%E8%BF%87%E7%A8%8B"><span class="nav-number">1.</span> <span class="nav-text">推导过程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%A7%A3%E9%87%8A"><span class="nav-number">2.</span> <span class="nav-text">解释</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%80%BB%E6%80%9D%E8%B7%AF"><span class="nav-number">2.1.</span> <span class="nav-text">总思路</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%CE%B4%E5%87%BD%E6%95%B0%E4%B8%8E%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF"><span class="nav-number">2.2.</span> <span class="nav-text">δ函数与拉普拉斯</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8E%E5%BE%84%E7%9F%A2%E7%9B%B8%E5%85%B3%E7%9A%84%E6%A2%AF%E5%BA%A6%E6%95%A3%E5%BA%A6%E6%97%8B%E5%BA%A6"><span class="nav-number">2.3.</span> <span class="nav-text">与径矢相关的梯度散度旋度</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A4%8D%E5%90%88%E7%9F%A2%E9%87%8F%E5%9C%BA%E7%9A%84%E6%95%A3%E5%BA%A6%E6%97%8B%E5%BA%A6"><span class="nav-number">2.4.</span> <span class="nav-text">复合矢量场的散度、旋度</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%92%88%E5%AF%B9%E5%9C%BA%E7%82%B9%E6%BA%90%E7%82%B9%E7%9A%84%E7%AE%97%E7%AC%A6%E8%BD%AC%E6%8D%A2"><span class="nav-number">2.5.</span> <span class="nav-text">针对场点、源点的算符转换</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%88%86%E9%83%A8%E7%A7%AF%E5%88%86%E6%B3%95"><span class="nav-number">2.6.</span> <span class="nav-text">分部积分法</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9C%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E6%80%A7%E5%88%86%E6%9E%90"><span class="nav-number">2.7.</span> <span class="nav-text">场的存在性分析</span></a></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">XantC</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">146</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">19</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="cc-license animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" class="cc-opacity" rel="noopener" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/creativecommons-vocabulary/2020.11.3/assets/license_badges/small/by_nc_sa.svg" alt="Creative Commons"></a>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E7%89%A9%E7%90%86/%E4%BA%A5%E5%A7%86%E9%9C%8D%E5%85%B9%E5%AE%9A%E7%90%86/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="XantC">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="亥姆霍兹定理 | XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          亥姆霍兹定理
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2025-03-08 20:12:35" itemprop="dateCreated datePublished" datetime="2025-03-08T20:12:35+08:00">2025-03-08</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2026-08-20 14:36:46" itemprop="dateModified" datetime="2026-08-20T14:36:46+08:00">2026-08-20</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E7%89%A9%E7%90%86/" itemprop="url" rel="index"><span itemprop="name">物理</span></a>
+        </span>
+          ，
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E7%89%A9%E7%90%86/%E7%9F%A2%E9%87%8F%E5%88%86%E6%9E%90/" itemprop="url" rel="index"><span itemprop="name">矢量分析</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><p>亥姆霍兹定理保证了矢量场在特定条件下（矢量场在无穷远处比<span
+class="math inline">1/<em>r</em></span>更快趋于0，它的散度和旋度在无穷远处比<span
+class="math inline">1/<em>r</em><sup>2</sup></span>更快趋于0），可被分解为一个无旋场（梯度场）和一个无散场（旋度场）。</p>
+<p><span
+class="math display"><strong>F</strong> = −∇<em>ϕ</em> + ∇ × <strong>W</strong></span></p>
+<span id="more"></span>
+<p>若</p>
+<p><span
+class="math display">∇ ⋅ <strong>F</strong> = <em>D</em></span></p>
+<p><span
+class="math display">∇ × <strong>F</strong> = <strong>C</strong></span></p>
+<p>则</p>
+<p><span class="math display">$$
+\phi(\boldsymbol{r})=\frac{1}{4\pi}\int_V\frac{D(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'}
+$$</span></p>
+<p><span class="math display">$$
+\boldsymbol{W}(\boldsymbol{r})=\frac{1}{4\pi}\int_V\frac{\boldsymbol{C}(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'}
+$$</span></p>
+<p>本篇记录下我艰辛的推导过程，解释得比较详细（看推导的时候可以随时跳转）。</p>
+<h2 id="推导过程">推导过程</h2>
+<p><span class="math display">$$ \begin{align*}
+    \boldsymbol{F}(\boldsymbol{r})&amp;=\int_V
+\boldsymbol{F}(\boldsymbol{r^{'}})\,\delta^3(\boldsymbol{r}-\boldsymbol{r^{'}})\mathrm{d}V^{'}\\
+    &amp;=\int_V\boldsymbol{F}(\boldsymbol{r}^{'})\,(-\frac{1}{4\pi}\nabla^2(\frac{1}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}))\mathrm{d}V^{'}
+\tag{1} \\
+    &amp;=-\frac{1}{4\pi}\int_V\nabla^2\frac{\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'}\\
+    &amp;=-\frac{1}{4\pi}\int_V\nabla(\nabla\cdot
+\frac{\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|})-\nabla\times(\nabla\times\frac{\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|})\mathrm{d}V^{'}\\
+    &amp;=-\nabla(\frac{1}{4\pi}\int_V\nabla\cdot\frac{\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'})+\nabla\times(\frac{1}{4\pi}\int_V\nabla\times\frac{\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'})
+\end{align*} $$</span></p>
+<p><span class="math display">$$ \therefore
+\phi(\boldsymbol{r})=\frac{1}{4\pi}\int_V\nabla\cdot\frac{\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'},
+\boldsymbol{W}(\boldsymbol{r})=\frac{1}{4\pi}\int_V\nabla\times\frac{\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'}
+$$</span></p>
+<p><span class="math display">$$ \begin{align*}
+    \phi(\boldsymbol{r})&amp;=\frac{1}{4\pi}\int_V\nabla\cdot\frac{\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'}\\
+    &amp;=\frac{1}{4\pi}\int_V\nabla(\frac{1}{|\boldsymbol{r}-\boldsymbol{r^{'}}|})\cdot\boldsymbol{F}(\boldsymbol{r^{'}})\mathrm{d}V^{'}
+\tag{2} \\
+    &amp;=-\frac{1}{4\pi}\int_V\nabla^{'}(\frac{1}{|\boldsymbol{r}-\boldsymbol{r^{'}}|})\cdot\boldsymbol{F}(\boldsymbol{r^{'}})\mathrm{d}V^{'}
+\tag{3} \\
+    &amp;=-\frac{1}{4\pi}(\oint_S\mathrm{d}\boldsymbol{S}\cdot\frac{\boldsymbol{F}(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}-\int_V
+\frac{\nabla^{'}\cdot\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'})
+\tag{4} \\
+    &amp;=\frac{1}{4\pi}(\int_V
+\frac{\nabla^{'}\cdot\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'}-\oint_S\mathrm{d}\boldsymbol{S}\cdot\frac{\boldsymbol{F}(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|})\\
+\end{align*} $$</span></p>
+<p>同理：</p>
+<p><span class="math display">$$ \begin{align*}
+    \boldsymbol{W}(\boldsymbol{r})=\frac{1}{4\pi}(\int_V
+\frac{\nabla^{'}\times\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'}-\oint_S\mathrm{d}\boldsymbol{S}\times\frac{\boldsymbol{F}(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|})\\
+\end{align*} $$</span></p>
+<p>索引：</p>
+<p>(1). <a href="#δ函数与拉普拉斯">δ函数与拉普拉斯</a></p>
+<p>(2). <a href="#复合矢量场的散度、旋度">复合矢量场的散度、旋度</a></p>
+<p>(3). <a
+href="#针对场点、源点的算符转换">针对场点、源点的算符转换</a></p>
+<p>(4). <a href="#分部积分法">分部积分法</a></p>
+<p>经过<a href="#场的存在性分析">场的存在性分析</a>，可得：</p>
+<p>在矢量场在无穷远处比<span
+class="math inline">1/<em>r</em></span>更快趋于0，它的散度和旋度在无穷远处比<span
+class="math inline">1/<em>r</em><sup>2</sup></span>更快趋于0的情况下</p>
+<p><span class="math display">$$
+\boldsymbol{F}(\boldsymbol{r})=-\nabla(\frac{1}{4\pi}\int_V\frac{\nabla^{'}\cdot\boldsymbol{F}(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'})+\nabla\times(\frac{1}{4\pi}\int_V\frac{\nabla^{'}\times\boldsymbol{F}(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'})
+$$</span></p>
+<p>如果我们有：</p>
+<p><span
+class="math display">∇ ⋅ <strong>F</strong>(<strong>r</strong>) = <em>D</em>(<strong>r</strong>)</span>
+<span
+class="math display">∇ × <strong>F</strong>(<strong>r</strong>) = <strong>C</strong>(<strong>r</strong>) (∇ ⋅ <strong>C</strong> = 0)</span></p>
+<p>就可以通过一个矢量场的散度和旋度来表示这个场</p>
+<p><span class="math display">$$
+\boldsymbol{F}(\boldsymbol{r})=-\nabla(\frac{1}{4\pi}\int_V\frac{D(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'})+\nabla\times(\frac{1}{4\pi}\int_V\frac{\boldsymbol{C}(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'})
+$$</span></p>
+<h2 id="解释">解释</h2>
+<h3 id="总思路">总思路</h3>
+<p>我们需要分解的矢量场的自变量是<span
+class="math inline"><strong>r</strong></span>，即场点。根据场和场源的关系，我们可以立足于某一场点，把整个空间的全部<span
+class="math inline"><strong>r</strong><sup>′</sup></span>（源点）全部积分（遍历然后加起来）一遍，就可以得到这个场点上的矢量场。这个换元操作是通过<span
+class="math inline"><em>δ</em></span>函数实现的。</p>
+<p><span
+class="math display"><strong>F</strong>(<strong>r</strong>) = ∫<sub><em>V</em></sub><strong>F</strong>(<strong>r</strong><sup>′</sup>)<em>δ</em><sup>3</sup>(<strong>r</strong> − <strong>r</strong><sup>′</sup>)d<em>V</em><sup>′</sup></span></p>
+<h3 id="δ函数与拉普拉斯">δ函数与拉普拉斯</h3>
+<p><span class="math display">$$ \begin{align*}
+    \because\,
+&amp;\nabla\cdot(\frac{\hat{\boldsymbol{r}}}{r^2})=4\pi\delta^3(\boldsymbol{r})\\
+    &amp;\nabla\,(\frac{1}{r})=-\frac{\hat{\boldsymbol{r}}}{r^2}\\
+\end{align*} $$</span></p>
+<p><span class="math display">$$ \therefore
+\nabla^2(\frac{1}{r})=-4\pi\delta^3(\boldsymbol{r}) $$</span></p>
+<h3 id="与径矢相关的梯度散度旋度">与径矢相关的梯度散度旋度</h3>
+<p>承接上一块的矢量分析，把关于<span
+class="math inline"><strong>r</strong></span>的公式都贴在这里：</p>
+<p><span class="math display">$$ \nabla r^2=\frac{\partial}{\partial
+r}(\boldsymbol{r}\cdot \boldsymbol{r})=2\boldsymbol{r},\; \nabla
+r=\hat{\boldsymbol{r}},\; \nabla r^n=nr^{n-1}\hat{\boldsymbol{r}}
+$$</span></p>
+<p><span class="math display">$$ \nabla \cdot \boldsymbol{r}=3,\; \nabla
+\cdot \hat{\boldsymbol{r}}=\frac{2}{r},\; \nabla\cdot
+(r^n\hat{\boldsymbol{r}})=(n+2)r^{n-1}(n\neq -2) $$</span></p>
+<p><span class="math display">$$ \nabla\times
+(r^n\hat{\boldsymbol{r}})=0 $$</span></p>
+<h3 id="复合矢量场的散度旋度">复合矢量场的散度、旋度</h3>
+<p>刚开始学的时候需要适应一下。</p>
+<p><span
+class="math display">∇ ⋅ (<em>f</em><strong>A</strong>) = ∇<em>f</em> ⋅ <strong>A</strong> + <em>f</em>∇ ⋅ <strong>A</strong></span></p>
+<p><span
+class="math display">∇ × (<em>f</em><strong>A</strong>) = ∇<em>f</em> × <strong>A</strong> + <em>f</em>∇ × <strong>A</strong></span></p>
+<h3 id="针对场点源点的算符转换">针对场点、源点的算符转换</h3>
+<p><span class="math display">∇ = −∇<sup>′</sup></span></p>
+<p>这是在说，求一个向量场对于<span
+class="math inline"><strong>r</strong></span>（场点）的微分，和求它对于<span
+class="math inline"><strong>r</strong><sup>′</sup></span>（源点）的微分是相反的。见图：</p>
+<figure>
+<img src="\pic\亥姆霍兹定理\微分算子.png" alt="图" />
+<figcaption aria-hidden="true">图</figcaption>
+</figure>
+<p>为了得到相同的<span
+class="math inline"><em>ι</em><sup>′</sup></span>，<span
+class="math inline"><strong>r</strong></span>和<span
+class="math inline"><strong>r</strong><sup>′</sup></span>需以相反方向改变自己的长度，因而出现了一个负号。</p>
+<h3 id="分部积分法">分部积分法</h3>
+<p>高斯公式和斯托克斯公式下的分部积分法。</p>
+<p><span
+class="math display">∫<sub><em>V</em></sub>∇<em>f</em> ⋅ <strong>A</strong>d<em>V</em> = ∮<sub><em>S</em></sub><em>f</em><strong>A</strong> ⋅ d<strong>S</strong> − ∫<sub><em>V</em></sub><em>f</em>∇ ⋅ <strong>A</strong>d<em>V</em></span></p>
+<p><span
+class="math display">∫<sub><em>S</em></sub>∇<em>f</em> × <strong>A</strong>d<strong>S</strong> = ∮<sub><em>L</em></sub><em>f</em><strong>A</strong> ⋅ d<em>l</em> − ∫<sub><em>S</em></sub><em>f</em>(∇ × <strong>A</strong>) ⋅ d<strong>S</strong></span></p>
+<h3 id="场的存在性分析">场的存在性分析</h3>
+<p><span class="math inline"><em>ϕ</em></span>，<span
+class="math inline"><strong>W</strong></span>的形式相似，只是一个点乘一个叉乘的区别，所以分析其中一个就行（这里选<span
+class="math inline"><em>ϕ</em></span>）。</p>
+<p><span class="math display">$$\phi(\boldsymbol{r}) =
+\frac{1}{4\pi}(\int_V
+\frac{\nabla^{'}\cdot\boldsymbol{F(\boldsymbol{r^{'}})}}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V^{'}-\oint_S\mathrm{d}\boldsymbol{S}\cdot\frac{\boldsymbol{F}(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|})$$</span></p>
+<p>为了让<span class="math inline"><em>ϕ</em></span>在无界域<span
+class="math inline"><em>V</em></span>中存在，在<span
+class="math inline"><em>r</em><sup>′</sup> → ∞</span>处，三重积分项应收敛，曲面积分项应趋于0。</p>
+<p>对于三重积分：</p>
+<p><span class="math display">$$ \text{let}
+\;{\nabla^{'}\cdot\boldsymbol{F}(\boldsymbol{r^{'}})}\sim
+\frac{1}{r^\delta} $$</span></p>
+<p><span class="math display">$$
+\frac{\nabla^{'}\cdot\boldsymbol{F}(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V
+\sim \frac{r^3}{r*r^\delta}\sim r^{2-\delta} $$</span></p>
+<p><span class="math display">$$ \lim_{r^{'}\to\infty}
+\frac{\nabla^{'}\cdot\boldsymbol{F}(\boldsymbol{r^{'}})}{|\boldsymbol{r}-\boldsymbol{r^{'}}|}\mathrm{d}V=\lim_{r^{'}\to
+\infty} r^{2-\delta}=0 \Rightarrow \delta&gt;2 $$</span></p>
+<p>所以<span
+class="math inline">∇<sup>′</sup> ⋅ <strong>F</strong>(<strong>r</strong><sup><strong>′</strong></sup>)</span>，即矢量场的散度，应比<span
+class="math inline">1/<em>r</em><sup>2</sup></span>收敛更快。</p>
+<p>曲面积分也同理：<span
+class="math inline"><strong>F</strong>(<strong>r</strong><sup>′</sup>)</span>应比<span
+class="math inline">1/<em>r</em></span>收敛更快。</p>
+<p>因此：矢量场的散度、旋度收敛快于<span
+class="math inline">1/<em>r</em><sup>2</sup></span>，矢量场本身快于<span
+class="math inline">1/<em>r</em></span></p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>原作者： </strong>XantC
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://allenxantc.github.io/%E7%89%A9%E7%90%86/%E4%BA%A5%E5%A7%86%E9%9C%8D%E5%85%B9%E5%AE%9A%E7%90%86/" title="亥姆霍兹定理">https://allenxantc.github.io/物理/亥姆霍兹定理/</a>
+  </li>
+  <li class="post-copyright-license">
+      <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/%E8%87%B4%E4%BD%A0/" rel="prev" title="致你">
+                  <i class="fa fa-angle-left"></i> 致你
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/%E6%95%B0%E5%AD%A6/%E7%BA%BF%E6%AE%B5%E5%92%8C%E6%88%96%E5%B7%AE%E7%9A%84%E6%9C%80%E5%80%BC/" rel="next" title="线段和或差的最值">
+                  线段和或差的最值 <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2026</span>
+    <span class="with-love">
+      <i class="fa fa-user"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">XantC</span>
+  </div>
+  <div class="powered-by">由 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+
+<script>
+var options = {
+  bottom: '64px',
+  right: '32px',
+  left: 'unset',
+  time: '0.5s',
+  mixColor: 'transparent',
+  backgroundColor: 'transparent',
+  buttonColorDark: '#100f2c',
+  buttonColorLight: '#fff',
+  saveInCookies: true,
+  label: '🌓',
+  autoMatchOsTheme: false
+}
+const darkmode = new Darkmode(options);
+darkmode.showWidget();
+</script>
+
+</body>
+</html>

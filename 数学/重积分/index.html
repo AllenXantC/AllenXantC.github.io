@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 8.1.2">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha256-VHqXKFhhMxcpubYf9xiWdCiojEbY9NexQ4jh8AxbvcM=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"allenxantc.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.29.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12,"onmobile":false},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":true,"style":null,"show_result":true},"fold":{"enable":false,"height":500},"language":false,"highlight_theme":"normal"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"changyan","storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"top_n_per_article":1,"unescape":false,"preload":false,"trigger":"auto"}}</script><script src="/js/config.js" defer></script>
+
+    <meta name="description" content="XantC   二重积分 定义 $$ \iint_{D}f(x,y)\mathrm{d}\sigma &#x3D; \lim_{\lambda \to 0}\sum_{i&#x3D;1}^{n}f(\xi_i, \eta_i)\Delta \sigma_i $$">
+<meta property="og:type" content="article">
+<meta property="og:title" content="重积分">
+<meta property="og:url" content="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E9%87%8D%E7%A7%AF%E5%88%86/index.html">
+<meta property="og:site_name" content="XantC的博客">
+<meta property="og:description" content="XantC   二重积分 定义 $$ \iint_{D}f(x,y)\mathrm{d}\sigma &#x3D; \lim_{\lambda \to 0}\sum_{i&#x3D;1}^{n}f(\xi_i, \eta_i)\Delta \sigma_i $$">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2024-02-09T06:11:17.000Z">
+<meta property="article:modified_time" content="2026-08-20T06:36:46.301Z">
+<meta property="article:author" content="XantC">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E9%87%8D%E7%A7%AF%E5%88%86/">
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E9%87%8D%E7%A7%AF%E5%88%86/","path":"数学/重积分/","title":"重积分"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>重积分 | XantC的博客</title>
+  
+
+
+
+
+
+
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.6.0/pjax.min.js" integrity="sha256-vxLn1tSKWD4dqbMRyv940UYw4sXgMtYcK6reefzZrao=" crossorigin="anonymous" defer></script>
+<script src="/js/utils.js" defer></script><script src="/js/motion.js" defer></script><script src="/js/sidebar.js" defer></script><script src="/js/next-boot.js" defer></script><script src="/js/pjax.js" defer></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.5.0/search.js" integrity="sha256-xFC6PJ82SL9b3WkGjFavNiA9gm5z6UBxWPiu4CYjptg=" crossorigin="anonymous" defer></script>
+<script src="/js/third-party/search/local-search.js" defer></script>
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","display_overflow":"scroll","mhchem":true,"js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/4.1.3/tex-mml-chtml.js","integrity":"sha256-ihPtDDm7pTmSF9ViEsItlvsrBTsNkz0MOXMchzOwCQw="}}</script>
+<script src="/js/third-party/math/mathjax.js" defer></script>
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<style>.darkmode--activated{--body-bg-color:#282828;--content-bg-color:#333;--card-bg-color:#555;--text-color:#ccc;--blockquote-color:#bbb;--link-color:#ccc;--link-hover-color:#eee;--brand-color:#ddd;--brand-hover-color:#ddd;--table-row-odd-bg-color:#282828;--table-row-hover-bg-color:#363636;--menu-item-bg-color:#555;--btn-default-bg:#222;--btn-default-color:#ccc;--btn-default-border-color:#555;--btn-default-hover-bg:#666;--btn-default-hover-color:#ccc;--btn-default-hover-border-color:#666;--highlight-background:#282b2e;--highlight-foreground:#a9b7c6;--highlight-gutter-background:#34393d;--highlight-gutter-foreground:#9ca9b6}.darkmode--activated img{opacity:.75}.darkmode--activated img:hover{opacity:.9}.darkmode--activated code{color:#69dbdc;background:0 0}</style></head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">XantC的博客</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">The Power of The Powerless</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li><li class="menu-item menu-item-guestbook"><a href="/guestbook/" rel="section"><i class="fa fa-book fa-fw"></i>留言板</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+      <div class="search-header">
+        <span class="search-icon">
+          <i class="fa fa-search"></i>
+        </span>
+        <div class="search-input-container">
+          <input autocomplete="off" autocapitalize="off" maxlength="80"
+                placeholder="搜索..." spellcheck="false"
+                type="search" class="search-input">
+        </div>
+        <span class="popup-btn-close" role="button">
+          <i class="fa fa-times-circle"></i>
+        </span>
+      </div>
+      <div class="search-result-container">
+        <div class="search-result-icon">
+          <i class="fa fa-spinner fa-pulse fa-5x"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C%E9%87%8D%E7%A7%AF%E5%88%86"><span class="nav-number">1.</span> <span class="nav-text">二重积分</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%AE%9A%E4%B9%89"><span class="nav-number">1.1.</span> <span class="nav-text">定义</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%AE%A1%E7%AE%97"><span class="nav-number">1.2.</span> <span class="nav-text">计算</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87"><span class="nav-number">1.2.1.</span> <span class="nav-text">直角坐标</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E6%9E%81%E5%9D%90%E6%A0%87"><span class="nav-number">1.2.2.</span> <span class="nav-text">极坐标</span></a><ol class="nav-child"><li class="nav-item nav-level-6"><a class="nav-link" href="#%E6%B1%82%E9%AB%98%E6%96%AF%E5%87%BD%E6%95%B0"><span class="nav-number">1.2.2.1.</span> <span class="nav-text">求高斯函数</span></a></li></ol></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E4%B8%80%E8%88%AC%E6%8D%A2%E5%85%83"><span class="nav-number">1.2.3.</span> <span class="nav-text">一般换元</span></a><ol class="nav-child"><li class="nav-item nav-level-6"><a class="nav-link" href="#%E8%AF%81%E6%98%8E"><span class="nav-number">1.2.3.1.</span> <span class="nav-text">证明</span></a></li></ol></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E6%9C%89%E7%94%A8%E7%9A%84%E5%AE%9A%E7%90%86"><span class="nav-number">1.2.4.</span> <span class="nav-text">有用的定理</span></a></li></ol></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%89%E9%87%8D%E7%A7%AF%E5%88%86"><span class="nav-number">2.</span> <span class="nav-text">三重积分</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%AE%9A%E4%B9%89-1"><span class="nav-number">2.1.</span> <span class="nav-text">定义</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%AE%A1%E7%AE%97-1"><span class="nav-number">2.2.</span> <span class="nav-text">计算</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87-1"><span class="nav-number">2.2.1.</span> <span class="nav-text">直角坐标</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E6%9F%B1%E9%9D%A2%E5%9D%90%E6%A0%87"><span class="nav-number">2.2.2.</span> <span class="nav-text">柱面坐标</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E7%90%83%E9%9D%A2%E5%9D%90%E6%A0%87"><span class="nav-number">2.2.3.</span> <span class="nav-text">球面坐标</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#%E6%9C%89%E7%94%A8%E7%9A%84%E5%AE%9A%E7%90%86-1"><span class="nav-number">2.2.4.</span> <span class="nav-text">有用的定理</span></a></li></ol></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%87%8D%E7%A7%AF%E5%88%86%E5%BA%94%E7%94%A8"><span class="nav-number">3.</span> <span class="nav-text">重积分应用</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%9B%B2%E9%9D%A2%E9%9D%A2%E7%A7%AF"><span class="nav-number">3.1.</span> <span class="nav-text">曲面面积</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%B4%A8%E5%BF%83"><span class="nav-number">3.2.</span> <span class="nav-text">质心</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B"><span class="nav-number">3.3.</span> <span class="nav-text">万有引力</span></a></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">XantC</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">146</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">19</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="cc-license animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" class="cc-opacity" rel="noopener" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/creativecommons-vocabulary/2020.11.3/assets/license_badges/small/by_nc_sa.svg" alt="Creative Commons"></a>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E9%87%8D%E7%A7%AF%E5%88%86/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="XantC">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="重积分 | XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          重积分
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2024-02-09 14:11:17" itemprop="dateCreated datePublished" datetime="2024-02-09T14:11:17+08:00">2024-02-09</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2026-08-20 14:36:46" itemprop="dateModified" datetime="2026-08-20T14:36:46+08:00">2026-08-20</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E6%95%B0%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">数学</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="二重积分">二重积分</h3>
+<h4 id="定义">定义</h4>
+<p><span class="math display">$$ \iint_{D}f(x,y)\mathrm{d}\sigma =
+\lim_{\lambda \to 0}\sum_{i=1}^{n}f(\xi_i, \eta_i)\Delta \sigma_i
+$$</span></p>
+<span id="more"></span>
+<h4 id="计算">计算</h4>
+<h5 id="直角坐标">直角坐标</h5>
+<p><span class="math display">$$ \begin{align*}
+    \iint_{d}f(x,y)\mathrm{d}\sigma&amp;=\int^b_a\mathrm{d}x\int^{\varphi_1(x)}_{\varphi_2(x)}f(x,y)\mathrm{d}y\\
+    &amp;=\int^d_c\mathrm{d}y\int^{\psi_1(y)}_{\psi_2(y)}f(x,y)\mathrm{d}x
+\end{align*} $$</span></p>
+<h5 id="极坐标">极坐标</h5>
+<p><span
+class="math display"><em>ρ</em><sub>1</sub> ≤ <em>ρ</em> ≤ <em>ρ</em><sub>2</sub>, <em>α</em> ≤ <em>θ</em> ≤ <em>β</em></span></p>
+<p><span class="math display">$$ \begin{align*}
+    \iint_Df(\rho\cos\theta,
+\rho\sin\theta)\rho\mathrm{d}\rho\mathrm{d}\theta=\int^\beta_\alpha\mathrm{d}\theta\int^{\rho_2}_{\rho_1}f(\rho\cos\theta,
+\rho\sin\theta)\rho\mathrm{d}\rho
+\end{align*} $$</span></p>
+<h6 id="求高斯函数">求高斯函数</h6>
+<p><span
+class="math display"><em>对</em><em>于</em><em>D</em> = {(<em>x</em>, <em>y</em>)|<em>x</em><sup>2</sup> + <em>y</em><sup>2</sup> ≤ <em>a</em><sup>2</sup>}:</span></p>
+<p><span
+class="math display">∬<sub><em>D</em></sub><em>e</em><sup>−<em>x</em><sup>2</sup> − <em>y</em><sup>2</sup></sup> = ∬<sub><em>D</em><sup>′</sup></sub><em>e</em><sup>−<em>ρ</em><sup>2</sup></sup><em>ρ</em>d<em>ρ</em>d<em>θ</em> = <em>π</em>(1 − <em>e</em><sup>−<em>a</em><sup>2</sup></sup>)</span></p>
+<p><span
+class="math display"><em>令</em><em>D</em><sub>1</sub> = {(<em>x</em>, <em>y</em>)|<em>x</em><sup>2</sup> + <em>y</em><sup>2</sup> ≤ <em>R</em><sup>2</sup>, <em>x</em> ≥ 0, <em>y</em> ≥ 0}</span></p>
+<p><span class="math display">$$
+D_2=\{(x,y)|x^2+y^2\leq(\sqrt{2}R)^2,x\geq0,y\geq0\} $$</span></p>
+<p><span
+class="math display"><em>S</em> = {(<em>x</em>, <em>y</em>)|0 ≤ <em>x</em> ≤ <em>R</em>, 0 ≤ <em>y</em> ≤ <em>R</em>}</span></p>
+<p><span
+class="math display"> ⇒ ∬<sub><em>D</em><sub>1</sub></sub><em>e</em><sup>−<em>x</em><sup>2</sup> − <em>y</em><sup>2</sup></sup>d<em>x</em>d<em>y</em> &lt; ∬<sub><em>S</em></sub><em>e</em><sup>−<em>x</em><sup>2</sup> − <em>y</em><sup>2</sup></sup>d<em>x</em>d<em>y</em> &lt; ∬<sub><em>D</em><sub>2</sub></sub><em>e</em><sup>−<em>x</em><sup>2</sup> − <em>y</em><sup>2</sup></sup>d<em>x</em>d<em>y</em></span></p>
+<p><span class="math display">$$ \begin{align*}
+    \because
+&amp;\iint_{D_1}e^{-x^2-y^2}\mathrm{d}x\mathrm{d}y=\frac{\pi}{4}(1-e^{-R^2})\\
+    &amp;\iint_{S}e^{-x^2-y^2}\mathrm{d}x\mathrm{d}y=\int^R_0
+e^{-x^2}\mathrm{d}x\cdot\int^R_0 e^{-y^2}\mathrm{d}y=(\int^R_0
+e^{-x^2}\mathrm{d}x)^2\\
+    &amp;\iint_{D_2}e^{-x^2-y^2}\mathrm{d}x\mathrm{d}y=\frac{\pi}{4}(1-e^{-2R^2})
+\end{align*} $$</span></p>
+<p><span class="math display">$$
+\therefore\frac{\pi}{4}(1-e^{-R^2})&lt;(\int^R_0
+e^{-x^2}\mathrm{d}x)^2&lt;\frac{\pi}{4}(1-e^{-2R^2}) $$</span></p>
+<p><span class="math display">$$ R\to +\infty\colon
+\int^{+\infty}_0e^{-x^2}=\frac{\sqrt{\pi}}{2}$$</span></p>
+<h5 id="一般换元">一般换元</h5>
+<p><span class="math display">$$
+x=x(u,v),\;y=y(u,v),\;J(u,v)=\frac{\partial(x,y)}{\partial(u,v)}
+$$</span></p>
+<p><span
+class="math display">∬<sub><em>D</em></sub><em>f</em>(<em>x</em>, <em>y</em>)d<em>x</em>d<em>y</em> = ∬<sub><em>D</em><sup>′</sup></sub><em>f</em>(<em>x</em>(<em>u</em>, <em>v</em>), <em>y</em>(<em>u</em>, <em>v</em>))|<em>J</em>(<em>u</em>, <em>v</em>)|d<em>u</em>d<em>v</em></span></p>
+<h6 id="证明">证明</h6>
+<p><span
+class="math display"><em>证</em><em>明</em><em>的</em><em>关</em><em>键</em><em>是</em><em>表</em><em>示</em><em>面</em><em>积</em><em>元</em><em>素</em></span></p>
+<p><span
+class="math display"><em>在</em><em>u</em> − <em>v</em><em>坐</em><em>标</em><em>系</em><em>取</em><em>一</em><em>小</em><em>正</em><em>方</em><em>形</em><em>M</em><sub>1</sub><sup>′</sup><em>M</em><sub>2</sub><sup>′</sup><em>M</em><sub>3</sub><sup>′</sup><em>M</em><sub>4</sub><sup>′</sup>, <em>则</em><em>在</em><em>x</em> − <em>y</em><em>坐</em><em>标</em><em>系</em><em>中</em><em>的</em><em>对</em><em>应</em><em>曲</em><em>变</em><em>形</em><em>为</em><em>M</em><sub>1</sub><em>M</em><sub>2</sub><em>M</em><sub>3</sub><em>M</em><sub>4</sub></span></p>
+<p><span
+class="math display"><em>令</em><em>M</em><sub>1</sub><sup>′</sup>(<em>u</em>, <em>v</em>), <em>M</em><sub>2</sub><sup>′</sup>(<em>u</em> + <em>h</em>, <em>v</em>), <em>M</em><sub>3</sub><sup>′</sup>(<em>u</em> + <em>h</em>, <em>v</em> + <em>h</em>), <em>M</em><sub>4</sub><sup>′</sup>(<em>u</em>, <em>v</em> + <em>h</em>)</span></p>
+<p><span
+class="math display"><em>M</em><sub>1</sub>: <em>x</em><sub>1</sub> = <em>x</em>(<em>u</em>, <em>v</em>), <em>y</em><sub>1</sub> = <em>y</em>(<em>u</em>, <em>v</em>)</span></p>
+<p><span class="math display">$$ \begin{align*}
+     M_2\colon&amp;x_2=x(u+h,v)=x(u,v)+x_u(u,v)h+\mathcal{o}(h)\\
+     &amp;y_2=y(u+h,v)=y(u,v)+y_u(u,v)h+\mathcal{o}(h)
+\end{align*} $$</span></p>
+<p><span class="math display">$$ \begin{align*}
+     M_3\colon&amp;x_3=x(u+h,v+h)=x(u,v)+x_u(u,v)h+x_v(u,v)h+\mathcal{o}(h)\\
+     &amp;y_3=y(u+h,v+h)=y(u,v)+y_u(u,v)h+y_v(u,v)h+\mathcal{o}(h)
+\end{align*} $$</span></p>
+<p><span class="math display">$$ \begin{align*}
+     M_4\colon&amp;x_4=x(u,v+h)=x(u,v)+x_v(u,v)h+\mathcal{o}(h)\\
+     &amp;y_4=y(u,v+h)=y(u,v)+y_v(u,v)h+\mathcal{o}(h)
+\end{align*} $$</span></p>
+<p><span
+class="math display">∵<em>x</em><sub>1</sub> + <em>x</em><sub>3</sub> = <em>x</em><sub>2</sub> + <em>x</em><sub>4</sub>, <em>y</em><sub>1</sub> + <em>y</em><sub>3</sub> = <em>y</em><sub>2</sub> + <em>y</em><sub>4</sub></span></p>
+<p><span
+class="math display">∴ <em>M</em><sub>1</sub><em>M</em><sub>2</sub><em>M</em><sub>3</sub><em>M</em><sub>4</sub><em>为</em><em>平</em><em>行</em><em>四</em><em>边</em><em>形</em></span></p>
+<p><span class="math display">$$ \Rightarrow \Delta
+\sigma=\begin{vmatrix}
+    x_2-x_1&amp;y_2-y_1\\
+    x_4-x_1&amp;y_4-y_1
+\end{vmatrix}=\begin{vmatrix}
+    x_u(u,v)h&amp;y_u(u,v)h\\
+    x_v(u,v)h&amp;y_v(u,v)h
+\end{vmatrix}=h^2\bigg|\frac{\partial(x,y)}{\partial(u,v)}\bigg|
+$$</span></p>
+<p><span class="math display">$$ \Rightarrow
+\Delta\sigma=\bigg|\frac{\partial (x,y)}{\partial(u,v)}\bigg|\Delta
+\sigma^{'}+\mathcal{o}(\Delta \sigma^{'}) $$</span></p>
+<p><span class="math display">$$ \therefore
+\iint_{D}f(x,y)\mathrm{d}\sigma=\iint_{D'}f(x(u,v),y(u,v))\bigg|\frac{\partial(x,y)}{\partial(u,v)}\bigg|\mathrm{d}u\mathrm{d}v
+$$</span></p>
+<h5 id="有用的定理">有用的定理</h5>
+<p><span
+class="math display">∬<sub><em>D</em></sub><em>f</em>(<em>x</em>, <em>y</em>)d<em>σ</em> = ∬<sub><em>D</em></sub><em>f</em><sub>1</sub>(<em>x</em>)<em>f</em><sub>2</sub>(<em>y</em>)d<em>x</em>d<em>y</em> = ∫<sub><em>a</em></sub><sup><em>b</em></sup><em>f</em><sub>1</sub>(<em>x</em>)d<em>x</em>∫<sub><em>c</em></sub><sup><em>d</em></sup><em>f</em><sub>2</sub>(<em>y</em>)d<em>y</em></span></p>
+<h3 id="三重积分">三重积分</h3>
+<h4 id="定义-1">定义</h4>
+<p><span class="math display">$$ \iiint_{\Omega}f(x,y,z)\mathrm{d}V =
+\lim_{\lambda \to 0}\sum_{i=1}^{n}f(\xi_i, \eta_i,\zeta_i)\Delta V_i
+$$</span></p>
+<h4 id="计算-1">计算</h4>
+<h5 id="直角坐标-1">直角坐标</h5>
+<p><span class="math display">$$ \begin{align*}
+    \iiint_{\Omega}f(x,y,z)\mathrm{d}V&amp;=\int^{x_1}_{x_2}\mathrm{d}x\int^{y_1(x)}_{y_2(x)}\mathrm{d}y\int^{z_1(x,y)}_{z_2(x,y)}f(x,y,z)\mathrm{d}z\\
+    &amp;=\int^{z_1}_{z_2}\mathrm{d}z\iint_{D_z}f(x,y,z)\mathrm{d}x\mathrm{d}y
+\end{align*} $$</span></p>
+<h5 id="柱面坐标">柱面坐标</h5>
+<p><span
+class="math display">∭<sub><em>Ω</em></sub><em>f</em>(<em>x</em>, <em>y</em>, <em>z</em>)d<em>x</em>d<em>y</em>d<em>z</em> = ∭<sub><em>Ω</em></sub><em>f</em>(<em>ρ</em>cos <em>θ</em>, <em>ρ</em>sin <em>θ</em>, <em>z</em>)<em>ρ</em>d<em>ρ</em>d<em>θ</em>d<em>z</em></span></p>
+<h5 id="球面坐标">球面坐标</h5>
+<p><span
+class="math display">∭<sub><em>Ω</em></sub><em>f</em>(<em>x</em>, <em>y</em>, <em>z</em>)d<em>x</em>d<em>y</em>d<em>z</em> = ∭<sub><em>Ω</em></sub><em>f</em>(<em>r</em>sin <em>φ</em>cos <em>θ</em>, <em>r</em>sin <em>φ</em>sin <em>θ</em>, <em>r</em>cos <em>φ</em>)<em>r</em><sup>2</sup>sin <em>φ</em>d<em>r</em>d<em>φ</em>d<em>θ</em></span></p>
+<h5 id="有用的定理-1">有用的定理</h5>
+<p><span
+class="math display">∭<sub><em>Ω</em></sub><em>f</em><sub>1</sub>(<em>x</em>)<em>f</em><sub>2</sub>(<em>y</em>)<em>f</em><sub>3</sub>(<em>z</em>)d<em>x</em>d<em>y</em>d<em>z</em> = ∫<sub><em>a</em></sub><sup><em>b</em></sup><em>f</em><sub>1</sub>(<em>x</em>)d<em>x</em>∫<sub><em>c</em></sub><sup><em>d</em></sup><em>f</em><sub>2</sub>(<em>y</em>)d<em>y</em>∫<sub><em>e</em></sub><sup><em>f</em></sup><em>f</em><sub>3</sub>(<em>z</em>)d<em>z</em></span></p>
+<h3 id="重积分应用">重积分应用</h3>
+<h4 id="曲面面积">曲面面积</h4>
+<p><span class="math display">$$ \begin{align*}
+    A&amp;=\iint_{D_{xy}}\sqrt{1+(\frac{\partial z}{\partial
+x})^2+(\frac{\partial z}{\partial y})^2}\mathrm{d}x\mathrm{d}y\\
+    &amp;=\iint_{D_{xz}}\sqrt{1+(\frac{\partial y}{\partial
+x})^2+(\frac{\partial y}{\partial z})^2}\mathrm{d}x\mathrm{d}z\\
+    &amp;=\iint_{D_{yz}}\sqrt{1+(\frac{\partial x}{\partial
+y})^2+(\frac{\partial x}{\partial z})^2}\mathrm{d}y\mathrm{d}z
+\end{align*} $$</span></p>
+<h4 id="质心">质心</h4>
+<p><span class="math display">$$
+一般情况\colon\bar{x}=\frac{\iint_{D}x\mu(x,y)\mathrm{d}\sigma}{\iint_{D}\mu(x,y)\mathrm{d}\sigma},\;\bar{y}=\frac{\iint_{D}y\mu(x,y)\mathrm{d}\sigma}{\iint_{D}\mu(x,y)\mathrm{d}\sigma}
+$$</span></p>
+<p><span class="math display">$$ 质量均匀\colon
+\bar{x}=\frac{1}{A}\iint_{D}x\mathrm{d}\sigma,\;\bar{y}=\frac{1}{A}\iint_{D}y\mathrm{d}\sigma
+$$</span></p>
+<h4 id="万有引力">万有引力</h4>
+<p><span class="math display">$$ 三维\colon\begin{align*}
+    \boldsymbol{F}&amp;=(F_x,F_y,F_z)\\
+    &amp;=(\iiint_{\Omega}G\frac{m\rho(x_0,y_0,z_0)(x-x_0)}{r^3}\mathrm{d}V,\iiint_{\Omega}G\frac{m\rho(x_0,y_0,z_0)(y-y_0)}{r^3}\mathrm{d}V,\iiint_{\Omega}G\frac{m\rho(x_0,y_0,z_0)(z-z_0)}{r^3}\mathrm{d}V)
+\end{align*} $$</span></p>
+<p><span class="math display">$$ 二维\colon\begin{align*}
+    \boldsymbol{F}&amp;=(F_x, F_y, F_z)\\
+    &amp;=(\iint_{D}G\frac{m\mu(x_0,y_0)(x-x_0)}{r^3}\mathrm{d}\sigma,
+\iint_{D}G\frac{m\mu(x_0,y_0)(y-y_0)}{r^3}\mathrm{d}\sigma,
+\iint_{D}G\frac{m\mu(x_0,y_0)(z-z_0)}{r^3}\mathrm{d}\sigma)
+\end{align*} $$</span></p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>原作者： </strong>XantC
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E9%87%8D%E7%A7%AF%E5%88%86/" title="重积分">https://allenxantc.github.io/数学/重积分/</a>
+  </li>
+  <li class="post-copyright-license">
+      <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/%E6%95%B0%E5%AD%A6/%E5%A4%9A%E5%85%83%E5%87%BD%E6%95%B0/" rel="prev" title="多元函数">
+                  <i class="fa fa-angle-left"></i> 多元函数
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/%E6%96%87%E8%89%BA/%E4%B8%80%E6%AC%A1%E7%9D%A1%E8%A7%89/" rel="next" title="一次睡觉">
+                  一次睡觉 <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2026</span>
+    <span class="with-love">
+      <i class="fa fa-user"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">XantC</span>
+  </div>
+  <div class="powered-by">由 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+
+<script>
+var options = {
+  bottom: '64px',
+  right: '32px',
+  left: 'unset',
+  time: '0.5s',
+  mixColor: 'transparent',
+  backgroundColor: 'transparent',
+  buttonColorDark: '#100f2c',
+  buttonColorLight: '#fff',
+  saveInCookies: true,
+  label: '🌓',
+  autoMatchOsTheme: false
+}
+const darkmode = new Darkmode(options);
+darkmode.showWidget();
+</script>
+
+</body>
+</html>
