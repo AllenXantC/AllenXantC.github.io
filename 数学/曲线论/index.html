@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 8.1.2">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha256-VHqXKFhhMxcpubYf9xiWdCiojEbY9NexQ4jh8AxbvcM=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"allenxantc.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.29.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12,"onmobile":false},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":true,"style":null,"show_result":true},"fold":{"enable":false,"height":500},"language":false,"highlight_theme":"normal"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"changyan","storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"top_n_per_article":1,"unescape":false,"preload":false,"trigger":"auto"}}</script><script src="/js/config.js" defer></script>
+
+    <meta name="description" content="XantC   预备知识 坐标变换 笛卡尔坐标系{O; i, j, k}变换到标架{p; e1, e2, e3}，坐标会从q(x, y, z)，变为q(x̃, ỹ, z̃) 这里只是坐标系发生变化，点在空间的实际位置没有变化，可以说是换了种表示方法">
+<meta property="og:type" content="article">
+<meta property="og:title" content="曲线论">
+<meta property="og:url" content="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E7%BA%BF%E8%AE%BA/index.html">
+<meta property="og:site_name" content="XantC的博客">
+<meta property="og:description" content="XantC   预备知识 坐标变换 笛卡尔坐标系{O; i, j, k}变换到标架{p; e1, e2, e3}，坐标会从q(x, y, z)，变为q(x̃, ỹ, z̃) 这里只是坐标系发生变化，点在空间的实际位置没有变化，可以说是换了种表示方法">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2024-05-29T12:21:37.000Z">
+<meta property="article:modified_time" content="2026-08-20T06:36:46.316Z">
+<meta property="article:author" content="XantC">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E7%BA%BF%E8%AE%BA/">
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E7%BA%BF%E8%AE%BA/","path":"数学/曲线论/","title":"曲线论"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>曲线论 | XantC的博客</title>
+  
+
+
+
+
+
+
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.6.0/pjax.min.js" integrity="sha256-vxLn1tSKWD4dqbMRyv940UYw4sXgMtYcK6reefzZrao=" crossorigin="anonymous" defer></script>
+<script src="/js/utils.js" defer></script><script src="/js/motion.js" defer></script><script src="/js/sidebar.js" defer></script><script src="/js/next-boot.js" defer></script><script src="/js/pjax.js" defer></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.5.0/search.js" integrity="sha256-xFC6PJ82SL9b3WkGjFavNiA9gm5z6UBxWPiu4CYjptg=" crossorigin="anonymous" defer></script>
+<script src="/js/third-party/search/local-search.js" defer></script>
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","display_overflow":"scroll","mhchem":true,"js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/4.1.3/tex-mml-chtml.js","integrity":"sha256-ihPtDDm7pTmSF9ViEsItlvsrBTsNkz0MOXMchzOwCQw="}}</script>
+<script src="/js/third-party/math/mathjax.js" defer></script>
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<style>.darkmode--activated{--body-bg-color:#282828;--content-bg-color:#333;--card-bg-color:#555;--text-color:#ccc;--blockquote-color:#bbb;--link-color:#ccc;--link-hover-color:#eee;--brand-color:#ddd;--brand-hover-color:#ddd;--table-row-odd-bg-color:#282828;--table-row-hover-bg-color:#363636;--menu-item-bg-color:#555;--btn-default-bg:#222;--btn-default-color:#ccc;--btn-default-border-color:#555;--btn-default-hover-bg:#666;--btn-default-hover-color:#ccc;--btn-default-hover-border-color:#666;--highlight-background:#282b2e;--highlight-foreground:#a9b7c6;--highlight-gutter-background:#34393d;--highlight-gutter-foreground:#9ca9b6}.darkmode--activated img{opacity:.75}.darkmode--activated img:hover{opacity:.9}.darkmode--activated code{color:#69dbdc;background:0 0}</style></head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">XantC的博客</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">The Power of The Powerless</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li><li class="menu-item menu-item-guestbook"><a href="/guestbook/" rel="section"><i class="fa fa-book fa-fw"></i>留言板</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+      <div class="search-header">
+        <span class="search-icon">
+          <i class="fa fa-search"></i>
+        </span>
+        <div class="search-input-container">
+          <input autocomplete="off" autocapitalize="off" maxlength="80"
+                placeholder="搜索..." spellcheck="false"
+                type="search" class="search-input">
+        </div>
+        <span class="popup-btn-close" role="button">
+          <i class="fa fa-times-circle"></i>
+        </span>
+      </div>
+      <div class="search-result-container">
+        <div class="search-result-icon">
+          <i class="fa fa-spinner fa-pulse fa-5x"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86"><span class="nav-number">1.</span> <span class="nav-text">预备知识</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%9D%90%E6%A0%87%E5%8F%98%E6%8D%A2"><span class="nav-number">1.1.</span> <span class="nav-text">坐标变换</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%88%9A%E4%BD%93%E8%BF%90%E5%8A%A8"><span class="nav-number">1.2.</span> <span class="nav-text">刚体运动</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%90%91%E9%87%8F%E5%87%A0%E4%BD%95%E5%AE%9A%E7%90%86"><span class="nav-number">2.</span> <span class="nav-text">向量几何定理</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E7%BA%BF%E5%BC%A7%E9%95%BF"><span class="nav-number">3.</span> <span class="nav-text">曲线弧长</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#frenet%E6%A0%87%E6%9E%B6"><span class="nav-number">4.</span> <span class="nav-text">Frenet标架</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#frenet%E5%85%AC%E5%BC%8F"><span class="nav-number">5.</span> <span class="nav-text">Frenet公式</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E4%BA%9B%E8%AE%A1%E7%AE%97"><span class="nav-number">6.</span> <span class="nav-text">一些计算</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E7%BA%BF%E8%AE%BA%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86"><span class="nav-number">7.</span> <span class="nav-text">曲线论基本定理</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E7%BA%BF%E5%9C%A8%E4%B8%80%E7%82%B9%E7%9A%84%E6%A0%87%E5%87%86%E5%B1%95%E5%BC%80"><span class="nav-number">8.</span> <span class="nav-text">曲线在一点的标准展开</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B2%E7%BA%BF%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB"><span class="nav-number">9.</span> <span class="nav-text">曲线对应关系</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%B9%B3%E9%9D%A2%E6%9B%B2%E7%BA%BF"><span class="nav-number">10.</span> <span class="nav-text">平面曲线</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">XantC</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">148</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">19</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="cc-license animated" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" class="cc-opacity" rel="noopener" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/creativecommons-vocabulary/2020.11.3/assets/license_badges/small/by_nc_sa.svg" alt="Creative Commons"></a>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E7%BA%BF%E8%AE%BA/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="XantC">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="曲线论 | XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          曲线论
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2024-05-29 20:21:37" itemprop="dateCreated datePublished" datetime="2024-05-29T20:21:37+08:00">2024-05-29</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2026-08-20 14:36:46" itemprop="dateModified" datetime="2026-08-20T14:36:46+08:00">2026-08-20</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E6%95%B0%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">数学</span></a>
+        </span>
+          ，
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E6%95%B0%E5%AD%A6/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/" itemprop="url" rel="index"><span itemprop="name">微分几何</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<h3 id="预备知识">预备知识</h3>
+<h4 id="坐标变换">坐标变换</h4>
+<p>笛卡尔坐标系<span
+class="math inline">{<em>O</em>; <strong>i</strong>, <strong>j</strong>, <strong>k</strong>}</span>变换到标架<span
+class="math inline">{<em>p</em>; <strong>e</strong><sub><strong>1</strong></sub>, <strong>e</strong><sub><strong>2</strong></sub>, <strong>e</strong><sub><strong>3</strong></sub>}</span>，坐标会从<span
+class="math inline"><em>q</em>(<em>x</em>, <em>y</em>, <em>z</em>)</span>，变为<span
+class="math inline"><em>q</em>(<em>x̃</em>, <em>ỹ</em>, <em>z̃</em>)</span></p>
+<p>这里只是坐标系发生变化，点在空间的实际位置没有变化，可以说是换了种表示方法</p>
+<span id="more"></span>
+<p>标架变换描述为<span class="math inline">$\begin{cases}
+    \vec{Op}=a_1\boldsymbol{i}+a_2\boldsymbol{j}+a_3\boldsymbol{k}\\
+    \boldsymbol{e_1}=a_{11}\boldsymbol{i}+a_{12}\boldsymbol{j}+a_{13}\boldsymbol{k}\\
+    \boldsymbol{e_2}=a_{21}\boldsymbol{i}+a_{22}\boldsymbol{j}+a_{23}\boldsymbol{k}\\
+    \boldsymbol{e_2}=a_{31}\boldsymbol{i}+a_{32}\boldsymbol{j}+a_{33}\boldsymbol{k}\\
+\end{cases}$</span>， 也可为<span class="math inline">$\begin{cases}
+    \vec{Op}=\boldsymbol{a}\\
+    \begin{pmatrix}
+        \boldsymbol{e_1} \\
+        \boldsymbol{e_2} \\
+        \boldsymbol{e_3}
+    \end{pmatrix}
+    =\boldsymbol{A}
+    \begin{pmatrix}
+        \boldsymbol{i} \\
+        \boldsymbol{j} \\
+        \boldsymbol{k}
+    \end{pmatrix}
+\end{cases}$</span></p>
+<p>两个坐标关系为<span
+class="math inline">$(x,y,z)=(\vec{a}+\boldsymbol{A}(\widetilde{x},
+\widetilde{y}, \widetilde{z}))\begin{pmatrix}
+    \boldsymbol{i} \\
+    \boldsymbol{j} \\
+    \boldsymbol{k}
+\end{pmatrix}$</span></p>
+<h4 id="刚体运动">刚体运动</h4>
+<p>刚体运动是只改变物体空间位置的运动，因而可以把一个标架安装在物体上，通过描述标架的变换来描述物体的运动;此时标架下的坐标表示不变，但是空间位置有变</p>
+<p>有正交标架<span
+class="math inline">{<em>p</em>; <strong>e</strong><sub><strong>1</strong></sub>, <strong>e</strong><sub><strong>2</strong></sub>, <strong>e</strong><sub><strong>3</strong></sub>}</span>，其初始位置为<span
+class="math inline">{<em>O</em>; <strong>i</strong>, <strong>j</strong>, <strong>k</strong>}</span>，两标架关系与上文相同</p>
+<p>假设刚体运动<span
+class="math inline"><em>q̃</em> = <em>σ</em>(<em>q</em>)</span>，<span
+class="math inline"><em>q</em>(<em>x</em>, <em>y</em>, <em>z</em>)</span>，<span
+class="math inline"><em>q̃</em>(<em>x̃</em>, <em>ỹ</em>, <em>z̃</em>)</span></p>
+<p>则有<span class="math inline">$(\widetilde{x}, \widetilde{y},
+\widetilde{z})=(\vec{a}+\boldsymbol{A}(x,y,z))\begin{pmatrix}
+    \boldsymbol{i} \\
+    \boldsymbol{j} \\
+    \boldsymbol{k}
+\end{pmatrix}$</span></p>
+<h3 id="向量几何定理">向量几何定理</h3>
+<ol type="1">
+<li>长度不变</li>
+</ol>
+<p><span
+class="math display"><em>a</em><sup>′</sup>(<em>t</em>) ⋅ <em>a</em>(<em>t</em>) = 0</span></p>
+<ol start="2" type="1">
+<li>方向不变</li>
+</ol>
+<p><span
+class="math display"><em>a</em><sup>′</sup>(<em>t</em>) × <em>a</em>(<em>t</em>) = 0</span></p>
+<ol start="3" type="1">
+<li>与固定方向垂直</li>
+</ol>
+<p><span
+class="math display">(<em>a</em>, <em>a</em><sup>′</sup>(<em>t</em>), <em>a</em><sup>″</sup>(<em>t</em>)) = 0</span></p>
+<h3 id="曲线弧长">曲线弧长</h3>
+<p>对于一般的曲线<span
+class="math inline"><em>r</em>(<em>t</em>)</span>，有<span
+class="math inline">d<em>s</em> = |<em>r</em><sup>′</sup>(<em>t</em>)|d<em>t</em></span>，因而<span
+class="math inline"><em>s</em>(<em>t</em>) = ∫<sub><em>t</em><sub>0</sub></sub><sup><em>t</em></sup>|<em>r</em><sup>′</sup>(<em>t</em>)|d<em>t</em></span></p>
+<p>由微分式可知，若取曲线参数为<span
+class="math inline"><em>s</em></span>，则切向量模恒为1；这能引出很多重要的性质，如二阶导（主法向量）与一阶导（切向量）垂直等。这对于Frenet标架的建立十分重要</p>
+<h3 id="frenet标架">Frenet标架</h3>
+<p>微分几何是把几何图形放置在坐标系内，再利用微积分手段对其进行研究的学科。因而对于同一条曲线，它在不同坐标系（坐标变换）下的参数表示可能会不同；而为了消除这种不同，我们会使用“几何图形的不变量”作为表达曲线的参数，比如弧长。</p>
+<p>使用弧长作参的好处有两个，一个是上文提及的“不变量”性质，第二个就是切向量的模恒定</p>
+<p>切向量的变化程度为曲率，<span
+class="math inline">$\kappa(s)=\displaystyle|\frac{\mathrm{d}\boldsymbol{\alpha}}{\mathrm{d}s}|$</span></p>
+<p>由切向量模恒为1，可得<span
+class="math inline">$\displaystyle\frac{\mathrm{d}\boldsymbol{\alpha}}{\mathrm{d}s}$</span>与<span
+class="math inline"><strong>α</strong></span>垂直，其单位向量即为主法向量<span
+class="math inline"><strong>β</strong></span></p>
+<p>次法向量则为<span
+class="math inline"><em>γ</em> = <em>α</em> × <em>β</em></span></p>
+<p>于是乎，对于曲线上的每一点<span
+class="math inline"><strong>r</strong>(<em>s</em><sub>0</sub>)</span>，都存在一个标架<span
+class="math inline">{<strong>r</strong>(<em>s</em><sub>0</sub>); <strong>α</strong>, <strong>β</strong>, <strong>γ</strong>}</span>，因此曲线的形成可以看做一个点沿一个不断变化的标架运动所成的轨迹</p>
+<h3 id="frenet公式">Frenet公式</h3>
+<p>Frenet公式描述了Frenet标架的运动方式，能帮助我们彻底地了解一条曲线的情况</p>
+<p>与曲线相关的平面：</p>
+<p><span
+class="math display"><em>法</em><em>平</em><em>面</em>: (<strong>X</strong> − <strong>α</strong>(<em>s</em>)) = 0</span></p>
+<p><span
+class="math display"><em>从</em><em>切</em><em>平</em><em>面</em>: (<strong>X</strong> − <strong>β</strong>(<em>s</em>)) = 0</span></p>
+<p><span
+class="math display"><em>密</em><em>切</em><em>平</em><em>面</em>: (<strong>X</strong> − <strong>γ</strong>(<em>s</em>)) = 0</span></p>
+<p>密切平面可以大致理解成“包裹”着曲线的平面，因而它的法向量，也就是<span
+class="math inline"><strong>γ</strong></span>的导数，就可以用来描述曲线偏离平面曲线的程度，也就是它扭曲的程度，称为挠率<span
+class="math inline"><em>τ</em></span>，有<span
+class="math inline"><strong>γ</strong><sup>′</sup> = −<em>τ</em><strong>β</strong></span>，<span
+class="math inline"><em>τ</em> = −<strong>γ</strong><sup>′</sup> ⋅ <strong>β</strong></span></p>
+<p>通过叉乘以及导数运算，可以得到前无古人后无来者的Frenet公式：</p>
+<p><span class="math display">$$ \begin{pmatrix}
+    \boldsymbol{\alpha}^{'}\\
+    \boldsymbol{\beta}^{'}\\
+    \boldsymbol{\gamma}^{'}\\
+\end{pmatrix} =
+\begin{pmatrix}
+    \kappa\boldsymbol{\beta}\\
+    \tau\boldsymbol{\gamma}-\kappa\boldsymbol{\beta}\\
+    -\tau\boldsymbol{\beta}
+\end{pmatrix}=
+\begin{pmatrix}
+    0&amp;\kappa&amp;0\\
+    -\kappa&amp;0&amp;\tau\\
+    0&amp;-\tau&amp;0
+\end{pmatrix}
+\begin{pmatrix}
+    \boldsymbol{\alpha}\\
+    \boldsymbol{\beta}\\
+    \boldsymbol{\gamma}
+\end{pmatrix}$$</span></p>
+<p>至此，一条曲线就可以被真正看做一个点沿一个不断变化的标架运动所成的轨迹了。</p>
+<p>可以发现，公式的系数矩阵中只有曲率与挠率两个量；它们作为一条曲线的不变量，能够完全决定一条曲线的形状，这也正是曲线论基本定理的内容。</p>
+<h3 id="一些计算">一些计算</h3>
+<p>分别对<span
+class="math inline"><strong>r</strong><sup>′</sup>(<em>t</em>) = |<strong>r</strong><sup>′</sup>(<em>t</em>)|<strong>α</strong>(<em>t</em>)</span>与<span
+class="math inline">$\gamma=\displaystyle\frac{\boldsymbol{r}^{'}(t)\times\boldsymbol{r}^{''}(t)}{|\boldsymbol{r}^{'}(t)\times\boldsymbol{r}^{''}(t)|}$</span>求导，可得：</p>
+<p><span class="math display">$$
+\kappa(t)=\frac{|\boldsymbol{r}^{'}(t)\times\boldsymbol{r}^{''}(t)|}{|\boldsymbol{r}^{'}(t)|^3}
+$$</span></p>
+<p><span class="math display">$$
+\tau(t)=\frac{(\boldsymbol{r}^{'}(t),\boldsymbol{r}^{''}(t),
+\boldsymbol{r}^{'''}(t))}{|\boldsymbol{r}^{'}(t)\times\boldsymbol{r}^{''}(t)|^2}
+$$</span></p>
+<h3 id="曲线论基本定理">曲线论基本定理</h3>
+<p>这个定理说的是：如果一条曲线的曲率和挠率确定，那么它的形状就能确定下来。可以把它理解成是从内蕴几何到外蕴几何的表示。</p>
+<p>正儿八经的定理描述：</p>
+<h3 id="曲线在一点的标准展开">曲线在一点的标准展开</h3>
+<p>在数学上，如果我们能把某个数学对象“展开”，那就意味着我们对它的研究有一定深入。而对曲线的展开而言，唯二重要的只有曲率和挠率（可以再算上初始标架）。</p>
+<p>利用泰勒公式：</p>
+<p><span class="math display">$$ \begin{align*}
+    \boldsymbol{r}(s)&amp;=\boldsymbol{r}(0)+\boldsymbol{r}^{'}(0)s+\frac{1}{2}\boldsymbol{r}^{''}(0)s^2+\frac{1}{6}\boldsymbol{r}^{'''}(0)s^3
+\\
+    &amp;=\boldsymbol{r}(0)+\boldsymbol{\alpha}(0)s+\frac{1}{2}\kappa\boldsymbol{\beta}s^2+\frac{1}{6}(-\kappa^2\boldsymbol{\alpha}+\kappa^{'}\boldsymbol{\beta}+\kappa\tau\boldsymbol{\gamma})s^3\\
+    &amp;=\boldsymbol{r}(0)+(s-\frac{1}{6}k^2s^3)\boldsymbol{\alpha}+(\frac{1}{2}\kappa
+s^2+\frac{1}{6}\kappa^{'}s^3)\boldsymbol{\beta}+\frac{1}{6}\kappa\tau
+s^3 \boldsymbol{\gamma}
+\end{align*} $$</span></p>
+<p>如果把初始标架设为笛卡尔坐标系，则<span
+class="math inline"><em>s</em> = 0</span>处的参数方程为：</p>
+<p><span class="math display">$$ \begin{cases}
+    x=s-\frac{1}{6}\kappa^2s^3\\
+    y=\frac{1}{2}\kappa s^2+\frac{1}{6}\kappa^{'}s^3\\
+    z=\frac{1}{6}\kappa\tau s^3
+\end{cases} $$</span></p>
+<h3 id="曲线对应关系">曲线对应关系</h3>
+<p>对应关系，就是曲线<span
+class="math inline"><strong>r</strong><sub><strong>1</strong></sub> = <strong>r</strong><sub><strong>1</strong></sub>(<em>t</em>)</span>和<span
+class="math inline"><strong>r</strong><sub><strong>2</strong></sub> = <strong>r</strong><sub><strong>2</strong></sub>(<em>u</em>)</span>之间，存在参数的对应<span
+class="math inline"><em>u</em> = <em>u</em>(<em>t</em>)</span>，使得两曲线参数都为<span
+class="math inline"><em>t</em></span>，就是一个曲线对应了。之后曲面的参数变换也和这大差不差</p>
+<p>接下来的内容都是一些对应关系的实例，我这里只讲渐伸线和渐缩线，它们是一个对子：</p>
+<p>如果在曲线<span
+class="math inline"><em>C</em><sub>1</sub></span>与<span
+class="math inline"><em>C</em><sub>2</sub></span>的对应点上，<span
+class="math inline"><em>C</em><sub>1</sub></span>的切线都是<span
+class="math inline"><em>C</em><sub>2</sub></span>的法线，则称<span
+class="math inline"><em>C</em><sub>2</sub></span>为<span
+class="math inline"><em>C</em><sub>1</sub></span>的渐伸线，<span
+class="math inline"><em>C</em><sub>1</sub></span>是<span
+class="math inline"><em>C</em><sub>2</sub></span>的渐缩线</p>
+<p><span
+class="math display"><em>渐</em><em>伸</em><em>线</em>: <strong>r</strong> = <strong>r</strong>(<em>s</em>) + (<em>c</em> − <em>s</em>)<strong>α</strong>(<em>s</em>)</span></p>
+<p><span class="math display">$$ 渐缩线\colon
+\boldsymbol{r}=\boldsymbol{r}(s)+\frac{1}{\kappa}\boldsymbol{\beta}-\frac{1}{\kappa}\tan\int\tau\mathrm{d}s\,\boldsymbol{\gamma}
+$$</span></p>
+<details>
+<summary>
+渐伸线推导
+</summary>
+<p>设曲线<span class="math inline"><em>C</em><sub>1</sub></span>为<span
+class="math inline"><strong>r</strong> = <strong>r</strong>(<em>s</em>)</span>，它的渐伸线为<span
+class="math inline"><strong>r</strong><sub><strong>1</strong></sub> = <strong>r</strong>(<em>s</em>) + <strong>α</strong>(<em>s</em>)<em>t</em>(<em>s</em>)</span></p>
+<p><span class="math display">$$ \begin{align*}
+    求导得\boldsymbol{r_1}^{'}&amp;=\boldsymbol{\alpha}(s)+\kappa\boldsymbol{\beta}t+\boldsymbol{\alpha}t^{'}\\
+    &amp;=(1+t^{'})\boldsymbol{\alpha}+\kappa t\boldsymbol{\beta}
+\end{align*}
+$$</span></p>
+<p>由渐伸线的定义：<span
+class="math inline"><strong>r</strong><sub><strong>1</strong></sub></span>的法线就是<span
+class="math inline"><strong>r</strong></span>的切线，则<span
+class="math inline"><strong>r</strong><sub><strong>1</strong></sub><sup>′</sup></span>与<span
+class="math inline"><strong>α</strong></span>垂直，点积为0：</p>
+<p><span
+class="math display"><strong>r</strong><sub><strong>1</strong></sub><sup>′</sup> ⋅ <strong>α</strong> = (1 + <em>t</em><sup>′</sup>) = 0</span></p>
+<p><span
+class="math display"> ⇒ <em>t</em> = <em>c</em> − <em>s</em></span></p>
+<p><span
+class="math display">∴ <strong>r</strong><sub><strong>1</strong></sub> = <strong>r</strong>(<em>s</em>) + (<em>c</em> − <em>s</em>)<strong>α</strong>(<em>s</em>)</span></p>
+</details>
+<details>
+<summary>
+渐缩线推导
+</summary>
+<p>设曲线<span class="math inline"><em>C</em><sub>1</sub></span>为<span
+class="math inline"><strong>r</strong> = <strong>r</strong>(<em>s</em>)</span>，它的渐伸线为<span
+class="math inline"><strong>r</strong><sub><strong>1</strong></sub> = <strong>r</strong>(<em>s</em>) + <em>λ</em>(<em>s</em>)<strong>β</strong> + <em>μ</em>(<em>s</em>)<strong>γ</strong></span></p>
+<p><span class="math display">$$ \begin{align*}
+    求导得\boldsymbol{r_1}^{'}&amp;=\boldsymbol{\alpha}+\lambda^{'}\boldsymbol{\beta}+\lambda(\tau
+\boldsymbol{\gamma}-\kappa\boldsymbol{\alpha})+\mu^{'}\boldsymbol{\gamma}-\mu\tau\boldsymbol{\beta}\\
+    &amp;=(1-\lambda\kappa)\boldsymbol{\alpha}+(\lambda^{'}-\mu\tau)\beta+(\mu^{'}+\lambda\tau)\boldsymbol{\gamma}\\
+\end{align*} $$</span></p>
+<p>由渐缩线的定义：<span
+class="math inline"><strong>r</strong><sub><strong>1</strong></sub></span>的切线就是<span
+class="math inline"><strong>r</strong></span>的法线，则<span
+class="math inline"><strong>r</strong><sub><strong>1</strong></sub><sup>′</sup></span>与<span
+class="math inline"><em>λ</em><strong>β</strong> + <em>μ</em><strong>γ</strong></span>平行，叉乘为0：</p>
+<p><span class="math display">$$ \begin{align*}
+    \boldsymbol{r_1}^{'}\times(\lambda\boldsymbol{\beta}+\mu\boldsymbol{\gamma})=\;&amp;(\mu\lambda^{'}-\lambda\mu^{'}-\lambda^2\tau-\mu^2\tau)\boldsymbol{\alpha}\\
+    &amp;-\mu(1-\lambda\kappa)\beta\\
+    &amp;+\lambda(1-\lambda\kappa)\boldsymbol{\gamma}
+\end{align*} $$</span></p>
+<p><span class="math display">$$ \Rightarrow \begin{cases}
+    1-\lambda\kappa=0\\
+    \displaystyle\tau=\frac{\mu\lambda^{'}-\lambda\mu^{'}}{\lambda^2+\mu^2}
+\end{cases} $$</span></p>
+<p><span class="math display">$$ \Rightarrow \begin{cases}
+    \displaystyle\lambda=\frac{1}{\kappa}\\
+    \displaystyle\mu=-\frac{1}{\kappa}\tan\int\tau\mathrm{d}s
+\end{cases} $$</span></p>
+<p><span class="math display">$$ \therefore
+\boldsymbol{r_1}=\boldsymbol{r}(s)+\frac{1}{\kappa}\boldsymbol{\beta}-\frac{1}{\kappa}\tan\int\tau\mathrm{d}s\,\boldsymbol{\gamma}
+$$</span></p>
+</details>
+<h3 id="平面曲线">平面曲线</h3>
+<p>（我有时觉得，曲线论可以先从平面曲线开始讲起，因为这是曲线挠率为0的特殊情况，我们的讨论对象只有曲率。之后，我们可以想象一条平面曲线所在平面的弯曲，使得只有某点标架周围的一小部分还在平面–也就是密切平面内。这样理解挠率可能更加形象。）</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>原作者： </strong>XantC
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://allenxantc.github.io/%E6%95%B0%E5%AD%A6/%E6%9B%B2%E7%BA%BF%E8%AE%BA/" title="曲线论">https://allenxantc.github.io/数学/曲线论/</a>
+  </li>
+  <li class="post-copyright-license">
+      <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/%E6%96%87%E8%89%BA/%E6%AD%8C%E8%B0%A3%E9%9B%86/" rel="prev" title="歌谣集">
+                  <i class="fa fa-angle-left"></i> 歌谣集
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/%E6%96%87%E8%89%BA/%E5%97%AF/" rel="next" title="嗯">
+                  嗯 <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2026</span>
+    <span class="with-love">
+      <i class="fa fa-user"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">XantC</span>
+  </div>
+  <div class="powered-by">由 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+
+<script>
+var options = {
+  bottom: '64px',
+  right: '32px',
+  left: 'unset',
+  time: '0.5s',
+  mixColor: 'transparent',
+  backgroundColor: 'transparent',
+  buttonColorDark: '#100f2c',
+  buttonColorLight: '#fff',
+  saveInCookies: true,
+  label: '🌓',
+  autoMatchOsTheme: false
+}
+const darkmode = new Darkmode(options);
+darkmode.showWidget();
+</script>
+
+</body>
+</html>
