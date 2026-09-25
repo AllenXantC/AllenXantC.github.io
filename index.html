@@ -171,7 +171,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">148</span>
+          <span class="site-state-item-count">149</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -211,6 +211,257 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E8%A7%A3%E6%B3%95%E9%9B%86/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="XantC">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content=" | XantC的博客">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E8%A7%A3%E6%B3%95%E9%9B%86/" class="post-title-link" itemprop="url">微分方程解法集</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2026-09-24 16:29:04" itemprop="dateCreated datePublished" datetime="2026-09-24T16:29:04+08:00">2026-09-24</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2026-09-25 12:09:35" itemprop="dateModified" datetime="2026-09-25T12:09:35+08:00">2026-09-25</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E6%95%B0%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">数学</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <b>
+<p align="right">
+XantC
+</p>
+<p></b></p>
+<p>整理自同济大学出版社《高等数学》第七版上册。</p>
+<h3 id="可分离变量的微分方程">可分离变量的微分方程</h3>
+<p><span class="math display">$$ \frac{\mathrm{d}y}{\mathrm{d}x} =
+f(x)g(y) $$</span></p>
+<p><span class="math display">$$ \frac{\mathrm{d}y}{g(y)} =
+f(x)\mathrm{d}x $$</span></p>
+<h3 id="一阶微分齐次方程">一阶微分齐次方程</h3>
+<p><span class="math display">$$ 可化为 \frac{\mathrm{d}y}{\mathrm{d}x}
+= f(\frac{y}{x})的方程 $$</span></p>
+<p><span class="math display">$$ u \triangleq \frac{y}{x},\ y = ux,\
+\frac{\mathrm{d}y}{\mathrm{d}x} = u^{'}x+u $$</span></p>
+<p><span
+class="math display"><em>u</em><sup>′</sup><em>x</em> + <em>u</em> = <em>f</em>(<em>u</em>)</span></p>
+<p><span class="math display">$$ \frac{\mathrm{d}u}{f(u) - u} =
+\frac{\mathrm{d}x}{x} $$</span></p>
+<h4
+id="可通过变量代换化为齐次的方程">可(通过变量代换)化为齐次的方程</h4>
+<p><span class="math display">$$ \frac{\mathrm{d}y}{\mathrm{d}x} =
+\frac{a_1x+b_1y+c_1}{a_2x+b_2y+c_2} $$</span></p>
+<details>
+<summary>
+case 1 变量系数不等比例
+</summary>
+<p><span class="math display">$$ when \begin{vmatrix}
+    a_1 &amp; b_1\\
+    a_2 &amp; b_2
+\end{vmatrix} \neq 0 $$</span></p>
+<p><span
+class="math display"><em>u</em> ≜ <em>x</em> + <em>H</em>, <em>v</em> ≜ <em>y</em> + <em>K</em></span></p>
+<p><span class="math display">$$ \Rightarrow
+\frac{\mathrm{d}u}{\mathrm{d}v} =
+\frac{a_1u+b_1v+(a_1H+b_1K+c_1)}{a_2u+b_2v+(a_2H+b_2K+c_2)}
+$$</span></p>
+<p><span class="math display">$$ let \begin{bmatrix}
+    H \\ K
+\end{bmatrix} =
+\begin{bmatrix}
+    a_1 &amp; b_1\\
+    a_2 &amp; b_2
+\end{bmatrix}^{-1}
+\begin{bmatrix}
+    -c_1 \\ -c_2
+\end{bmatrix} $$</span></p>
+<p><span class="math display">$$ \Rightarrow
+\frac{\mathrm{d}u}{\mathrm{d}v} = \frac{a_1u+b_1v}{a_2u+b_2v} =
+f(\frac{u}{v}) $$</span></p>
+</details>
+<details>
+<summary>
+case 2 变量参数等比例
+</summary>
+<p><span
+class="math display"><em>此</em><em>时</em><em>无</em><em>法</em><em>再</em><em>沿</em><em>用</em><em>齐</em><em>次</em><em>的</em><em>思</em><em>路</em></span></p>
+<p><span class="math display">$$ \exist \lambda , \hspace{2pt}
+\text{s.t.} \frac{\mathrm{d}y}{\mathrm{d}x} =
+\frac{a_1x+b_1y+c_1}{\lambda(a_1x+b_1y)+c_2} $$</span></p>
+<p><span class="math display">$$ u \triangleq a_1x+b_1y, \hspace{1pt}
+\frac{\mathrm{d}y}{\mathrm{d}x} =
+\frac{1}{b_1}(\frac{\mathrm{d}u}{\mathrm{d}x} - a_1) $$</span></p>
+<p><span class="math display">$$ \Rightarrow
+\frac{1}{b_1}(\frac{\mathrm{d}u}{\mathrm{d}x} - a_1) =
+\frac{u+c_1}{\lambda u + c_2} $$</span></p>
+<p><span class="math display">$$ \frac{(\lambda u +
+c_2)\mathrm{d}u}{(a_1\lambda + b_1)u+(a_1c_2+b_1c_1)} = \mathrm{d}x
+$$</span></p>
+</details>
+<p><span class="math display">$$ 另外，以上方法也可用于
+\frac{\mathrm{d}y}{\mathrm{d}x} = f(\frac{a_1x+b_1y+c_1}{a_2x+b_2y+c_2})
+$$</span></p>
+<h3 id="一阶线性微分方程">一阶线性微分方程</h3>
+<p><span class="math display">$$ \frac{\mathrm{d}y}{\mathrm{d}x} + P(x)y
+= Q(x) $$</span></p>
+<h4 id="一阶线性齐次微分方程">一阶线性齐次微分方程</h4>
+<p><span class="math display">$$ \frac{\mathrm{d}y}{\mathrm{d}x} + P(x)y
+= 0 $$</span></p>
+<p><span class="math display">$$ \frac{\mathrm{d}y}{y} =
+-P(x)\mathrm{d}x $$</span></p>
+<p><span
+class="math display"><em>y</em> = <em>C</em>e<sup>−∫<em>P</em>(<em>x</em>)d<em>x</em></sup></span></p>
+<h4
+id="一阶线性非齐次微分方程常数变易法">一阶线性非齐次微分方程（常数变易法）</h4>
+<p>常数变易法，是在驱动项<span
+class="math inline"><em>Q</em>(<em>x</em>)</span>的影响下，把常数C替代为一个函数<span
+class="math inline"><em>u</em>(<em>x</em>)</span>，再解出这个函数的方法。</p>
+<p>原初地说（刚刚“猜”出这个方法之时），这个方法自然是不知可行与否的。但成功之后，我们就能发现以下的原理。</p>
+<p><span
+class="math display"><em>y</em><sub>0</sub> ≜ e<sup>−∫<em>P</em>(<em>x</em>)d<em>x</em></sup> ⇒ <em>y</em><sub>0</sub><sup>′</sup> + <em>P</em>(<em>x</em>)<em>y</em><sub>0</sub> = 0</span></p>
+<p><span
+class="math display"><em>y</em> = <em>u</em><em>y</em><sub>0</sub> ⇒ <em>y</em><sup>′</sup> = <em>u</em><sup>′</sup><em>y</em><sub>0</sub> + <em>u</em><em>y</em><sub>0</sub><sup>′</sup></span></p>
+<p><span
+class="math display"> ⇒ <em>u</em><sup>′</sup><em>y</em><sub>0</sub> + <em>u</em><em>y</em><sub>0</sub><sup>′</sup> + <em>P</em>(<em>x</em>)<em>y</em> = <em>Q</em>(<em>x</em>)</span></p>
+<p><span class="math display">$$ \Rightarrow u^{'}y_0 +
+u\underbrace{(y_0^{'}+P(x)y)}_{0!} = Q(x) $$</span></p>
+<p><span
+class="math display"> ⇒ <em>u</em><sup>′</sup><em>y</em><sub>0</sub> = <em>Q</em>(<em>x</em>)</span></p>
+<p><span class="math display">$$ \Rightarrow u = \int
+\frac{Q(x)}{y_0}\mathrm{d}x +C $$</span></p>
+<p><span class="math display">$$ \begin{align*}
+    \therefore y &amp;= \mathrm{e}^{-\int P(x)\mathrm{d}x}(C+\int
+Q(x)\mathrm{e}^{\int P(x)\mathrm{d}x}\mathrm{d}x) \\
+    &amp;=C\mathrm{e}^{-\int P(x)\mathrm{d}x}+\mathrm{e}^{-\int
+P(x)\mathrm{d}x}\int Q(x)\mathrm{e}^{\int P(x)\mathrm{d}x}\mathrm{d}x\\
+\end{align*} $$</span></p>
+<h3 id="变量代换法">变量代换法</h3>
+<p>这是适用于所有微分方程的通法，将复杂方程化为处理过的简单方程。</p>
+<p>为了引出伯努利方程中著名的变量代换，把变量代换法放在这里。</p>
+<h3 id="伯努利方程">伯努利方程</h3>
+<p><span class="math display">$$ \frac{\mathrm{d}y}{\mathrm{d}x}+P(x)y =
+Q(x)y^n $$</span></p>
+<p><span class="math display">$$ \Leftrightarrow
+y^{-n}\frac{\mathrm{d}y}{\mathrm{d}x} + y^{1-n}P(x) = Q(x) $$</span></p>
+<p><span class="math display">$$ z \triangleq y^{1-n} \Rightarrow
+\frac{\mathrm{d}z}{\mathrm{d}x} =
+(1-n)y^{-n}\frac{\mathrm{d}y}{\mathrm{d}x} $$</span></p>
+<p><span class="math display">$$ \Rightarrow
+\frac{1}{1-n}\frac{\mathrm{d}z}{\mathrm{d}x} + P(x)z = Q(x)
+$$</span></p>
+<h3 id="可降阶的高阶微分方程">可降阶的高阶微分方程</h3>
+<h4 id="yn-fx型">y(n) = f(x)型</h4>
+<p>多次积分即可。</p>
+<h4 id="y-fxy型">y’’ = f(x,y’)型</h4>
+<p><span
+class="math display"><em>y</em><sup>″</sup> = <em>f</em>(<em>x</em>, <em>y</em><sup>′</sup>)</span></p>
+<p><span
+class="math display"><em>p</em> ≜ <em>y</em><sup>′</sup> ⇒ <em>y</em><sup>″</sup> = <em>p</em><sup>′</sup></span></p>
+<p><span
+class="math display"> ⇒ <em>p</em><sup>′</sup> = <em>f</em>(<em>x</em>, <em>p</em>)</span></p>
+<p><span
+class="math display"><em>设</em><em>该</em><em>方</em><em>程</em><em>通</em><em>解</em><em>为</em><em>p</em> = <em>ϕ</em>(<em>x</em>, <em>C</em><sub>1</sub>)</span></p>
+<p><span
+class="math display"><em>y</em> = ∫<em>ϕ</em>(<em>x</em>, <em>C</em><sub>1</sub>)d<em>x</em> + <em>C</em><sub>2</sub></span></p>
+<p>有这样的变量代换，并不意味着能够简单地解出任何该类方程。因为关于<span
+class="math inline"><em>p</em></span>的一阶微分方程未必是线性的，可能在我们的能力范围内求不出通解。</p>
+<h4 id="y-fyy型">y’’ = f(y,y’)型</h4>
+<p><span
+class="math display"><em>y</em><sup>″</sup> = <em>f</em>(<em>y</em>, <em>y</em><sup>′</sup>)</span></p>
+<p><span class="math display">$$ p \triangleq y^{'} \Rightarrow y^{''} =
+\frac{\mathrm{d}p}{\mathrm{d}x} =
+\frac{\mathrm{d}y}{\mathrm{d}x}\frac{\mathrm{d}p}{\mathrm{d}y} =
+p\frac{\mathrm{d}p}{\mathrm{d}y} $$</span></p>
+<p><span class="math display">$$ \Rightarrow
+p\frac{\mathrm{d}p}{\mathrm{d}y} = f(y, p) $$</span></p>
+<p><span
+class="math display"><em>设</em><em>该</em><em>方</em><em>程</em><em>通</em><em>解</em><em>为</em><em>p</em> = <em>ϕ</em>(<em>y</em>, <em>C</em><sub>1</sub>)</span></p>
+<p><span class="math display">$$ \Leftrightarrow
+\frac{\mathrm{d}y}{\mathrm{d}x} = \phi(y, C_1) $$</span></p>
+<p><span class="math display">$$ \Leftrightarrow
+\frac{\mathrm{d}y}{\phi(u, C_1)} =\mathrm{d}x $$</span></p>
+<p>该法的局限性同上。</p>
+<h4 id="y-fy型">y’’ = f(y)型</h4>
+<p><span
+class="math display"><em>y</em><sup>″</sup> = <em>f</em>(<em>y</em>)</span></p>
+<p><span
+class="math display"> ⇔ 2<em>y</em><sup>′</sup><em>y</em><sup>″</sup> = 2<em>y</em><sup>′</sup><em>f</em>(<em>y</em>)</span></p>
+<p><span
+class="math display">(<em>F</em>(<em>x</em>))<sup>′</sup> ≜ <em>y</em><sup>′</sup><em>F</em>(<em>y</em>)</span></p>
+<p><span
+class="math display"> ⇒ ((<em>y</em><sup>′</sup>)<sup>2</sup>)<sup>′</sup> = (2<em>F</em>(<em>x</em>))<sup>′</sup></span></p>
+<p><span
+class="math display"> ⇔ (<em>y</em><sup>′</sup>)<sup>2</sup> = 2<em>F</em>(<em>x</em>)</span></p>
+<p><span class="math display">$$ \Leftrightarrow \mathrm{d}y =
+\pm\sqrt{2F(x)}\mathrm{d}x $$</span></p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
     <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E6%96%87%E8%89%BA/%E4%BB%A5%E5%B0%8F%E8%A7%81%E5%A4%A7/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -239,9 +490,15 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
-      
 
-      <time title="创建时间：2026-09-06 21:32:49 / 修改时间：22:46:12" itemprop="dateCreated datePublished" datetime="2026-09-06T21:32:49+08:00">2026-09-06</time>
+      <time title="创建时间：2026-09-06 21:32:49" itemprop="dateCreated datePublished" datetime="2026-09-06T21:32:49+08:00">2026-09-06</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2026-09-22 16:50:13" itemprop="dateModified" datetime="2026-09-22T16:50:13+08:00">2026-09-22</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -334,9 +591,15 @@ XantC
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
-      
 
-      <time title="创建时间：2026-09-05 20:43:48 / 修改时间：22:10:11" itemprop="dateCreated datePublished" datetime="2026-09-05T20:43:48+08:00">2026-09-05</time>
+      <time title="创建时间：2026-09-05 20:43:48" itemprop="dateCreated datePublished" datetime="2026-09-05T20:43:48+08:00">2026-09-05</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2026-09-21 19:30:06" itemprop="dateModified" datetime="2026-09-21T19:30:06+08:00">2026-09-21</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -1072,106 +1335,6 @@ XantC
 <p>为什么爱欲总要投射到人？</p>
 <p></b> </big></p>
 
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://allenxantc.github.io/%E6%96%87%E8%89%BA/%E8%BE%A9%E8%AF%81%E7%9A%84%E5%91%8A%E8%AF%AB/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="XantC">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="XantC的博客">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content=" | XantC的博客">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/%E6%96%87%E8%89%BA/%E8%BE%A9%E8%AF%81%E7%9A%84%E5%91%8A%E8%AF%AB/" class="post-title-link" itemprop="url">辩证的告诫</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2025-05-01 18:15:04" itemprop="dateCreated datePublished" datetime="2025-05-01T18:15:04+08:00">2025-05-01</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2026-08-20 14:36:46" itemprop="dateModified" datetime="2026-08-20T14:36:46+08:00">2026-08-20</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E6%96%87%E8%89%BA/" itemprop="url" rel="index"><span itemprop="name">文艺</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <b>
-<p align="right">
-XantC
-</p>
-<p></b></p>
-<p><b> <big></p>
-<p>我才十七岁</p>
-<p>我已经十七岁了</p>
-<p></big>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/%E6%96%87%E8%89%BA/%E8%BE%A9%E8%AF%81%E7%9A%84%E5%91%8A%E8%AF%AB/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
       
     </div>
 
